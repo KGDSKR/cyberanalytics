@@ -66,19 +66,25 @@ npm run build        # прод-сборка фронтенда в frontend/dist
 npm run start        # прод: backend раздаёт API + собранный фронт на :3000
 ```
 
-## Запуск в Telegram
+## Прод: Render + Telegram
 
-Бот: **@cyberanalytics_ai_bot**. Кнопка меню «Матчи» открывает Mini App.
-Вилли запускает всё двойным кликом по **`ЗАПУСК.bat`** — он поднимает сервер (если не
-запущен), туннель cloudflared (`C:\Program Files (x86)\cloudflared\cloudflared.exe`,
-установлен через winget) и сам перепривязывает кнопку бота к свежему URL через
-`setChatMenuButton` (quick-туннель меняет адрес при каждом запуске — поэтому скрипт).
-`scripts/start.ps1` сохранён в UTF-8 **с BOM** (иначе PowerShell 5.1 ломает кириллицу).
-Приложение живо, пока включён ПК и не закрыты свёрнутые окна сервера/туннеля.
-Постоянный хостинг ещё не выбран (кандидат — Render.com free tier, ждём аккаунты от
-Вилли). `REQUIRE_TG_AUTH=true` включён 2026-07-02: API отдаёт 401 без валидной подписи
-Telegram — поэтому localhost в браузере больше не работает для /api/* (это норма;
-для локальной отладки временно ставить false).
+Бот: **@cyberanalytics_ai_bot**, кнопка меню «Матчи» открывает Mini App.
+Хостинг: **Render free tier**, сервис `cyberanalytics` (`srv-d93e5si8qa3s73ah2l20`,
+Frankfurt), URL **https://cyberanalytics.onrender.com**. Код: публичный GitHub-репо
+**KGDSKR/cyberanalytics**, автодеплой с ветки `main` (git push = выкладка).
+Все ключи — в env vars сервиса Render (не в репо!). Health check: `/api/health`
+(исключён из проверки Telegram-подписи — не закрывать).
+Служебные токены GitHub/Render — в локальном `.env` (`GITHUB_TOKEN`, `RENDER_API_KEY`),
+Render API: `api.render.com/v1`, ownerId `tea-d939la6h2hms738crrk0`.
+
+Особенности free-тарифа: сервис засыпает после ~15 мин без трафика (первое открытие
+после сна — до минуты), диск эфемерный (`data/analyses/` стирается при передеплое —
+это осознанно, там кэш). `REQUIRE_TG_AUTH=true` — API отдаёт 401 без валидной подписи
+Telegram, поэтому localhost в браузере не работает для /api/* (для локальной отладки
+временно ставить false в .env).
+
+`ЗАПУСК.bat` + `scripts/start.ps1` (UTF-8 с BOM!) — старый локальный запуск через
+cloudflared-туннель с перепривязкой кнопки бота; оставлен как резерв/для отладки.
 
 ## Статус (2026-07-02, вечер)
 
