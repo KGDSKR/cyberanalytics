@@ -21,6 +21,30 @@ export interface Match {
   teams: Team[];
 }
 
+/** Завершённый матч для вкладки «Прошедшие». */
+export interface PastMatch {
+  id: number;
+  game: Game;
+  name: string;
+  beginAt: string;
+  league: string;
+  serie: string;
+  tournament: string;
+  teams: Team[];
+  winnerId: number | null;
+  score: string; // по картам в порядке teams: "2:1"
+  mapDurationsMin: number[];
+  totalDurationMin: number;
+}
+
+/** Драфт одной карты завершённого матча Dota 2. */
+export interface PastMapDraft {
+  map: number;
+  durationMin: number;
+  winnerTeamIndex: 0 | 1 | null; // индекс в match.teams
+  heroes: [string[], string[]]; // в порядке match.teams
+}
+
 export interface PastMatchSummary {
   opponentName: string;
   won: boolean;

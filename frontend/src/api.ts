@@ -1,4 +1,12 @@
-import type { AnalyzeResponse, DraftResponse, MatchesResponse } from "./types";
+import type {
+  AnalyzeResponse,
+  DraftResponse,
+  Game,
+  MatchesResponse,
+  PastDraftResponse,
+  PastMatch,
+  PastResponse,
+} from "./types";
 
 function tgHeaders(): Record<string, string> {
   const initData = window.Telegram?.WebApp?.initData;
@@ -16,6 +24,22 @@ async function handle<T>(res: Response): Promise<T> {
 export async function getMatches(): Promise<MatchesResponse> {
   const res = await fetch("/api/matches", { headers: tgHeaders() });
   return handle<MatchesResponse>(res);
+}
+
+export async function getPastMatches(game: Game, page: number, q: string): Promise<PastResponse> {
+  const params = new URLSearchParams({ game, page: String(page) });
+  if (q) params.set("q", q);
+  const res = await fetch(`/api/past?${params}`, { headers: tgHeaders() });
+  return handle<PastResponse>(res);
+}
+
+export async function getPastDrafts(match: PastMatch): Promise<PastDraftResponse> {
+  const res = await fetch("/api/past-draft", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", ...tgHeaders() },
+    body: JSON.stringify({ match }),
+  });
+  return handle<PastDraftResponse>(res);
 }
 
 export async function getDraft(matchId: number): Promise<DraftResponse> {

@@ -4,11 +4,11 @@ import { join } from "node:path";
 import { generateAnalysis, type AnalysisContext } from "./ai.js";
 import { cacheGet, cacheSet } from "./cache.js";
 import { activeAiProvider, config, hasPandascore } from "./config.js";
-import { fetchLiveDraft } from "./dota-live.js";
+import { fetchLiveDraft, fetchPastDrafts } from "./dota-live.js";
 import { mockMatches } from "./mock-data.js";
-import { fetchMatchById, fetchMatches, fetchTeamRecentMatches } from "./pandascore.js";
+import { fetchMatchById, fetchMatches, fetchPastMatches, fetchTeamRecentMatches } from "./pandascore.js";
 import { validateInitData } from "./telegram.js";
-import type { Game, Match, PastMatchSummary } from "./types.js";
+import type { Game, Match, PastMatch, PastMatchSummary } from "./types.js";
 
 // Кэш короткий: у live-матчей меняется счёт
 const MATCHES_TTL_MS = 30_000;
@@ -63,6 +63,40 @@ export async function registerRoutes(app: FastifyInstance) {
     }
     cacheSet("matches", matches, MATCHES_TTL_MS);
     return { matches, demo: !hasPandascore() };
+  });
+
+  // Прошедшие матчи: постранично, с поиском
+  app.get<{ Querystring: { game?: string; page?: string; q?: string } }>(
+    "/api/past",
+    async (req, reply) => {
+      const game = (req.query.game === "dota2" ? "dota2" : "cs2") as Game;
+      const page = Math.max(1, Number(req.query.page) || 1);
+      const q = (req.query.q ?? "").trim().slice(0, 60);
+      if (!hasPandascore()) return { matches: [], demo: true };
+
+      const key = `past:${game}:${page}:${q.toLowerCase()}`;
+      const cached = cacheGet<PastMatch[]>(key);
+      if (cached) return { matches: cached, demo: false };
+
+      try {
+        const matches = await fetchPastMatches(game, page, q);
+        cacheSet(key, matches, 5 * 60_000);
+        return { matches, demo: false };
+      } catch (err) {
+        app.log.error(err, "past matches failed");
+        return reply.code(502).send({ error: "Не удалось загрузить прошедшие матчи" });
+      }
+    }
+  );
+
+  // Драфты завершённого матча Dota 2 (все карты серии)
+  app.post<{ Body: { match: PastMatch } }>("/api/past-draft", async (req, reply) => {
+    const match = req.body?.match;
+    if (!match?.id || match.game !== "dota2" || !Array.isArray(match.teams)) {
+      return reply.code(400).send({ error: "match (dota2) is required" });
+    }
+    const drafts = await fetchPastDrafts(match).catch(() => null);
+    return { drafts };
   });
 
   // Live-драфт текущей карты (Dota 2): для плашки в интерфейсе

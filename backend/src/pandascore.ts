@@ -1,5 +1,5 @@
 import { config } from "./config.js";
-import type { Game, Match, PastMatchSummary, Team } from "./types.js";
+import type { Game, Match, PastMatch, PastMatchSummary, Team } from "./types.js";
 
 const BASE = "https://api.pandascore.co";
 
@@ -93,6 +93,46 @@ export async function fetchMatches(game: Game, kind: "running" | "upcoming"): Pr
 export async function fetchMatchById(id: number): Promise<Match> {
   const raw = await psGet<RawMatch>(`/matches/${id}`);
   return mapMatch(raw, "cs2");
+}
+
+/** Прошедшие матчи для вкладки «Прошедшие»: постранично, с поиском по названию. */
+export async function fetchPastMatches(game: Game, page = 1, search = ""): Promise<PastMatch[]> {
+  const tomorrow = new Date(Date.now() + 86_400_000).toISOString().slice(0, 19) + "Z";
+  const params: Record<string, string> = {
+    sort: "-end_at",
+    "page[size]": "50",
+    "page[number]": String(Math.max(1, page)),
+    "filter[status]": "finished", // отменённые матчи с пустым счётом не показываем
+    // матчи без end_at при desc-сортировке всплывают наверх — отсекаем диапазоном
+    "range[end_at]": `2015-01-01T00:00:00Z,${tomorrow}`,
+  };
+  if (search) params["search[name]"] = search;
+  const raw = await psGet<RawMatch[]>(`/${GAME_SLUG[game]}/matches/past`, params);
+  return raw
+    .map((m) => {
+      const teams = mapTeams(m);
+      const score = teams
+        .map((t) => m.results.find((r) => r.team_id === t.id)?.score ?? 0)
+        .join(":");
+      const mapDurationsMin = (m.games ?? [])
+        .filter((g) => g.finished && typeof g.length === "number" && g.length > 0)
+        .map((g) => Math.round((g.length as number) / 60));
+      return {
+        id: m.id,
+        game: VIDEOGAME_TO_GAME[m.videogame?.slug ?? ""] ?? game,
+        name: m.name,
+        beginAt: m.begin_at ?? "",
+        league: m.league?.name ?? "",
+        serie: m.serie?.full_name ?? "",
+        tournament: m.tournament?.name ?? "",
+        teams,
+        winnerId: m.winner_id,
+        score,
+        mapDurationsMin,
+        totalDurationMin: mapDurationsMin.reduce((s, x) => s + x, 0),
+      };
+    })
+    .filter((m) => m.teams.length === 2);
 }
 
 /** Последние сыгранные матчи команды — сырьё для ИИ-анализа формы. */

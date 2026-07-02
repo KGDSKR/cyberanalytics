@@ -32,6 +32,37 @@ export interface AnalyzeResponse {
   demo: boolean;
 }
 
+export interface PastMatch {
+  id: number;
+  game: Game;
+  name: string;
+  beginAt: string;
+  league: string;
+  serie: string;
+  tournament: string;
+  teams: Team[];
+  winnerId: number | null;
+  score: string;
+  mapDurationsMin: number[];
+  totalDurationMin: number;
+}
+
+export interface PastMapDraft {
+  map: number;
+  durationMin: number;
+  winnerTeamIndex: 0 | 1 | null;
+  heroes: [string[], string[]];
+}
+
+export interface PastResponse {
+  matches: PastMatch[];
+  demo: boolean;
+}
+
+export interface PastDraftResponse {
+  drafts: PastMapDraft[] | null;
+}
+
 export interface LiveDraft {
   gameTimeMin: number;
   kills: [number, number];

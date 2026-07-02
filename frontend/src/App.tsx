@@ -2,9 +2,11 @@ import { useEffect, useState } from "react";
 import { getMatches } from "./api";
 import AnalysisView from "./components/AnalysisView";
 import MatchCard from "./components/MatchCard";
+import PastMatches from "./components/PastMatches";
 import type { Game, Match } from "./types";
 
 type Tab = "all" | Game;
+type View = "current" | "past";
 
 const TABS: { id: Tab; label: string }[] = [
   { id: "all", label: "Все" },
@@ -19,6 +21,7 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [selected, setSelected] = useState<Match | null>(null);
   const [tab, setTab] = useState<Tab>("all");
+  const [view, setView] = useState<View>("current");
 
   useEffect(() => {
     getMatches()
@@ -48,6 +51,25 @@ export default function App() {
       </header>
       <p className="header__tagline">ИИ-аналитика матчей CS2 и Dota 2</p>
 
+      <div className="view-switch">
+        <button
+          className={`view-switch__btn${view === "current" ? " view-switch__btn--active" : ""}`}
+          onClick={() => setView("current")}
+        >
+          Матчи
+        </button>
+        <button
+          className={`view-switch__btn${view === "past" ? " view-switch__btn--active" : ""}`}
+          onClick={() => setView("past")}
+        >
+          Прошедшие
+        </button>
+      </div>
+
+      {view === "past" ? (
+        <PastMatches />
+      ) : (
+      <>
       <div className="tabs">
         {TABS.map((t) => (
           <button
@@ -88,6 +110,8 @@ export default function App() {
 
       {!loading && !error && filtered.length === 0 && (
         <div className="empty">Матчей не найдено</div>
+      )}
+      </>
       )}
     </div>
   );

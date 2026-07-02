@@ -1,5 +1,8 @@
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { join } from "node:path";
 import { cacheGet, cacheSet } from "./cache.js";
 import { config } from "./config.js";
+import type { PastMapDraft, PastMatch } from "./types.js";
 
 /**
  * Live-данные текущей карты Dota 2: драфт, киллы, золото.
@@ -126,6 +129,119 @@ async function opendotaLiveGames(): Promise<FoundGame[]> {
       direHeroIds: (g.players ?? []).filter((p) => p.team === 1 && p.hero_id > 0).map((p) => p.hero_id),
       source: "opendota" as const,
     }));
+}
+
+// ===== Драфты завершённых матчей (OpenDota proMatches + match detail) =====
+
+interface ProMatchEntry {
+  match_id: number;
+  start_time: number; // unix sec
+  duration: number; // sec
+  radiant_name: string | null;
+  dire_name: string | null;
+  radiant_win: boolean;
+}
+
+/** Лента про-матчей OpenDota: листаем назад, пока не уйдём старше needOlderThanSec. */
+interface ProCrawl {
+  entries: ProMatchEntry[];
+  reachedTs: number; // окно [reachedTs, сейчас] покрыто целиком
+}
+
+async function crawlProMatches(needOlderThanSec: number, maxPages = 40): Promise<ProMatchEntry[]> {
+  const cached = cacheGet<ProCrawl>("promatches");
+  if (cached && cached.reachedTs < needOlderThanSec) return cached.entries;
+
+  let out: ProMatchEntry[] = [];
+  let lessThan: number | undefined;
+  let reachedTs = Number.POSITIVE_INFINITY;
+  for (let i = 0; i < maxPages; i++) {
+    const url =
+      "https://api.opendota.com/api/proMatches" + (lessThan ? `?less_than_match_id=${lessThan}` : "");
+    const res = await fetch(url);
+    if (!res.ok) break;
+    const page = (await res.json()) as ProMatchEntry[];
+    if (page.length === 0) break;
+    out = out.concat(page);
+    lessThan = Math.min(...page.map((p) => p.match_id));
+    // Стоп, только когда ВСЯ страница старше нужного времени: единичные старые
+    // записи в ленте встречаются и раньше — по min останавливаться нельзя.
+    reachedTs = Math.max(...page.map((p) => p.start_time));
+    if (reachedTs < needOlderThanSec) break;
+  }
+  // Завершённые матчи не меняются — кэш можно держать долго
+  cacheSet("promatches", { entries: out, reachedTs }, 30 * 60_000);
+  return out;
+}
+
+interface OpenDotaMatchDetail {
+  duration: number;
+  radiant_win: boolean;
+  players?: { hero_id: number; player_slot: number }[];
+}
+
+/**
+ * Драфты всех карт завершённого матча Dota 2.
+ * Серию собираем по названиям команд в окне времени вокруг начала матча.
+ */
+export async function fetchPastDrafts(match: PastMatch): Promise<PastMapDraft[] | null> {
+  const file = join(config.dataDir, "drafts", `${match.id}.json`);
+  try {
+    return JSON.parse(await readFile(file, "utf8")) as PastMapDraft[];
+  } catch {
+    /* на диске нет — ищем */
+  }
+  const missKey = `pastdraft-miss:${match.id}`;
+  if (cacheGet(missKey)) return null;
+
+  const [a, b] = match.teams;
+  if (!a || !b || !match.beginAt) return null;
+  const t = Date.parse(match.beginAt) / 1000;
+
+  const pros = await crawlProMatches(t - 6 * 3600);
+  const games = pros
+    .filter((p) => p.start_time > t - 3 * 3600 && p.start_time < t + 24 * 3600)
+    .filter(
+      (p) =>
+        (sameTeam(p.radiant_name ?? "", a.name) && sameTeam(p.dire_name ?? "", b.name)) ||
+        (sameTeam(p.radiant_name ?? "", b.name) && sameTeam(p.dire_name ?? "", a.name))
+    )
+    .sort((x, y) => x.start_time - y.start_time)
+    .slice(0, 5);
+
+  if (games.length === 0) {
+    cacheSet(missKey, true, 10 * 60_000);
+    return null;
+  }
+
+  const heroes = await heroNames();
+  const drafts: PastMapDraft[] = [];
+  for (const [i, g] of games.entries()) {
+    const res = await fetch(`https://api.opendota.com/api/matches/${g.match_id}`);
+    if (!res.ok) continue;
+    const d = (await res.json()) as OpenDotaMatchDetail;
+    const radiantHeroes = (d.players ?? [])
+      .filter((p) => p.player_slot < 128 && p.hero_id > 0)
+      .map((p) => heroes[p.hero_id] ?? `hero#${p.hero_id}`);
+    const direHeroes = (d.players ?? [])
+      .filter((p) => p.player_slot >= 128 && p.hero_id > 0)
+      .map((p) => heroes[p.hero_id] ?? `hero#${p.hero_id}`);
+    const aIsRadiant = sameTeam(g.radiant_name ?? "", a.name);
+    drafts.push({
+      map: i + 1,
+      durationMin: Math.round((d.duration ?? g.duration) / 60),
+      winnerTeamIndex: d.radiant_win === undefined ? null : d.radiant_win === aIsRadiant ? 0 : 1,
+      heroes: aIsRadiant ? [radiantHeroes, direHeroes] : [direHeroes, radiantHeroes],
+    });
+  }
+
+  if (drafts.length === 0) {
+    cacheSet(missKey, true, 10 * 60_000);
+    return null;
+  }
+  await mkdir(join(config.dataDir, "drafts"), { recursive: true });
+  await writeFile(file, JSON.stringify(drafts, null, 2), "utf8");
+  return drafts;
 }
 
 /** Найти live-игру по названиям команд и вернуть драфт в порядке [teamA, teamB]. */
