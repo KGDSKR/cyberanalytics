@@ -31,3 +31,15 @@ export interface AnalyzeResponse {
   cached: boolean;
   demo: boolean;
 }
+
+export interface LiveDraft {
+  gameTimeMin: number;
+  kills: [number, number];
+  goldLead: number | null;
+  heroes: [string[], string[]];
+  source: "steam" | "opendota";
+}
+
+export interface DraftResponse {
+  draft: LiveDraft | null;
+}

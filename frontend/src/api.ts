@@ -1,4 +1,4 @@
-import type { AnalyzeResponse, MatchesResponse } from "./types";
+import type { AnalyzeResponse, DraftResponse, MatchesResponse } from "./types";
 
 function tgHeaders(): Record<string, string> {
   const initData = window.Telegram?.WebApp?.initData;
@@ -16,6 +16,11 @@ async function handle<T>(res: Response): Promise<T> {
 export async function getMatches(): Promise<MatchesResponse> {
   const res = await fetch("/api/matches", { headers: tgHeaders() });
   return handle<MatchesResponse>(res);
+}
+
+export async function getDraft(matchId: number): Promise<DraftResponse> {
+  const res = await fetch(`/api/draft?matchId=${matchId}`, { headers: tgHeaders() });
+  return handle<DraftResponse>(res);
 }
 
 export async function analyzeMatch(matchId: number): Promise<AnalyzeResponse> {

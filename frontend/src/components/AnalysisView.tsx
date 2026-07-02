@@ -1,7 +1,7 @@
 import { marked } from "marked";
 import { useEffect, useState } from "react";
-import { analyzeMatch } from "../api";
-import type { Match } from "../types";
+import { analyzeMatch, getDraft } from "../api";
+import type { LiveDraft, Match } from "../types";
 import { TeamBadge } from "./MatchCard";
 
 const LOADING_PHRASES = [
@@ -12,11 +12,49 @@ const LOADING_PHRASES = [
   "Формулирую прогноз…",
 ];
 
+function DraftBlock({ match, draft }: { match: Match; draft: LiveDraft }) {
+  const [a, b] = match.teams;
+  const gold = draft.goldLead;
+  return (
+    <div className="draft">
+      <div className="draft__meta">
+        <span><span className="live-dot" /> {draft.gameTimeMin}-я мин</span>
+        <span>Киллы {draft.kills[0]}:{draft.kills[1]}</span>
+        {gold !== null && gold !== 0 && (
+          <span className="draft__gold">
+            +{(Math.abs(gold) / 1000).toFixed(1)}k 🪙 {gold > 0 ? a?.acronym ?? a?.name : b?.acronym ?? b?.name}
+          </span>
+        )}
+      </div>
+      {[0, 1].map((i) => (
+        <div className="draft__row" key={i}>
+          <span className="draft__team">{match.teams[i]?.acronym ?? match.teams[i]?.name}</span>
+          <div className="draft__heroes">
+            {draft.heroes[i]!.length > 0
+              ? draft.heroes[i]!.map((h) => <span className="hero-chip" key={h}>{h}</span>)
+              : <span className="draft__pending">драфт идёт…</span>}
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+}
+
 export default function AnalysisView({ match, onBack }: { match: Match; onBack: () => void }) {
   const [analysis, setAnalysis] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
   const [phrase, setPhrase] = useState(0);
+  const [draft, setDraft] = useState<LiveDraft | null>(null);
+
+  useEffect(() => {
+    if (match.game !== "dota2" || match.status !== "live") return;
+    let stopped = false;
+    const load = () => getDraft(match.id).then((r) => { if (!stopped) setDraft(r.draft); }).catch(() => {});
+    load();
+    const t = setInterval(load, 60_000);
+    return () => { stopped = true; clearInterval(t); };
+  }, [match]);
 
   useEffect(() => {
     const bb = window.Telegram?.WebApp?.BackButton;
@@ -61,6 +99,8 @@ export default function AnalysisView({ match, onBack }: { match: Match; onBack: 
         </div>
         <div className="analysis__league">{match.league} · {match.serie || match.tournament}</div>
       </div>
+
+      {draft && <DraftBlock match={match} draft={draft} />}
 
       {!analysis && !loading && (
         <div className="analysis__cta">

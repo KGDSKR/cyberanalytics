@@ -12,6 +12,7 @@ export const config = {
   aiModel: process.env.AI_MODEL ?? "claude-opus-4-8",
   geminiApiKey: process.env.GEMINI_API_KEY ?? "",
   geminiModel: process.env.GEMINI_MODEL ?? "gemini-3.5-flash",
+  steamApiKey: process.env.STEAM_API_KEY ?? "",
   telegramBotToken: process.env.TELEGRAM_BOT_TOKEN ?? "",
   requireTgAuth: (process.env.REQUIRE_TG_AUTH ?? "false") === "true",
   dataDir: resolve(import.meta.dirname, "../../data"),

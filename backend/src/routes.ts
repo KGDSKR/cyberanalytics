@@ -4,6 +4,7 @@ import { join } from "node:path";
 import { generateAnalysis, type AnalysisContext } from "./ai.js";
 import { cacheGet, cacheSet } from "./cache.js";
 import { activeAiProvider, config, hasPandascore } from "./config.js";
+import { fetchLiveDraft } from "./dota-live.js";
 import { mockMatches } from "./mock-data.js";
 import { fetchMatchById, fetchMatches, fetchTeamRecentMatches } from "./pandascore.js";
 import { validateInitData } from "./telegram.js";
@@ -63,6 +64,18 @@ export async function registerRoutes(app: FastifyInstance) {
     return { matches, demo: !hasPandascore() };
   });
 
+  // Live-драфт текущей карты (Dota 2): для плашки в интерфейсе
+  app.get<{ Querystring: { matchId: string } }>("/api/draft", async (req) => {
+    const matchId = Number(req.query.matchId);
+    if (!Number.isFinite(matchId)) return { draft: null };
+    const match = await findMatch(matchId);
+    if (!match || match.game !== "dota2" || match.status !== "live") return { draft: null };
+    const [a, b] = match.teams;
+    if (!a || !b) return { draft: null };
+    const draft = await fetchLiveDraft(a.name, b.name).catch(() => null);
+    return { draft };
+  });
+
   app.post<{ Body: { matchId: number } }>("/api/analyze", async (req, reply) => {
     const matchId = Number(req.body?.matchId);
     if (!Number.isFinite(matchId)) {
@@ -71,7 +84,7 @@ export async function registerRoutes(app: FastifyInstance) {
 
     // Готовый анализ переиспользуем (и он же пригодится для проверки точности постфактум)
     const file = join(config.dataDir, "analyses", `${matchId}.json`);
-    let saved: { analysis: string; demo: boolean; match?: Match } | null = null;
+    let saved: { analysis: string; demo: boolean; match?: Match; createdAt?: string } | null = null;
     try {
       saved = JSON.parse(await readFile(file, "utf8"));
     } catch {
@@ -81,9 +94,13 @@ export async function registerRoutes(app: FastifyInstance) {
     const match = (await findMatch(matchId)) ?? saved?.match;
     if (!match) return reply.code(404).send({ error: "Match not found" });
 
-    // Для live-матча анализ устаревает при смене счёта — тогда пересчитываем
+    // Live-анализ устаревает при смене счёта или через 10 минут (драфт/золото меняются)
+    const LIVE_ANALYSIS_TTL_MS = 10 * 60_000;
     const savedIsFresh =
-      saved !== null && !(match.status === "live" && saved.match?.score !== match.score);
+      saved !== null &&
+      (match.status !== "live" ||
+        (saved.match?.score === match.score &&
+          Date.now() - new Date(saved.createdAt ?? 0).getTime() < LIVE_ANALYSIS_TTL_MS));
     if (saved && savedIsFresh) {
       return { analysis: saved.analysis, cached: true, demo: saved.demo };
     }
@@ -136,5 +153,11 @@ async function buildContext(match: Match): Promise<AnalysisContext> {
       ? (recentByTeam[teamA.name] ?? []).filter((m) => m.opponentName === teamB.name)
       : [];
 
-  return { match, recentByTeam, headToHead, dataSource: "pandascore" };
+  // Для идущего матча Dota 2 — подтягиваем драфт текущей карты
+  const liveDraft =
+    match.game === "dota2" && match.status === "live" && teamA && teamB
+      ? await fetchLiveDraft(teamA.name, teamB.name).catch(() => null)
+      : null;
+
+  return { match, recentByTeam, headToHead, liveDraft, dataSource: "pandascore" };
 }

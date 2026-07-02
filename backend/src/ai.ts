@@ -1,5 +1,6 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { activeAiProvider, config } from "./config.js";
+import type { LiveDraft } from "./dota-live.js";
 import { mockAnalysis } from "./mock-data.js";
 import type { Game, Match, PastMatchSummary } from "./types.js";
 
@@ -9,8 +10,9 @@ const GAME_HINTS: Record<Game, string> = {
   cs2: `- В разделе «Рынки» добавь строку «Тотал раундов на карте» — данных по раундам в статистике нет, поэтому в оценке пиши «нет данных» (не выдумывай).
 - Специфика CS2: пул карт и пики, пистолетные раунды. Длинная средняя карта (>40 мин с учётом пауз) — признак равных, затяжных игр.`,
   dota2: `- В разделе «Рынки» ОБЯЗАТЕЛЬНО добавь строку «Тотал по времени карты»: по средним длительностям карт обеих команд предложи порог в минутах и оценку Б/М с вероятностью.
-- Добавь строку «Тотал киллов» с пометкой «нет данных» — статистики киллов в данных нет.
-- Специфика Dota 2: короткие карты (<35 мин) = темповый стиль, длинные (>45 мин) = затяжной; учитывай при оценке тотала по времени.`,
+- Добавь строку «Тотал киллов»: если в данных есть live-киллы текущей карты — оцени по ним, иначе пометь «нет данных».
+- Специфика Dota 2: короткие карты (<35 мин) = темповый стиль, длинные (>45 мин) = затяжной; учитывай при оценке тотала по времени.
+- Если в данных есть live-драфт текущей карты (герои, киллы, золото) — ОБЯЗАТЕЛЬНО учитывай его в «Исходах» и «Рынках»: сила драфта в лейте против темпа, текущее преимущество по золоту/киллам, тайминги пиков. Отдельный раздел с разбором драфта НЕ выводи — только вплетай выводы в вероятности (можно короткими упоминаниями героев в обоснованиях).`,
 };
 
 function systemPrompt(game: Game): string {
@@ -45,6 +47,7 @@ export interface AnalysisContext {
   match: Match;
   recentByTeam: Record<string, PastMatchSummary[]>;
   headToHead: PastMatchSummary[];
+  liveDraft?: LiveDraft | null;
   dataSource: "pandascore" | "none";
 }
 
@@ -100,6 +103,20 @@ function buildUserPrompt(ctx: AnalysisContext): string {
   ];
   if (match.status === "live") {
     lines.push(`⚠️ Матч уже идёт! Текущий счёт по картам/играм: ${match.score ?? "неизвестен"} (в порядке команд выше).`);
+  }
+  if (ctx.liveDraft) {
+    const d = ctx.liveDraft;
+    const [a, b] = match.teams;
+    lines.push(
+      "",
+      `### Live-данные текущей карты (минута ${d.gameTimeMin}):`,
+      `- Драфт ${a?.name}: ${d.heroes[0].join(", ") || "драфт ещё идёт"}`,
+      `- Драфт ${b?.name}: ${d.heroes[1].join(", ") || "драфт ещё идёт"}`,
+      `- Киллы: ${d.kills[0]}:${d.kills[1]}`,
+      d.goldLead !== null
+        ? `- Золото: ${d.goldLead >= 0 ? `+${d.goldLead} у ${a?.name}` : `+${-d.goldLead} у ${b?.name}`}`
+        : "- Золото: нет данных"
+    );
   }
   lines.push("");
   if (ctx.dataSource === "pandascore") {
