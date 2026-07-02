@@ -6,29 +6,39 @@ import type { Game, Match, PastMatchSummary } from "./types.js";
 const GAME_LABEL: Record<Game, string> = { cs2: "CS2 (Counter-Strike 2)", dota2: "Dota 2" };
 
 const GAME_HINTS: Record<Game, string> = {
-  cs2: "Для CS2 учитывай специфику: пул карт и пики, пистолетные раунды, роль снайпера, форма на конкретных картах.",
-  dota2: "Для Dota 2 учитывай специфику: драфты и пул героев, стиль игры (темповый/затяжной), роль керри и мидера, патч.",
+  cs2: `- В разделе «Рынки» добавь строку «Тотал раундов на карте» — данных по раундам в статистике нет, поэтому в оценке пиши «нет данных» (не выдумывай).
+- Специфика CS2: пул карт и пики, пистолетные раунды. Длинная средняя карта (>40 мин с учётом пауз) — признак равных, затяжных игр.`,
+  dota2: `- В разделе «Рынки» ОБЯЗАТЕЛЬНО добавь строку «Тотал по времени карты»: по средним длительностям карт обеих команд предложи порог в минутах и оценку Б/М с вероятностью.
+- Добавь строку «Тотал киллов» с пометкой «нет данных» — статистики киллов в данных нет.
+- Специфика Dota 2: короткие карты (<35 мин) = темповый стиль, длинные (>45 мин) = затяжной; учитывай при оценке тотала по времени.`,
 };
 
 function systemPrompt(game: Game): string {
-  return `Ты — профессиональный аналитик киберспорта сервиса CyberAnalytics. Дисциплина: ${GAME_LABEL[game]}.
-Твоя задача — написать глубокий, но читабельный анализ матча на русском языке в Markdown.
+  return `Ты — количественный аналитик киберспорта сервиса CyberAnalytics. Дисциплина: ${GAME_LABEL[game]}.
+Пишешь плотную статистическую сводку матча на русском языке в Markdown.
 
-Структура ответа (строго эти разделы, с эмодзи в заголовках):
-## 🎯 Прогноз победы — таблица с вероятностями победы каждой команды в процентах (в сумме 100%)
-## 📈 Форма команд — как команды выглядят в последних матчах
-## ⭐ Ключевые игроки — кто может решить исход (если данных об игроках нет — оцени по командным результатам и общеизвестной информации, честно это оговорив)
-## 🔄 Личные встречи — история противостояния по предоставленным данным
-## ⚡ Факторы риска — что может сломать прогноз
-## 👀 На что смотреть — 2-3 конкретных совета зрителю
+Стиль — телеграфный: без приветствий, вступлений и заключений, без общих фраз. Каждый тезис подкрепляй числом из предоставленных данных. Чего нет в данных — честно помечай «нет данных», конкретику не выдумывай.
+
+Структура (строго эти разделы):
+## 🎯 Исходы
+Таблица | Исход | Вероятность |: победа каждой команды (в сумме 100%). Если формат BO3 — добавь строки точного счёта 2:0 / 2:1 / 1:2 / 0:2.
+## 📊 Рынки
+Таблица | Рынок | Оценка | Обоснование |. Обоснование — одна короткая фраза с цифрами.
+Обязательные строки: «Тотал карт 2.5» (Б/М + вероятность), «Фора −1.5 по картам на фаворита» (вероятность).
+${GAME_HINTS[game]}
+## 📈 Форма
+По каждой команде компактный блок: W-L за последние матчи, текущая серия, счёт по картам, средняя длительность карты. После блоков — 1-2 предложения выводов, только с цифрами.
+## 🔄 Личные встречи
+Счёт противостояния по данным, последние результаты, вывод одной строкой.
+## ⚡ Риски
+2-4 пункта списком, каждый не длиннее 15 слов.
+## 👀 Триггеры
+2-3 пункта: конкретный наблюдаемый сигнал по ходу матча → как он сдвигает прогноз.
 
 Правила:
-- Опирайся в первую очередь на предоставленные данные; общие знания используй осторожно и помечай как контекст.
-- ${GAME_HINTS[game]}
-- Если матч уже идёт (live) — учти текущий счёт в прогнозе.
-- Если данных мало, честно скажи об этом и снизь уверенность прогноза.
-- Пиши живо и конкретно, без воды. Проценты — реалистичные, не 50/50 без причины.
-- Не давай советов по ставкам и суммам. Это информационный анализ для зрителей.`;
+- Вероятности выводи из данных (винрейты, счёт по картам, h2h), проценты между разделами должны быть согласованы (точные счета в сумме дают вероятности побед).
+- Если матч live — пересчитай всё с учётом текущего счёта: какие рынки уже закрыты, что осталось в игре.
+- Никаких советов по суммам и призывов ставить — только вероятностные оценки рынков.`;
 }
 
 export interface AnalysisContext {
@@ -36,6 +46,50 @@ export interface AnalysisContext {
   recentByTeam: Record<string, PastMatchSummary[]>;
   headToHead: PastMatchSummary[];
   dataSource: "pandascore" | "none";
+}
+
+/** Агрегаты считаем в коде — арифметику модели не доверяем. */
+function teamAggregates(matches: PastMatchSummary[]): string {
+  if (matches.length === 0) return "- данных нет";
+  const wins = matches.filter((m) => m.won).length;
+  const losses = matches.length - wins;
+  let mapsW = 0;
+  let mapsL = 0;
+  let deciders = 0;
+  const durations: number[] = [];
+  for (const m of matches) {
+    const [a, b] = m.score.split(":").map(Number);
+    if (Number.isFinite(a) && Number.isFinite(b)) {
+      mapsW += a!;
+      mapsL += b!;
+      if (a! + b! >= 3) deciders++;
+    }
+    durations.push(...m.gameDurationsMin);
+  }
+  const first = matches[0]!.won;
+  let streak = 0;
+  for (const m of matches) {
+    if (m.won === first) streak++;
+    else break;
+  }
+  const avgDur = durations.length
+    ? (durations.reduce((s, x) => s + x, 0) / durations.length).toFixed(1)
+    : null;
+  const winrate = Math.round((wins / matches.length) * 100);
+  const mapWinrate = mapsW + mapsL > 0 ? Math.round((mapsW / (mapsW + mapsL)) * 100) : 0;
+  return [
+    `- Матчи: ${wins}-${losses} (винрейт ${winrate}%), текущая серия: ${first ? "W" : "L"}${streak}`,
+    `- Карты: ${mapsW}-${mapsL} (${mapWinrate}%), матчей в 3+ карты: ${deciders} из ${matches.length}`,
+    avgDur !== null
+      ? `- Средняя длительность карты: ${avgDur} мин (по ${durations.length} картам)`
+      : "- Длительности карт: нет данных",
+  ].join("\n");
+}
+
+function matchLine(m: PastMatchSummary, withOpponent: boolean): string {
+  const dur = m.gameDurationsMin.length > 0 ? `, карты по ${m.gameDurationsMin.join("/")} мин` : "";
+  const vs = withOpponent ? ` vs ${m.opponentName}` : "";
+  return `- ${m.won ? "✅" : "❌"} ${m.score}${vs} (${m.beginAt.slice(0, 10)}${dur})`;
 }
 
 function buildUserPrompt(ctx: AnalysisContext): string {
@@ -49,19 +103,21 @@ function buildUserPrompt(ctx: AnalysisContext): string {
   }
   lines.push("");
   if (ctx.dataSource === "pandascore") {
-    lines.push("Данные PandaScore (последние матчи каждой команды, новые сверху):");
+    lines.push("Данные PandaScore по последним матчам (новые сверху). Счёт всегда с точки зрения самой команды.");
     for (const [teamName, matches] of Object.entries(ctx.recentByTeam)) {
-      lines.push(`\n${teamName}:`);
-      if (matches.length === 0) lines.push("- данных нет");
-      for (const m of matches) {
-        lines.push(`- ${m.won ? "✅ победа" : "❌ поражение"} vs ${m.opponentName} (${m.score}) — ${m.beginAt.slice(0, 10)}`);
+      lines.push(`\n### ${teamName} — агрегаты:`);
+      lines.push(teamAggregates(matches));
+      if (matches.length > 0) {
+        lines.push("Матчи:");
+        for (const m of matches) lines.push(matchLine(m, true));
       }
     }
     if (ctx.headToHead.length > 0) {
-      lines.push(`\nЛичные встречи (с точки зрения ${match.teams[0]?.name}):`);
-      for (const m of ctx.headToHead) {
-        lines.push(`- ${m.won ? "✅ победа" : "❌ поражение"} (${m.score}) — ${m.beginAt.slice(0, 10)}`);
-      }
+      const h2hWins = ctx.headToHead.filter((m) => m.won).length;
+      lines.push(
+        `\n### Личные встречи (с точки зрения ${match.teams[0]?.name}): ${h2hWins}-${ctx.headToHead.length - h2hWins}`
+      );
+      for (const m of ctx.headToHead) lines.push(matchLine(m, false));
     } else {
       lines.push("\nЛичных встреч в предоставленных данных не найдено.");
     }

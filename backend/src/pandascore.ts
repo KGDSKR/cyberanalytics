@@ -29,6 +29,10 @@ async function psGet<T>(path: string, params: Record<string, string> = {}): Prom
 interface RawOpponent {
   opponent: { id: number; name: string; acronym: string | null; image_url: string | null } | null;
 }
+interface RawGame {
+  length: number | null; // секунды
+  finished: boolean;
+}
 interface RawMatch {
   id: number;
   name: string;
@@ -41,6 +45,7 @@ interface RawMatch {
   videogame: { slug: string } | null;
   opponents: RawOpponent[];
   results: { team_id: number; score: number }[];
+  games?: RawGame[];
   winner_id: number | null;
 }
 
@@ -104,12 +109,17 @@ export async function fetchTeamRecentMatches(
   return raw.map((m) => {
     const teams = mapTeams(m);
     const opponent = teams.find((t) => t.id !== teamId);
-    const score = m.results.map((r) => r.score).join(":");
+    const own = m.results.find((r) => r.team_id === teamId)?.score ?? 0;
+    const opp = m.results.find((r) => r.team_id !== teamId)?.score ?? 0;
+    const gameDurationsMin = (m.games ?? [])
+      .filter((g) => g.finished && typeof g.length === "number" && g.length > 0)
+      .map((g) => Math.round((g.length as number) / 60));
     return {
       opponentName: opponent?.name ?? "unknown",
       won: m.winner_id === teamId,
-      score,
+      score: `${own}:${opp}`,
       beginAt: m.begin_at ?? "",
+      gameDurationsMin,
     };
   });
 }

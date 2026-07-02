@@ -71,15 +71,22 @@ export async function registerRoutes(app: FastifyInstance) {
 
     // Готовый анализ переиспользуем (и он же пригодится для проверки точности постфактум)
     const file = join(config.dataDir, "analyses", `${matchId}.json`);
+    let saved: { analysis: string; demo: boolean; match?: Match } | null = null;
     try {
-      const saved = JSON.parse(await readFile(file, "utf8"));
-      return { analysis: saved.analysis, cached: true, demo: saved.demo };
+      saved = JSON.parse(await readFile(file, "utf8"));
     } catch {
-      /* нет сохранённого — генерируем */
+      /* нет сохранённого */
     }
 
-    const match = await findMatch(matchId);
+    const match = (await findMatch(matchId)) ?? saved?.match;
     if (!match) return reply.code(404).send({ error: "Match not found" });
+
+    // Для live-матча анализ устаревает при смене счёта — тогда пересчитываем
+    const savedIsFresh =
+      saved !== null && !(match.status === "live" && saved.match?.score !== match.score);
+    if (saved && savedIsFresh) {
+      return { analysis: saved.analysis, cached: true, demo: saved.demo };
+    }
 
     const ctx = await buildContext(match);
     const analysis = await generateAnalysis(ctx);

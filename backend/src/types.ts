@@ -24,6 +24,7 @@ export interface Match {
 export interface PastMatchSummary {
   opponentName: string;
   won: boolean;
-  score: string;
+  score: string; // по картам, с точки зрения команды: "2:1"
   beginAt: string;
+  gameDurationsMin: number[]; // длительности сыгранных карт в минутах
 }
