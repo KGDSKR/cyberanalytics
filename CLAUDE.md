@@ -66,11 +66,17 @@ npm run build        # прод-сборка фронтенда в frontend/dist
 npm run start        # прод: backend раздаёт API + собранный фронт на :3000
 ```
 
-## Тест в Telegram (когда дойдём)
+## Запуск в Telegram
 
-Mini App требует HTTPS: локально — туннель `cloudflared tunnel --url http://localhost:3000`
-(сначала `npm run build`), полученный URL прописать у @BotFather → Bot Settings → Menu Button /
-Mini App. Хостинг для продакшена ещё не выбран.
+Бот: **@cyberanalytics_ai_bot**. Кнопка меню «Матчи» открывает Mini App.
+Вилли запускает всё двойным кликом по **`ЗАПУСК.bat`** — он поднимает сервер (если не
+запущен), туннель cloudflared (`C:\Program Files (x86)\cloudflared\cloudflared.exe`,
+установлен через winget) и сам перепривязывает кнопку бота к свежему URL через
+`setChatMenuButton` (quick-туннель меняет адрес при каждом запуске — поэтому скрипт).
+`scripts/start.ps1` сохранён в UTF-8 **с BOM** (иначе PowerShell 5.1 ломает кириллицу).
+Приложение живо, пока включён ПК и не закрыты свёрнутые окна сервера/туннеля.
+Постоянный хостинг ещё не выбран. `REQUIRE_TG_AUTH` пока false — включить после
+подтверждения, что Mini App стабильно открывается из Telegram.
 
 ## Статус (2026-07-02, вечер)
 
