@@ -71,7 +71,10 @@ npm run start        # прод: backend раздаёт API + собранный
 Бот: **@cyberanalytics_ai_bot**, кнопка меню «Матчи» открывает Mini App.
 Хостинг: **Render free tier**, сервис `cyberanalytics` (`srv-d93e5si8qa3s73ah2l20`,
 Frankfurt), URL **https://cyberanalytics.onrender.com**. Код: публичный GitHub-репо
-**KGDSKR/cyberanalytics**, автодеплой с ветки `main` (git push = выкладка).
+**KGDSKR/cyberanalytics**. **Важно: автодеплой по push НЕ работает** (репо подключено
+по публичному URL, без GitHub-приложения) — после `git push` деплой запускать вручную:
+`POST https://api.render.com/v1/services/srv-d93e5si8qa3s73ah2l20/deploys` с Bearer
+`RENDER_API_KEY` (из локального `.env`).
 Все ключи — в env vars сервиса Render (не в репо!). Health check: `/api/health`
 (исключён из проверки Telegram-подписи — не закрывать).
 Служебные токены GitHub/Render — в локальном `.env` (`GITHUB_TOKEN`, `RENDER_API_KEY`),
