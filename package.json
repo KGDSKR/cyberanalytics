@@ -6,6 +6,9 @@
     "backend",
     "frontend"
   ],
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "concurrently -n api,web -c blue,green \"npm run dev -w backend\" \"npm run dev -w frontend\"",
     "build": "npm run build -w frontend",

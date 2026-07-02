@@ -19,6 +19,7 @@ export async function registerRoutes(app: FastifyInstance) {
   app.addHook("onRequest", async (req, reply) => {
     if (!config.requireTgAuth) return;
     if (!req.url.startsWith("/api/")) return;
+    if (req.url === "/api/health") return; // health-check хостинга, ничего секретного
     const initData = req.headers["x-telegram-init-data"];
     if (typeof initData !== "string" || !validateInitData(initData, config.telegramBotToken)) {
       return reply.code(401).send({ error: "Invalid Telegram init data" });
