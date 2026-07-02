@@ -1,0 +1,49 @@
+import type { AnalyzeResponse, MatchesResponse } from "./types";
+
+function tgHeaders(): Record<string, string> {
+  const initData = window.Telegram?.WebApp?.initData;
+  return initData ? { "x-telegram-init-data": initData } : {};
+}
+
+async function handle<T>(res: Response): Promise<T> {
+  if (!res.ok) {
+    const body = await res.json().catch(() => ({}));
+    throw new Error((body as { error?: string }).error ?? `Ошибка ${res.status}`);
+  }
+  return res.json() as Promise<T>;
+}
+
+export async function getMatches(): Promise<MatchesResponse> {
+  const res = await fetch("/api/matches", { headers: tgHeaders() });
+  return handle<MatchesResponse>(res);
+}
+
+export async function analyzeMatch(matchId: number): Promise<AnalyzeResponse> {
+  const res = await fetch("/api/analyze", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", ...tgHeaders() },
+    body: JSON.stringify({ matchId }),
+  });
+  return handle<AnalyzeResponse>(res);
+}
+
+// Типизация Telegram WebApp (минимально необходимая)
+declare global {
+  interface Window {
+    Telegram?: {
+      WebApp?: {
+        initData: string;
+        ready: () => void;
+        expand: () => void;
+        setHeaderColor?: (color: string) => void;
+        setBackgroundColor?: (color: string) => void;
+        BackButton?: {
+          show: () => void;
+          hide: () => void;
+          onClick: (cb: () => void) => void;
+          offClick: (cb: () => void) => void;
+        };
+      };
+    };
+  }
+}
