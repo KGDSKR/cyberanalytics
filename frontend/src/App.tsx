@@ -2,7 +2,15 @@ import { useEffect, useState } from "react";
 import { getMatches } from "./api";
 import AnalysisView from "./components/AnalysisView";
 import MatchCard from "./components/MatchCard";
-import type { Match } from "./types";
+import type { Game, Match } from "./types";
+
+type Tab = "all" | Game;
+
+const TABS: { id: Tab; label: string }[] = [
+  { id: "all", label: "Все" },
+  { id: "cs2", label: "CS2" },
+  { id: "dota2", label: "Dota 2" },
+];
 
 export default function App() {
   const [matches, setMatches] = useState<Match[]>([]);
@@ -10,6 +18,7 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [selected, setSelected] = useState<Match | null>(null);
+  const [tab, setTab] = useState<Tab>("all");
 
   useEffect(() => {
     getMatches()
@@ -25,6 +34,10 @@ export default function App() {
     return <AnalysisView match={selected} onBack={() => setSelected(null)} />;
   }
 
+  const filtered = tab === "all" ? matches : matches.filter((m) => m.game === tab);
+  const liveMatches = filtered.filter((m) => m.status === "live");
+  const upcoming = filtered.filter((m) => m.status === "upcoming");
+
   return (
     <div className="app">
       <header className="header">
@@ -33,20 +46,48 @@ export default function App() {
         </div>
         <div className="header__badge">AI</div>
       </header>
-      <p className="header__tagline">ИИ-аналитика матчей CS2</p>
+      <p className="header__tagline">ИИ-аналитика матчей CS2 и Dota 2</p>
+
+      <div className="tabs">
+        {TABS.map((t) => (
+          <button
+            key={t.id}
+            className={`tab${tab === t.id ? " tab--active" : ""}`}
+            onClick={() => setTab(t.id)}
+          >
+            {t.label}
+          </button>
+        ))}
+      </div>
 
       {demo && <div className="demo-banner">Демо-данные — API ещё не подключён</div>}
       {loading && <div className="loader"><div className="loader__ring" /></div>}
       {error && <div className="error">{error}</div>}
 
-      <div className="match-list">
-        {matches.map((m, i) => (
-          <MatchCard key={m.id} match={m} index={i} onClick={() => setSelected(m)} />
-        ))}
-      </div>
+      {liveMatches.length > 0 && (
+        <>
+          <div className="section-label section-label--live">Идут сейчас</div>
+          <div className="match-list">
+            {liveMatches.map((m, i) => (
+              <MatchCard key={m.id} match={m} index={i} onClick={() => setSelected(m)} />
+            ))}
+          </div>
+        </>
+      )}
 
-      {!loading && !error && matches.length === 0 && (
-        <div className="empty">Ближайших матчей не найдено</div>
+      {upcoming.length > 0 && (
+        <>
+          <div className="section-label">Предстоящие</div>
+          <div className="match-list">
+            {upcoming.map((m, i) => (
+              <MatchCard key={m.id} match={m} index={i} onClick={() => setSelected(m)} />
+            ))}
+          </div>
+        </>
+      )}
+
+      {!loading && !error && filtered.length === 0 && (
+        <div className="empty">Матчей не найдено</div>
       )}
     </div>
   );

@@ -68,6 +68,80 @@ body {
   text-align: center;
 }
 
+/* ===== Вкладки игр ===== */
+.tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.tab {
+  flex: 1;
+  font-family: var(--display);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 9px 0;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+.tab--active {
+  color: var(--bg);
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.section-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  font-weight: 800;
+  margin: 18px 0 10px;
+}
+.section-label--live { color: var(--danger); }
+
+/* ===== LIVE ===== */
+.live-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--danger);
+  font-weight: 800;
+}
+.live-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--danger);
+  animation: pulse 1.2s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(0.8); }
+}
+.match-card--live { border-left-color: var(--danger); }
+.match-card--live:hover { border-left-color: var(--danger); }
+
+.score {
+  font-family: var(--display);
+  font-size: 20px;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.game-chip {
+  display: inline-block;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  padding: 1px 6px;
+  margin-right: 6px;
+  font-size: 10px;
+  color: var(--muted);
+}
+
 /* ===== Карточки матчей ===== */
 .match-list { display: flex; flex-direction: column; gap: 12px; }
 

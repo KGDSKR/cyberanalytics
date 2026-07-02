@@ -18,9 +18,14 @@ npm workspaces, две части:
 - **`backend/`** — Node.js 22 + Fastify + TypeScript (запуск через tsx, без сборки).
   Прячет ключи API, отдаёт REST: `GET /api/matches`, `POST /api/analyze {matchId}`,
   `GET /api/health`. В проде также раздаёт статику `frontend/dist`.
-  - `pandascore.ts` — клиент PandaScore (CS2 = слаг `csgo` в их API).
-  - `ai.ts` — Claude API (`@anthropic-ai/sdk`), модель из env `AI_MODEL`
-    (по умолчанию `claude-opus-4-8`), adaptive thinking. Без ключа → мок-анализ.
+  - `pandascore.ts` — клиент PandaScore. Обе игры: CS2 (слаг `csgo` в их API!) и Dota 2.
+    Матчи: live (`/matches/running`) + предстоящие (`/matches/upcoming`), по 50 на игру.
+  - `ai.ts` — два провайдера, выбор через env `AI_PROVIDER`: **gemini** (основной,
+    REST-вызов `generateContent`, модель `GEMINI_MODEL`) и claude (запасной,
+    `@anthropic-ai/sdk`, adaptive thinking). Без ключей → мок-анализ.
+    **Важно:** новые Gemini-модели на бесплатном тарифе часто отвечают 503 «high
+    demand» — в `generateWithGemini` встроен ретрай + фолбэк-цепочка моделей
+    (`GEMINI_FALLBACKS`). Не убирать.
   - `telegram.ts` — HMAC-проверка `initData` (включается `REQUIRE_TG_AUTH=true`).
   - Готовые анализы сохраняются в `data/analyses/{matchId}.json` — задел под
     метрику «точность прогнозов постфактум».
@@ -53,9 +58,14 @@ Mini App требует HTTPS: локально — туннель `cloudflared 
 (сначала `npm run build`), полученный URL прописать у @BotFather → Bot Settings → Menu Button /
 Mini App. Хостинг для продакшена ещё не выбран.
 
-## Статус (2026-07-02)
+## Статус (2026-07-02, вечер)
 
-MVP-каркас готов и работает в демо-режиме. Ждём от Вилли: токен PandaScore,
-ключ Anthropic (или решение в пользу Gemini — тогда добавить провайдера в `ai.ts`),
-бот от @BotFather. Betboom-коэффициенты: публичного API нет, пока только ссылка;
-вопрос о партнёрском API открыт.
+MVP работает на живых данных: PandaScore (CS2 + Dota 2, live + предстоящие) и Gemini
+(бесплатный ключ Вилли, реальные анализы проверены). Все ключи — в `.env`, включая
+токен Telegram-бота от @BotFather (сам бот пока не привязан к приложению).
+Решение Вилли: Claude API пока не подключаем (платный), Gemini достаточно.
+Betboom отложен («фиг с ним») — осталась просто ссылка в интерфейсе.
+
+Следующие шаги: вывести приложение в интернет (cloudflared-туннель для теста, потом
+хостинг) и привязать к боту через @BotFather; включить `REQUIRE_TG_AUTH=true` после
+привязки; постфактум-оценка точности прогнозов по `data/analyses/`.

@@ -1,3 +1,5 @@
+export type Game = "cs2" | "dota2";
+
 export interface Team {
   id: number;
   name: string;
@@ -9,6 +11,9 @@ export interface Match {
   id: number;
   name: string;
   beginAt: string; // ISO 8601
+  game: Game;
+  status: "upcoming" | "live";
+  score: string | null; // текущий счёт для live, например "1:0"
   league: string;
   serie: string;
   tournament: string;

@@ -3,13 +3,15 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { generateAnalysis, type AnalysisContext } from "./ai.js";
 import { cacheGet, cacheSet } from "./cache.js";
-import { config, hasAnthropic, hasPandascore } from "./config.js";
+import { activeAiProvider, config, hasPandascore } from "./config.js";
 import { mockMatches } from "./mock-data.js";
-import { fetchMatchById, fetchTeamRecentMatches, fetchUpcomingMatches } from "./pandascore.js";
+import { fetchMatchById, fetchMatches, fetchTeamRecentMatches } from "./pandascore.js";
 import { validateInitData } from "./telegram.js";
-import type { Match, PastMatchSummary } from "./types.js";
+import type { Game, Match, PastMatchSummary } from "./types.js";
 
-const MATCHES_TTL_MS = 60_000;
+// Кэш короткий: у live-матчей меняется счёт
+const MATCHES_TTL_MS = 30_000;
+const GAMES: Game[] = ["cs2", "dota2"];
 
 export async function registerRoutes(app: FastifyInstance) {
   // Защита API: проверяем подпись Telegram, если включено
@@ -25,22 +27,35 @@ export async function registerRoutes(app: FastifyInstance) {
   app.get("/api/health", async () => ({
     ok: true,
     pandascore: hasPandascore(),
-    ai: hasAnthropic(),
-    model: config.aiModel,
+    ai: activeAiProvider(),
+    model: activeAiProvider() === "gemini" ? config.geminiModel : config.aiModel,
   }));
 
-  app.get("/api/matches", async (_req, reply) => {
+  app.get("/api/matches", async () => {
     const cached = cacheGet<Match[]>("matches");
     if (cached) return { matches: cached, demo: !hasPandascore() };
 
     let matches: Match[];
     if (hasPandascore()) {
-      try {
-        matches = await fetchUpcomingMatches();
-      } catch (err) {
-        app.log.error(err, "PandaScore failed, falling back to mock");
-        return reply.code(200).send({ matches: mockMatches(), demo: true });
+      // 4 списка параллельно: live + предстоящие для каждой игры.
+      // Если какой-то запрос упал — показываем остальные, а не ошибку.
+      const results = await Promise.allSettled(
+        GAMES.flatMap((g) => [fetchMatches(g, "running"), fetchMatches(g, "upcoming")])
+      );
+      matches = results
+        .filter((r): r is PromiseFulfilledResult<Match[]> => r.status === "fulfilled")
+        .flatMap((r) => r.value);
+      for (const r of results) {
+        if (r.status === "rejected") app.log.error(r.reason, "PandaScore list failed");
       }
+      if (matches.length === 0 && results.every((r) => r.status === "rejected")) {
+        return { matches: mockMatches(), demo: true };
+      }
+      // live первыми, дальше по времени начала
+      matches.sort((m1, m2) => {
+        if (m1.status !== m2.status) return m1.status === "live" ? -1 : 1;
+        return m1.beginAt.localeCompare(m2.beginAt);
+      });
     } else {
       matches = mockMatches();
     }
@@ -68,7 +83,7 @@ export async function registerRoutes(app: FastifyInstance) {
 
     const ctx = await buildContext(match);
     const analysis = await generateAnalysis(ctx);
-    const demo = !hasAnthropic();
+    const demo = activeAiProvider() === "none";
 
     await mkdir(join(config.dataDir, "analyses"), { recursive: true });
     await writeFile(
@@ -103,7 +118,7 @@ async function buildContext(match: Match): Promise<AnalysisContext> {
   const recentByTeam: Record<string, PastMatchSummary[]> = {};
   await Promise.all(
     match.teams.map(async (team) => {
-      recentByTeam[team.name] = await fetchTeamRecentMatches(team.id).catch(() => []);
+      recentByTeam[team.name] = await fetchTeamRecentMatches(match.game, team.id).catch(() => []);
     })
   );
 

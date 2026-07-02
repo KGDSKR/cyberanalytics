@@ -1,7 +1,12 @@
 import { config } from "./config.js";
-import type { Match, PastMatchSummary, Team } from "./types.js";
+import type { Game, Match, PastMatchSummary, Team } from "./types.js";
 
 const BASE = "https://api.pandascore.co";
+
+/** Слаги игр в API PandaScore (CS2 у них до сих пор живёт под csgo). */
+const GAME_SLUG: Record<Game, string> = { cs2: "csgo", dota2: "dota2" };
+
+const VIDEOGAME_TO_GAME: Record<string, Game> = { "cs-go": "cs2", "dota-2": "dota2" };
 
 async function psGet<T>(path: string, params: Record<string, string> = {}): Promise<T> {
   const url = new URL(BASE + path);
@@ -27,11 +32,13 @@ interface RawOpponent {
 interface RawMatch {
   id: number;
   name: string;
+  status: "not_started" | "running" | "finished" | "canceled" | "postponed";
   begin_at: string | null;
   number_of_games: number | null;
   league: { name: string } | null;
   serie: { full_name: string | null } | null;
   tournament: { name: string } | null;
+  videogame: { slug: string } | null;
   opponents: RawOpponent[];
   results: { team_id: number; score: number }[];
   winner_id: number | null;
@@ -44,37 +51,52 @@ function mapTeams(raw: RawMatch): Team[] {
     .map((t) => ({ id: t.id, name: t.name, acronym: t.acronym, imageUrl: t.image_url }));
 }
 
-function mapMatch(raw: RawMatch): Match {
+function mapMatch(raw: RawMatch, fallbackGame: Game): Match {
+  const live = raw.status === "running";
+  const teams = mapTeams(raw);
+  // Счёт в порядке команд, а не в порядке results
+  const score = live
+    ? teams
+        .map((t) => raw.results.find((r) => r.team_id === t.id)?.score ?? 0)
+        .join(":")
+    : null;
   return {
     id: raw.id,
     name: raw.name,
     beginAt: raw.begin_at ?? new Date().toISOString(),
+    game: VIDEOGAME_TO_GAME[raw.videogame?.slug ?? ""] ?? fallbackGame,
+    status: live ? "live" : "upcoming",
+    score,
     league: raw.league?.name ?? "",
     serie: raw.serie?.full_name ?? "",
     tournament: raw.tournament?.name ?? "",
     bestOf: raw.number_of_games,
-    teams: mapTeams(raw),
+    teams,
   };
 }
 
-/** Ближайшие матчи CS2 (в PandaScore игра до сих пор ходит под слагом csgo). */
-export async function fetchUpcomingMatches(): Promise<Match[]> {
-  const raw = await psGet<RawMatch[]>("/csgo/matches/upcoming", {
+/** Матчи одной игры: идущие сейчас или предстоящие. */
+export async function fetchMatches(game: Game, kind: "running" | "upcoming"): Promise<Match[]> {
+  const raw = await psGet<RawMatch[]>(`/${GAME_SLUG[game]}/matches/${kind}`, {
     sort: "begin_at",
-    "page[size]": "20",
+    "page[size]": "50",
   });
   // Показываем только матчи, где известны обе команды
-  return raw.map(mapMatch).filter((m) => m.teams.length === 2);
+  return raw.map((m) => mapMatch(m, game)).filter((m) => m.teams.length === 2);
 }
 
 export async function fetchMatchById(id: number): Promise<Match> {
   const raw = await psGet<RawMatch>(`/matches/${id}`);
-  return mapMatch(raw);
+  return mapMatch(raw, "cs2");
 }
 
 /** Последние сыгранные матчи команды — сырьё для ИИ-анализа формы. */
-export async function fetchTeamRecentMatches(teamId: number, limit = 10): Promise<PastMatchSummary[]> {
-  const raw = await psGet<RawMatch[]>("/csgo/matches/past", {
+export async function fetchTeamRecentMatches(
+  game: Game,
+  teamId: number,
+  limit = 10
+): Promise<PastMatchSummary[]> {
+  const raw = await psGet<RawMatch[]>(`/${GAME_SLUG[game]}/matches/past`, {
     "filter[opponent_id]": String(teamId),
     sort: "-begin_at",
     "page[size]": String(limit),
