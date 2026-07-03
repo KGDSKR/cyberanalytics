@@ -1,0 +1,21 @@
+{
+  "matchId": 1561074,
+  "game": "dota2",
+  "createdAt": "2026-07-03T20:34:51.645Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138759,
+      "name": "Hive"
+    },
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
