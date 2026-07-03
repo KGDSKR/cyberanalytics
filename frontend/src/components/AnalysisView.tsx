@@ -1,3 +1,4 @@
+import DOMPurify from "dompurify";
 import { marked } from "marked";
 import { useEffect, useState } from "react";
 import { analyzeMatch, getDraft } from "../api";
@@ -123,7 +124,7 @@ export default function AnalysisView({ match, onBack }: { match: Match; onBack: 
         <>
           <article
             className="analysis__body"
-            dangerouslySetInnerHTML={{ __html: marked.parse(analysis) as string }}
+            dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(marked.parse(analysis) as string) }}
           />
           <a
             className="betboom-btn"

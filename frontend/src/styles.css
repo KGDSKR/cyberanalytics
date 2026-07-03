@@ -209,6 +209,38 @@ body {
 .load-more:hover { border-color: var(--accent); }
 .load-more:disabled { opacity: 0.5; }
 
+/* ===== Точность прогнозов ===== */
+.acc-summary {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 20px 16px;
+  text-align: center;
+  margin-bottom: 16px;
+}
+.acc-summary__big {
+  font-family: var(--display);
+  font-size: 42px;
+  color: var(--accent);
+  line-height: 1;
+}
+.acc-summary__caption {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--muted);
+  margin-top: 6px;
+}
+.acc-summary__details { color: var(--muted); font-size: 12px; margin-top: 10px; }
+
+.acc-row { cursor: default; }
+.acc-row--correct { border-left-color: var(--accent); }
+.acc-row--wrong { border-left-color: var(--danger); }
+.acc-row__body { font-size: 13px; display: flex; flex-direction: column; gap: 6px; }
+.acc-row__result { color: var(--muted); font-weight: 600; }
+.acc-row__note { color: var(--muted); font-size: 12px; }
+
 /* ===== Вкладки игр ===== */
 .tabs {
   display: flex;

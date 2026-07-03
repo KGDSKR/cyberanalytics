@@ -64,6 +64,26 @@ export interface PastDraftResponse {
   drafts: PastMapDraft[] | null;
 }
 
+export interface AccuracyItem {
+  matchId: number;
+  game: Game;
+  createdAt: string;
+  teams: string[];
+  probs: [number, number];
+  pickedName: string;
+  pickedProb: number;
+  statusAtPrediction: "upcoming" | "live";
+  scoreAtPrediction: string | null;
+  status: "pending" | "correct" | "wrong" | "canceled";
+  finalScore: string | null;
+  winnerName: string | null;
+}
+
+export interface AccuracyResponse {
+  summary: { total: number; decided: number; correct: number; accuracy: number | null };
+  items: AccuracyItem[];
+}
+
 export interface LiveDraft {
   gameTimeMin: number;
   kills: [number, number];

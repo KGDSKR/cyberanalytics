@@ -40,7 +40,26 @@ ${GAME_HINTS[game]}
 Правила:
 - Вероятности выводи из данных (винрейты, счёт по картам, h2h), проценты между разделами должны быть согласованы (точные счета в сумме дают вероятности побед).
 - Если матч live — пересчитай всё с учётом текущего счёта: какие рынки уже закрыты, что осталось в игре.
-- Никаких советов по суммам и призывов ставить — только вероятностные оценки рынков.`;
+- Никаких советов по суммам и призывов ставить — только вероятностные оценки рынков.
+- Служебное требование: самой последней строкой ответа добавь скрытый комментарий строго вида <!--PRED {"team1": X, "team2": Y}--> где X и Y — целые вероятности победы (в сумме 100) первой и второй команды в порядке их упоминания в задании. Значения должны совпадать с разделом «Исходы». После комментария — ничего.`;
+}
+
+/** Вырезает из ответа ИИ служебный прогноз <!--PRED {...}--> для трекинга точности. */
+export function extractPrediction(text: string): { text: string; probs: [number, number] | null } {
+  const m = text.match(/<!--\s*PRED\s*(\{[^]*?\})\s*-->/);
+  if (!m) return { text, probs: null };
+  const cleaned = text.replace(m[0], "").trimEnd();
+  try {
+    const p = JSON.parse(m[1]!) as { team1?: unknown; team2?: unknown };
+    const t1 = Number(p.team1);
+    const t2 = Number(p.team2);
+    if (Number.isFinite(t1) && Number.isFinite(t2) && t1 >= 0 && t2 >= 0) {
+      return { text: cleaned, probs: [Math.round(t1), Math.round(t2)] };
+    }
+  } catch {
+    /* битый JSON — прогноз не записываем */
+  }
+  return { text: cleaned, probs: null };
 }
 
 export interface AnalysisContext {

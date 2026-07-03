@@ -1,12 +1,13 @@
 import { useEffect, useState } from "react";
 import { getMatches } from "./api";
+import AccuracyView from "./components/AccuracyView";
 import AnalysisView from "./components/AnalysisView";
 import MatchCard from "./components/MatchCard";
 import PastMatches from "./components/PastMatches";
 import type { Game, Match } from "./types";
 
 type Tab = "all" | Game;
-type View = "current" | "past";
+type View = "current" | "past" | "accuracy";
 
 const TABS: { id: Tab; label: string }[] = [
   { id: "all", label: "Все" },
@@ -64,9 +65,17 @@ export default function App() {
         >
           Прошедшие
         </button>
+        <button
+          className={`view-switch__btn${view === "accuracy" ? " view-switch__btn--active" : ""}`}
+          onClick={() => setView("accuracy")}
+        >
+          Точность
+        </button>
       </div>
 
-      {view === "past" ? (
+      {view === "accuracy" ? (
+        <AccuracyView />
+      ) : view === "past" ? (
         <PastMatches />
       ) : (
       <>

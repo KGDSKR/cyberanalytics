@@ -1,12 +1,20 @@
 import type { FastifyInstance } from "fastify";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { generateAnalysis, type AnalysisContext } from "./ai.js";
+import { extractPrediction, generateAnalysis, type AnalysisContext } from "./ai.js";
 import { cacheGet, cacheSet } from "./cache.js";
 import { activeAiProvider, config, hasPandascore } from "./config.js";
 import { fetchLiveDraft, fetchPastDrafts } from "./dota-live.js";
+import { listPredictions, savePredictionOnce, type PredictionRecord } from "./github-store.js";
 import { mockMatches } from "./mock-data.js";
-import { fetchMatchById, fetchMatches, fetchPastMatches, fetchTeamRecentMatches } from "./pandascore.js";
+import {
+  fetchMatchById,
+  fetchMatches,
+  fetchMatchResult,
+  fetchPastMatches,
+  fetchTeamRecentMatches,
+  type MatchResult,
+} from "./pandascore.js";
 import { validateInitData } from "./telegram.js";
 import type { Game, Match, PastMatch, PastMatchSummary } from "./types.js";
 
@@ -112,7 +120,10 @@ export async function registerRoutes(app: FastifyInstance) {
     return { draft };
   });
 
-  app.post<{ Body: { matchId: number } }>("/api/analyze", async (req, reply) => {
+  app.post<{ Body: { matchId: number } }>(
+    "/api/analyze",
+    { config: { rateLimit: { max: 5, timeWindow: "1 minute" } } },
+    async (req, reply) => {
     const matchId = Number(req.body?.matchId);
     if (!Number.isFinite(matchId)) {
       return reply.code(400).send({ error: "matchId is required" });
@@ -142,7 +153,7 @@ export async function registerRoutes(app: FastifyInstance) {
     }
 
     const ctx = await buildContext(match);
-    const analysis = await generateAnalysis(ctx);
+    const { text: analysis, probs } = extractPrediction(await generateAnalysis(ctx));
     const demo = activeAiProvider() === "none";
 
     await mkdir(join(config.dataDir, "analyses"), { recursive: true });
@@ -152,7 +163,83 @@ export async function registerRoutes(app: FastifyInstance) {
       "utf8"
     );
 
+    // Фиксируем прогноз для трекинга точности (первый прогноз — окончательный)
+    if (probs && !demo && match.teams.length === 2) {
+      const rec: PredictionRecord = {
+        matchId,
+        game: match.game,
+        createdAt: new Date().toISOString(),
+        statusAtPrediction: match.status,
+        scoreAtPrediction: match.score,
+        teams: match.teams.map((t) => ({ id: t.id, name: t.name })),
+        probs,
+      };
+      savePredictionOnce(rec).catch((err) => app.log.error(err, "prediction save failed"));
+    }
+
     return { analysis, cached: false, demo };
+    }
+  );
+
+  // Проверка точности прогнозов: сверяем сохранённые прогнозы с итогами матчей
+  app.get("/api/accuracy", async () => {
+    const preds = await listPredictions();
+    const items = await Promise.all(
+      preds.map(async (p) => {
+        let result: MatchResult | null = cacheGet<MatchResult>(`result:${p.matchId}`) ?? null;
+        if (!result && hasPandascore()) {
+          result = await fetchMatchResult(p.matchId).catch(() => null);
+          if (result) {
+            // завершённый матч не изменится — кэшируем надолго, идущий — коротко
+            const ttl = result.status === "finished" || result.status === "canceled" ? 24 * 3_600_000 : 5 * 60_000;
+            cacheSet(`result:${p.matchId}`, result, ttl);
+          }
+        }
+
+        const picked = p.probs[0] >= p.probs[1] ? 0 : 1;
+        const pickedTeam = p.teams[picked];
+        let status: "pending" | "correct" | "wrong" | "canceled" = "pending";
+        let finalScore: string | null = null;
+        let winnerName: string | null = null;
+
+        if (result?.status === "canceled") status = "canceled";
+        else if (result?.status === "finished") {
+          status = result.winnerId === pickedTeam?.id ? "correct" : "wrong";
+          finalScore = p.teams
+            .map((t) => result.scores.find((s) => s.teamId === t.id)?.score ?? 0)
+            .join(":");
+          winnerName = p.teams.find((t) => t.id === result.winnerId)?.name ?? null;
+        }
+
+        return {
+          matchId: p.matchId,
+          game: p.game,
+          createdAt: p.createdAt,
+          teams: p.teams.map((t) => t.name),
+          probs: p.probs,
+          pickedName: pickedTeam?.name ?? "",
+          pickedProb: p.probs[picked],
+          statusAtPrediction: p.statusAtPrediction,
+          scoreAtPrediction: p.scoreAtPrediction,
+          status,
+          finalScore,
+          winnerName,
+        };
+      })
+    );
+
+    items.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+    const decided = items.filter((i) => i.status === "correct" || i.status === "wrong");
+    const correct = decided.filter((i) => i.status === "correct").length;
+    return {
+      summary: {
+        total: items.length,
+        decided: decided.length,
+        correct,
+        accuracy: decided.length > 0 ? Math.round((correct / decided.length) * 100) : null,
+      },
+      items,
+    };
   });
 }
 

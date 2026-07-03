@@ -1,4 +1,5 @@
 import fastifyCors from "@fastify/cors";
+import fastifyRateLimit from "@fastify/rate-limit";
 import fastifyStatic from "@fastify/static";
 import Fastify from "fastify";
 import { existsSync } from "node:fs";
@@ -9,6 +10,16 @@ import { registerRoutes } from "./routes.js";
 const app = Fastify({ logger: true });
 
 await app.register(fastifyCors, { origin: true });
+// Защита квот Gemini/PandaScore от спама: общий лимит на IP,
+// на /api/analyze — отдельный жёсткий (задан в конфиге роута)
+await app.register(fastifyRateLimit, {
+  max: 60,
+  timeWindow: "1 minute",
+  errorResponseBuilder: () => ({
+    statusCode: 429,
+    error: "Слишком много запросов — подожди минуту",
+  }),
+});
 await registerRoutes(app);
 
 // В проде отдаём собранный фронтенд той же нодой

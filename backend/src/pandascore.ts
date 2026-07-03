@@ -95,6 +95,22 @@ export async function fetchMatchById(id: number): Promise<Match> {
   return mapMatch(raw, "cs2");
 }
 
+/** Итог матча для проверки точности прогноза. */
+export interface MatchResult {
+  status: string; // finished | running | not_started | canceled | ...
+  winnerId: number | null;
+  scores: { teamId: number; score: number }[];
+}
+
+export async function fetchMatchResult(id: number): Promise<MatchResult> {
+  const raw = await psGet<RawMatch>(`/matches/${id}`);
+  return {
+    status: raw.status,
+    winnerId: raw.winner_id,
+    scores: raw.results.map((r) => ({ teamId: r.team_id, score: r.score })),
+  };
+}
+
 /** Прошедшие матчи для вкладки «Прошедшие»: постранично, с поиском и фильтром по лиге. */
 export async function fetchPastMatches(
   game: Game,

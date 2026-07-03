@@ -1,4 +1,5 @@
 import type {
+  AccuracyResponse,
   AnalyzeResponse,
   DraftResponse,
   Game,
@@ -46,6 +47,11 @@ export async function getPastDrafts(match: PastMatch): Promise<PastDraftResponse
     body: JSON.stringify({ match }),
   });
   return handle<PastDraftResponse>(res);
+}
+
+export async function getAccuracy(): Promise<AccuracyResponse> {
+  const res = await fetch("/api/accuracy", { headers: tgHeaders() });
+  return handle<AccuracyResponse>(res);
 }
 
 export async function getDraft(matchId: number): Promise<DraftResponse> {
