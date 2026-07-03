@@ -23,3 +23,14 @@ try {
   app.log.error(err);
   process.exit(1);
 }
+
+// «Будильник»: free-тариф Render усыпляет сервис после ~15 минут без входящего
+// трафика. Пингуем свой публичный адрес каждые 10 минут — трафик идёт через
+// прокси Render и сбрасывает таймер сна. RENDER_EXTERNAL_URL задаёт сам Render.
+const externalUrl = process.env.RENDER_EXTERNAL_URL;
+if (externalUrl) {
+  setInterval(() => {
+    fetch(`${externalUrl}/api/health`).catch(() => {});
+  }, 10 * 60_000);
+  app.log.info(`keep-alive: ping ${externalUrl}/api/health every 10 min`);
+}
