@@ -28,6 +28,7 @@ export interface PastMatch {
   name: string;
   beginAt: string;
   league: string;
+  leagueId: number | null;
   serie: string;
   tournament: string;
   teams: Team[];

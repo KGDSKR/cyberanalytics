@@ -39,7 +39,7 @@ interface RawMatch {
   status: "not_started" | "running" | "finished" | "canceled" | "postponed";
   begin_at: string | null;
   number_of_games: number | null;
-  league: { name: string } | null;
+  league: { id: number; name: string } | null;
   serie: { full_name: string | null } | null;
   tournament: { name: string } | null;
   videogame: { slug: string } | null;
@@ -95,8 +95,13 @@ export async function fetchMatchById(id: number): Promise<Match> {
   return mapMatch(raw, "cs2");
 }
 
-/** Прошедшие матчи для вкладки «Прошедшие»: постранично, с поиском по названию. */
-export async function fetchPastMatches(game: Game, page = 1, search = ""): Promise<PastMatch[]> {
+/** Прошедшие матчи для вкладки «Прошедшие»: постранично, с поиском и фильтром по лиге. */
+export async function fetchPastMatches(
+  game: Game,
+  page = 1,
+  search = "",
+  leagueId?: number
+): Promise<PastMatch[]> {
   const tomorrow = new Date(Date.now() + 86_400_000).toISOString().slice(0, 19) + "Z";
   const params: Record<string, string> = {
     sort: "-end_at",
@@ -107,6 +112,7 @@ export async function fetchPastMatches(game: Game, page = 1, search = ""): Promi
     "range[end_at]": `2015-01-01T00:00:00Z,${tomorrow}`,
   };
   if (search) params["search[name]"] = search;
+  if (leagueId) params["filter[league_id]"] = String(leagueId);
   const raw = await psGet<RawMatch[]>(`/${GAME_SLUG[game]}/matches/past`, params);
   return raw
     .map((m) => {
@@ -123,6 +129,7 @@ export async function fetchPastMatches(game: Game, page = 1, search = ""): Promi
         name: m.name,
         beginAt: m.begin_at ?? "",
         league: m.league?.name ?? "",
+        leagueId: m.league?.id ?? null,
         serie: m.serie?.full_name ?? "",
         tournament: m.tournament?.name ?? "",
         teams,

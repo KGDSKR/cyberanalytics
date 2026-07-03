@@ -88,11 +88,17 @@ function PastCard({ match, index }: { match: PastMatch; index: number }) {
   );
 }
 
+interface LeagueChip {
+  id: number;
+  name: string;
+}
+
 export default function PastMatches() {
   const [game, setGame] = useState<Game>("cs2");
   const [q, setQ] = useState("");
   const [debouncedQ, setDebouncedQ] = useState("");
-  const [league, setLeague] = useState<string | null>(null);
+  const [league, setLeague] = useState<LeagueChip | null>(null);
+  const [chips, setChips] = useState<LeagueChip[]>([]);
   const [matches, setMatches] = useState<PastMatch[]>([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(true);
@@ -111,12 +117,23 @@ export default function PastMatches() {
     const seq = ++requestSeq.current;
     setLoading(true);
     setError(null);
-    getPastMatches(game, 1, debouncedQ)
+    getPastMatches(game, 1, debouncedQ, league?.id)
       .then((r) => {
         if (seq !== requestSeq.current) return;
         setMatches(r.matches);
         setPage(1);
         setHasMore(r.matches.length >= 50);
+        // Фишки строим по общей ленте (без фильтра), чтобы при выборе
+        // турнира остальные фишки не пропадали
+        if (!league) {
+          const seen = new Map<number, LeagueChip>();
+          for (const m of r.matches) {
+            if (m.leagueId && m.league && !seen.has(m.leagueId)) {
+              seen.set(m.leagueId, { id: m.leagueId, name: m.league });
+            }
+          }
+          setChips([...seen.values()].slice(0, 12));
+        }
       })
       .catch((e) => {
         if (seq !== requestSeq.current) return;
@@ -125,12 +142,12 @@ export default function PastMatches() {
       .finally(() => {
         if (seq === requestSeq.current) setLoading(false);
       });
-  }, [game, debouncedQ]);
+  }, [game, debouncedQ, league]);
 
   async function loadMore() {
     setLoadingMore(true);
     try {
-      const r = await getPastMatches(game, page + 1, debouncedQ);
+      const r = await getPastMatches(game, page + 1, debouncedQ, league?.id);
       setMatches((prev) => [...prev, ...r.matches]);
       setPage((p) => p + 1);
       setHasMore(r.matches.length >= 50);
@@ -141,13 +158,7 @@ export default function PastMatches() {
     }
   }
 
-  // Топ турниров из загруженных матчей (по числу матчей)
-  const leagueCounts = new Map<string, number>();
-  for (const m of matches) {
-    if (m.league) leagueCounts.set(m.league, (leagueCounts.get(m.league) ?? 0) + 1);
-  }
-  const topLeagues = [...leagueCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12);
-  const visible = league ? matches.filter((m) => m.league === league) : matches;
+  const visible = matches;
 
   return (
     <div>
@@ -171,7 +182,7 @@ export default function PastMatches() {
         onChange={(e) => setQ(e.target.value)}
       />
 
-      {!loading && topLeagues.length > 1 && (
+      {chips.length > 1 && (
         <div className="league-chips">
           <button
             className={`league-chip${league === null ? " league-chip--active" : ""}`}
@@ -179,13 +190,13 @@ export default function PastMatches() {
           >
             Все турниры
           </button>
-          {topLeagues.map(([name, count]) => (
+          {chips.map((c) => (
             <button
-              key={name}
-              className={`league-chip${league === name ? " league-chip--active" : ""}`}
-              onClick={() => setLeague(league === name ? null : name)}
+              key={c.id}
+              className={`league-chip${league?.id === c.id ? " league-chip--active" : ""}`}
+              onClick={() => setLeague(league?.id === c.id ? null : c)}
             >
-              {name} <span className="league-chip__count">{count}</span>
+              {c.name}
             </button>
           ))}
         </div>

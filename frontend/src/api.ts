@@ -26,9 +26,15 @@ export async function getMatches(): Promise<MatchesResponse> {
   return handle<MatchesResponse>(res);
 }
 
-export async function getPastMatches(game: Game, page: number, q: string): Promise<PastResponse> {
+export async function getPastMatches(
+  game: Game,
+  page: number,
+  q: string,
+  leagueId?: number | null
+): Promise<PastResponse> {
   const params = new URLSearchParams({ game, page: String(page) });
   if (q) params.set("q", q);
+  if (leagueId) params.set("league", String(leagueId));
   const res = await fetch(`/api/past?${params}`, { headers: tgHeaders() });
   return handle<PastResponse>(res);
 }

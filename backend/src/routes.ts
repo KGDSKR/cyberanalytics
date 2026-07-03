@@ -66,20 +66,21 @@ export async function registerRoutes(app: FastifyInstance) {
   });
 
   // Прошедшие матчи: постранично, с поиском
-  app.get<{ Querystring: { game?: string; page?: string; q?: string } }>(
+  app.get<{ Querystring: { game?: string; page?: string; q?: string; league?: string } }>(
     "/api/past",
     async (req, reply) => {
       const game = (req.query.game === "dota2" ? "dota2" : "cs2") as Game;
       const page = Math.max(1, Number(req.query.page) || 1);
       const q = (req.query.q ?? "").trim().slice(0, 60);
+      const leagueId = Number(req.query.league) || 0;
       if (!hasPandascore()) return { matches: [], demo: true };
 
-      const key = `past:${game}:${page}:${q.toLowerCase()}`;
+      const key = `past:${game}:${page}:${q.toLowerCase()}:${leagueId}`;
       const cached = cacheGet<PastMatch[]>(key);
       if (cached) return { matches: cached, demo: false };
 
       try {
-        const matches = await fetchPastMatches(game, page, q);
+        const matches = await fetchPastMatches(game, page, q, leagueId || undefined);
         cacheSet(key, matches, 5 * 60_000);
         return { matches, demo: false };
       } catch (err) {
