@@ -1,0 +1,21 @@
+{
+  "matchId": 1551617,
+  "game": "cs2",
+  "createdAt": "2026-07-03T15:08:59.420Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133458,
+      "name": "BetBoom Team"
+    },
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
