@@ -1,0 +1,21 @@
+{
+  "matchId": 1555120,
+  "game": "cs2",
+  "createdAt": "2026-07-03T19:44:00.439Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 138033,
+      "name": "Blitzkrieg"
+    }
+  ],
+  "probs": [
+    95,
+    5
+  ]
+}
