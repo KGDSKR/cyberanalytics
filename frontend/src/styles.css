@@ -113,6 +113,38 @@ body {
 .search:focus { border-color: var(--accent); }
 .search::placeholder { color: var(--muted); }
 
+/* Фильтр по турнирам (концепт) */
+.league-chips {
+  display: flex;
+  gap: 7px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+  scrollbar-width: none;
+}
+.league-chips::-webkit-scrollbar { display: none; }
+.league-chip {
+  flex-shrink: 0;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--muted);
+  font-family: var(--body);
+  font-size: 12px;
+  font-weight: 700;
+  padding: 7px 13px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+.league-chip:hover { border-color: var(--accent); }
+.league-chip--active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--bg);
+}
+.league-chip__count { opacity: 0.6; font-weight: 600; margin-left: 2px; }
+
 .past-card { cursor: default; }
 .past-winner { opacity: 1; }
 .past-loser { opacity: 0.45; }
