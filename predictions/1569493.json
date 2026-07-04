@@ -1,0 +1,21 @@
+{
+  "matchId": 1569493,
+  "game": "cs2",
+  "createdAt": "2026-07-04T16:18:41.114Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138879,
+      "name": "Team hooch"
+    },
+    {
+      "id": 138881,
+      "name": "Team shoke"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
