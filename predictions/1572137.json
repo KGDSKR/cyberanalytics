@@ -1,0 +1,21 @@
+{
+  "matchId": 1572137,
+  "game": "cs2",
+  "createdAt": "2026-07-04T17:18:38.325Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138899,
+      "name": "maybe"
+    },
+    {
+      "id": 138465,
+      "name": "Arch"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
