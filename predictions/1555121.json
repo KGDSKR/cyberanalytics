@@ -1,0 +1,21 @@
+{
+  "matchId": 1555121,
+  "game": "cs2",
+  "createdAt": "2026-07-04T15:08:38.035Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129800,
+      "name": "MIBR Academy"
+    },
+    {
+      "id": 138892,
+      "name": "ex-Vexa"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
