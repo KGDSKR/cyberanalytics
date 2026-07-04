@@ -1,0 +1,21 @@
+{
+  "matchId": 1550168,
+  "game": "cs2",
+  "createdAt": "2026-07-04T12:26:34.559Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138026,
+      "name": "Atreides"
+    },
+    {
+      "id": 137028,
+      "name": "Endless Journey"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
