@@ -1,0 +1,21 @@
+{
+  "matchId": 1569494,
+  "game": "cs2",
+  "createdAt": "2026-07-04T12:30:42.550Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138880,
+      "name": "Team Aunkere"
+    },
+    {
+      "id": 138881,
+      "name": "Team shoke"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
