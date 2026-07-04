@@ -1,0 +1,21 @@
+{
+  "matchId": 1572133,
+  "game": "cs2",
+  "createdAt": "2026-07-04T15:28:42.955Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138419,
+      "name": "PURE"
+    },
+    {
+      "id": 135913,
+      "name": "Diamant Esports"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
