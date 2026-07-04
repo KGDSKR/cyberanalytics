@@ -1,0 +1,21 @@
+{
+  "matchId": 1550169,
+  "game": "cs2",
+  "createdAt": "2026-07-04T12:48:38.440Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
