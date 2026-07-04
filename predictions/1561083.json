@@ -1,0 +1,21 @@
+{
+  "matchId": 1561083,
+  "game": "dota2",
+  "createdAt": "2026-07-04T12:10:21.749Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138854,
+      "name": "Team AION"
+    },
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
