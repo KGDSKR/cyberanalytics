@@ -1,0 +1,21 @@
+{
+  "matchId": 1555123,
+  "game": "cs2",
+  "createdAt": "2026-07-04T21:08:59.551Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135580,
+      "name": "Game Hunters"
+    },
+    {
+      "id": 127214,
+      "name": "Red Feet"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
