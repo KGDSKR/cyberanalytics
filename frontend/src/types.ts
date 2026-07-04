@@ -14,6 +14,8 @@ export interface Match {
   game: Game;
   status: "upcoming" | "live";
   score: string | null;
+  roundScore: string | null;
+  mapName: string | null;
   league: string;
   serie: string;
   tournament: string;

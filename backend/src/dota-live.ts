@@ -38,7 +38,7 @@ function norm(name: string): string {
     .replace(/[^a-z0-9а-яё]/g, "");
 }
 
-function sameTeam(a: string, b: string): boolean {
+export function sameTeam(a: string, b: string): boolean {
   const na = norm(a);
   const nb = norm(b);
   if (!na || !nb) return false;

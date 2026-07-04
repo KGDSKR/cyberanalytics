@@ -13,7 +13,9 @@ export interface Match {
   beginAt: string; // ISO 8601
   game: Game;
   status: "upcoming" | "live";
-  score: string | null; // текущий счёт для live, например "1:0"
+  score: string | null; // текущий счёт по картам для live, например "1:0"
+  roundScore: string | null; // CS2 live: раунды текущей карты, например "7:11"
+  mapName: string | null; // CS2 live: текущая карта, например "Ancient"
   league: string;
   serie: string;
   tournament: string;

@@ -72,6 +72,8 @@ function mapMatch(raw: RawMatch, fallbackGame: Game): Match {
     game: VIDEOGAME_TO_GAME[raw.videogame?.slug ?? ""] ?? fallbackGame,
     status: live ? "live" : "upcoming",
     score,
+    roundScore: null, // заполняется из bo3.gg в routes для live CS2
+    mapName: null,
     league: raw.league?.name ?? "",
     serie: raw.serie?.full_name ?? "",
     tournament: raw.tournament?.name ?? "",

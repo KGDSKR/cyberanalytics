@@ -95,7 +95,19 @@ export default function AnalysisView({ match, onBack }: { match: Match; onBack: 
       <div className="analysis__header">
         <div className="analysis__teams">
           <TeamBadge {...a} />
-          <span className="vs vs--big">VS</span>
+          {match.status === "live" && match.score ? (
+            <div className="live-score">
+              <span className="score">{(match.roundScore ?? match.score).replace(":", " : ")}</span>
+              {match.roundScore && (
+                <span className="live-score__sub">
+                  карты {match.score}
+                  {match.mapName ? ` · ${match.mapName}` : ""}
+                </span>
+              )}
+            </div>
+          ) : (
+            <span className="vs vs--big">VS</span>
+          )}
           <TeamBadge {...b} />
         </div>
         <div className="analysis__league">{match.league} · {match.serie || match.tournament}</div>

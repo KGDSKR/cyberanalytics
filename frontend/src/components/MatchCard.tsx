@@ -51,7 +51,15 @@ export default function MatchCard({ match, index, onClick }: { match: Match; ind
       <div className="match-card__teams">
         <TeamBadge {...a} />
         {live && match.score ? (
-          <span className="score">{match.score.replace(":", " : ")}</span>
+          <div className="live-score">
+            <span className="score">{(match.roundScore ?? match.score).replace(":", " : ")}</span>
+            {match.roundScore && (
+              <span className="live-score__sub">
+                карты {match.score}
+                {match.mapName ? ` · ${match.mapName}` : ""}
+              </span>
+            )}
+          </div>
         ) : (
           <span className="vs">VS</span>
         )}

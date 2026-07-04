@@ -122,6 +122,11 @@ function buildUserPrompt(ctx: AnalysisContext): string {
   ];
   if (match.status === "live") {
     lines.push(`⚠️ Матч уже идёт! Текущий счёт по картам/играм: ${match.score ?? "неизвестен"} (в порядке команд выше).`);
+    if (match.roundScore) {
+      lines.push(
+        `Текущая карта${match.mapName ? ` (${match.mapName})` : ""} — счёт по раундам: ${match.roundScore}. Учитывай это в вероятностях (карта до 13 раундов).`
+      );
+    }
   }
   if (ctx.liveDraft) {
     const d = ctx.liveDraft;

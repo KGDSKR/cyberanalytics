@@ -305,6 +305,21 @@ body {
   white-space: nowrap;
 }
 
+.live-score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+}
+.live-score__sub {
+  font-size: 10px;
+  color: var(--muted);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+
 .game-chip {
   display: inline-block;
   border: 1px solid var(--line);

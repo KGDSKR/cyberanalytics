@@ -4,6 +4,7 @@ import { join } from "node:path";
 import { extractPrediction, generateAnalysis, type AnalysisContext } from "./ai.js";
 import { cacheGet, cacheSet } from "./cache.js";
 import { activeAiProvider, config, hasPandascore } from "./config.js";
+import { fetchCsRounds } from "./cs-live.js";
 import { fetchLiveDraft, fetchPastDrafts } from "./dota-live.js";
 import { listPredictions, savePredictionOnce, type PredictionRecord } from "./github-store.js";
 import { mockMatches } from "./mock-data.js";
@@ -66,6 +67,18 @@ export async function registerRoutes(app: FastifyInstance) {
         if (m1.status !== m2.status) return m1.status === "live" ? -1 : 1;
         return m1.beginAt.localeCompare(m2.beginAt);
       });
+      // Раунды текущей карты для live CS2 (bo3.gg); сбой источника не роняет список
+      await Promise.all(
+        matches
+          .filter((m) => m.game === "cs2" && m.status === "live" && m.teams.length === 2)
+          .map(async (m) => {
+            const live = await fetchCsRounds(m.teams[0]!.name, m.teams[1]!.name).catch(() => null);
+            if (live) {
+              m.roundScore = `${live.rounds[0]}:${live.rounds[1]}`;
+              m.mapName = live.mapName;
+            }
+          })
+      );
     } else {
       matches = mockMatches();
     }
