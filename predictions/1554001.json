@@ -1,0 +1,21 @@
+{
+  "matchId": 1554001,
+  "game": "cs2",
+  "createdAt": "2026-07-04T12:27:21.370Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
