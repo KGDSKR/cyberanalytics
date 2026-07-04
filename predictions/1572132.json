@@ -1,0 +1,21 @@
+{
+  "matchId": 1572132,
+  "game": "cs2",
+  "createdAt": "2026-07-04T15:29:20.542Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    },
+    {
+      "id": 138875,
+      "name": "Al Ahli"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
