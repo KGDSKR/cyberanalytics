@@ -1,0 +1,21 @@
+{
+  "matchId": 1561088,
+  "game": "dota2",
+  "createdAt": "2026-07-04T12:31:50.517Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136035,
+      "name": "Habibis"
+    },
+    {
+      "id": 138855,
+      "name": "Invision"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
