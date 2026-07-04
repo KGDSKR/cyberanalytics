@@ -133,10 +133,10 @@ function buildUserPrompt(ctx: AnalysisContext): string {
     const [a, b] = match.teams;
     lines.push(
       "",
-      `### Live-данные текущей карты (минута ${d.gameTimeMin}):`,
+      `### Live-данные текущей карты${d.gameTimeMin !== null ? ` (минута ${d.gameTimeMin})` : " (карта только началась)"}:`,
       `- Драфт ${a?.name}: ${d.heroes[0].join(", ") || "драфт ещё идёт"}`,
       `- Драфт ${b?.name}: ${d.heroes[1].join(", ") || "драфт ещё идёт"}`,
-      `- Киллы: ${d.kills[0]}:${d.kills[1]}`,
+      d.kills !== null ? `- Киллы: ${d.kills[0]}:${d.kills[1]}` : "- Киллы: данных ещё нет",
       d.goldLead !== null
         ? `- Золото: ${d.goldLead >= 0 ? `+${d.goldLead} у ${a?.name}` : `+${-d.goldLead} у ${b?.name}`}`
         : "- Золото: нет данных"

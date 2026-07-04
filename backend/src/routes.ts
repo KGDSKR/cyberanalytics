@@ -1,23 +1,22 @@
 import type { FastifyInstance } from "fastify";
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { readFile } from "node:fs/promises";
 import { join } from "node:path";
-import { extractPrediction, generateAnalysis, type AnalysisContext } from "./ai.js";
+import { produceAnalysis } from "./analysis-service.js";
 import { cacheGet, cacheSet } from "./cache.js";
 import { activeAiProvider, config, hasPandascore } from "./config.js";
 import { fetchCsRounds } from "./cs-live.js";
 import { fetchLiveDraft, fetchPastDrafts } from "./dota-live.js";
-import { listPredictions, savePredictionOnce, type PredictionRecord } from "./github-store.js";
+import { listPredictions } from "./github-store.js";
 import { mockMatches } from "./mock-data.js";
 import {
   fetchMatchById,
   fetchMatches,
   fetchMatchResult,
   fetchPastMatches,
-  fetchTeamRecentMatches,
   type MatchResult,
 } from "./pandascore.js";
 import { validateInitData } from "./telegram.js";
-import type { Game, Match, PastMatch, PastMatchSummary } from "./types.js";
+import type { Game, Match, PastMatch } from "./types.js";
 
 // Кэш короткий: у live-матчей меняется счёт
 const MATCHES_TTL_MS = 30_000;
@@ -165,38 +164,17 @@ export async function registerRoutes(app: FastifyInstance) {
       return { analysis: saved.analysis, cached: true, demo: saved.demo };
     }
 
-    const ctx = await buildContext(match);
-    const { text: analysis, probs } = extractPrediction(await generateAnalysis(ctx));
-    const demo = activeAiProvider() === "none";
-
-    await mkdir(join(config.dataDir, "analyses"), { recursive: true });
-    await writeFile(
-      file,
-      JSON.stringify({ matchId, match, analysis, demo, createdAt: new Date().toISOString() }, null, 2),
-      "utf8"
-    );
-
-    // Фиксируем прогноз для трекинга точности (первый прогноз — окончательный)
-    if (probs && !demo && match.teams.length === 2) {
-      const rec: PredictionRecord = {
-        matchId,
-        game: match.game,
-        createdAt: new Date().toISOString(),
-        statusAtPrediction: match.status,
-        scoreAtPrediction: match.score,
-        teams: match.teams.map((t) => ({ id: t.id, name: t.name })),
-        probs,
-      };
-      savePredictionOnce(rec).catch((err) => app.log.error(err, "prediction save failed"));
-    }
-
+    const { analysis, demo } = await produceAnalysis(match, app.log);
     return { analysis, cached: false, demo };
     }
   );
 
   // Проверка точности прогнозов: сверяем сохранённые прогнозы с итогами матчей
   app.get("/api/accuracy", async () => {
-    const preds = await listPredictions();
+    // прогнозы теперь пишутся автоматически на все матчи — показываем свежую сотню
+    const preds = (await listPredictions())
+      .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
+      .slice(0, 100);
     const items = await Promise.all(
       preds.map(async (p) => {
         let result: MatchResult | null = cacheGet<MatchResult>(`result:${p.matchId}`) ?? null;
@@ -270,30 +248,3 @@ async function findMatch(matchId: number): Promise<Match | undefined> {
   }
 }
 
-async function buildContext(match: Match): Promise<AnalysisContext> {
-  if (!hasPandascore()) {
-    return { match, recentByTeam: {}, headToHead: [], dataSource: "none" };
-  }
-
-  const recentByTeam: Record<string, PastMatchSummary[]> = {};
-  await Promise.all(
-    match.teams.map(async (team) => {
-      recentByTeam[team.name] = await fetchTeamRecentMatches(match.game, team.id).catch(() => []);
-    })
-  );
-
-  // Личные встречи: матчи первой команды, где соперником была вторая
-  const [teamA, teamB] = match.teams;
-  const headToHead =
-    teamA && teamB
-      ? (recentByTeam[teamA.name] ?? []).filter((m) => m.opponentName === teamB.name)
-      : [];
-
-  // Для идущего матча Dota 2 — подтягиваем драфт текущей карты
-  const liveDraft =
-    match.game === "dota2" && match.status === "live" && teamA && teamB
-      ? await fetchLiveDraft(teamA.name, teamB.name).catch(() => null)
-      : null;
-
-  return { match, recentByTeam, headToHead, liveDraft, dataSource: "pandascore" };
-}

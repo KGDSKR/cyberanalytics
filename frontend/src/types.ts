@@ -87,9 +87,10 @@ export interface AccuracyResponse {
 }
 
 export interface LiveDraft {
-  gameTimeMin: number;
-  kills: [number, number];
+  gameTimeMin: number | null;
+  kills: [number, number] | null;
   goldLead: number | null;
+  delayMin: number | null;
   heroes: [string[], string[]];
   source: "steam" | "opendota";
 }

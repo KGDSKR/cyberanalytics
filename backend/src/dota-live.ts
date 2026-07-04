@@ -10,9 +10,10 @@ import type { PastMapDraft, PastMatch } from "./types.js";
  * и OpenDota (без ключа, но видит только топовые игры).
  */
 export interface LiveDraft {
-  gameTimeMin: number;
-  kills: [number, number]; // [команда A, команда B] в порядке команд матча
+  gameTimeMin: number | null; // null — табло DotaTV ещё не прогрузилось
+  kills: [number, number] | null; // [команда A, команда B] в порядке команд матча
   goldLead: number | null; // >0 — преимущество команды A
+  delayMin: number | null; // задержка DotaTV, заданная турниром
   heroes: [string[], string[]];
   source: "steam" | "opendota";
 }
@@ -48,10 +49,11 @@ export function sameTeam(a: string, b: string): boolean {
 interface FoundGame {
   radiantName: string;
   direName: string;
-  gameTimeSec: number;
-  radiantKills: number;
-  direKills: number;
+  gameTimeSec: number | null; // null — счётной инфы ещё нет
+  radiantKills: number | null;
+  direKills: number | null;
   radiantGoldLead: number | null;
+  delaySec: number | null;
   radiantHeroIds: number[];
   direHeroIds: number[];
   source: "steam" | "opendota";
@@ -66,6 +68,7 @@ interface SteamGame {
   radiant_team?: { team_name: string };
   dire_team?: { team_name: string };
   players?: SteamPlayer[];
+  stream_delay_s?: number;
   scoreboard?: {
     duration: number;
     radiant?: { score: number; players?: { net_worth?: number }[] };
@@ -86,13 +89,17 @@ async function steamLiveGames(): Promise<FoundGame[]> {
         players?.reduce((s, p) => s + (p.net_worth ?? 0), 0) ?? 0;
       const radNw = sumNw(g.scoreboard?.radiant?.players);
       const dirNw = sumNw(g.scoreboard?.dire?.players);
+      // Табло DotaTV прогружается через несколько минут после начала карты —
+      // пока его нет, честно отдаём null, а не «0-я минута»
+      const hasBoard = g.scoreboard !== undefined && (g.scoreboard.duration ?? 0) > 0;
       return {
         radiantName: g.radiant_team?.team_name ?? "",
         direName: g.dire_team?.team_name ?? "",
-        gameTimeSec: g.scoreboard?.duration ?? 0,
-        radiantKills: g.scoreboard?.radiant?.score ?? 0,
-        direKills: g.scoreboard?.dire?.score ?? 0,
-        radiantGoldLead: radNw + dirNw > 0 ? radNw - dirNw : null,
+        gameTimeSec: hasBoard ? g.scoreboard!.duration : null,
+        radiantKills: hasBoard ? (g.scoreboard!.radiant?.score ?? 0) : null,
+        direKills: hasBoard ? (g.scoreboard!.dire?.score ?? 0) : null,
+        radiantGoldLead: hasBoard && radNw + dirNw > 0 ? radNw - dirNw : null,
+        delaySec: g.stream_delay_s ?? null,
         radiantHeroIds: (g.players ?? []).filter((p) => p.team === 0 && p.hero_id > 0).map((p) => p.hero_id),
         direHeroIds: (g.players ?? []).filter((p) => p.team === 1 && p.hero_id > 0).map((p) => p.hero_id),
         source: "steam" as const,
@@ -121,10 +128,11 @@ async function opendotaLiveGames(): Promise<FoundGame[]> {
     .map((g) => ({
       radiantName: g.team_name_radiant ?? "",
       direName: g.team_name_dire ?? "",
-      gameTimeSec: g.game_time ?? 0,
-      radiantKills: g.radiant_score ?? 0,
-      direKills: g.dire_score ?? 0,
+      gameTimeSec: g.game_time && g.game_time > 0 ? g.game_time : null,
+      radiantKills: g.radiant_score ?? null,
+      direKills: g.dire_score ?? null,
       radiantGoldLead: g.radiant_lead ?? null,
+      delaySec: null,
       radiantHeroIds: (g.players ?? []).filter((p) => p.team === 0 && p.hero_id > 0).map((p) => p.hero_id),
       direHeroIds: (g.players ?? []).filter((p) => p.team === 1 && p.hero_id > 0).map((p) => p.hero_id),
       source: "opendota" as const,
@@ -275,21 +283,25 @@ export async function fetchLiveDraft(teamA: string, teamB: string): Promise<Live
   const aIsRadiant = sameTeam(found.radiantName, teamA);
 
   const draft: LiveDraft = {
-    gameTimeMin: Math.round(found.gameTimeSec / 60),
-    kills: aIsRadiant
-      ? [found.radiantKills, found.direKills]
-      : [found.direKills, found.radiantKills],
+    gameTimeMin: found.gameTimeSec === null ? null : Math.round(found.gameTimeSec / 60),
+    kills:
+      found.radiantKills === null || found.direKills === null
+        ? null
+        : aIsRadiant
+          ? [found.radiantKills, found.direKills]
+          : [found.direKills, found.radiantKills],
     goldLead:
       found.radiantGoldLead === null
         ? null
         : aIsRadiant
           ? found.radiantGoldLead
           : -found.radiantGoldLead,
+    delayMin: found.delaySec === null ? null : Math.round(found.delaySec / 60),
     heroes: aIsRadiant
       ? [nameOf(found.radiantHeroIds), nameOf(found.direHeroIds)]
       : [nameOf(found.direHeroIds), nameOf(found.radiantHeroIds)],
     source: found.source,
   };
-  cacheSet(cacheKey, draft, 45_000);
+  cacheSet(cacheKey, draft, 20_000);
   return draft;
 }

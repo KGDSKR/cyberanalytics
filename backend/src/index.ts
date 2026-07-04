@@ -4,6 +4,7 @@ import fastifyStatic from "@fastify/static";
 import Fastify from "fastify";
 import { existsSync } from "node:fs";
 import { resolve } from "node:path";
+import { startAutoPredict } from "./auto-predict.js";
 import { config } from "./config.js";
 import { registerRoutes } from "./routes.js";
 
@@ -45,3 +46,6 @@ if (externalUrl) {
   }, 10 * 60_000);
   app.log.info(`keep-alive: ping ${externalUrl}/api/health every 10 min`);
 }
+
+// Автопрогнозы на все матчи ближайшего часа — для вкладки «Точность»
+startAutoPredict(app.log);

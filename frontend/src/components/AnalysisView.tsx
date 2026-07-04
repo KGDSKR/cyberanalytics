@@ -19,12 +19,18 @@ function DraftBlock({ match, draft }: { match: Match; draft: LiveDraft }) {
   return (
     <div className="draft">
       <div className="draft__meta">
-        <span><span className="live-dot" /> {draft.gameTimeMin}-я мин</span>
-        <span>Киллы {draft.kills[0]}:{draft.kills[1]}</span>
+        <span>
+          <span className="live-dot" />{" "}
+          {draft.gameTimeMin !== null ? `${draft.gameTimeMin}-я мин` : "начало карты"}
+        </span>
+        {draft.kills !== null && <span>Киллы {draft.kills[0]}:{draft.kills[1]}</span>}
         {gold !== null && gold !== 0 && (
           <span className="draft__gold">
             +{(Math.abs(gold) / 1000).toFixed(1)}k 🪙 {gold > 0 ? a?.acronym ?? a?.name : b?.acronym ?? b?.name}
           </span>
+        )}
+        {draft.delayMin !== null && draft.delayMin > 0 && (
+          <span className="draft__delay">задержка DotaTV ~{draft.delayMin} мин</span>
         )}
       </div>
       {[0, 1].map((i) => (
@@ -53,7 +59,7 @@ export default function AnalysisView({ match, onBack }: { match: Match; onBack: 
     let stopped = false;
     const load = () => getDraft(match.id).then((r) => { if (!stopped) setDraft(r.draft); }).catch(() => {});
     load();
-    const t = setInterval(load, 60_000);
+    const t = setInterval(load, 30_000);
     return () => { stopped = true; clearInterval(t); };
   }, [match]);
 

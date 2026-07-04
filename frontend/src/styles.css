@@ -486,6 +486,13 @@ body {
 }
 .draft__meta .live-dot { display: inline-block; margin-right: 2px; }
 .draft__gold { color: var(--accent); }
+.draft__delay {
+  margin-left: auto;
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--muted);
+  opacity: 0.8;
+}
 .draft__row {
   display: flex;
   align-items: baseline;
