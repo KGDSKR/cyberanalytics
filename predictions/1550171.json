@@ -1,0 +1,21 @@
+{
+  "matchId": 1550171,
+  "game": "cs2",
+  "createdAt": "2026-07-05T13:44:00.013Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137028,
+      "name": "Endless Journey"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
