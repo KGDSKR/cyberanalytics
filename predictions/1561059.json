@@ -1,0 +1,21 @@
+{
+  "matchId": 1561059,
+  "game": "dota2",
+  "createdAt": "2026-07-05T09:04:01.978Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    },
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
