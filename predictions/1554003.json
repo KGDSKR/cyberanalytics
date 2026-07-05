@@ -1,0 +1,21 @@
+{
+  "matchId": 1554003,
+  "game": "cs2",
+  "createdAt": "2026-07-05T09:34:43.297Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
