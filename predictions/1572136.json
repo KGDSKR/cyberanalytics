@@ -1,0 +1,21 @@
+{
+  "matchId": 1572136,
+  "game": "cs2",
+  "createdAt": "2026-07-05T17:23:52.104Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138897,
+      "name": "TrafficPills Esports"
+    },
+    {
+      "id": 138898,
+      "name": "TheBoys"
+    }
+  ],
+  "probs": [
+    50,
+    50
+  ]
+}
