@@ -1,0 +1,21 @@
+{
+  "matchId": 1555126,
+  "game": "cs2",
+  "createdAt": "2026-07-05T21:05:08.319Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 136596,
+      "name": "MAGICOS"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
