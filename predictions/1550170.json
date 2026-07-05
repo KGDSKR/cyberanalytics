@@ -1,0 +1,21 @@
+{
+  "matchId": 1550170,
+  "game": "cs2",
+  "createdAt": "2026-07-05T10:04:00.956Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138026,
+      "name": "Atreides"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
