@@ -1,0 +1,21 @@
+{
+  "matchId": 1561091,
+  "game": "dota2",
+  "createdAt": "2026-07-05T15:05:32.968Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138858,
+      "name": "RE.Arise"
+    },
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
