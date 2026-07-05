@@ -1,0 +1,21 @@
+{
+  "matchId": 1568953,
+  "game": "cs2",
+  "createdAt": "2026-07-05T02:03:57.828Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138303,
+      "name": "Alpha Dominion Nation"
+    },
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
