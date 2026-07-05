@@ -1,0 +1,21 @@
+{
+  "matchId": 1572134,
+  "game": "cs2",
+  "createdAt": "2026-07-05T17:24:43.584Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138358,
+      "name": "banda chuya"
+    },
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
