@@ -1,0 +1,21 @@
+{
+  "matchId": 1555125,
+  "game": "cs2",
+  "createdAt": "2026-07-05T18:04:07.518Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    },
+    {
+      "id": 127214,
+      "name": "Red Feet"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
