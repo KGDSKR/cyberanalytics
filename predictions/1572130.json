@@ -1,0 +1,21 @@
+{
+  "matchId": 1572130,
+  "game": "cs2",
+  "createdAt": "2026-07-05T14:34:42.755Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138288,
+      "name": "Basement Bobs"
+    },
+    {
+      "id": 138400,
+      "name": "mellren"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
