@@ -1,0 +1,21 @@
+{
+  "matchId": 1575316,
+  "game": "cs2",
+  "createdAt": "2026-07-06T16:31:26.864Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    },
+    {
+      "id": 135913,
+      "name": "Diamant Esports"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
