@@ -1,0 +1,21 @@
+{
+  "matchId": 1561064,
+  "game": "dota2",
+  "createdAt": "2026-07-06T12:09:50.587Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138272,
+      "name": "BALU"
+    },
+    {
+      "id": 138857,
+      "name": "Team Syntax"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
