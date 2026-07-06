@@ -1,0 +1,21 @@
+{
+  "matchId": 1555130,
+  "game": "cs2",
+  "createdAt": "2026-07-06T21:04:21.412Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3225,
+      "name": "Keyd"
+    },
+    {
+      "id": 135580,
+      "name": "Game Hunters"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
