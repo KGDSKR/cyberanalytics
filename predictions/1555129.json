@@ -1,0 +1,21 @@
+{
+  "matchId": 1555129,
+  "game": "cs2",
+  "createdAt": "2026-07-06T18:03:57.838Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136029,
+      "name": "Fake do Biru"
+    },
+    {
+      "id": 138892,
+      "name": "ex-Vexa"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
