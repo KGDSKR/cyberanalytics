@@ -1,0 +1,21 @@
+{
+  "matchId": 1555127,
+  "game": "cs2",
+  "createdAt": "2026-07-06T12:27:42.370Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126377,
+      "name": "Imperial"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
