@@ -1,0 +1,21 @@
+{
+  "matchId": 1555128,
+  "game": "cs2",
+  "createdAt": "2026-07-06T15:04:31.463Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131570,
+      "name": "Fluxo"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
