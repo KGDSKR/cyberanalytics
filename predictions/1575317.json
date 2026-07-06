@@ -1,0 +1,21 @@
+{
+  "matchId": 1575317,
+  "game": "cs2",
+  "createdAt": "2026-07-06T17:36:23.435Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 138688,
+      "name": "Next UP"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
