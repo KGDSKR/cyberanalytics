@@ -1,0 +1,21 @@
+{
+  "matchId": 1561061,
+  "game": "dota2",
+  "createdAt": "2026-07-06T09:03:59.836Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138857,
+      "name": "Team Syntax"
+    },
+    {
+      "id": 138760,
+      "name": "summer bear"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
