@@ -1,0 +1,21 @@
+{
+  "matchId": 1575318,
+  "game": "cs2",
+  "createdAt": "2026-07-06T17:24:14.840Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
