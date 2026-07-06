@@ -1,0 +1,21 @@
+{
+  "matchId": 1568958,
+  "game": "cs2",
+  "createdAt": "2026-07-06T07:03:56.764Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
