@@ -1,0 +1,21 @@
+{
+  "matchId": 1575321,
+  "game": "cs2",
+  "createdAt": "2026-07-07T17:25:25.685Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138875,
+      "name": "Al Ahli"
+    },
+    {
+      "id": 138419,
+      "name": "PURE"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
