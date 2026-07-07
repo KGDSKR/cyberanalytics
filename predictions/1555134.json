@@ -1,0 +1,21 @@
+{
+  "matchId": 1555134,
+  "game": "cs2",
+  "createdAt": "2026-07-07T21:04:02.922Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133326,
+      "name": "Bounty Hunters Esports"
+    },
+    {
+      "id": 129800,
+      "name": "MIBR Academy"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
