@@ -1,0 +1,21 @@
+{
+  "matchId": 1565626,
+  "game": "dota2",
+  "createdAt": "2026-07-07T13:14:30.763Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136650,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 135712,
+      "name": "PARIVISION"
+    }
+  ],
+  "probs": [
+    2,
+    72
+  ]
+}
