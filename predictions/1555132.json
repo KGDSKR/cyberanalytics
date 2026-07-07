@@ -1,0 +1,21 @@
+{
+  "matchId": 1555132,
+  "game": "cs2",
+  "createdAt": "2026-07-07T15:04:42.384Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131848,
+      "name": "largadosypelados"
+    },
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
