@@ -1,0 +1,21 @@
+{
+  "matchId": 1575319,
+  "game": "cs2",
+  "createdAt": "2026-07-07T14:34:58.822Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138358,
+      "name": "banda chuya"
+    },
+    {
+      "id": 138087,
+      "name": " Gatorian"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
