@@ -1,0 +1,21 @@
+{
+  "matchId": 1565641,
+  "game": "dota2",
+  "createdAt": "2026-07-07T15:37:35.480Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    },
+    {
+      "id": 1651,
+      "name": "Virtus.pro"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
