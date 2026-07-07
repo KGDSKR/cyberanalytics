@@ -1,0 +1,21 @@
+{
+  "matchId": 1575320,
+  "game": "cs2",
+  "createdAt": "2026-07-07T14:34:02.711Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138897,
+      "name": "TrafficPills Esports"
+    },
+    {
+      "id": 138465,
+      "name": "Arch"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
