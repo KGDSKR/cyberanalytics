@@ -1,0 +1,21 @@
+{
+  "matchId": 1555133,
+  "game": "cs2",
+  "createdAt": "2026-07-07T18:04:18.680Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130605,
+      "name": "UNO MILLE"
+    },
+    {
+      "id": 128624,
+      "name": "Patins da Ferrari"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
