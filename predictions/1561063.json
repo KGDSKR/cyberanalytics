@@ -1,0 +1,21 @@
+{
+  "matchId": 1561063,
+  "game": "dota2",
+  "createdAt": "2026-07-07T15:05:25.414Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138854,
+      "name": "Team AION"
+    },
+    {
+      "id": 138759,
+      "name": "Hive"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
