@@ -1,0 +1,21 @@
+{
+  "matchId": 1565625,
+  "game": "dota2",
+  "createdAt": "2026-07-07T13:07:07.947Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137156,
+      "name": "REKONIX"
+    },
+    {
+      "id": 1676,
+      "name": "Vici Gaming"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
