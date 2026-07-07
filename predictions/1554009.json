@@ -1,0 +1,21 @@
+{
+  "matchId": 1554009,
+  "game": "cs2",
+  "createdAt": "2026-07-07T07:04:47.061Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    },
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
