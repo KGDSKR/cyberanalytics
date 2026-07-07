@@ -1,0 +1,21 @@
+{
+  "matchId": 1568945,
+  "game": "cs2",
+  "createdAt": "2026-07-07T07:04:04.610Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    },
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
