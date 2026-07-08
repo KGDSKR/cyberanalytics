@@ -1,0 +1,21 @@
+{
+  "matchId": 1565614,
+  "game": "dota2",
+  "createdAt": "2026-07-08T10:34:17.261Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1647,
+      "name": "Team Liquid"
+    },
+    {
+      "id": 1948,
+      "name": "Level UP"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
