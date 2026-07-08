@@ -1,0 +1,21 @@
+{
+  "matchId": 1568950,
+  "game": "cs2",
+  "createdAt": "2026-07-08T07:03:56.860Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    },
+    {
+      "id": 138280,
+      "name": "Västerås"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
