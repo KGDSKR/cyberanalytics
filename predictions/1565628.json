@@ -1,0 +1,21 @@
+{
+  "matchId": 1565628,
+  "game": "dota2",
+  "createdAt": "2026-07-08T13:07:19.194Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137156,
+      "name": "REKONIX"
+    },
+    {
+      "id": 134559,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
