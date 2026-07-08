@@ -1,0 +1,21 @@
+{
+  "matchId": 1574384,
+  "game": "cs2",
+  "createdAt": "2026-07-08T21:04:04.864Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3225,
+      "name": "Keyd"
+    },
+    {
+      "id": 129800,
+      "name": "MIBR Academy"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
