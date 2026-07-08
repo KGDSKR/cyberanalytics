@@ -1,0 +1,21 @@
+{
+  "matchId": 1565645,
+  "game": "dota2",
+  "createdAt": "2026-07-08T15:35:33.807Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137073,
+      "name": "Team Yandex"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    90,
+    10
+  ]
+}
