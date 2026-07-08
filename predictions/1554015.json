@@ -1,0 +1,21 @@
+{
+  "matchId": 1554015,
+  "game": "cs2",
+  "createdAt": "2026-07-08T09:34:31.995Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 3251,
+      "name": "ENCE"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
