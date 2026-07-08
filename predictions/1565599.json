@@ -1,0 +1,21 @@
+{
+  "matchId": 1565599,
+  "game": "dota2",
+  "createdAt": "2026-07-08T08:04:47.758Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133868,
+      "name": "Team Falcons"
+    },
+    {
+      "id": 130713,
+      "name": "Rune Eaters"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
