@@ -1,0 +1,21 @@
+{
+  "matchId": 1574383,
+  "game": "cs2",
+  "createdAt": "2026-07-08T18:44:47.923Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131538,
+      "name": "Yawara Esports"
+    },
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
