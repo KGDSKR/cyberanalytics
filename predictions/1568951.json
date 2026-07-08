@@ -1,0 +1,21 @@
+{
+  "matchId": 1568951,
+  "game": "cs2",
+  "createdAt": "2026-07-08T09:33:53.319Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138835,
+      "name": "LEO"
+    },
+    {
+      "id": 138678,
+      "name": "Prestige Academy"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
