@@ -1,0 +1,21 @@
+{
+  "matchId": 1576763,
+  "game": "dota2",
+  "createdAt": "2026-07-08T08:04:00.549Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    },
+    {
+      "id": 138760,
+      "name": "summer bear"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
