@@ -1,0 +1,21 @@
+{
+  "matchId": 1577259,
+  "game": "cs2",
+  "createdAt": "2026-07-08T14:41:27.581Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    },
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
