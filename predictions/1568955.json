@@ -1,0 +1,21 @@
+{
+  "matchId": 1568955,
+  "game": "cs2",
+  "createdAt": "2026-07-08T10:23:59.462Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    },
+    {
+      "id": 138602,
+      "name": "Inner Circle Prospect"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
