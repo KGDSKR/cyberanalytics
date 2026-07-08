@@ -1,0 +1,21 @@
+{
+  "matchId": 1577258,
+  "game": "cs2",
+  "createdAt": "2026-07-08T17:26:53.273Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138899,
+      "name": "maybe"
+    },
+    {
+      "id": 138704,
+      "name": "Tricksters"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
