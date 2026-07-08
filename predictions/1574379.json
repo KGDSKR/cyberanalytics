@@ -1,0 +1,21 @@
+{
+  "matchId": 1574379,
+  "game": "cs2",
+  "createdAt": "2026-07-08T15:04:01.971Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136029,
+      "name": "Fake do Biru"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
