@@ -1,0 +1,21 @@
+{
+  "matchId": 1555158,
+  "game": "cs2",
+  "createdAt": "2026-07-08T12:04:44.610Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128624,
+      "name": "Patins da Ferrari"
+    },
+    {
+      "id": 131570,
+      "name": "Fluxo"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
