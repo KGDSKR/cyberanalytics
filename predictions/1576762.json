@@ -1,0 +1,21 @@
+{
+  "matchId": 1576762,
+  "game": "dota2",
+  "createdAt": "2026-07-08T17:04:24.530Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138858,
+      "name": "RE.Arise"
+    },
+    {
+      "id": 138855,
+      "name": "Invision"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
