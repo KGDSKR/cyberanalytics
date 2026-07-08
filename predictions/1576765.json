@@ -1,0 +1,21 @@
+{
+  "matchId": 1576765,
+  "game": "dota2",
+  "createdAt": "2026-07-08T14:14:21.933Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138857,
+      "name": "Team Syntax"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
