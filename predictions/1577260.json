@@ -1,0 +1,21 @@
+{
+  "matchId": 1577260,
+  "game": "cs2",
+  "createdAt": "2026-07-08T17:25:14.233Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138358,
+      "name": "banda chuya"
+    },
+    {
+      "id": 138875,
+      "name": "Al Ahli"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
