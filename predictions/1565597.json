@@ -1,0 +1,21 @@
+{
+  "matchId": 1565597,
+  "game": "dota2",
+  "createdAt": "2026-07-08T08:06:31.508Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137588,
+      "name": "GamerLegion"
+    },
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
