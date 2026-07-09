@@ -1,0 +1,21 @@
+{
+  "matchId": 1577265,
+  "game": "cs2",
+  "createdAt": "2026-07-09T17:35:54.306Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    },
+    {
+      "id": 137739,
+      "name": "magic"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
