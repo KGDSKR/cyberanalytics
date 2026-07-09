@@ -1,0 +1,21 @@
+{
+  "matchId": 1568956,
+  "game": "cs2",
+  "createdAt": "2026-07-09T09:33:59.860Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138303,
+      "name": "Alpha Dominion Nation"
+    },
+    {
+      "id": 138419,
+      "name": "PURE"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
