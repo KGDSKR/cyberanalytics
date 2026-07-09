@@ -1,0 +1,21 @@
+{
+  "matchId": 1565647,
+  "game": "dota2",
+  "createdAt": "2026-07-09T15:42:19.651Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1651,
+      "name": "Virtus.pro"
+    },
+    {
+      "id": 137073,
+      "name": "Team Yandex"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
