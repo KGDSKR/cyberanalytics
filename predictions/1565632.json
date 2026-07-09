@@ -1,0 +1,21 @@
+{
+  "matchId": 1565632,
+  "game": "dota2",
+  "createdAt": "2026-07-09T13:06:46.488Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137156,
+      "name": "REKONIX"
+    },
+    {
+      "id": 135712,
+      "name": "PARIVISION"
+    }
+  ],
+  "probs": [
+    10,
+    90
+  ]
+}
