@@ -1,0 +1,21 @@
+{
+  "matchId": 1565601,
+  "game": "dota2",
+  "createdAt": "2026-07-09T08:08:54.547Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138746,
+      "name": "Poor Rangers"
+    },
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
