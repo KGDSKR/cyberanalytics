@@ -1,0 +1,21 @@
+{
+  "matchId": 1578247,
+  "game": "dota2",
+  "createdAt": "2026-07-09T09:05:22.197Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138858,
+      "name": "RE.Arise"
+    },
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
