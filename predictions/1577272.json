@@ -1,0 +1,21 @@
+{
+  "matchId": 1577272,
+  "game": "cs2",
+  "createdAt": "2026-07-09T20:35:35.349Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 131538,
+      "name": "Yawara Esports"
+    },
+    {
+      "id": 3260,
+      "name": "Sharks"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
