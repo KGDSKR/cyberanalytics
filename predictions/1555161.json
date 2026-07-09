@@ -1,0 +1,21 @@
+{
+  "matchId": 1555161,
+  "game": "cs2",
+  "createdAt": "2026-07-09T21:24:46.505Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133326,
+      "name": "Bounty Hunters Esports"
+    },
+    {
+      "id": 126377,
+      "name": "Imperial"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
