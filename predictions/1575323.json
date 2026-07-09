@@ -1,0 +1,21 @@
+{
+  "matchId": 1575323,
+  "game": "cs2",
+  "createdAt": "2026-07-09T19:24:21.500Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 138419,
+      "name": "PURE"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
