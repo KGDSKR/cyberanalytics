@@ -1,0 +1,21 @@
+{
+  "matchId": 1565600,
+  "game": "dota2",
+  "createdAt": "2026-07-09T08:09:46.832Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137588,
+      "name": "GamerLegion"
+    },
+    {
+      "id": 133868,
+      "name": "Team Falcons"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
