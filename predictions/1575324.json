@@ -1,0 +1,21 @@
+{
+  "matchId": 1575324,
+  "game": "cs2",
+  "createdAt": "2026-07-09T17:55:20.073Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 138898,
+      "name": "TheBoys"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
