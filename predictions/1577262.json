@@ -1,0 +1,21 @@
+{
+  "matchId": 1577262,
+  "game": "cs2",
+  "createdAt": "2026-07-09T08:04:43.003Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129381,
+      "name": "B8"
+    },
+    {
+      "id": 133273,
+      "name": "Sangrija"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
