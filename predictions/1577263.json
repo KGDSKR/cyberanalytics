@@ -1,0 +1,21 @@
+{
+  "matchId": 1577263,
+  "game": "cs2",
+  "createdAt": "2026-07-09T11:05:39.187Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    },
+    {
+      "id": 3218,
+      "name": "NIP"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
