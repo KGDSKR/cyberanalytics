@@ -1,0 +1,21 @@
+{
+  "matchId": 1578201,
+  "game": "cs2",
+  "createdAt": "2026-07-09T14:56:56.022Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138704,
+      "name": "Tricksters"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
