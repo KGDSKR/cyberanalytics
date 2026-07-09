@@ -1,0 +1,21 @@
+{
+  "matchId": 1577264,
+  "game": "cs2",
+  "createdAt": "2026-07-09T14:07:07.526Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136497,
+      "name": "Inner Circle Esports"
+    },
+    {
+      "id": 128519,
+      "name": "GenOne"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
