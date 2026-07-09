@@ -1,0 +1,21 @@
+{
+  "matchId": 1565617,
+  "game": "dota2",
+  "createdAt": "2026-07-09T10:34:11.084Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137885,
+      "name": "PlayTime"
+    },
+    {
+      "id": 1948,
+      "name": "Level UP"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
