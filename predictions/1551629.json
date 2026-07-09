@@ -1,0 +1,21 @@
+{
+  "matchId": 1551629,
+  "game": "cs2",
+  "createdAt": "2026-07-09T10:04:32.660Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133725,
+      "name": "Alliance"
+    },
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
