@@ -1,0 +1,21 @@
+{
+  "matchId": 1574386,
+  "game": "cs2",
+  "createdAt": "2026-07-09T22:06:12.690Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    },
+    {
+      "id": 129800,
+      "name": "MIBR Academy"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
