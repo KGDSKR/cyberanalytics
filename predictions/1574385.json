@@ -1,0 +1,21 @@
+{
+  "matchId": 1574385,
+  "game": "cs2",
+  "createdAt": "2026-07-09T15:14:16.156Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131538,
+      "name": "Yawara Esports"
+    },
+    {
+      "id": 3225,
+      "name": "Keyd"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
