@@ -1,0 +1,21 @@
+{
+  "matchId": 1577279,
+  "game": "cs2",
+  "createdAt": "2026-07-09T22:53:57.271Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137510,
+      "name": "Voca"
+    },
+    {
+      "id": 134300,
+      "name": "NuTorious"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
