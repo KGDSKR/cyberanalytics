@@ -1,0 +1,21 @@
+{
+  "matchId": 1574387,
+  "game": "cs2",
+  "createdAt": "2026-07-10T21:35:25.096Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 131538,
+      "name": "Yawara Esports"
+    },
+    {
+      "id": 129800,
+      "name": "MIBR Academy"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
