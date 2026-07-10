@@ -1,0 +1,21 @@
+{
+  "matchId": 1568960,
+  "game": "cs2",
+  "createdAt": "2026-07-10T07:06:07.832Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    },
+    {
+      "id": 127497,
+      "name": "eSuba"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
