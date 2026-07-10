@@ -1,0 +1,21 @@
+{
+  "matchId": 1551631,
+  "game": "cs2",
+  "createdAt": "2026-07-10T10:14:58.726Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3212,
+      "name": "FaZe"
+    },
+    {
+      "id": 133458,
+      "name": "BetBoom Team"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
