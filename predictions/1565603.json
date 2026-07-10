@@ -1,0 +1,21 @@
+{
+  "matchId": 1565603,
+  "game": "dota2",
+  "createdAt": "2026-07-10T08:15:11.757Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    },
+    {
+      "id": 130768,
+      "name": "BetBoom Team"
+    }
+  ],
+  "probs": [
+    48,
+    10
+  ]
+}
