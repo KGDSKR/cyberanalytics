@@ -1,0 +1,21 @@
+{
+  "matchId": 1577274,
+  "game": "cs2",
+  "createdAt": "2026-07-10T20:54:57.677Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 131848,
+      "name": "largadosypelados"
+    },
+    {
+      "id": 125751,
+      "name": "paiN"
+    }
+  ],
+  "probs": [
+    8,
+    92
+  ]
+}
