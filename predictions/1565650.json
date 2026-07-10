@@ -1,0 +1,21 @@
+{
+  "matchId": 1565650,
+  "game": "dota2",
+  "createdAt": "2026-07-10T18:55:34.303Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 134536,
+      "name": "1win"
+    },
+    {
+      "id": 1654,
+      "name": "OG"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
