@@ -1,0 +1,21 @@
+{
+  "matchId": 1577275,
+  "game": "cs2",
+  "createdAt": "2026-07-10T22:14:28.695Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3260,
+      "name": "Sharks"
+    },
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    }
+  ],
+  "probs": [
+    27,
+    73
+  ]
+}
