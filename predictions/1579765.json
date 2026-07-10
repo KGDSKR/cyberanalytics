@@ -1,0 +1,21 @@
+{
+  "matchId": 1579765,
+  "game": "cs2",
+  "createdAt": "2026-07-10T11:45:48.283Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    },
+    {
+      "id": 126439,
+      "name": "Lynn Vision"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
