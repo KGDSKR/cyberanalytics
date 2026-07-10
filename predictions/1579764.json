@@ -1,0 +1,21 @@
+{
+  "matchId": 1579764,
+  "game": "cs2",
+  "createdAt": "2026-07-10T09:04:38.254Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138284,
+      "name": "5star"
+    },
+    {
+      "id": 135214,
+      "name": "Alter Ego"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
