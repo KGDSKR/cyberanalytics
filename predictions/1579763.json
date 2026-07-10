@@ -1,0 +1,21 @@
+{
+  "matchId": 1579763,
+  "game": "cs2",
+  "createdAt": "2026-07-10T04:05:03.707Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137155,
+      "name": "Kaleido Gaming"
+    },
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
