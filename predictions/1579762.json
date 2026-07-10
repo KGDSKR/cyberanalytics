@@ -1,0 +1,21 @@
+{
+  "matchId": 1579762,
+  "game": "cs2",
+  "createdAt": "2026-07-10T07:04:48.070Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3248,
+      "name": "TYLOO"
+    },
+    {
+      "id": 137319,
+      "name": "The MongolZ Academy"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
