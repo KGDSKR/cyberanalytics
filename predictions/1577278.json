@@ -1,0 +1,21 @@
+{
+  "matchId": 1577278,
+  "game": "cs2",
+  "createdAt": "2026-07-10T00:34:06.927Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132366,
+      "name": "LAG Gaming"
+    },
+    {
+      "id": 138652,
+      "name": "Overtake Sector"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
