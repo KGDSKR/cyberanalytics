@@ -1,0 +1,21 @@
+{
+  "matchId": 1577281,
+  "game": "cs2",
+  "createdAt": "2026-07-10T22:24:35.807Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133435,
+      "name": "M80"
+    },
+    {
+      "id": 132366,
+      "name": "LAG Gaming"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
