@@ -1,0 +1,21 @@
+{
+  "matchId": 1565633,
+  "game": "dota2",
+  "createdAt": "2026-07-10T14:17:26.245Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135712,
+      "name": "PARIVISION"
+    },
+    {
+      "id": 134559,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
