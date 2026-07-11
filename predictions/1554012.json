@@ -1,0 +1,21 @@
+{
+  "matchId": 1554012,
+  "game": "cs2",
+  "createdAt": "2026-07-11T07:05:51.376Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    },
+    {
+      "id": 138537,
+      "name": "PsychoFace"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
