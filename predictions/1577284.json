@@ -1,0 +1,21 @@
+{
+  "matchId": 1577284,
+  "game": "cs2",
+  "createdAt": "2026-07-11T21:04:07.068Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    },
+    {
+      "id": 129800,
+      "name": "MIBR Academy"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
