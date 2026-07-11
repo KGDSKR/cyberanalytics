@@ -1,0 +1,21 @@
+{
+  "matchId": 1581481,
+  "game": "dota2",
+  "createdAt": "2026-07-11T16:54:14.266Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    },
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
