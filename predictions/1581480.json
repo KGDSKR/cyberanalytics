@@ -1,0 +1,21 @@
+{
+  "matchId": 1581480,
+  "game": "dota2",
+  "createdAt": "2026-07-11T11:04:05.547Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137657,
+      "name": "Ilbirs eSports"
+    },
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
