@@ -1,0 +1,21 @@
+{
+  "matchId": 1568952,
+  "game": "cs2",
+  "createdAt": "2026-07-11T09:34:06.231Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138280,
+      "name": "Västerås"
+    },
+    {
+      "id": 138835,
+      "name": "LEO"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
