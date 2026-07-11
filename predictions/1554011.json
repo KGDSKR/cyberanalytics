@@ -1,0 +1,21 @@
+{
+  "matchId": 1554011,
+  "game": "cs2",
+  "createdAt": "2026-07-11T09:34:50.919Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    },
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
