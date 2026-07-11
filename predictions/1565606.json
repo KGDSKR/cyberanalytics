@@ -1,0 +1,21 @@
+{
+  "matchId": 1565606,
+  "game": "dota2",
+  "createdAt": "2026-07-11T08:07:30.681Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    },
+    {
+      "id": 133868,
+      "name": "Team Falcons"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
