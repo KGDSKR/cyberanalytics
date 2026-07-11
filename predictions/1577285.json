@@ -1,0 +1,21 @@
+{
+  "matchId": 1577285,
+  "game": "cs2",
+  "createdAt": "2026-07-11T12:06:39.578Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133326,
+      "name": "Bounty Hunters Esports"
+    },
+    {
+      "id": 3225,
+      "name": "Keyd"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
