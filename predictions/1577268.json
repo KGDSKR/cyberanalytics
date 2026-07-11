@@ -1,0 +1,21 @@
+{
+  "matchId": 1577268,
+  "game": "cs2",
+  "createdAt": "2026-07-11T17:04:07.859Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    },
+    {
+      "id": 136497,
+      "name": "Inner Circle Esports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
