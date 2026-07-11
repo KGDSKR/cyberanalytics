@@ -1,0 +1,21 @@
+{
+  "matchId": 1577276,
+  "game": "cs2",
+  "createdAt": "2026-07-11T22:04:04.232Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125751,
+      "name": "paiN"
+    },
+    {
+      "id": 3260,
+      "name": "Sharks"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
