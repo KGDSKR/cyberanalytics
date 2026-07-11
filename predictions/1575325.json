@@ -1,0 +1,21 @@
+{
+  "matchId": 1575325,
+  "game": "cs2",
+  "createdAt": "2026-07-11T14:36:53.277Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 138400,
+      "name": "mellren"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
