@@ -12,17 +12,30 @@ async function psGet<T>(path: string, params: Record<string, string> = {}): Prom
   const url = new URL(BASE + path);
   for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v);
 
-  const res = await fetch(url, {
-    headers: {
-      Authorization: `Bearer ${config.pandascoreToken}`,
-      Accept: "application/json",
-    },
-  });
-  if (!res.ok) {
-    const body = await res.text().catch(() => "");
-    throw new Error(`PandaScore ${res.status} on ${path}: ${body.slice(0, 300)}`);
+  // Разовые сетевые сбои (ConnectTimeout и т.п.) бывают — раньше вызывающий код
+  // ловил исключение через .catch(() => null) и молча терял данные (например,
+  // результат матча для расчёта точности). 3 попытки с паузой заметно снижают
+  // шанс, что случайный сбой сети превратится в неверную статистику.
+  let lastErr: unknown;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const res = await fetch(url, {
+        headers: {
+          Authorization: `Bearer ${config.pandascoreToken}`,
+          Accept: "application/json",
+        },
+      });
+      if (!res.ok) {
+        const body = await res.text().catch(() => "");
+        throw new Error(`PandaScore ${res.status} on ${path}: ${body.slice(0, 300)}`);
+      }
+      return (await res.json()) as T;
+    } catch (e) {
+      lastErr = e;
+      if (attempt < 2) await new Promise((r) => setTimeout(r, 500 * 2 ** attempt));
+    }
   }
-  return (await res.json()) as T;
+  throw lastErr;
 }
 
 // --- Сырые типы PandaScore (только используемые поля) ---

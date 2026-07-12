@@ -20,6 +20,43 @@ function ghHeaders(): Record<string, string> {
   };
 }
 
+/**
+ * Сетевые сбои к GitHub бывают (например, разовый ConnectTimeout) — раньше
+ * такие файлы прогнозов тихо пропускались и процент точности занижался
+ * без единого следа в логах. Теперь: 3 попытки с паузой + громкий console.error,
+ * если файл так и не прочитался.
+ */
+async function fetchWithRetry(url: string, attempts = 3): Promise<Response> {
+  let lastErr: unknown;
+  for (let i = 0; i < attempts; i++) {
+    try {
+      return await fetch(url, { headers: ghHeaders() });
+    } catch (e) {
+      lastErr = e;
+      if (i < attempts - 1) await new Promise((r) => setTimeout(r, 500 * 2 ** i));
+    }
+  }
+  throw lastErr;
+}
+
+/** Параллельно, но с ограничением — не бьём GitHub сотнями одновременных запросов. */
+async function mapWithConcurrency<T, R>(
+  items: T[],
+  limit: number,
+  fn: (item: T) => Promise<R>
+): Promise<R[]> {
+  const results: R[] = new Array(items.length);
+  let next = 0;
+  async function worker() {
+    while (next < items.length) {
+      const i = next++;
+      results[i] = await fn(items[i]!);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker));
+  return results;
+}
+
 /** Запись прогноза — фиксируется один раз при первой генерации анализа. */
 export interface PredictionRecord {
   matchId: number;
@@ -79,26 +116,35 @@ export async function listPredictions(): Promise<PredictionRecord[]> {
   const cached = cacheGet<PredictionRecord[]>("predictions-list");
   if (cached) return cached;
 
-  const dir = await fetch(`${GH}/repos/${repo()}/contents/predictions?ref=${BRANCH}`, {
-    headers: ghHeaders(),
-  });
+  const dir = await fetchWithRetry(`${GH}/repos/${repo()}/contents/predictions?ref=${BRANCH}`);
   if (dir.status === 404) return [];
   if (!dir.ok) throw new Error(`GitHub list predictions ${dir.status}`);
   const files = (await dir.json()) as { download_url: string; name: string }[];
+  const jsonFiles = files.filter((f) => f.name.endsWith(".json"));
 
-  const records: PredictionRecord[] = [];
-  await Promise.all(
-    files
-      .filter((f) => f.name.endsWith(".json"))
-      .map(async (f) => {
-        try {
-          const res = await fetch(f.download_url, { headers: ghHeaders() });
-          if (res.ok) records.push((await res.json()) as PredictionRecord);
-        } catch {
-          /* пропускаем битый файл */
-        }
-      })
-  );
-  cacheSet("predictions-list", records, 5 * 60_000);
+  let failed = 0;
+  const fetched = await mapWithConcurrency(jsonFiles, 15, async (f) => {
+    try {
+      const res = await fetchWithRetry(f.download_url);
+      if (res.ok) return (await res.json()) as PredictionRecord;
+      failed++;
+      console.error(`predictions: ${f.name} — HTTP ${res.status}`);
+    } catch (e) {
+      failed++;
+      console.error(`predictions: ${f.name} — ${(e as Error).message}`);
+    }
+    return null;
+  });
+  const records = fetched.filter((r): r is PredictionRecord => r !== null);
+
+  if (failed > 0) {
+    console.error(
+      `predictions: ${failed}/${jsonFiles.length} файлов не прочитались — процент точности может быть занижен`
+    );
+  } else {
+    // Кэшируем только полный, без потерь список — если что-то не прочиталось,
+    // следующий запрос честно попробует заново, а не залипнет на неполных данных.
+    cacheSet("predictions-list", records, 5 * 60_000);
+  }
   return records;
 }

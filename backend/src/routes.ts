@@ -169,17 +169,26 @@ export async function registerRoutes(app: FastifyInstance) {
     }
   );
 
-  // Проверка точности прогнозов: сверяем сохранённые прогнозы с итогами матчей
+  // Проверка точности прогнозов: сверяем сохранённые прогнозы с итогами матчей.
+  // Процент точности всегда считается по ВСЕЙ истории прогнозов, а не только
+  // по показанным в списке — иначе он «плавает» в зависимости от того, сколько
+  // последних матчей мы решили отрисовать.
   app.get("/api/accuracy", async () => {
-    // прогнозы теперь пишутся автоматически на все матчи — показываем свежую сотню
-    const preds = (await listPredictions())
-      .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
-      .slice(0, 100);
-    const items = await Promise.all(
-      preds.map(async (p) => {
+    const cached = cacheGet<unknown>("accuracy-response");
+    if (cached) return cached;
+
+    const allPreds = await listPredictions();
+    const allItems = await Promise.all(
+      allPreds.map(async (p) => {
         let result: MatchResult | null = cacheGet<MatchResult>(`result:${p.matchId}`) ?? null;
         if (!result && hasPandascore()) {
-          result = await fetchMatchResult(p.matchId).catch(() => null);
+          result = await fetchMatchResult(p.matchId).catch((err) => {
+            // Не молчим: если результат не прочитался даже после ретраев в psGet,
+            // матч останется «pending» и точность будет посчитана без него —
+            // это должно быть видно в логах, а не мимикрировать под «матч не сыгран».
+            app.log.warn({ matchId: p.matchId, err: String(err) }, "accuracy: match result fetch failed");
+            return null;
+          });
           if (result) {
             // завершённый матч не изменится — кэшируем надолго, идущий — коротко
             const ttl = result.status === "finished" || result.status === "canceled" ? 24 * 3_600_000 : 5 * 60_000;
@@ -219,18 +228,23 @@ export async function registerRoutes(app: FastifyInstance) {
       })
     );
 
-    items.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
-    const decided = items.filter((i) => i.status === "correct" || i.status === "wrong");
+    allItems.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+    // Точность — по всей истории; в список для отображения отдаём только свежую сотню
+    const decided = allItems.filter((i) => i.status === "correct" || i.status === "wrong");
     const correct = decided.filter((i) => i.status === "correct").length;
-    return {
+    const response = {
       summary: {
-        total: items.length,
+        total: allItems.length,
         decided: decided.length,
         correct,
         accuracy: decided.length > 0 ? Math.round((correct / decided.length) * 100) : null,
       },
-      items,
+      items: allItems.slice(0, 100),
     };
+    // Матч результатов пока идут — держим кэш ответа коротким, чтобы новые
+    // прогнозы и досыгранные матчи попадали в цифры быстро.
+    cacheSet("accuracy-response", response, 3 * 60_000);
+    return response;
   });
 }
 
