@@ -1,0 +1,21 @@
+{
+  "matchId": 1583262,
+  "game": "dota2",
+  "createdAt": "2026-07-12T11:04:21.031Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138858,
+      "name": "RE.Arise"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
