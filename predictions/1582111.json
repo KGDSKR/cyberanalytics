@@ -1,0 +1,21 @@
+{
+  "matchId": 1582111,
+  "game": "cs2",
+  "createdAt": "2026-07-12T12:55:49.427Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 134405,
+      "name": "Vexar"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
