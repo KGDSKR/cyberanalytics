@@ -1,0 +1,21 @@
+{
+  "matchId": 1582122,
+  "game": "cs2",
+  "createdAt": "2026-07-12T12:05:58.583Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138026,
+      "name": "Atreides"
+    },
+    {
+      "id": 138406,
+      "name": "Just Players"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
