@@ -1,0 +1,21 @@
+{
+  "matchId": 1582117,
+  "game": "cs2",
+  "createdAt": "2026-07-12T12:07:20.743Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
