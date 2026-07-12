@@ -1,0 +1,21 @@
+{
+  "matchId": 1565654,
+  "game": "dota2",
+  "createdAt": "2026-07-12T10:34:30.087Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
