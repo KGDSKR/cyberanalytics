@@ -1,0 +1,21 @@
+{
+  "matchId": 1565636,
+  "game": "dota2",
+  "createdAt": "2026-07-12T08:06:19.119Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135712,
+      "name": "PARIVISION"
+    },
+    {
+      "id": 1669,
+      "name": "Team Spirit"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
