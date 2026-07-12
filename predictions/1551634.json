@@ -1,0 +1,21 @@
+{
+  "matchId": 1551634,
+  "game": "cs2",
+  "createdAt": "2026-07-12T07:06:38.773Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126709,
+      "name": "9z"
+    },
+    {
+      "id": 133719,
+      "name": "PARIVISION"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
