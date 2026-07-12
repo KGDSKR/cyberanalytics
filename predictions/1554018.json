@@ -1,0 +1,21 @@
+{
+  "matchId": 1554018,
+  "game": "cs2",
+  "createdAt": "2026-07-12T07:05:53.090Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135978,
+      "name": "eternal premium"
+    },
+    {
+      "id": 3251,
+      "name": "ENCE"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
