@@ -1,0 +1,21 @@
+{
+  "matchId": 1577290,
+  "game": "cs2",
+  "createdAt": "2026-07-12T20:05:29.977Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131848,
+      "name": "largadosypelados"
+    },
+    {
+      "id": 126377,
+      "name": "Imperial"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
