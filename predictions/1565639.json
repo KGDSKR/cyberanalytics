@@ -1,0 +1,21 @@
+{
+  "matchId": 1565639,
+  "game": "dota2",
+  "createdAt": "2026-07-12T08:04:25.370Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137156,
+      "name": "REKONIX"
+    },
+    {
+      "id": 136650,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
