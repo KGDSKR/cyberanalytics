@@ -1,0 +1,21 @@
+{
+  "matchId": 1582128,
+  "game": "cs2",
+  "createdAt": "2026-07-12T16:15:48.066Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
