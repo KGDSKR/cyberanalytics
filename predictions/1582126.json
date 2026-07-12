@@ -1,0 +1,21 @@
+{
+  "matchId": 1582126,
+  "game": "cs2",
+  "createdAt": "2026-07-12T12:05:21.161Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
