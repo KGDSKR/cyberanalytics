@@ -1,0 +1,21 @@
+{
+  "matchId": 1582118,
+  "game": "cs2",
+  "createdAt": "2026-07-12T17:47:11.607Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3217,
+      "name": "fnatic"
+    },
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
