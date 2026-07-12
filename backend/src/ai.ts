@@ -26,13 +26,16 @@ function systemPrompt(game: Game): string {
 4. Обязательный шаг самопроверки — «адвокат дьявола»: сформулируй сама себе САМЫЙ сильный контраргумент против собственного вывода (например, «а что если недавние победы фаворита — просто удача в переломных раундах, а не системное превосходство?»). Если контраргумент реально весомый — сдвинь вероятность к центру (ближе к 50/50); если он слабый — коротко объясни, почему не меняешь мнение. Этот шаг не выводи отдельным разделом, но он должен ощущаться в итоговых цифрах.
 5. Если сдвигаешь вероятность заметно относительно базовой — обязательно объясни причину сдвига простым языком, это самая ценная часть анализа.
 
-Дисциплина калибровки:
-- В киберспорте фаворит проигрывает регулярно — даже сильное преимущество по цифрам редко оправдывает вероятность выше 75-80% для одной карты/BO3. Вероятность выше этого порога ставь только если данные показывают почти полное доминирование (например 9+ побед из 10 против сравнимых по силе соперников) — иначе ты не прогнозируешь, а гадаешь с фальшивой уверенностью.
+Дисциплина калибровки (проверено на реальных исходах 201 прошлого прогноза сервиса):
+- Прогнозы в диапазоне 70-80% на практике сбывались лишь в ~54% случаев — фактически не лучше монетки, несмотря на уверенный вид. Поэтому для обычного случая («одна команда выглядит сильнее по цифрам») не поднимай вероятность выше 65-68%.
+- Диапазон 80%+ на тех же реальных данных оправдывал себя (сбывался в 80-86% случаев) — но ставь его только при действительно исключительном превосходстве по нескольким независимым сигналам сразу (форма, h2h, качество побед по тиру турнира), не по одному хорошему показателю.
 - Маленькая выборка (меньше 5-6 матчей в данных) — явный сигнал сузить разрыв вероятностей и сказать об этом прямо, а не выдавать уверенный прогноз на тонких данных.
 
 Что можно и что нельзя об общих знаниях:
 - Про известные организации, регион, обычный стиль игры на дисциплине — можно опираться на общие знания, но явно помечай это как контекст, а не как факт из статистики («по общей репутации организации», «типично для латиноамериканской сцены»).
 - Никогда не выдумывай конкретику, которой нет во входных данных: не сочиняй имена игроков, точные рейтинги, ранги/тиры соперников или составы, если это не дано явно. Общее знание — это фон для интерпретации цифр, а не источник новых «фактов».
+- «Качество соперника» больше НЕ надо оценивать на глаз («похоже на тир-3 оппонента») — в данных приходит реальный уровень турнира от PandaScore (S/A/B/C/D и посчитанный разрез побед/поражений по нему). Используй именно эти буквы и цифры, не придумывай свою шкалу поверх них.
+- Если в данных есть пометка «уже сыграла матч ранее сегодня» — это посчитанный факт, а не гипотеза; используй его как реальный фактор усталости в разделе рисков, не переоткрывай его заново своими словами.
 
 Стиль: живой, но плотный — рассуждение важнее украшений. Не воде не давай пробраться: каждый тезис или подкреплён числом из данных, или явно маркирован как качественная оценка («судя по стилю игры», «визуально команда играет увереннее в затяжных картах»). Чего нет в данных — честно помечай «нет данных», конкретику (составы, конкретных игроков с именами) не выдумывай, если их нет во входных данных.
 
@@ -114,26 +117,53 @@ function teamAggregates(matches: PastMatchSummary[]): string {
     : null;
   const winrate = Math.round((wins / matches.length) * 100);
   const mapWinrate = mapsW + mapsL > 0 ? Math.round((mapsW / (mapsW + mapsL)) * 100) : 0;
+
+  // Качество побед/поражений по уровню турнира — считаем в коде, не отдаём модели
+  // на угадывание «тир-3 оппонент». s/a/b — топ, c/d/нет данных — не топ.
+  const isTopTier = (t: string | null) => t === "s" || t === "a" || t === "b";
+  const topWins = matches.filter((m) => m.won && isTopTier(m.tier)).length;
+  const topLosses = matches.filter((m) => !m.won && isTopTier(m.tier)).length;
+  const lowWins = matches.filter((m) => m.won && !isTopTier(m.tier)).length;
+  const lowLosses = matches.filter((m) => !m.won && !isTopTier(m.tier)).length;
+  const anyTierKnown = matches.some((m) => m.tier !== null);
+
   return [
     `- Матчи: ${wins}-${losses} (винрейт ${winrate}%), текущая серия: ${first ? "W" : "L"}${streak}`,
     `- Карты: ${mapsW}-${mapsL} (${mapWinrate}%), матчей в 3+ карты: ${deciders} из ${matches.length}`,
     avgDur !== null
       ? `- Средняя длительность карты: ${avgDur} мин (по ${durations.length} картам)`
       : "- Длительности карт: нет данных",
+    anyTierKnown
+      ? `- Качество побед (по уровню турнира S/A/B — топ): на топ-турнирах ${topWins}-${topLosses}, на менее престижных/без данных ${lowWins}-${lowLosses}`
+      : "- Уровень турниров для этих матчей: нет данных",
   ].join("\n");
 }
 
 function matchLine(m: PastMatchSummary, withOpponent: boolean): string {
   const dur = m.gameDurationsMin.length > 0 ? `, карты по ${m.gameDurationsMin.join("/")} мин` : "";
   const vs = withOpponent ? ` vs ${m.opponentName}` : "";
-  return `- ${m.won ? "✅" : "❌"} ${m.score}${vs} (${m.beginAt.slice(0, 10)}${dur})`;
+  const tier = m.tier ? `, тир ${m.tier.toUpperCase()}` : "";
+  return `- ${m.won ? "✅" : "❌"} ${m.score}${vs} (${m.beginAt.slice(0, 10)}${dur}${tier})`;
+}
+
+/** Играла ли команда уже сегодня — реальный, посчитанный факт усталости, не догадка. */
+function playedEarlierToday(matches: PastMatchSummary[], matchBeginAt: string): string | null {
+  const matchDay = matchBeginAt.slice(0, 10);
+  const earlierToday = matches.find(
+    (m) => m.beginAt.slice(0, 10) === matchDay && m.beginAt < matchBeginAt
+  );
+  if (!earlierToday) return null;
+  return `сыграла матч ранее сегодня (${earlierToday.beginAt.slice(11, 16)} UTC, vs ${earlierToday.opponentName}, ${earlierToday.won ? "победа" : "поражение"})`;
 }
 
 function buildUserPrompt(ctx: AnalysisContext): string {
   const { match } = ctx;
+  const tierLine = match.tier
+    ? `Уровень турнира (по шкале PandaScore, S — топ, D — низший): ${match.tier.toUpperCase()}${match.prizepool ? `, призовой фонд: ${match.prizepool}` : ""}.`
+    : "Уровень турнира: нет данных.";
   const lines: string[] = [
     `Проанализируй матч ${GAME_LABEL[match.game]}: **${match.teams[0]?.name}** vs **${match.teams[1]?.name}**.`,
-    `Турнир: ${match.league} ${match.serie} — ${match.tournament}. Формат: BO${match.bestOf ?? "?"}. Начало: ${match.beginAt}.`,
+    `Турнир: ${match.league} ${match.serie} — ${match.tournament}. Формат: BO${match.bestOf ?? "?"}. Начало: ${match.beginAt}. ${tierLine}`,
   ];
   if (match.status === "live") {
     lines.push(`⚠️ Матч уже идёт! Текущий счёт по картам/играм: ${match.score ?? "неизвестен"} (в порядке команд выше).`);
@@ -160,6 +190,14 @@ function buildUserPrompt(ctx: AnalysisContext): string {
   lines.push("");
   if (ctx.dataSource === "pandascore") {
     lines.push("Данные PandaScore по последним матчам (новые сверху). Счёт всегда с точки зрения самой команды.");
+
+    const fatigueNotes: string[] = [];
+    for (const [teamName, matches] of Object.entries(ctx.recentByTeam)) {
+      const fatigue = playedEarlierToday(matches, match.beginAt);
+      if (fatigue) fatigueNotes.push(`⚠️ ${teamName} уже ${fatigue} — учитывай риск усталости.`);
+    }
+    if (fatigueNotes.length > 0) lines.push("", ...fatigueNotes);
+
     for (const [teamName, matches] of Object.entries(ctx.recentByTeam)) {
       lines.push(`\n### ${teamName} — агрегаты:`);
       lines.push(teamAggregates(matches));

@@ -19,6 +19,8 @@ export interface Match {
   league: string;
   serie: string;
   tournament: string;
+  tier: string | null; // престиж турнира по PandaScore: s/a/b/c/d, null — нет данных
+  prizepool: string | null;
   bestOf: number | null;
   teams: Team[];
 }
@@ -54,4 +56,5 @@ export interface PastMatchSummary {
   score: string; // по картам, с точки зрения команды: "2:1"
   beginAt: string;
   gameDurationsMin: number[]; // длительности сыгранных карт в минутах
+  tier: string | null; // престиж турнира этого конкретного матча: s/a/b/c/d
 }

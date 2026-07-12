@@ -17,6 +17,8 @@ export function mockMatches(): Match[] {
       league: "PGL",
       serie: "Bucharest 2026",
       tournament: "Group B",
+      tier: "a",
+      prizepool: null,
       bestOf: 3,
       teams: [
         { id: 7, name: "Team Falcons", acronym: "FLCN", imageUrl: null },
@@ -35,6 +37,8 @@ export function mockMatches(): Match[] {
       league: "IEM",
       serie: "Katowice 2026",
       tournament: "Playoffs",
+      tier: "s",
+      prizepool: "1,000,000 United States Dollar",
       bestOf: 3,
       teams: [
         { id: 1, name: "Natus Vincere", acronym: "NAVI", imageUrl: null },
@@ -53,6 +57,8 @@ export function mockMatches(): Match[] {
       league: "DreamLeague",
       serie: "Season 27",
       tournament: "Group Stage",
+      tier: "b",
+      prizepool: null,
       bestOf: 3,
       teams: [
         { id: 3, name: "Team Spirit", acronym: "SPIRIT", imageUrl: null },
@@ -71,6 +77,8 @@ export function mockMatches(): Match[] {
       league: "ESL Pro League",
       serie: "Season 23",
       tournament: "Round of 16",
+      tier: "a",
+      prizepool: null,
       bestOf: 3,
       teams: [
         { id: 5, name: "Team Vitality", acronym: "VIT", imageUrl: null },

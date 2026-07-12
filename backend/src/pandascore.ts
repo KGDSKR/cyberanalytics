@@ -41,7 +41,7 @@ interface RawMatch {
   number_of_games: number | null;
   league: { id: number; name: string } | null;
   serie: { full_name: string | null } | null;
-  tournament: { name: string } | null;
+  tournament: { name: string; tier: string | null; prizepool: string | null } | null;
   videogame: { slug: string } | null;
   opponents: RawOpponent[];
   results: { team_id: number; score: number }[];
@@ -77,6 +77,8 @@ function mapMatch(raw: RawMatch, fallbackGame: Game): Match {
     league: raw.league?.name ?? "",
     serie: raw.serie?.full_name ?? "",
     tournament: raw.tournament?.name ?? "",
+    tier: raw.tournament?.tier ?? null,
+    prizepool: raw.tournament?.prizepool ?? null,
     bestOf: raw.number_of_games,
     teams,
   };
@@ -185,6 +187,7 @@ export async function fetchTeamRecentMatches(
       score: `${own}:${opp}`,
       beginAt: m.begin_at ?? "",
       gameDurationsMin,
+      tier: m.tournament?.tier ?? null,
     };
   });
 }
