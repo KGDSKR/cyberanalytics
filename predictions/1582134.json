@@ -1,0 +1,21 @@
+{
+  "matchId": 1582134,
+  "game": "cs2",
+  "createdAt": "2026-07-13T16:55:04.531Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3217,
+      "name": "fnatic"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
