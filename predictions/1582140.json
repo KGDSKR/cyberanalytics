@@ -1,0 +1,21 @@
+{
+  "matchId": 1582140,
+  "game": "cs2",
+  "createdAt": "2026-07-13T13:05:21.926Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    },
+    {
+      "id": 128629,
+      "name": "megoshort"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
