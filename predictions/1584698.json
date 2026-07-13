@@ -1,0 +1,21 @@
+{
+  "matchId": 1584698,
+  "game": "cs2",
+  "createdAt": "2026-07-13T07:05:02.469Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    },
+    {
+      "id": 138820,
+      "name": "EAC Rising"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
