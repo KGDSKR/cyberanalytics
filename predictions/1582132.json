@@ -1,0 +1,21 @@
+{
+  "matchId": 1582132,
+  "game": "cs2",
+  "createdAt": "2026-07-13T16:08:48.788Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
