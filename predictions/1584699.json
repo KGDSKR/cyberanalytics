@@ -1,0 +1,21 @@
+{
+  "matchId": 1584699,
+  "game": "cs2",
+  "createdAt": "2026-07-13T09:35:02.844Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    },
+    {
+      "id": 138303,
+      "name": "Alpha Dominion Nation"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
