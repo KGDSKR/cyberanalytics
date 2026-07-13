@@ -1,0 +1,21 @@
+{
+  "matchId": 1586210,
+  "game": "cs2",
+  "createdAt": "2026-07-13T17:35:35.514Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    },
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
