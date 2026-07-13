@@ -1,0 +1,21 @@
+{
+  "matchId": 1582131,
+  "game": "cs2",
+  "createdAt": "2026-07-13T16:09:51.153Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 128258,
+      "name": "Entropy"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
