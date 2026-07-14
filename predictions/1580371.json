@@ -1,0 +1,21 @@
+{
+  "matchId": 1580371,
+  "game": "cs2",
+  "createdAt": "2026-07-14T18:16:21.608Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137320,
+      "name": "Vasco Esports"
+    },
+    {
+      "id": 136596,
+      "name": "MAGICOS"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
