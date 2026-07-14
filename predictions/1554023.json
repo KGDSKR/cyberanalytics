@@ -1,0 +1,21 @@
+{
+  "matchId": 1554023,
+  "game": "cs2",
+  "createdAt": "2026-07-14T09:36:09.199Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    },
+    {
+      "id": 128519,
+      "name": "GenOne"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
