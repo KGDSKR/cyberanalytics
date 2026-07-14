@@ -1,0 +1,21 @@
+{
+  "matchId": 1580375,
+  "game": "cs2",
+  "createdAt": "2026-07-14T21:05:45.190Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    },
+    {
+      "id": 137966,
+      "name": "Guara Esports"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
