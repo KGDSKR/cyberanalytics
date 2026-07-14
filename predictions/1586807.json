@@ -1,0 +1,21 @@
+{
+  "matchId": 1586807,
+  "game": "cs2",
+  "createdAt": "2026-07-14T17:35:16.215Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    },
+    {
+      "id": 138710,
+      "name": "Subtop De France"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
