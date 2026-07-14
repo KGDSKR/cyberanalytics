@@ -1,0 +1,21 @@
+{
+  "matchId": 1565833,
+  "game": "dota2",
+  "createdAt": "2026-07-14T10:08:14.754Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130713,
+      "name": "Rune Eaters"
+    },
+    {
+      "id": 1651,
+      "name": "Virtus.pro"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
