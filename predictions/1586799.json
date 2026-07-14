@@ -1,0 +1,21 @@
+{
+  "matchId": 1586799,
+  "game": "cs2",
+  "createdAt": "2026-07-14T17:57:18.493Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    },
+    {
+      "id": 137967,
+      "name": "ReThink"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
