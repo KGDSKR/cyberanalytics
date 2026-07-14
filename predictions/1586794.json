@@ -1,0 +1,21 @@
+{
+  "matchId": 1586794,
+  "game": "cs2",
+  "createdAt": "2026-07-14T15:04:59.003Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    },
+    {
+      "id": 138934,
+      "name": "Fraternity"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
