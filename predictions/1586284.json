@@ -1,0 +1,21 @@
+{
+  "matchId": 1586284,
+  "game": "cs2",
+  "createdAt": "2026-07-14T10:05:14.313Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
