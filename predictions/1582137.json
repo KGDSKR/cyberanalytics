@@ -1,0 +1,21 @@
+{
+  "matchId": 1582137,
+  "game": "cs2",
+  "createdAt": "2026-07-14T14:17:58.310Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 3217,
+      "name": "fnatic"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
