@@ -1,0 +1,21 @@
+{
+  "matchId": 1586802,
+  "game": "cs2",
+  "createdAt": "2026-07-14T17:41:59.827Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137953,
+      "name": "Fortress"
+    },
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
