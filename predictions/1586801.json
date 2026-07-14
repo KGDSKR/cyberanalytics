@@ -1,0 +1,21 @@
+{
+  "matchId": 1586801,
+  "game": "cs2",
+  "createdAt": "2026-07-14T17:55:16.485Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137589,
+      "name": "Strael-Bora"
+    },
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
