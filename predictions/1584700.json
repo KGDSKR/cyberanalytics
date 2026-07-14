@@ -1,0 +1,21 @@
+{
+  "matchId": 1584700,
+  "game": "cs2",
+  "createdAt": "2026-07-14T07:05:57.137Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138602,
+      "name": "Inner Circle Prospect"
+    },
+    {
+      "id": 138835,
+      "name": "LEO"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
