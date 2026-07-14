@@ -1,0 +1,21 @@
+{
+  "matchId": 1586283,
+  "game": "cs2",
+  "createdAt": "2026-07-14T13:05:27.757Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126694,
+      "name": "BIG Academy"
+    },
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
