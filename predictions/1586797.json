@@ -1,0 +1,21 @@
+{
+  "matchId": 1586797,
+  "game": "cs2",
+  "createdAt": "2026-07-14T17:05:58.526Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138419,
+      "name": "PURE"
+    },
+    {
+      "id": 138676,
+      "name": "A Great Chaos"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
