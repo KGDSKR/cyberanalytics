@@ -1,0 +1,21 @@
+{
+  "matchId": 1586950,
+  "game": "cs2",
+  "createdAt": "2026-07-14T19:06:34.228Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131253,
+      "name": "ODDIK"
+    },
+    {
+      "id": 138939,
+      "name": "Rush"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
