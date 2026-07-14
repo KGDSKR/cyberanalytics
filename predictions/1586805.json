@@ -1,0 +1,21 @@
+{
+  "matchId": 1586805,
+  "game": "cs2",
+  "createdAt": "2026-07-14T17:37:15.661Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    },
+    {
+      "id": 138181,
+      "name": "Esport BERG"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
