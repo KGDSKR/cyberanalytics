@@ -1,0 +1,21 @@
+{
+  "matchId": 1580369,
+  "game": "cs2",
+  "createdAt": "2026-07-14T12:05:02.855Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    },
+    {
+      "id": 128624,
+      "name": "Patins da Ferrari"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
