@@ -1,0 +1,21 @@
+{
+  "matchId": 1586804,
+  "game": "cs2",
+  "createdAt": "2026-07-14T17:40:05.230Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138462,
+      "name": "Clutchain Female"
+    },
+    {
+      "id": 137474,
+      "name": "OLDBOYS PL"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
