@@ -1,0 +1,21 @@
+{
+  "matchId": 1586803,
+  "game": "cs2",
+  "createdAt": "2026-07-14T17:41:02.227Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129468,
+      "name": "Glitchtech Esports"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
