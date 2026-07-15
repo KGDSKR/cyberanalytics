@@ -1,0 +1,21 @@
+{
+  "matchId": 1586954,
+  "game": "cs2",
+  "createdAt": "2026-07-15T10:06:16.895Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128629,
+      "name": "megoshort"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
