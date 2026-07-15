@@ -1,0 +1,21 @@
+{
+  "matchId": 1586959,
+  "game": "cs2",
+  "createdAt": "2026-07-15T16:05:54.851Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 138710,
+      "name": "Subtop De France"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
