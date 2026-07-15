@@ -1,0 +1,21 @@
+{
+  "matchId": 1578249,
+  "game": "cs2",
+  "createdAt": "2026-07-15T16:35:24.091Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125751,
+      "name": "paiN"
+    },
+    {
+      "id": 136560,
+      "name": "Phantom"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
