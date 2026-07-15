@@ -1,0 +1,21 @@
+{
+  "matchId": 1588077,
+  "game": "cs2",
+  "createdAt": "2026-07-15T10:05:26.654Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    },
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
