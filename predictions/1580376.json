@@ -1,0 +1,21 @@
+{
+  "matchId": 1580376,
+  "game": "cs2",
+  "createdAt": "2026-07-15T21:11:22.701Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
