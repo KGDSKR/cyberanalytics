@@ -1,0 +1,21 @@
+{
+  "matchId": 1588029,
+  "game": "cs2",
+  "createdAt": "2026-07-15T07:06:01.909Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    },
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
