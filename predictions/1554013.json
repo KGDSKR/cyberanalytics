@@ -1,0 +1,21 @@
+{
+  "matchId": 1554013,
+  "game": "cs2",
+  "createdAt": "2026-07-15T09:36:17.506Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    },
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
