@@ -1,0 +1,21 @@
+{
+  "matchId": 1578250,
+  "game": "cs2",
+  "createdAt": "2026-07-15T11:35:02.040Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3318,
+      "name": "3DMAX"
+    },
+    {
+      "id": 3246,
+      "name": "Heroic"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
