@@ -1,0 +1,21 @@
+{
+  "matchId": 1588028,
+  "game": "cs2",
+  "createdAt": "2026-07-16T09:35:17.966Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138835,
+      "name": "LEO"
+    },
+    {
+      "id": 127497,
+      "name": "eSuba"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
