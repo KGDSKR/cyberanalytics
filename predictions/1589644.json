@@ -1,0 +1,21 @@
+{
+  "matchId": 1589644,
+  "game": "cs2",
+  "createdAt": "2026-07-16T17:51:07.908Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138650,
+      "name": "NEW VISION"
+    },
+    {
+      "id": 138676,
+      "name": "A Great Chaos"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
