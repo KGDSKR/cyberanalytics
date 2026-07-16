@@ -1,0 +1,21 @@
+{
+  "matchId": 1582145,
+  "game": "cs2",
+  "createdAt": "2026-07-16T07:06:54.969Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128258,
+      "name": "Entropy"
+    },
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
