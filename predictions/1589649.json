@@ -1,0 +1,21 @@
+{
+  "matchId": 1589649,
+  "game": "cs2",
+  "createdAt": "2026-07-16T17:40:17.396Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    },
+    {
+      "id": 138932,
+      "name": "Z17"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
