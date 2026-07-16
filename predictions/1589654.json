@@ -1,0 +1,21 @@
+{
+  "matchId": 1589654,
+  "game": "cs2",
+  "createdAt": "2026-07-16T17:35:05.782Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 138462,
+      "name": "Clutchain Female"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
