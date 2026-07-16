@@ -1,0 +1,21 @@
+{
+  "matchId": 1580378,
+  "game": "cs2",
+  "createdAt": "2026-07-16T15:05:50.217Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137966,
+      "name": "Guara Esports"
+    },
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
