@@ -1,0 +1,21 @@
+{
+  "matchId": 1589651,
+  "game": "cs2",
+  "createdAt": "2026-07-16T17:46:48.830Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 137953,
+      "name": "Fortress"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
