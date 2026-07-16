@@ -1,0 +1,21 @@
+{
+  "matchId": 1554025,
+  "game": "cs2",
+  "createdAt": "2026-07-16T09:36:10.914Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
