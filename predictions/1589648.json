@@ -1,0 +1,21 @@
+{
+  "matchId": 1589648,
+  "game": "cs2",
+  "createdAt": "2026-07-16T17:41:33.728Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138465,
+      "name": "Arch"
+    },
+    {
+      "id": 138729,
+      "name": "DNK"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
