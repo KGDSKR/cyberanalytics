@@ -1,0 +1,21 @@
+{
+  "matchId": 1582146,
+  "game": "cs2",
+  "createdAt": "2026-07-16T10:05:46.769Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    },
+    {
+      "id": 126417,
+      "name": "Lilmix"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
