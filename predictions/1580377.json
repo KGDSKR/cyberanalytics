@@ -1,0 +1,21 @@
+{
+  "matchId": 1580377,
+  "game": "cs2",
+  "createdAt": "2026-07-16T12:05:13.685Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    },
+    {
+      "id": 138033,
+      "name": "Blitzkrieg"
+    }
+  ],
+  "probs": [
+    73,
+    27
+  ]
+}
