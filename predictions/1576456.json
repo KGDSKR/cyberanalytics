@@ -1,0 +1,21 @@
+{
+  "matchId": 1576456,
+  "game": "cs2",
+  "createdAt": "2026-07-16T23:46:49.298Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137594,
+      "name": "THUNDER dOWNUNDER"
+    },
+    {
+      "id": 131110,
+      "name": "Mindfreak"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
