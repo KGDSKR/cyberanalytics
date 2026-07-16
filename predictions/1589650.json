@@ -1,0 +1,21 @@
+{
+  "matchId": 1589650,
+  "game": "cs2",
+  "createdAt": "2026-07-16T17:38:47.004Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    },
+    {
+      "id": 137589,
+      "name": "Strael-Bora"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
