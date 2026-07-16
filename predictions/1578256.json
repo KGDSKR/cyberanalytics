@@ -1,0 +1,21 @@
+{
+  "matchId": 1578256,
+  "game": "cs2",
+  "createdAt": "2026-07-16T14:07:24.747Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3218,
+      "name": "NIP"
+    },
+    {
+      "id": 137296,
+      "name": "Gentle Mates"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
