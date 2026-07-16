@@ -1,0 +1,21 @@
+{
+  "matchId": 1586955,
+  "game": "cs2",
+  "createdAt": "2026-07-16T13:05:24.822Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
