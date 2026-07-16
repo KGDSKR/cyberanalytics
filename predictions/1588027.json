@@ -1,0 +1,21 @@
+{
+  "matchId": 1588027,
+  "game": "cs2",
+  "createdAt": "2026-07-16T07:05:11.840Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138820,
+      "name": "EAC Rising"
+    },
+    {
+      "id": 138303,
+      "name": "Alpha Dominion Nation"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
