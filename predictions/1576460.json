@@ -1,0 +1,21 @@
+{
+  "matchId": 1576460,
+  "game": "cs2",
+  "createdAt": "2026-07-17T08:04:56.485Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127114,
+      "name": "Rooster"
+    },
+    {
+      "id": 131110,
+      "name": "Mindfreak"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
