@@ -1,0 +1,21 @@
+{
+  "matchId": 1591790,
+  "game": "cs2",
+  "createdAt": "2026-07-17T17:05:15.188Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138946,
+      "name": "FAST LAYNERS"
+    },
+    {
+      "id": 138826,
+      "name": "PENSIONERS"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
