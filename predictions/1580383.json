@@ -1,0 +1,21 @@
+{
+  "matchId": 1580383,
+  "game": "cs2",
+  "createdAt": "2026-07-17T18:16:15.607Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131253,
+      "name": "ODDIK"
+    },
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
