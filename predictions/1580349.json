@@ -1,0 +1,21 @@
+{
+  "matchId": 1580349,
+  "game": "cs2",
+  "createdAt": "2026-07-17T21:15:01.242Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133326,
+      "name": "Bounty Hunters Esports"
+    },
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
