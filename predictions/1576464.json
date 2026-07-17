@@ -1,0 +1,21 @@
+{
+  "matchId": 1576464,
+  "game": "cs2",
+  "createdAt": "2026-07-17T07:35:04.109Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133211,
+      "name": "DXA Esports"
+    },
+    {
+      "id": 133333,
+      "name": "Arcade Esports"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
