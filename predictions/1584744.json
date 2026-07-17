@@ -1,0 +1,21 @@
+{
+  "matchId": 1584744,
+  "game": "cs2",
+  "createdAt": "2026-07-17T20:05:11.900Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
