@@ -1,0 +1,21 @@
+{
+  "matchId": 1580382,
+  "game": "cs2",
+  "createdAt": "2026-07-17T15:07:58.638Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128624,
+      "name": "Patins da Ferrari"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
