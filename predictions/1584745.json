@@ -1,0 +1,21 @@
+{
+  "matchId": 1584745,
+  "game": "cs2",
+  "createdAt": "2026-07-17T19:45:14.296Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135326,
+      "name": "Wingman"
+    },
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
