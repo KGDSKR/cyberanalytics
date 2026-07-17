@@ -1,0 +1,21 @@
+{
+  "matchId": 1584735,
+  "game": "cs2",
+  "createdAt": "2026-07-17T06:06:41.241Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138650,
+      "name": "NEW VISION"
+    },
+    {
+      "id": 135326,
+      "name": "Wingman"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
