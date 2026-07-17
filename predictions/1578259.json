@@ -1,0 +1,21 @@
+{
+  "matchId": 1578259,
+  "game": "cs2",
+  "createdAt": "2026-07-17T16:35:17.126Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3318,
+      "name": "3DMAX"
+    },
+    {
+      "id": 135298,
+      "name": "K27"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
