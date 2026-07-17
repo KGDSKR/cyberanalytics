@@ -1,0 +1,21 @@
+{
+  "matchId": 1576465,
+  "game": "cs2",
+  "createdAt": "2026-07-17T09:35:00.528Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    },
+    {
+      "id": 133333,
+      "name": "Arcade Esports"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
