@@ -1,0 +1,21 @@
+{
+  "matchId": 1576459,
+  "game": "cs2",
+  "createdAt": "2026-07-17T02:45:05.977Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138092,
+      "name": "Abyssal"
+    },
+    {
+      "id": 131110,
+      "name": "Mindfreak"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
