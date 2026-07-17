@@ -1,0 +1,21 @@
+{
+  "matchId": 1586968,
+  "game": "cs2",
+  "createdAt": "2026-07-17T13:08:11.294Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    },
+    {
+      "id": 138027,
+      "name": "Benched gods"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
