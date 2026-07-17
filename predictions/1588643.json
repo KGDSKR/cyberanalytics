@@ -1,0 +1,21 @@
+{
+  "matchId": 1588643,
+  "game": "cs2",
+  "createdAt": "2026-07-17T07:05:33.662Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
