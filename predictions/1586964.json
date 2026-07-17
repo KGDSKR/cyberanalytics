@@ -1,0 +1,21 @@
+{
+  "matchId": 1586964,
+  "game": "cs2",
+  "createdAt": "2026-07-17T10:06:54.397Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126694,
+      "name": "BIG Academy"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
