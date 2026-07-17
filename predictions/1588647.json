@@ -1,0 +1,21 @@
+{
+  "matchId": 1588647,
+  "game": "cs2",
+  "createdAt": "2026-07-17T07:04:57.524Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138835,
+      "name": "LEO"
+    },
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
