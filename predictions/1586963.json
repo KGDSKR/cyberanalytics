@@ -1,0 +1,21 @@
+{
+  "matchId": 1586963,
+  "game": "cs2",
+  "createdAt": "2026-07-17T07:06:13.106Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137701,
+      "name": "Bebop"
+    },
+    {
+      "id": 137028,
+      "name": "Endless Journey"
+    }
+  ],
+  "probs": [
+    39,
+    61
+  ]
+}
