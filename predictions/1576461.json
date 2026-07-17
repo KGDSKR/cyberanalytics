@@ -1,0 +1,21 @@
+{
+  "matchId": 1576461,
+  "game": "cs2",
+  "createdAt": "2026-07-17T04:05:31.404Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    },
+    {
+      "id": 133211,
+      "name": "DXA Esports"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
