@@ -1,0 +1,21 @@
+{
+  "matchId": 1578260,
+  "game": "cs2",
+  "createdAt": "2026-07-17T13:45:20.131Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3218,
+      "name": "NIP"
+    },
+    {
+      "id": 3246,
+      "name": "Heroic"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
