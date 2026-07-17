@@ -1,0 +1,21 @@
+{
+  "matchId": 1584736,
+  "game": "cs2",
+  "createdAt": "2026-07-17T12:06:53.269Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
