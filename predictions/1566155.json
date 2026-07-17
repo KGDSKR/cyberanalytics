@@ -1,0 +1,21 @@
+{
+  "matchId": 1566155,
+  "game": "dota2",
+  "createdAt": "2026-07-17T13:35:25.282Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129609,
+      "name": "Nigma Galaxy"
+    },
+    {
+      "id": 130768,
+      "name": "BetBoom Team"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
