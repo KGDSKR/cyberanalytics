@@ -1,0 +1,21 @@
+{
+  "matchId": 1576458,
+  "game": "cs2",
+  "createdAt": "2026-07-17T02:45:48.268Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127114,
+      "name": "Rooster"
+    },
+    {
+      "id": 137594,
+      "name": "THUNDER dOWNUNDER"
+    }
+  ],
+  "probs": [
+    27,
+    73
+  ]
+}
