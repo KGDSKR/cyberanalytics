@@ -1,0 +1,21 @@
+{
+  "matchId": 1586966,
+  "game": "cs2",
+  "createdAt": "2026-07-18T07:05:35.235Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137701,
+      "name": "Bebop"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
