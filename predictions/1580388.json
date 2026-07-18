@@ -1,0 +1,21 @@
+{
+  "matchId": 1580388,
+  "game": "cs2",
+  "createdAt": "2026-07-18T21:05:00.804Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127214,
+      "name": "Red Feet"
+    },
+    {
+      "id": 136596,
+      "name": "MAGICOS"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
