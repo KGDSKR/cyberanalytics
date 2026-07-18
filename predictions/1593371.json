@@ -1,0 +1,21 @@
+{
+  "matchId": 1593371,
+  "game": "cs2",
+  "createdAt": "2026-07-18T11:06:26.451Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138950,
+      "name": "Italy"
+    },
+    {
+      "id": 129580,
+      "name": "Spain"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
