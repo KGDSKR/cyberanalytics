@@ -1,0 +1,21 @@
+{
+  "matchId": 1593386,
+  "game": "cs2",
+  "createdAt": "2026-07-18T10:05:45.873Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135203,
+      "name": "Bulgaria"
+    },
+    {
+      "id": 133536,
+      "name": "North Macedonia"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
