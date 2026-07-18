@@ -1,0 +1,21 @@
+{
+  "matchId": 1576471,
+  "game": "cs2",
+  "createdAt": "2026-07-18T02:34:58.116Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131110,
+      "name": "Mindfreak"
+    },
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
