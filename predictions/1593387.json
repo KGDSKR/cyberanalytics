@@ -1,0 +1,21 @@
+{
+  "matchId": 1593387,
+  "game": "cs2",
+  "createdAt": "2026-07-18T10:05:03.340Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135208,
+      "name": "Latvia"
+    },
+    {
+      "id": 129834,
+      "name": "Hungary"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
