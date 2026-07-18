@@ -1,0 +1,21 @@
+{
+  "matchId": 1578261,
+  "game": "cs2",
+  "createdAt": "2026-07-18T11:08:30.347Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3218,
+      "name": "NIP"
+    },
+    {
+      "id": 135298,
+      "name": "K27"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
