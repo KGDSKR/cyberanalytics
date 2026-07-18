@@ -1,0 +1,21 @@
+{
+  "matchId": 1584740,
+  "game": "cs2",
+  "createdAt": "2026-07-18T08:05:01.016Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137932,
+      "name": "ex-RUBY"
+    },
+    {
+      "id": 138537,
+      "name": "PsychoFace"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
