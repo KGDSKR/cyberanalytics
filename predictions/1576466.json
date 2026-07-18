@@ -1,0 +1,21 @@
+{
+  "matchId": 1576466,
+  "game": "cs2",
+  "createdAt": "2026-07-18T23:35:04.813Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    },
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
