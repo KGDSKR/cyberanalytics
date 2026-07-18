@@ -1,0 +1,21 @@
+{
+  "matchId": 1554028,
+  "game": "cs2",
+  "createdAt": "2026-07-18T07:06:13.965Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    },
+    {
+      "id": 126624,
+      "name": "Brute"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
