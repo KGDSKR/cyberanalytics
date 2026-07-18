@@ -1,0 +1,21 @@
+{
+  "matchId": 1593373,
+  "game": "cs2",
+  "createdAt": "2026-07-18T11:05:02.025Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129578,
+      "name": "Sweden"
+    },
+    {
+      "id": 135207,
+      "name": "Iceland"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
