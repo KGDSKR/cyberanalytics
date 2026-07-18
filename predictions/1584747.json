@@ -1,0 +1,21 @@
+{
+  "matchId": 1584747,
+  "game": "cs2",
+  "createdAt": "2026-07-18T14:05:09.192Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138537,
+      "name": "PsychoFace"
+    },
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
