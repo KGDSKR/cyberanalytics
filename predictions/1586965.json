@@ -1,0 +1,21 @@
+{
+  "matchId": 1586965,
+  "game": "cs2",
+  "createdAt": "2026-07-18T13:04:58.966Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137028,
+      "name": "Endless Journey"
+    },
+    {
+      "id": 126694,
+      "name": "BIG Academy"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
