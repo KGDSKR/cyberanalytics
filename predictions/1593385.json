@@ -1,0 +1,21 @@
+{
+  "matchId": 1593385,
+  "game": "cs2",
+  "createdAt": "2026-07-18T10:06:26.787Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133531,
+      "name": "Poland"
+    },
+    {
+      "id": 131169,
+      "name": "Czech Republic"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
