@@ -1,0 +1,21 @@
+{
+  "matchId": 1580387,
+  "game": "cs2",
+  "createdAt": "2026-07-18T18:04:56.657Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
