@@ -1,0 +1,21 @@
+{
+  "matchId": 1566161,
+  "game": "dota2",
+  "createdAt": "2026-07-19T09:05:03.994Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1676,
+      "name": "Vici Gaming"
+    },
+    {
+      "id": 137073,
+      "name": "Team Yandex"
+    }
+  ],
+  "probs": [
+    17,
+    83
+  ]
+}
