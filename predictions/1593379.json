@@ -1,0 +1,21 @@
+{
+  "matchId": 1593379,
+  "game": "cs2",
+  "createdAt": "2026-07-19T10:05:40.611Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133535,
+      "name": "Serbia"
+    },
+    {
+      "id": 133524,
+      "name": "Romania"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
