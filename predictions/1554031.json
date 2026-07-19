@@ -1,0 +1,21 @@
+{
+  "matchId": 1554031,
+  "game": "cs2",
+  "createdAt": "2026-07-19T09:35:04.503Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
