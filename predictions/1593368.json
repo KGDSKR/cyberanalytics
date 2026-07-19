@@ -1,0 +1,21 @@
+{
+  "matchId": 1593368,
+  "game": "cs2",
+  "createdAt": "2026-07-19T10:07:40.125Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131171,
+      "name": "Germany"
+    },
+    {
+      "id": 135206,
+      "name": "France"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
