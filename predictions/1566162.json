@@ -1,0 +1,21 @@
+{
+  "matchId": 1566162,
+  "game": "dota2",
+  "createdAt": "2026-07-19T12:35:05.916Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130768,
+      "name": "BetBoom Team"
+    },
+    {
+      "id": 135712,
+      "name": "PARIVISION"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
