@@ -1,0 +1,21 @@
+{
+  "matchId": 1580389,
+  "game": "cs2",
+  "createdAt": "2026-07-19T12:05:08.984Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
