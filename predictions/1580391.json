@@ -1,0 +1,21 @@
+{
+  "matchId": 1580391,
+  "game": "cs2",
+  "createdAt": "2026-07-19T18:04:59.045Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    },
+    {
+      "id": 135580,
+      "name": "Game Hunters"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
