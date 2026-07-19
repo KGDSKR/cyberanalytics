@@ -1,0 +1,21 @@
+{
+  "matchId": 1593369,
+  "game": "cs2",
+  "createdAt": "2026-07-19T10:06:58.691Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138948,
+      "name": "United Kingdom"
+    },
+    {
+      "id": 129579,
+      "name": "Belgium"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
