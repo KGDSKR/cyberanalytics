@@ -1,0 +1,21 @@
+{
+  "matchId": 1594907,
+  "game": "cs2",
+  "createdAt": "2026-07-19T15:04:57.273Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128935,
+      "name": "bankaPEPSI"
+    },
+    {
+      "id": 133571,
+      "name": "Wave Esports"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
