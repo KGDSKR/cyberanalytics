@@ -1,0 +1,21 @@
+{
+  "matchId": 1580392,
+  "game": "cs2",
+  "createdAt": "2026-07-19T21:05:06.502Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128624,
+      "name": "Patins da Ferrari"
+    },
+    {
+      "id": 131253,
+      "name": "ODDIK"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
