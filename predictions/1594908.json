@@ -1,0 +1,21 @@
+{
+  "matchId": 1594908,
+  "game": "cs2",
+  "createdAt": "2026-07-19T07:05:03.467Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126694,
+      "name": "BIG Academy"
+    },
+    {
+      "id": 134405,
+      "name": "Vexar"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
