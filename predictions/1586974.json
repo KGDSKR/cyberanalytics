@@ -1,0 +1,21 @@
+{
+  "matchId": 1586974,
+  "game": "cs2",
+  "createdAt": "2026-07-20T10:05:02.474Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138027,
+      "name": "Benched gods"
+    },
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
