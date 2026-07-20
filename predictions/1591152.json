@@ -1,0 +1,21 @@
+{
+  "matchId": 1591152,
+  "game": "dota2",
+  "createdAt": "2026-07-20T18:07:29.368Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1948,
+      "name": "Level UP"
+    },
+    {
+      "id": 137657,
+      "name": "Ilbirs eSports"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
