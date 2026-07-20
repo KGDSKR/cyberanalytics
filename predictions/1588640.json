@@ -1,0 +1,21 @@
+{
+  "matchId": 1588640,
+  "game": "cs2",
+  "createdAt": "2026-07-20T07:05:19.837Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127497,
+      "name": "eSuba"
+    },
+    {
+      "id": 138820,
+      "name": "EAC Rising"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
