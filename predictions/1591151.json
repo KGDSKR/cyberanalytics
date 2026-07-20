@@ -1,0 +1,21 @@
+{
+  "matchId": 1591151,
+  "game": "dota2",
+  "createdAt": "2026-07-20T12:05:03.601Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
