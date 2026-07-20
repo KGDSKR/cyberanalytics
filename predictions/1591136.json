@@ -1,0 +1,21 @@
+{
+  "matchId": 1591136,
+  "game": "dota2",
+  "createdAt": "2026-07-20T06:05:02.026Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138857,
+      "name": "Team Syntax"
+    },
+    {
+      "id": 136531,
+      "name": "Team Lynx"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
