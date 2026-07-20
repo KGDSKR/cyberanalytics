@@ -1,0 +1,21 @@
+{
+  "matchId": 1586951,
+  "game": "cs2",
+  "createdAt": "2026-07-20T20:06:40.919Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129800,
+      "name": "MIBR Academy"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
