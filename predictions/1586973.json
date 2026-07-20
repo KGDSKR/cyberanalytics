@@ -1,0 +1,21 @@
+{
+  "matchId": 1586973,
+  "game": "cs2",
+  "createdAt": "2026-07-20T07:06:04.854Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126694,
+      "name": "BIG Academy"
+    },
+    {
+      "id": 128258,
+      "name": "Entropy"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
