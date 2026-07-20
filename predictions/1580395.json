@@ -1,0 +1,21 @@
+{
+  "matchId": 1580395,
+  "game": "cs2",
+  "createdAt": "2026-07-20T21:22:42.451Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    },
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
