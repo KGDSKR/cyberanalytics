@@ -1,0 +1,21 @@
+{
+  "matchId": 1588571,
+  "game": "cs2",
+  "createdAt": "2026-07-20T18:05:39.029Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138796,
+      "name": "HATERS"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
