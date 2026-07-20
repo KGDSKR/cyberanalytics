@@ -1,0 +1,21 @@
+{
+  "matchId": 1580394,
+  "game": "cs2",
+  "createdAt": "2026-07-20T18:06:51.053Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136596,
+      "name": "MAGICOS"
+    },
+    {
+      "id": 138033,
+      "name": "Blitzkrieg"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
