@@ -1,0 +1,21 @@
+{
+  "matchId": 1591791,
+  "game": "cs2",
+  "createdAt": "2026-07-20T20:05:06.911Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135505,
+      "name": "RED Canids Academy"
+    },
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
