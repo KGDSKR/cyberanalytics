@@ -1,0 +1,21 @@
+{
+  "matchId": 1596433,
+  "game": "cs2",
+  "createdAt": "2026-07-20T16:05:09.922Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    },
+    {
+      "id": 126417,
+      "name": "Lilmix"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
