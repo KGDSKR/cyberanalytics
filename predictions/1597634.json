@@ -1,0 +1,21 @@
+{
+  "matchId": 1597634,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:45:39.790Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138646,
+      "name": "OKSUCC"
+    },
+    {
+      "id": 126515,
+      "name": "ENRAGE"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
