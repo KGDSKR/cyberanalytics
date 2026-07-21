@@ -1,0 +1,21 @@
+{
+  "matchId": 1597636,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:40:50.133Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    },
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
