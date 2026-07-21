@@ -1,0 +1,21 @@
+{
+  "matchId": 1597637,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:37:53.760Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    },
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
