@@ -1,0 +1,21 @@
+{
+  "matchId": 1580397,
+  "game": "cs2",
+  "createdAt": "2026-07-21T18:18:06.102Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
