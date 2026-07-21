@@ -1,0 +1,21 @@
+{
+  "matchId": 1587516,
+  "game": "cs2",
+  "createdAt": "2026-07-21T07:05:42.602Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137500,
+      "name": "CYBERSHOKE Prospects"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
