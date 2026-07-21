@@ -1,0 +1,21 @@
+{
+  "matchId": 1587517,
+  "game": "cs2",
+  "createdAt": "2026-07-21T10:05:44.348Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    },
+    {
+      "id": 128258,
+      "name": "Entropy"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
