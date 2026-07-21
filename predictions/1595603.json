@@ -1,0 +1,21 @@
+{
+  "matchId": 1595603,
+  "game": "cs2",
+  "createdAt": "2026-07-21T15:12:28.854Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3209,
+      "name": "Astralis"
+    },
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
