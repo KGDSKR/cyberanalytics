@@ -1,0 +1,21 @@
+{
+  "matchId": 1595604,
+  "game": "cs2",
+  "createdAt": "2026-07-21T12:06:37.893Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 3246,
+      "name": "Heroic"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
