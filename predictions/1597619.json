@@ -1,0 +1,21 @@
+{
+  "matchId": 1597619,
+  "game": "cs2",
+  "createdAt": "2026-07-21T13:10:34.185Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137285,
+      "name": "Hermine Esports Club"
+    },
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
