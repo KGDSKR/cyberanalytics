@@ -1,0 +1,21 @@
+{
+  "matchId": 1597627,
+  "game": "cs2",
+  "createdAt": "2026-07-21T18:07:22.892Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138181,
+      "name": "Esport BERG"
+    },
+    {
+      "id": 138462,
+      "name": "Clutchain Female"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
