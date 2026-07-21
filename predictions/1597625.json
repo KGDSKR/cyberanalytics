@@ -1,0 +1,21 @@
+{
+  "matchId": 1597625,
+  "game": "cs2",
+  "createdAt": "2026-07-21T18:03:49.745Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138710,
+      "name": "Subtop De France"
+    },
+    {
+      "id": 138676,
+      "name": "A Great Chaos"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
