@@ -1,0 +1,21 @@
+{
+  "matchId": 1591153,
+  "game": "dota2",
+  "createdAt": "2026-07-21T06:05:01.465Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    },
+    {
+      "id": 134592,
+      "name": "Dandelions"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
