@@ -1,0 +1,21 @@
+{
+  "matchId": 1597639,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:35:26.710Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    },
+    {
+      "id": 137474,
+      "name": "OLDBOYS PL"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
