@@ -1,0 +1,21 @@
+{
+  "matchId": 1595605,
+  "game": "cs2",
+  "createdAt": "2026-07-21T09:04:59.918Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137739,
+      "name": "magic"
+    },
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
