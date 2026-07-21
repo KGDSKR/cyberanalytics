@@ -1,0 +1,21 @@
+{
+  "matchId": 1591140,
+  "game": "dota2",
+  "createdAt": "2026-07-21T12:07:21.576Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136531,
+      "name": "Team Lynx"
+    },
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
