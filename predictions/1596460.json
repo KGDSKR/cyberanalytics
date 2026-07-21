@@ -1,0 +1,21 @@
+{
+  "matchId": 1596460,
+  "game": "cs2",
+  "createdAt": "2026-07-21T15:55:40.621Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137739,
+      "name": "magic"
+    },
+    {
+      "id": 137296,
+      "name": "Gentle Mates"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
