@@ -1,0 +1,21 @@
+{
+  "matchId": 1554036,
+  "game": "cs2",
+  "createdAt": "2026-07-21T09:34:58.984Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    },
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
