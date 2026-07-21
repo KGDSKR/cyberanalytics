@@ -1,0 +1,21 @@
+{
+  "matchId": 1596625,
+  "game": "cs2",
+  "createdAt": "2026-07-21T10:05:02.203Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    },
+    {
+      "id": 138612,
+      "name": "Julie&cie"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
