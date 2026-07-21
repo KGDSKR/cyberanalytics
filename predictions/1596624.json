@@ -1,0 +1,21 @@
+{
+  "matchId": 1596624,
+  "game": "cs2",
+  "createdAt": "2026-07-21T07:05:04.372Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    },
+    {
+      "id": 135978,
+      "name": "eternal premium"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
