@@ -1,0 +1,21 @@
+{
+  "matchId": 1597621,
+  "game": "cs2",
+  "createdAt": "2026-07-21T15:05:17.220Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134037,
+      "name": "Banger Gang"
+    },
+    {
+      "id": 133991,
+      "name": "ZOTIX"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
