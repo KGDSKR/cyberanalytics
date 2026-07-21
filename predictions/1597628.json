@@ -1,0 +1,21 @@
+{
+  "matchId": 1597628,
+  "game": "cs2",
+  "createdAt": "2026-07-21T18:35:03.321Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133991,
+      "name": "ZOTIX"
+    },
+    {
+      "id": 138826,
+      "name": "PENSIONERS"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
