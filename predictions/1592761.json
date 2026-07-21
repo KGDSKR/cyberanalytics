@@ -1,0 +1,21 @@
+{
+  "matchId": 1592761,
+  "game": "cs2",
+  "createdAt": "2026-07-21T11:35:01.999Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 3209,
+      "name": "Astralis"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
