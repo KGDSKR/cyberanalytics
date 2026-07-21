@@ -1,0 +1,21 @@
+{
+  "matchId": 1580396,
+  "game": "cs2",
+  "createdAt": "2026-07-21T15:17:46.843Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131253,
+      "name": "ODDIK"
+    },
+    {
+      "id": 127214,
+      "name": "Red Feet"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
