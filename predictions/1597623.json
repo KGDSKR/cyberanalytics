@@ -1,0 +1,21 @@
+{
+  "matchId": 1597623,
+  "game": "cs2",
+  "createdAt": "2026-07-21T16:16:07.250Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138479,
+      "name": "uust _esports"
+    },
+    {
+      "id": 138825,
+      "name": "SNITKO Esports"
+    }
+  ],
+  "probs": [
+    49,
+    51
+  ]
+}
