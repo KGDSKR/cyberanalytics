@@ -1,0 +1,21 @@
+{
+  "matchId": 1592769,
+  "game": "cs2",
+  "createdAt": "2026-07-21T16:35:16.462Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133725,
+      "name": "Alliance"
+    },
+    {
+      "id": 135273,
+      "name": "Wildcard"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
