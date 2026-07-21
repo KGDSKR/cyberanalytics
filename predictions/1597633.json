@@ -1,0 +1,21 @@
+{
+  "matchId": 1597633,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:50:04.551Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138650,
+      "name": "NEW VISION"
+    },
+    {
+      "id": 128935,
+      "name": "bankaPEPSI"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
