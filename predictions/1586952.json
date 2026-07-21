@@ -1,0 +1,21 @@
+{
+  "matchId": 1586952,
+  "game": "cs2",
+  "createdAt": "2026-07-21T16:15:14.789Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    },
+    {
+      "id": 138686,
+      "name": "Hunters Rising"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
