@@ -1,0 +1,21 @@
+{
+  "matchId": 1597622,
+  "game": "cs2",
+  "createdAt": "2026-07-21T16:25:10.118Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 137444,
+      "name": "Spirit Academy Green"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
