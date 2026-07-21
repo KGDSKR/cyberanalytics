@@ -1,0 +1,21 @@
+{
+  "matchId": 1597640,
+  "game": "cs2",
+  "createdAt": "2026-07-21T19:56:15.509Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138710,
+      "name": "Subtop De France"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
