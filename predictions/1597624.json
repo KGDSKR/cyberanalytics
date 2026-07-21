@@ -1,0 +1,21 @@
+{
+  "matchId": 1597624,
+  "game": "cs2",
+  "createdAt": "2026-07-21T18:08:46.567Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    },
+    {
+      "id": 138931,
+      "name": "EvolupeGG"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
