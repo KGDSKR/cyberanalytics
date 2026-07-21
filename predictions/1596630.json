@@ -1,0 +1,21 @@
+{
+  "matchId": 1596630,
+  "game": "cs2",
+  "createdAt": "2026-07-21T16:11:43.229Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137953,
+      "name": "Fortress"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
