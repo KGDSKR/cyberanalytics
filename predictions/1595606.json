@@ -1,0 +1,21 @@
+{
+  "matchId": 1595606,
+  "game": "cs2",
+  "createdAt": "2026-07-21T12:05:49.353Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3318,
+      "name": "3DMAX"
+    },
+    {
+      "id": 137296,
+      "name": "Gentle Mates"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
