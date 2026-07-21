@@ -1,0 +1,21 @@
+{
+  "matchId": 1591139,
+  "game": "dota2",
+  "createdAt": "2026-07-21T09:06:21.482Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    },
+    {
+      "id": 138857,
+      "name": "Team Syntax"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
