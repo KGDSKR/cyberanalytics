@@ -1,0 +1,21 @@
+{
+  "matchId": 1597638,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:36:27.853Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 137589,
+      "name": "Strael-Bora"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
