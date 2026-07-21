@@ -1,0 +1,21 @@
+{
+  "matchId": 1592757,
+  "game": "cs2",
+  "createdAt": "2026-07-21T14:05:12.749Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    },
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
