@@ -1,0 +1,21 @@
+{
+  "matchId": 1597629,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:57:44.501Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138845,
+      "name": "NEXORA"
+    },
+    {
+      "id": 134037,
+      "name": "Banger Gang"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
