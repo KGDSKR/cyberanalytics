@@ -1,0 +1,21 @@
+{
+  "matchId": 1597620,
+  "game": "cs2",
+  "createdAt": "2026-07-21T15:06:45.826Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 137473,
+      "name": "OldBoys"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
