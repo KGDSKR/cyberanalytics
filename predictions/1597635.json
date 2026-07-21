@@ -1,0 +1,21 @@
+{
+  "matchId": 1597635,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:46:18.942Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127497,
+      "name": "eSuba"
+    },
+    {
+      "id": 138934,
+      "name": "Fraternity"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
