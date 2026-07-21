@@ -1,0 +1,21 @@
+{
+  "matchId": 1597630,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:54:15.198Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127899,
+      "name": "VP.Prodigy"
+    },
+    {
+      "id": 138946,
+      "name": "FAST LAYNERS"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
