@@ -1,0 +1,21 @@
+{
+  "matchId": 1597631,
+  "game": "cs2",
+  "createdAt": "2026-07-21T17:56:48.464Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    },
+    {
+      "id": 138561,
+      "name": "TEAM_COPH9K"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
