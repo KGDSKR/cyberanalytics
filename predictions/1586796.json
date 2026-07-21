@@ -1,0 +1,21 @@
+{
+  "matchId": 1586796,
+  "game": "cs2",
+  "createdAt": "2026-07-21T15:15:54.658Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128258,
+      "name": "Entropy"
+    },
+    {
+      "id": 138129,
+      "name": "BOJONG"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
