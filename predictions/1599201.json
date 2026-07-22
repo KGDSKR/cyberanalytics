@@ -1,0 +1,21 @@
+{
+  "matchId": 1599201,
+  "game": "cs2",
+  "createdAt": "2026-07-22T13:05:26.100Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137285,
+      "name": "Hermine Esports Club"
+    },
+    {
+      "id": 133571,
+      "name": "Wave Esports"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
