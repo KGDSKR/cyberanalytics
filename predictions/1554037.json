@@ -1,0 +1,21 @@
+{
+  "matchId": 1554037,
+  "game": "cs2",
+  "createdAt": "2026-07-22T07:06:56.414Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 126944,
+      "name": "1WIN"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
