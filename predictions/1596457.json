@@ -1,0 +1,21 @@
+{
+  "matchId": 1596457,
+  "game": "cs2",
+  "createdAt": "2026-07-22T09:05:19.025Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 3209,
+      "name": "Astralis"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
