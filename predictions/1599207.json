@@ -1,0 +1,21 @@
+{
+  "matchId": 1599207,
+  "game": "cs2",
+  "createdAt": "2026-07-22T17:07:39.662Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131591,
+      "name": "XI Esport"
+    },
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
