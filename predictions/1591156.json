@@ -1,0 +1,21 @@
+{
+  "matchId": 1591156,
+  "game": "dota2",
+  "createdAt": "2026-07-22T09:07:59.224Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    },
+    {
+      "id": 138854,
+      "name": "Team AION"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
