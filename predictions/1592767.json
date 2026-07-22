@@ -1,0 +1,21 @@
+{
+  "matchId": 1592767,
+  "game": "cs2",
+  "createdAt": "2026-07-22T09:07:05.963Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131189,
+      "name": "EYEBALLERS"
+    },
+    {
+      "id": 3212,
+      "name": "FaZe"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
