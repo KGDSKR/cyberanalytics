@@ -1,0 +1,21 @@
+{
+  "matchId": 1595607,
+  "game": "cs2",
+  "createdAt": "2026-07-22T12:05:37.402Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3218,
+      "name": "NIP"
+    },
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
