@@ -1,0 +1,21 @@
+{
+  "matchId": 1596454,
+  "game": "cs2",
+  "createdAt": "2026-07-22T16:36:14.972Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131505,
+      "name": "Aurora Gaming"
+    },
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
