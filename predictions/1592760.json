@@ -1,0 +1,21 @@
+{
+  "matchId": 1592760,
+  "game": "cs2",
+  "createdAt": "2026-07-22T14:08:49.066Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 125847,
+      "name": "GamerLegion"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
