@@ -1,0 +1,21 @@
+{
+  "matchId": 1599203,
+  "game": "cs2",
+  "createdAt": "2026-07-22T15:34:58.121Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138934,
+      "name": "Fraternity"
+    },
+    {
+      "id": 131591,
+      "name": "XI Esport"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
