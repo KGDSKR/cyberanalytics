@@ -1,0 +1,21 @@
+{
+  "matchId": 1599202,
+  "game": "cs2",
+  "createdAt": "2026-07-22T14:05:02.178Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126515,
+      "name": "ENRAGE"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
