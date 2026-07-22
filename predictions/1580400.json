@@ -1,0 +1,21 @@
+{
+  "matchId": 1580400,
+  "game": "cs2",
+  "createdAt": "2026-07-22T18:05:11.342Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    },
+    {
+      "id": 136596,
+      "name": "MAGICOS"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
