@@ -1,0 +1,21 @@
+{
+  "matchId": 1599208,
+  "game": "cs2",
+  "createdAt": "2026-07-22T17:06:28.780Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 138631,
+      "name": "Privateer Gaming"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
