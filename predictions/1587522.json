@@ -1,0 +1,21 @@
+{
+  "matchId": 1587522,
+  "game": "cs2",
+  "createdAt": "2026-07-22T13:07:16.062Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 137028,
+      "name": "Endless Journey"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
