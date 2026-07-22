@@ -1,0 +1,21 @@
+{
+  "matchId": 1596631,
+  "game": "cs2",
+  "createdAt": "2026-07-22T16:09:43.567Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
