@@ -1,0 +1,21 @@
+{
+  "matchId": 1592756,
+  "game": "cs2",
+  "createdAt": "2026-07-22T16:36:54.158Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130564,
+      "name": "Team Falcons"
+    },
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    }
+  ],
+  "probs": [
+    16,
+    84
+  ]
+}
