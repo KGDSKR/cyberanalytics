@@ -1,0 +1,21 @@
+{
+  "matchId": 1595601,
+  "game": "cs2",
+  "createdAt": "2026-07-22T09:06:14.084Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131505,
+      "name": "Aurora Gaming"
+    },
+    {
+      "id": 135298,
+      "name": "K27"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
