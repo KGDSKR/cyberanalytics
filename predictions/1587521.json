@@ -1,0 +1,21 @@
+{
+  "matchId": 1587521,
+  "game": "cs2",
+  "createdAt": "2026-07-22T10:06:23.247Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
