@@ -1,0 +1,21 @@
+{
+  "matchId": 1554038,
+  "game": "cs2",
+  "createdAt": "2026-07-22T09:35:15.003Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    },
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
