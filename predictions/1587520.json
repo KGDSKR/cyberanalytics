@@ -1,0 +1,21 @@
+{
+  "matchId": 1587520,
+  "game": "cs2",
+  "createdAt": "2026-07-22T07:06:04.300Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
