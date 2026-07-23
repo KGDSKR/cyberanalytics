@@ -1,0 +1,21 @@
+{
+  "matchId": 1591160,
+  "game": "dota2",
+  "createdAt": "2026-07-23T20:35:30.601Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    },
+    {
+      "id": 137657,
+      "name": "Ilbirs eSports"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
