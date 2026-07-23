@@ -1,0 +1,21 @@
+{
+  "matchId": 1600661,
+  "game": "cs2",
+  "createdAt": "2026-07-23T17:39:40.223Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    },
+    {
+      "id": 137444,
+      "name": "Spirit Academy Green"
+    }
+  ],
+  "probs": [
+    41,
+    59
+  ]
+}
