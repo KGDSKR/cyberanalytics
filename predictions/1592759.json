@@ -1,0 +1,21 @@
+{
+  "matchId": 1592759,
+  "game": "cs2",
+  "createdAt": "2026-07-23T09:06:06.303Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131505,
+      "name": "Aurora Gaming"
+    },
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
