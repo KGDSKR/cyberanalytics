@@ -1,0 +1,21 @@
+{
+  "matchId": 1600659,
+  "game": "cs2",
+  "createdAt": "2026-07-23T17:41:13.239Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138729,
+      "name": "DNK"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
