@@ -1,0 +1,21 @@
+{
+  "matchId": 1600656,
+  "game": "cs2",
+  "createdAt": "2026-07-23T17:47:00.603Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137589,
+      "name": "Strael-Bora"
+    },
+    {
+      "id": 137967,
+      "name": "ReThink"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
