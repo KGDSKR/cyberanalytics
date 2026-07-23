@@ -1,0 +1,21 @@
+{
+  "matchId": 1582150,
+  "game": "cs2",
+  "createdAt": "2026-07-23T16:16:53.365Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138975,
+      "name": "Butterfly"
+    },
+    {
+      "id": 138406,
+      "name": "Just Players"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
