@@ -1,0 +1,21 @@
+{
+  "matchId": 1591145,
+  "game": "dota2",
+  "createdAt": "2026-07-23T12:09:16.897Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138945,
+      "name": "Team Jenz"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
