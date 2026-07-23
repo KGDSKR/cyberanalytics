@@ -1,0 +1,21 @@
+{
+  "matchId": 1600658,
+  "game": "cs2",
+  "createdAt": "2026-07-23T17:42:06.316Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126515,
+      "name": "ENRAGE"
+    },
+    {
+      "id": 138650,
+      "name": "NEW VISION"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
