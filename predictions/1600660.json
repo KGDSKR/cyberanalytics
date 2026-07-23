@@ -1,0 +1,21 @@
+{
+  "matchId": 1600660,
+  "game": "cs2",
+  "createdAt": "2026-07-23T17:40:23.996Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137474,
+      "name": "OLDBOYS PL"
+    },
+    {
+      "id": 138986,
+      "name": "MTX"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
