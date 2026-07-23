@@ -1,0 +1,21 @@
+{
+  "matchId": 1582147,
+  "game": "cs2",
+  "createdAt": "2026-07-23T07:06:58.836Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
