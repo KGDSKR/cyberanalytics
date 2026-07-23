@@ -1,0 +1,21 @@
+{
+  "matchId": 1580357,
+  "game": "cs2",
+  "createdAt": "2026-07-23T21:07:25.899Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125863,
+      "name": "Isurus"
+    },
+    {
+      "id": 128624,
+      "name": "Patins da Ferrari"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
