@@ -1,0 +1,21 @@
+{
+  "matchId": 1596461,
+  "game": "cs2",
+  "createdAt": "2026-07-23T09:05:21.201Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    },
+    {
+      "id": 3318,
+      "name": "3DMAX"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
