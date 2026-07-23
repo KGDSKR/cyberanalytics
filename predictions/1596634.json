@@ -1,0 +1,21 @@
+{
+  "matchId": 1596634,
+  "game": "cs2",
+  "createdAt": "2026-07-23T07:05:22.189Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128258,
+      "name": "Entropy"
+    },
+    {
+      "id": 138710,
+      "name": "Subtop De France"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
