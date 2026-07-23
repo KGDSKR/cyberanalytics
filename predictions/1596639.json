@@ -1,0 +1,21 @@
+{
+  "matchId": 1596639,
+  "game": "cs2",
+  "createdAt": "2026-07-23T13:07:06.522Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128629,
+      "name": "megoshort"
+    },
+    {
+      "id": 138631,
+      "name": "Privateer Gaming"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
