@@ -1,0 +1,21 @@
+{
+  "matchId": 1580354,
+  "game": "cs2",
+  "createdAt": "2026-07-23T12:08:23.986Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130605,
+      "name": "UNO MILLE"
+    },
+    {
+      "id": 135580,
+      "name": "Game Hunters"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
