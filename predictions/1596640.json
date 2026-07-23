@@ -1,0 +1,21 @@
+{
+  "matchId": 1596640,
+  "game": "cs2",
+  "createdAt": "2026-07-23T16:08:04.218Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    },
+    {
+      "id": 132459,
+      "name": "ROUNDS"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
