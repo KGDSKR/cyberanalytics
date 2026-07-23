@@ -1,0 +1,21 @@
+{
+  "matchId": 1596635,
+  "game": "cs2",
+  "createdAt": "2026-07-23T10:05:12.165Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138650,
+      "name": "NEW VISION"
+    },
+    {
+      "id": 138027,
+      "name": "Benched gods"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
