@@ -1,0 +1,21 @@
+{
+  "matchId": 1600662,
+  "game": "cs2",
+  "createdAt": "2026-07-23T17:46:09.070Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 138631,
+      "name": "Privateer Gaming"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
