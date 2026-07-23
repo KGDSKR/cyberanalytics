@@ -1,0 +1,21 @@
+{
+  "matchId": 1587524,
+  "game": "cs2",
+  "createdAt": "2026-07-23T07:06:08.302Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    },
+    {
+      "id": 128258,
+      "name": "Entropy"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
