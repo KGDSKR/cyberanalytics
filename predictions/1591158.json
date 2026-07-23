@@ -1,0 +1,21 @@
+{
+  "matchId": 1591158,
+  "game": "dota2",
+  "createdAt": "2026-07-23T06:05:03.878Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134592,
+      "name": "Dandelions"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
