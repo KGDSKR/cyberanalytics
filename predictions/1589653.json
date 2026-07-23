@@ -1,0 +1,21 @@
+{
+  "matchId": 1589653,
+  "game": "cs2",
+  "createdAt": "2026-07-23T15:35:00.642Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137474,
+      "name": "OLDBOYS PL"
+    },
+    {
+      "id": 129468,
+      "name": "Glitchtech Esports"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
