@@ -1,0 +1,21 @@
+{
+  "matchId": 1596458,
+  "game": "cs2",
+  "createdAt": "2026-07-23T15:05:46.740Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3246,
+      "name": "Heroic"
+    },
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
