@@ -1,0 +1,21 @@
+{
+  "matchId": 1587527,
+  "game": "cs2",
+  "createdAt": "2026-07-23T16:10:58.951Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137500,
+      "name": "CYBERSHOKE Prospects"
+    },
+    {
+      "id": 138027,
+      "name": "Benched gods"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
