@@ -1,0 +1,21 @@
+{
+  "matchId": 1587525,
+  "game": "cs2",
+  "createdAt": "2026-07-23T10:06:05.824Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127837,
+      "name": "los kogutos"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
