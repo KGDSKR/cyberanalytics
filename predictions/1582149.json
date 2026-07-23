@@ -1,0 +1,21 @@
+{
+  "matchId": 1582149,
+  "game": "cs2",
+  "createdAt": "2026-07-23T13:09:47.089Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
