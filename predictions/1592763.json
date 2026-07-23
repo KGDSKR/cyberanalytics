@@ -1,0 +1,21 @@
+{
+  "matchId": 1592763,
+  "game": "cs2",
+  "createdAt": "2026-07-23T11:35:21.326Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 136955,
+      "name": "FUT Esports"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
