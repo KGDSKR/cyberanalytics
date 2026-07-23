@@ -1,0 +1,21 @@
+{
+  "matchId": 1596464,
+  "game": "cs2",
+  "createdAt": "2026-07-23T12:05:28.354Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    },
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
