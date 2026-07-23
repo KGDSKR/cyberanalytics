@@ -1,0 +1,21 @@
+{
+  "matchId": 1600653,
+  "game": "cs2",
+  "createdAt": "2026-07-23T16:06:30.639Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136593,
+      "name": "Sangal ALTERS"
+    },
+    {
+      "id": 138479,
+      "name": "uust _esports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
