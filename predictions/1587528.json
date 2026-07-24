@@ -1,0 +1,21 @@
+{
+  "matchId": 1587528,
+  "game": "cs2",
+  "createdAt": "2026-07-24T07:05:09.877Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
