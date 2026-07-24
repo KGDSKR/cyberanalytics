@@ -1,0 +1,21 @@
+{
+  "matchId": 1592765,
+  "game": "cs2",
+  "createdAt": "2026-07-24T08:05:02.053Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137739,
+      "name": "magic"
+    },
+    {
+      "id": 3318,
+      "name": "3DMAX"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
