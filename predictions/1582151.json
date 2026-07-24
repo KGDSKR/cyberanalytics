@@ -1,0 +1,21 @@
+{
+  "matchId": 1582151,
+  "game": "cs2",
+  "createdAt": "2026-07-24T07:05:59.014Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137500,
+      "name": "CYBERSHOKE Prospects"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
