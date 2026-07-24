@@ -1,0 +1,21 @@
+{
+  "matchId": 1591146,
+  "game": "dota2",
+  "createdAt": "2026-07-24T09:05:04.772Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138987,
+      "name": "KW"
+    },
+    {
+      "id": 138857,
+      "name": "Team Syntax"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
