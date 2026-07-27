@@ -1,0 +1,21 @@
+{
+  "matchId": 1601544,
+  "game": "cs2",
+  "createdAt": "2026-07-27T19:09:10.648Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    },
+    {
+      "id": 138686,
+      "name": "Hunters Rising"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
