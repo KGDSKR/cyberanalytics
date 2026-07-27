@@ -1,0 +1,21 @@
+{
+  "matchId": 1600647,
+  "game": "cs2",
+  "createdAt": "2026-07-27T16:10:55.705Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137701,
+      "name": "Bebop"
+    },
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
