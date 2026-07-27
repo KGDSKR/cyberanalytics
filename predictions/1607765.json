@@ -1,0 +1,21 @@
+{
+  "matchId": 1607765,
+  "game": "cs2",
+  "createdAt": "2026-07-27T15:30:51.932Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127899,
+      "name": "VP.Prodigy"
+    },
+    {
+      "id": 138561,
+      "name": "TEAM_COPH9K"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
