@@ -1,0 +1,21 @@
+{
+  "matchId": 1600651,
+  "game": "cs2",
+  "createdAt": "2026-07-27T17:09:22.124Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138939,
+      "name": "Rush"
+    },
+    {
+      "id": 138796,
+      "name": "HATERS"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
