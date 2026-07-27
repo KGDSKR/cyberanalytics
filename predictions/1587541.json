@@ -1,0 +1,21 @@
+{
+  "matchId": 1587541,
+  "game": "cs2",
+  "createdAt": "2026-07-27T15:23:27.902Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
