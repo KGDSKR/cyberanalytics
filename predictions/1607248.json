@@ -1,0 +1,21 @@
+{
+  "matchId": 1607248,
+  "game": "cs2",
+  "createdAt": "2026-07-27T16:39:43.361Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139009,
+      "name": "LFO UKRAINE"
+    },
+    {
+      "id": 139010,
+      "name": "GoldRashers"
+    }
+  ],
+  "probs": [
+    50,
+    50
+  ]
+}
