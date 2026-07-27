@@ -1,0 +1,21 @@
+{
+  "matchId": 1596476,
+  "game": "cs2",
+  "createdAt": "2026-07-27T16:12:37.441Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138026,
+      "name": "Atreides"
+    },
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
