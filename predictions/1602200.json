@@ -1,0 +1,21 @@
+{
+  "matchId": 1602200,
+  "game": "cs2",
+  "createdAt": "2026-07-27T18:09:39.006Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131253,
+      "name": "ODDIK"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
