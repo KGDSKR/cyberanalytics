@@ -1,0 +1,21 @@
+{
+  "matchId": 1582166,
+  "game": "cs2",
+  "createdAt": "2026-07-27T16:14:22.664Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
