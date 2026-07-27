@@ -1,0 +1,21 @@
+{
+  "matchId": 1582165,
+  "game": "cs2",
+  "createdAt": "2026-07-27T15:24:23.339Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
