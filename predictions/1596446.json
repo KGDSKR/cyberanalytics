@@ -1,0 +1,21 @@
+{
+  "matchId": 1596446,
+  "game": "cs2",
+  "createdAt": "2026-07-27T16:41:59.864Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
