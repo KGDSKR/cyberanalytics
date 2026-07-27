@@ -1,0 +1,21 @@
+{
+  "matchId": 1587542,
+  "game": "cs2",
+  "createdAt": "2026-07-27T16:13:41.527Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137500,
+      "name": "CYBERSHOKE Prospects"
+    },
+    {
+      "id": 128258,
+      "name": "Entropy"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
