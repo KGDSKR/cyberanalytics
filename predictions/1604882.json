@@ -1,0 +1,21 @@
+{
+  "matchId": 1604882,
+  "game": "cs2",
+  "createdAt": "2026-07-27T16:00:36.957Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138998,
+      "name": "TokyoSavage"
+    },
+    {
+      "id": 138997,
+      "name": "beznegativa"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
