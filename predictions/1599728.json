@@ -1,0 +1,21 @@
+{
+  "matchId": 1599728,
+  "game": "cs2",
+  "createdAt": "2026-07-27T21:39:53.803Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138940,
+      "name": "???"
+    },
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
