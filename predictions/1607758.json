@@ -1,0 +1,21 @@
+{
+  "matchId": 1607758,
+  "game": "cs2",
+  "createdAt": "2026-07-27T17:20:33.408Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134320,
+      "name": "aimclub"
+    },
+    {
+      "id": 138400,
+      "name": "mellren"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
