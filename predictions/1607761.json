@@ -1,0 +1,21 @@
+{
+  "matchId": 1607761,
+  "game": "cs2",
+  "createdAt": "2026-07-27T17:19:27.615Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131589,
+      "name": "163ON"
+    },
+    {
+      "id": 138358,
+      "name": "banda chuya"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
