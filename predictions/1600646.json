@@ -1,0 +1,21 @@
+{
+  "matchId": 1600646,
+  "game": "cs2",
+  "createdAt": "2026-07-27T15:26:51.589Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
