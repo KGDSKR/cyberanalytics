@@ -1,0 +1,21 @@
+{
+  "matchId": 1582170,
+  "game": "cs2",
+  "createdAt": "2026-07-28T16:40:41.320Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137500,
+      "name": "CYBERSHOKE Prospects"
+    },
+    {
+      "id": 138370,
+      "name": "Lavked"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
