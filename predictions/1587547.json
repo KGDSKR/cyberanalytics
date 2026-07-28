@@ -1,0 +1,21 @@
+{
+  "matchId": 1587547,
+  "game": "cs2",
+  "createdAt": "2026-07-28T16:11:13.614Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
