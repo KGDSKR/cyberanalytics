@@ -1,0 +1,21 @@
+{
+  "matchId": 1607230,
+  "game": "dota2",
+  "createdAt": "2026-07-28T14:09:44.266Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136968,
+      "name": "VooDooSh Team"
+    },
+    {
+      "id": 139007,
+      "name": "Daxak Team"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
