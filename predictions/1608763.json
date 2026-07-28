@@ -1,0 +1,21 @@
+{
+  "matchId": 1608763,
+  "game": "cs2",
+  "createdAt": "2026-07-28T16:09:21.478Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
