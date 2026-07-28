@@ -1,0 +1,21 @@
+{
+  "matchId": 1582168,
+  "game": "cs2",
+  "createdAt": "2026-07-28T10:11:13.684Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138975,
+      "name": "Butterfly"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
