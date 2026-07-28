@@ -1,0 +1,21 @@
+{
+  "matchId": 1608771,
+  "game": "cs2",
+  "createdAt": "2026-07-28T18:11:20.134Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138479,
+      "name": "uust _esports"
+    },
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
