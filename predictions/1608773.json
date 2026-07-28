@@ -1,0 +1,21 @@
+{
+  "matchId": 1608773,
+  "game": "cs2",
+  "createdAt": "2026-07-28T18:10:23.620Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127899,
+      "name": "VP.Prodigy"
+    },
+    {
+      "id": 129468,
+      "name": "Glitchtech Esports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
