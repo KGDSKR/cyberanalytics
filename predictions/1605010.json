@@ -1,0 +1,21 @@
+{
+  "matchId": 1605010,
+  "game": "cs2",
+  "createdAt": "2026-07-28T16:50:50.578Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
