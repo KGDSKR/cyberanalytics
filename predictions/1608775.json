@@ -1,0 +1,21 @@
+{
+  "matchId": 1608775,
+  "game": "cs2",
+  "createdAt": "2026-07-28T17:50:43.104Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138419,
+      "name": "PURE"
+    },
+    {
+      "id": 126515,
+      "name": "ENRAGE"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
