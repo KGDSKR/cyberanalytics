@@ -1,0 +1,21 @@
+{
+  "matchId": 1596450,
+  "game": "cs2",
+  "createdAt": "2026-07-28T12:29:42.634Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138419,
+      "name": "PURE"
+    },
+    {
+      "id": 137440,
+      "name": "ASTRAL"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
