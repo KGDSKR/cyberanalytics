@@ -1,0 +1,21 @@
+{
+  "matchId": 1586798,
+  "game": "cs2",
+  "createdAt": "2026-07-28T16:19:50.484Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    },
+    {
+      "id": 138646,
+      "name": "OKSUCC"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
