@@ -1,0 +1,21 @@
+{
+  "matchId": 1608774,
+  "game": "cs2",
+  "createdAt": "2026-07-28T17:42:36.338Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    },
+    {
+      "id": 134037,
+      "name": "Banger Gang"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
