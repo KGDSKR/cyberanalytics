@@ -1,0 +1,21 @@
+{
+  "matchId": 1600643,
+  "game": "cs2",
+  "createdAt": "2026-07-28T07:09:11.969Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128258,
+      "name": "Entropy"
+    },
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
