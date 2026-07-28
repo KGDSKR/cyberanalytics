@@ -1,0 +1,21 @@
+{
+  "matchId": 1604927,
+  "game": "cs2",
+  "createdAt": "2026-07-28T08:19:16.893Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138999,
+      "name": "FIN E-SPORT"
+    },
+    {
+      "id": 139000,
+      "name": "K28"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
