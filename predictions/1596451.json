@@ -1,0 +1,21 @@
+{
+  "matchId": 1596451,
+  "game": "cs2",
+  "createdAt": "2026-07-28T12:09:13.578Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126624,
+      "name": "Brute"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
