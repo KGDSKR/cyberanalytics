@@ -1,0 +1,21 @@
+{
+  "matchId": 1604926,
+  "game": "cs2",
+  "createdAt": "2026-07-28T08:20:01.321Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138370,
+      "name": "Lavked"
+    },
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
