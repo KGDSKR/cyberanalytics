@@ -1,0 +1,21 @@
+{
+  "matchId": 1600644,
+  "game": "cs2",
+  "createdAt": "2026-07-28T13:09:38.043Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
