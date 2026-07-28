@@ -1,0 +1,21 @@
+{
+  "matchId": 1596449,
+  "game": "cs2",
+  "createdAt": "2026-07-28T09:09:12.868Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    19,
+    81
+  ]
+}
