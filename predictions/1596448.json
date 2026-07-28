@@ -1,0 +1,21 @@
+{
+  "matchId": 1596448,
+  "game": "cs2",
+  "createdAt": "2026-07-28T09:09:53.735Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137440,
+      "name": "ASTRAL"
+    },
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
