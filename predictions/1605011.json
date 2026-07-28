@@ -1,0 +1,21 @@
+{
+  "matchId": 1605011,
+  "game": "cs2",
+  "createdAt": "2026-07-28T16:49:42.027Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139001,
+      "name": "High-Tech Xtreme"
+    },
+    {
+      "id": 137948,
+      "name": "TDK"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
