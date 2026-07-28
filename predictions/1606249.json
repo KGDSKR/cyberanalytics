@@ -1,0 +1,21 @@
+{
+  "matchId": 1606249,
+  "game": "dota2",
+  "createdAt": "2026-07-28T08:09:15.180Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137870,
+      "name": "Power Rangers"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
