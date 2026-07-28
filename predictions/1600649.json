@@ -1,0 +1,21 @@
+{
+  "matchId": 1600649,
+  "game": "cs2",
+  "createdAt": "2026-07-28T16:10:02.849Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    },
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
