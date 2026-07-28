@@ -1,0 +1,21 @@
+{
+  "matchId": 1607764,
+  "game": "cs2",
+  "createdAt": "2026-07-28T14:40:00.110Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139005,
+      "name": "Gothboiclique"
+    },
+    {
+      "id": 138897,
+      "name": "TrafficPills Esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
