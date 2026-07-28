@@ -1,0 +1,21 @@
+{
+  "matchId": 1605012,
+  "game": "cs2",
+  "createdAt": "2026-07-28T20:39:10.925Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137948,
+      "name": "TDK"
+    },
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    }
+  ],
+  "probs": [
+    92,
+    8
+  ]
+}
