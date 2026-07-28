@@ -1,0 +1,21 @@
+{
+  "matchId": 1605632,
+  "game": "cs2",
+  "createdAt": "2026-07-28T19:59:33.065Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 135505,
+      "name": "RED Canids Academy"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
