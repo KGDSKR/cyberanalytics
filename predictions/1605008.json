@@ -1,0 +1,21 @@
+{
+  "matchId": 1605008,
+  "game": "cs2",
+  "createdAt": "2026-07-28T13:29:52.889Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137948,
+      "name": "TDK"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
