@@ -1,0 +1,21 @@
+{
+  "matchId": 1608768,
+  "game": "cs2",
+  "createdAt": "2026-07-28T18:12:15.551Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 138646,
+      "name": "OKSUCC"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
