@@ -1,0 +1,21 @@
+{
+  "matchId": 1596521,
+  "game": "cs2",
+  "createdAt": "2026-07-28T14:09:10.273Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3250,
+      "name": "MIBR"
+    },
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
