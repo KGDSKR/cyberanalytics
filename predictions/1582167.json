@@ -1,0 +1,21 @@
+{
+  "matchId": 1582167,
+  "game": "cs2",
+  "createdAt": "2026-07-28T07:10:27.327Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
