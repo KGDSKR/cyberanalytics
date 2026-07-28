@@ -1,0 +1,21 @@
+{
+  "matchId": 1605009,
+  "game": "cs2",
+  "createdAt": "2026-07-28T13:39:12.782Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    },
+    {
+      "id": 139001,
+      "name": "High-Tech Xtreme"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
