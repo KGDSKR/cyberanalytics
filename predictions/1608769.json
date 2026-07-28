@@ -1,0 +1,21 @@
+{
+  "matchId": 1608769,
+  "game": "cs2",
+  "createdAt": "2026-07-28T17:59:58.798Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138561,
+      "name": "TEAM_COPH9K"
+    },
+    {
+      "id": 138931,
+      "name": "EvolupeGG"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
