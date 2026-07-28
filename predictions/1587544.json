@@ -1,0 +1,21 @@
+{
+  "matchId": 1587544,
+  "game": "cs2",
+  "createdAt": "2026-07-28T10:10:34.967Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138026,
+      "name": "Atreides"
+    },
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
