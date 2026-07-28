@@ -1,0 +1,21 @@
+{
+  "matchId": 1606263,
+  "game": "dota2",
+  "createdAt": "2026-07-28T11:09:53.850Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137658,
+      "name": "No Hoodwink"
+    },
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
