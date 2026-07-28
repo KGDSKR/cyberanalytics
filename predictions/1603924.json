@@ -1,0 +1,21 @@
+{
+  "matchId": 1603924,
+  "game": "cs2",
+  "createdAt": "2026-07-28T17:10:06.398Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133326,
+      "name": "Bounty Hunters Esports"
+    },
+    {
+      "id": 131848,
+      "name": "largadosypelados"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
