@@ -1,0 +1,21 @@
+{
+  "matchId": 1607228,
+  "game": "dota2",
+  "createdAt": "2026-07-28T11:09:12.352Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139008,
+      "name": "NS Team"
+    },
+    {
+      "id": 136963,
+      "name": "Travoman Team"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
