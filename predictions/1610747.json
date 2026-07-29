@@ -1,0 +1,21 @@
+{
+  "matchId": 1610747,
+  "game": "cs2",
+  "createdAt": "2026-07-29T17:20:41.224Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133125,
+      "name": "Aurora Young Blood"
+    },
+    {
+      "id": 139003,
+      "name": "gribo4ki"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
