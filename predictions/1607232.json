@@ -1,0 +1,21 @@
+{
+  "matchId": 1607232,
+  "game": "dota2",
+  "createdAt": "2026-07-29T11:10:06.807Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136960,
+      "name": "YBN Team"
+    },
+    {
+      "id": 136968,
+      "name": "VooDooSh Team"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
