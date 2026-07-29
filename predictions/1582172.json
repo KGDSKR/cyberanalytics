@@ -1,0 +1,21 @@
+{
+  "matchId": 1582172,
+  "game": "cs2",
+  "createdAt": "2026-07-29T10:11:44.587Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
