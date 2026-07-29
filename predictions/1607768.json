@@ -1,0 +1,21 @@
+{
+  "matchId": 1607768,
+  "game": "cs2",
+  "createdAt": "2026-07-29T17:09:56.906Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    },
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
