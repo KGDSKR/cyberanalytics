@@ -1,0 +1,21 @@
+{
+  "matchId": 1596523,
+  "game": "cs2",
+  "createdAt": "2026-07-29T14:10:04.974Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135468,
+      "name": "ShindeN"
+    },
+    {
+      "id": 134355,
+      "name": "Galorys"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
