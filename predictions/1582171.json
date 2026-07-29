@@ -1,0 +1,21 @@
+{
+  "matchId": 1582171,
+  "game": "cs2",
+  "createdAt": "2026-07-29T07:11:30.772Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    },
+    {
+      "id": 134405,
+      "name": "Vexar"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
