@@ -1,0 +1,21 @@
+{
+  "matchId": 1607769,
+  "game": "cs2",
+  "createdAt": "2026-07-29T20:10:16.962Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139000,
+      "name": "K28"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
