@@ -1,0 +1,21 @@
+{
+  "matchId": 1607234,
+  "game": "dota2",
+  "createdAt": "2026-07-29T17:11:07.020Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136967,
+      "name": "Rostik Team"
+    },
+    {
+      "id": 136963,
+      "name": "Travoman Team"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
