@@ -1,0 +1,21 @@
+{
+  "matchId": 1606256,
+  "game": "dota2",
+  "createdAt": "2026-07-29T17:11:42.052Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137685,
+      "name": "Amaru Gaming"
+    },
+    {
+      "id": 138857,
+      "name": "Team Syntax"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
