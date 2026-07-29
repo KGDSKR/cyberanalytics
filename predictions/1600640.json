@@ -1,0 +1,21 @@
+{
+  "matchId": 1600640,
+  "game": "cs2",
+  "createdAt": "2026-07-29T10:09:18.430Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    },
+    {
+      "id": 127837,
+      "name": "los kogutos"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
