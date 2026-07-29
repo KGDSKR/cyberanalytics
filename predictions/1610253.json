@@ -1,0 +1,21 @@
+{
+  "matchId": 1610253,
+  "game": "cs2",
+  "createdAt": "2026-07-29T16:09:13.475Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    },
+    {
+      "id": 137444,
+      "name": "Spirit Academy Green"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
