@@ -1,0 +1,21 @@
+{
+  "matchId": 1610252,
+  "game": "cs2",
+  "createdAt": "2026-07-29T16:09:47.468Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138729,
+      "name": "DNK"
+    },
+    {
+      "id": 136593,
+      "name": "Sangal ALTERS"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
