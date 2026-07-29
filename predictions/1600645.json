@@ -1,0 +1,21 @@
+{
+  "matchId": 1600645,
+  "game": "cs2",
+  "createdAt": "2026-07-29T13:09:57.524Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128258,
+      "name": "Entropy"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
