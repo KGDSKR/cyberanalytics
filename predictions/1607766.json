@@ -1,0 +1,21 @@
+{
+  "matchId": 1607766,
+  "game": "cs2",
+  "createdAt": "2026-07-29T11:09:15.431Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130360,
+      "name": "ARCRED"
+    },
+    {
+      "id": 135497,
+      "name": "WW Team"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
