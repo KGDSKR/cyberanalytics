@@ -1,0 +1,21 @@
+{
+  "matchId": 1607767,
+  "game": "cs2",
+  "createdAt": "2026-07-29T14:09:14.640Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    },
+    {
+      "id": 137948,
+      "name": "TDK"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
