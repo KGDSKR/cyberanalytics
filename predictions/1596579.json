@@ -1,0 +1,21 @@
+{
+  "matchId": 1596579,
+  "game": "cs2",
+  "createdAt": "2026-07-29T21:09:11.758Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3256,
+      "name": "NRG"
+    },
+    {
+      "id": 136318,
+      "name": "Marsborne"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
