@@ -1,0 +1,21 @@
+{
+  "matchId": 1606255,
+  "game": "dota2",
+  "createdAt": "2026-07-29T14:11:33.040Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137685,
+      "name": "Amaru Gaming"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
