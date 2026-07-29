@@ -1,0 +1,21 @@
+{
+  "matchId": 1587552,
+  "game": "cs2",
+  "createdAt": "2026-07-29T16:11:52.520Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
