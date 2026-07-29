@@ -1,0 +1,21 @@
+{
+  "matchId": 1587551,
+  "game": "cs2",
+  "createdAt": "2026-07-29T13:11:21.659Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138026,
+      "name": "Atreides"
+    },
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
