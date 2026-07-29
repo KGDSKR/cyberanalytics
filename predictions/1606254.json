@@ -1,0 +1,21 @@
+{
+  "matchId": 1606254,
+  "game": "dota2",
+  "createdAt": "2026-07-29T11:10:52.728Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138858,
+      "name": "RE.Arise"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
