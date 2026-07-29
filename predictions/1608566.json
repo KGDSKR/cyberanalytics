@@ -1,0 +1,21 @@
+{
+  "matchId": 1608566,
+  "game": "cs2",
+  "createdAt": "2026-07-29T07:09:16.404Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
