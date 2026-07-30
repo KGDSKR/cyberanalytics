@@ -1,0 +1,21 @@
+{
+  "matchId": 1611836,
+  "game": "cs2",
+  "createdAt": "2026-07-30T17:52:23.922Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138710,
+      "name": "Subtop De France"
+    },
+    {
+      "id": 138729,
+      "name": "DNK"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
