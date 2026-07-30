@@ -1,0 +1,21 @@
+{
+  "matchId": 1611838,
+  "game": "cs2",
+  "createdAt": "2026-07-30T17:45:53.452Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137589,
+      "name": "Strael-Bora"
+    },
+    {
+      "id": 138845,
+      "name": "NEXORA"
+    }
+  ],
+  "probs": [
+    51,
+    49
+  ]
+}
