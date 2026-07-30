@@ -1,0 +1,21 @@
+{
+  "matchId": 1596584,
+  "game": "cs2",
+  "createdAt": "2026-07-30T23:39:17.036Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133997,
+      "name": "regain"
+    },
+    {
+      "id": 136064,
+      "name": "Chicken Coop Esports"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
