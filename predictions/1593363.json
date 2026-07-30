@@ -1,0 +1,21 @@
+{
+  "matchId": 1593363,
+  "game": "cs2",
+  "createdAt": "2026-07-30T14:59:21.564Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3318,
+      "name": "3DMAX"
+    },
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
