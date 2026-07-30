@@ -1,0 +1,21 @@
+{
+  "matchId": 1607236,
+  "game": "dota2",
+  "createdAt": "2026-07-30T17:22:43.081Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139006,
+      "name": "avice Team"
+    },
+    {
+      "id": 139007,
+      "name": "Daxak Team"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
