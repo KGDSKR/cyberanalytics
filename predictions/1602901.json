@@ -1,0 +1,21 @@
+{
+  "matchId": 1602901,
+  "game": "cs2",
+  "createdAt": "2026-07-30T07:09:56.330Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    },
+    {
+      "id": 137707,
+      "name": "SINQU"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
