@@ -1,0 +1,21 @@
+{
+  "matchId": 1611842,
+  "game": "cs2",
+  "createdAt": "2026-07-30T17:59:50.205Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137473,
+      "name": "OldBoys"
+    },
+    {
+      "id": 139009,
+      "name": "LFO UKRAINE"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
