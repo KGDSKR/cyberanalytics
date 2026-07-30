@@ -1,0 +1,21 @@
+{
+  "matchId": 1602957,
+  "game": "cs2",
+  "createdAt": "2026-07-30T17:10:26.125Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3251,
+      "name": "ENCE"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
