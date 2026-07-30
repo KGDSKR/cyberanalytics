@@ -1,0 +1,21 @@
+{
+  "matchId": 1596530,
+  "game": "cs2",
+  "createdAt": "2026-07-30T19:39:51.651Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    },
+    {
+      "id": 134355,
+      "name": "Galorys"
+    }
+  ],
+  "probs": [
+    79,
+    21
+  ]
+}
