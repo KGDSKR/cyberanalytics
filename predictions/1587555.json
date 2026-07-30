@@ -1,0 +1,21 @@
+{
+  "matchId": 1587555,
+  "game": "cs2",
+  "createdAt": "2026-07-30T07:11:54.292Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139016,
+      "name": "Nordic Partners Gaming "
+    },
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
