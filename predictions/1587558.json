@@ -1,0 +1,21 @@
+{
+  "matchId": 1587558,
+  "game": "cs2",
+  "createdAt": "2026-07-30T16:15:57.865Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131010,
+      "name": "Sashi Esport"
+    },
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
