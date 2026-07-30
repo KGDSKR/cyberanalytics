@@ -1,0 +1,21 @@
+{
+  "matchId": 1602184,
+  "game": "cs2",
+  "createdAt": "2026-07-30T16:20:48.544Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    },
+    {
+      "id": 137701,
+      "name": "Bebop"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
