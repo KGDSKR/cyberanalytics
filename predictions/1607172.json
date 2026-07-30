@@ -1,0 +1,21 @@
+{
+  "matchId": 1607172,
+  "game": "dota2",
+  "createdAt": "2026-07-30T10:13:53.981Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    },
+    {
+      "id": 134559,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
