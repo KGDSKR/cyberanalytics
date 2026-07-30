@@ -1,0 +1,21 @@
+{
+  "matchId": 1611835,
+  "game": "cs2",
+  "createdAt": "2026-07-30T18:09:42.330Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 137285,
+      "name": "Hermine Esports Club"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
