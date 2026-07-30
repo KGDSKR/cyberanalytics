@@ -1,0 +1,21 @@
+{
+  "matchId": 1602943,
+  "game": "cs2",
+  "createdAt": "2026-07-30T15:09:46.227Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137707,
+      "name": "SINQU"
+    },
+    {
+      "id": 138129,
+      "name": "BOJONG"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
