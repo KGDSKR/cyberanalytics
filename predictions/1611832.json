@@ -1,0 +1,21 @@
+{
+  "matchId": 1611832,
+  "game": "cs2",
+  "createdAt": "2026-07-30T16:11:25.620Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138479,
+      "name": "uust _esports"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
