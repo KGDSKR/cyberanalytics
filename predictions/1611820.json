@@ -1,0 +1,21 @@
+{
+  "matchId": 1611820,
+  "game": "cs2",
+  "createdAt": "2026-07-30T17:23:34.471Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137581,
+      "name": "Young TigeRES"
+    },
+    {
+      "id": 138358,
+      "name": "banda chuya"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
