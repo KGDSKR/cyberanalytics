@@ -1,0 +1,21 @@
+{
+  "matchId": 1611831,
+  "game": "cs2",
+  "createdAt": "2026-07-30T16:11:59.008Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138631,
+      "name": "Privateer Gaming"
+    },
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
