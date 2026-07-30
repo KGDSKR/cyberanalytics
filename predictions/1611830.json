@@ -1,0 +1,21 @@
+{
+  "matchId": 1611830,
+  "game": "cs2",
+  "createdAt": "2026-07-30T14:09:11.576Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 127497,
+      "name": "eSuba"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
