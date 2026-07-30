@@ -1,0 +1,21 @@
+{
+  "matchId": 1606259,
+  "game": "dota2",
+  "createdAt": "2026-07-30T14:10:50.341Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137685,
+      "name": "Amaru Gaming"
+    },
+    {
+      "id": 137870,
+      "name": "Power Rangers"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
