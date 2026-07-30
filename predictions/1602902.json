@@ -1,0 +1,21 @@
+{
+  "matchId": 1602902,
+  "game": "cs2",
+  "createdAt": "2026-07-30T09:09:56.341Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3251,
+      "name": "ENCE"
+    },
+    {
+      "id": 138129,
+      "name": "BOJONG"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
