@@ -1,0 +1,21 @@
+{
+  "matchId": 1587557,
+  "game": "cs2",
+  "createdAt": "2026-07-30T13:11:52.613Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    },
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
