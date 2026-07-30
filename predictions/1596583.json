@@ -1,0 +1,21 @@
+{
+  "matchId": 1596583,
+  "game": "cs2",
+  "createdAt": "2026-07-30T00:09:19.533Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    },
+    {
+      "id": 132366,
+      "name": "LAG Gaming"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
