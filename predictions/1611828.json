@@ -1,0 +1,21 @@
+{
+  "matchId": 1611828,
+  "game": "cs2",
+  "createdAt": "2026-07-30T14:39:57.169Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139002,
+      "name": "sleepers"
+    },
+    {
+      "id": 139003,
+      "name": "gribo4ki"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
