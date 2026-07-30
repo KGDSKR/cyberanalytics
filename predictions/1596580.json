@@ -1,0 +1,21 @@
+{
+  "matchId": 1596580,
+  "game": "cs2",
+  "createdAt": "2026-07-30T21:09:22.704Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137510,
+      "name": "Voca"
+    },
+    {
+      "id": 137496,
+      "name": "SportsBetExpert"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
