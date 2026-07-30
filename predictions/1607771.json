@@ -1,0 +1,21 @@
+{
+  "matchId": 1607771,
+  "game": "cs2",
+  "createdAt": "2026-07-30T09:09:17.387Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135497,
+      "name": "WW Team"
+    },
+    {
+      "id": 137948,
+      "name": "TDK"
+    }
+  ],
+  "probs": [
+    23,
+    77
+  ]
+}
