@@ -1,0 +1,21 @@
+{
+  "matchId": 1602923,
+  "game": "cs2",
+  "createdAt": "2026-07-30T11:09:22.686Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    },
+    {
+      "id": 138129,
+      "name": "BOJONG"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
