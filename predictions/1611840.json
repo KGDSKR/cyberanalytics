@@ -1,0 +1,21 @@
+{
+  "matchId": 1611840,
+  "game": "cs2",
+  "createdAt": "2026-07-30T17:43:45.736Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138986,
+      "name": "MTX"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
