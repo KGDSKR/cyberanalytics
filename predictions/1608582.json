@@ -1,0 +1,21 @@
+{
+  "matchId": 1608582,
+  "game": "cs2",
+  "createdAt": "2026-07-30T09:39:16.469Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127899,
+      "name": "VP.Prodigy"
+    },
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
