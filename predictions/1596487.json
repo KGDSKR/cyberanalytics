@@ -1,0 +1,21 @@
+{
+  "matchId": 1596487,
+  "game": "cs2",
+  "createdAt": "2026-07-30T13:11:04.850Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 138650,
+      "name": "NEW VISION"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
