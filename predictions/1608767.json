@@ -1,0 +1,21 @@
+{
+  "matchId": 1608767,
+  "game": "cs2",
+  "createdAt": "2026-07-31T16:15:13.551Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137285,
+      "name": "Hermine Esports Club"
+    },
+    {
+      "id": 138710,
+      "name": "Subtop De France"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
