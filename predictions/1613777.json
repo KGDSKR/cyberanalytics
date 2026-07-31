@@ -1,0 +1,21 @@
+{
+  "matchId": 1613777,
+  "game": "cs2",
+  "createdAt": "2026-07-31T16:10:04.426Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138934,
+      "name": "Fraternity"
+    },
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
