@@ -1,0 +1,21 @@
+{
+  "matchId": 1582177,
+  "game": "cs2",
+  "createdAt": "2026-07-31T07:11:50.971Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137932,
+      "name": "ex-RUBY"
+    },
+    {
+      "id": 138370,
+      "name": "Lavked"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
