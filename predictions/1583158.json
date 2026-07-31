@@ -1,0 +1,21 @@
+{
+  "matchId": 1583158,
+  "game": "dota2",
+  "createdAt": "2026-07-31T13:12:34.225Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    },
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
