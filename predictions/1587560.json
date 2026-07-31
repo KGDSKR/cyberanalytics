@@ -1,0 +1,21 @@
+{
+  "matchId": 1587560,
+  "game": "cs2",
+  "createdAt": "2026-07-31T10:10:39.094Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
