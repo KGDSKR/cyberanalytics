@@ -1,0 +1,21 @@
+{
+  "matchId": 1596590,
+  "game": "cs2",
+  "createdAt": "2026-07-31T09:09:52.101Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
