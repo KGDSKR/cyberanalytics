@@ -1,0 +1,21 @@
+{
+  "matchId": 1602990,
+  "game": "cs2",
+  "createdAt": "2026-07-31T07:09:12.273Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125774,
+      "name": "HAVU"
+    },
+    {
+      "id": 138992,
+      "name": "Trainwrecks eSports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
