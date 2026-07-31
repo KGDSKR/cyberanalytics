@@ -1,0 +1,21 @@
+{
+  "matchId": 1583154,
+  "game": "dota2",
+  "createdAt": "2026-07-31T13:13:25.159Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
