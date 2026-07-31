@@ -1,0 +1,21 @@
+{
+  "matchId": 1583145,
+  "game": "dota2",
+  "createdAt": "2026-07-31T07:19:32.841Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1676,
+      "name": "Vici Gaming"
+    },
+    {
+      "id": 137685,
+      "name": "Amaru Gaming"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
