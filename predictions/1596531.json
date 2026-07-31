@@ -1,0 +1,21 @@
+{
+  "matchId": 1596531,
+  "game": "cs2",
+  "createdAt": "2026-07-31T17:10:33.657Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    },
+    {
+      "id": 126377,
+      "name": "Imperial"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
