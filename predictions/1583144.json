@@ -1,0 +1,21 @@
+{
+  "matchId": 1583144,
+  "game": "dota2",
+  "createdAt": "2026-07-31T04:10:02.027Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1931,
+      "name": "Yellow Submarine"
+    },
+    {
+      "id": 1660,
+      "name": "Execration"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
