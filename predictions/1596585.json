@@ -1,0 +1,21 @@
+{
+  "matchId": 1596585,
+  "game": "cs2",
+  "createdAt": "2026-07-31T21:09:44.554Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132366,
+      "name": "LAG Gaming"
+    },
+    {
+      "id": 137496,
+      "name": "SportsBetExpert"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
