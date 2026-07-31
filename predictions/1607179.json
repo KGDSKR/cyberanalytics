@@ -1,0 +1,21 @@
+{
+  "matchId": 1607179,
+  "game": "dota2",
+  "createdAt": "2026-07-31T14:11:58.648Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130768,
+      "name": "BetBoom Team"
+    },
+    {
+      "id": 1647,
+      "name": "Team Liquid"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
