@@ -1,0 +1,21 @@
+{
+  "matchId": 1583148,
+  "game": "dota2",
+  "createdAt": "2026-07-31T04:09:19.709Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130713,
+      "name": "Rune Eaters"
+    },
+    {
+      "id": 1680,
+      "name": "Midas Club"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
