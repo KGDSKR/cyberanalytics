@@ -1,0 +1,21 @@
+{
+  "matchId": 1596593,
+  "game": "cs2",
+  "createdAt": "2026-07-31T15:11:21.098Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    },
+    {
+      "id": 130569,
+      "name": "HOTU"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
