@@ -1,0 +1,21 @@
+{
+  "matchId": 1587562,
+  "game": "cs2",
+  "createdAt": "2026-07-31T16:21:36.368Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
