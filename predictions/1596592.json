@@ -1,0 +1,21 @@
+{
+  "matchId": 1596592,
+  "game": "cs2",
+  "createdAt": "2026-07-31T12:09:32.556Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138712,
+      "name": "XCLAN"
+    },
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    }
+  ],
+  "probs": [
+    16,
+    84
+  ]
+}
