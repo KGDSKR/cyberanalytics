@@ -1,0 +1,21 @@
+{
+  "matchId": 1602185,
+  "game": "cs2",
+  "createdAt": "2026-07-31T07:09:51.477Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    },
+    {
+      "id": 132426,
+      "name": "Lazer Cats"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
