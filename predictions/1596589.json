@@ -1,0 +1,21 @@
+{
+  "matchId": 1596589,
+  "game": "cs2",
+  "createdAt": "2026-07-31T09:10:32.432Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 138712,
+      "name": "XCLAN"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
