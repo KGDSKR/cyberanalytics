@@ -1,0 +1,21 @@
+{
+  "matchId": 1596489,
+  "game": "cs2",
+  "createdAt": "2026-07-31T07:10:31.677Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
