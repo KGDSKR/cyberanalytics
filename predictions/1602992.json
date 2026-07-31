@@ -1,0 +1,21 @@
+{
+  "matchId": 1602992,
+  "game": "cs2",
+  "createdAt": "2026-07-31T11:09:12.076Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 125774,
+      "name": "HAVU"
+    },
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
