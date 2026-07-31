@@ -1,0 +1,21 @@
+{
+  "matchId": 1582179,
+  "game": "cs2",
+  "createdAt": "2026-07-31T13:11:43.499Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 134405,
+      "name": "Vexar"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
