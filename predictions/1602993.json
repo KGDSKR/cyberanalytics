@@ -1,0 +1,21 @@
+{
+  "matchId": 1602993,
+  "game": "cs2",
+  "createdAt": "2026-07-31T12:20:55.449Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132459,
+      "name": "ROUNDS"
+    },
+    {
+      "id": 138992,
+      "name": "Trainwrecks eSports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
