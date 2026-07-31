@@ -1,0 +1,21 @@
+{
+  "matchId": 1587559,
+  "game": "cs2",
+  "createdAt": "2026-07-31T07:11:11.069Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127976,
+      "name": "Infinite"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
