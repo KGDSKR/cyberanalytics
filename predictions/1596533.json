@@ -1,0 +1,21 @@
+{
+  "matchId": 1596533,
+  "game": "cs2",
+  "createdAt": "2026-08-01T19:49:17.888Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    },
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
