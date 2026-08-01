@@ -1,0 +1,21 @@
+{
+  "matchId": 1596587,
+  "game": "cs2",
+  "createdAt": "2026-08-01T23:39:15.226Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137496,
+      "name": "SportsBetExpert"
+    },
+    {
+      "id": 136318,
+      "name": "Marsborne"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
