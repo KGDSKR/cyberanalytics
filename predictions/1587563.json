@@ -1,0 +1,21 @@
+{
+  "matchId": 1587563,
+  "game": "cs2",
+  "createdAt": "2026-08-01T10:10:37.016Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 127014,
+      "name": "Sinners"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
