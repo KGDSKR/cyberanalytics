@@ -1,0 +1,21 @@
+{
+  "matchId": 1608662,
+  "game": "cs2",
+  "createdAt": "2026-08-01T09:39:17.992Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    },
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
