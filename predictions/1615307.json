@@ -1,0 +1,21 @@
+{
+  "matchId": 1615307,
+  "game": "cs2",
+  "createdAt": "2026-08-01T10:19:20.072Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134349,
+      "name": "Troublemakers"
+    },
+    {
+      "id": 139038,
+      "name": "ZWAW"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
