@@ -1,0 +1,21 @@
+{
+  "matchId": 1596494,
+  "game": "cs2",
+  "createdAt": "2026-08-01T13:09:47.803Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
