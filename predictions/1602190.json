@@ -1,0 +1,21 @@
+{
+  "matchId": 1602190,
+  "game": "cs2",
+  "createdAt": "2026-08-01T16:11:43.927Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128629,
+      "name": "megoshort"
+    },
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
