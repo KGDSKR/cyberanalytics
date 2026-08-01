@@ -1,0 +1,21 @@
+{
+  "matchId": 1615326,
+  "game": "cs2",
+  "createdAt": "2026-08-01T11:29:12.995Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139039,
+      "name": "RayRay"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
