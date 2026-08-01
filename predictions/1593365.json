@@ -1,0 +1,21 @@
+{
+  "matchId": 1593365,
+  "game": "cs2",
+  "createdAt": "2026-08-01T09:40:04.814Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3212,
+      "name": "FaZe"
+    },
+    {
+      "id": 124523,
+      "name": "Spirit"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
