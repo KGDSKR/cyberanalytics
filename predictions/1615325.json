@@ -1,0 +1,21 @@
+{
+  "matchId": 1615325,
+  "game": "cs2",
+  "createdAt": "2026-08-01T09:19:15.591Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139039,
+      "name": "RayRay"
+    },
+    {
+      "id": 137761,
+      "name": "Altay Esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
