@@ -1,0 +1,21 @@
+{
+  "matchId": 1583146,
+  "game": "dota2",
+  "createdAt": "2026-08-01T04:10:23.276Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1660,
+      "name": "Execration"
+    },
+    {
+      "id": 137685,
+      "name": "Amaru Gaming"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
