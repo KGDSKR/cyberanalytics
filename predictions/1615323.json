@@ -1,0 +1,21 @@
+{
+  "matchId": 1615323,
+  "game": "cs2",
+  "createdAt": "2026-08-01T09:19:52.557Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135915,
+      "name": "DEPO"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
