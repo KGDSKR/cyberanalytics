@@ -1,0 +1,21 @@
+{
+  "matchId": 1583150,
+  "game": "dota2",
+  "createdAt": "2026-08-01T04:09:31.223Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1680,
+      "name": "Midas Club"
+    },
+    {
+      "id": 138494,
+      "name": "Team Resilience"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
