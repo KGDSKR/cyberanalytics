@@ -1,0 +1,21 @@
+{
+  "matchId": 1602997,
+  "game": "cs2",
+  "createdAt": "2026-08-01T11:09:16.056Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137707,
+      "name": "SINQU"
+    },
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
