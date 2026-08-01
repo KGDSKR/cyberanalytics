@@ -1,0 +1,21 @@
+{
+  "matchId": 1602192,
+  "game": "cs2",
+  "createdAt": "2026-08-01T13:09:14.007Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126944,
+      "name": "1WIN"
+    },
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
