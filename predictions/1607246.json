@@ -1,0 +1,21 @@
+{
+  "matchId": 1607246,
+  "game": "dota2",
+  "createdAt": "2026-08-01T13:11:01.887Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139008,
+      "name": "NS Team"
+    },
+    {
+      "id": 136968,
+      "name": "VooDooSh Team"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
