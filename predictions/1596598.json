@@ -1,0 +1,21 @@
+{
+  "matchId": 1596598,
+  "game": "cs2",
+  "createdAt": "2026-08-01T16:09:21.221Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    },
+    {
+      "id": 135381,
+      "name": "Betclic Apogee Esports"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
