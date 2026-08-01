@@ -1,0 +1,21 @@
+{
+  "matchId": 1611821,
+  "game": "cs2",
+  "createdAt": "2026-08-01T14:39:19.852Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137581,
+      "name": "Young TigeRES"
+    },
+    {
+      "id": 134320,
+      "name": "aimclub"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
