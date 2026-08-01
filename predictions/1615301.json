@@ -1,0 +1,21 @@
+{
+  "matchId": 1615301,
+  "game": "cs2",
+  "createdAt": "2026-08-01T08:39:51.405Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137584,
+      "name": "Omega"
+    },
+    {
+      "id": 139038,
+      "name": "ZWAW"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
