@@ -1,0 +1,21 @@
+{
+  "matchId": 1615309,
+  "game": "cs2",
+  "createdAt": "2026-08-01T14:09:21.521Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138110,
+      "name": "THE UNIT"
+    },
+    {
+      "id": 134349,
+      "name": "Troublemakers"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
