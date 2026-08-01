@@ -1,0 +1,21 @@
+{
+  "matchId": 1614314,
+  "game": "cs2",
+  "createdAt": "2026-08-01T19:19:16.521Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139030,
+      "name": "mokrivskiy Club"
+    },
+    {
+      "id": 139033,
+      "name": "Perfecto Club"
+    }
+  ],
+  "probs": [
+    50,
+    50
+  ]
+}
