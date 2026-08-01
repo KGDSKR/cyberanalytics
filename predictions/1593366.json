@@ -1,0 +1,21 @@
+{
+  "matchId": 1593366,
+  "game": "cs2",
+  "createdAt": "2026-08-01T12:39:13.717Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3209,
+      "name": "Astralis"
+    },
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
