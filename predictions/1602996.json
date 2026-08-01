@@ -1,0 +1,21 @@
+{
+  "matchId": 1602996,
+  "game": "cs2",
+  "createdAt": "2026-08-01T07:10:04.020Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3251,
+      "name": "ENCE"
+    },
+    {
+      "id": 125774,
+      "name": "HAVU"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
