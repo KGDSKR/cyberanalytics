@@ -1,0 +1,21 @@
+{
+  "matchId": 1614313,
+  "game": "cs2",
+  "createdAt": "2026-08-01T15:39:12.018Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139035,
+      "name": "shoke Club"
+    },
+    {
+      "id": 139036,
+      "name": "SNAILKICK Club"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
