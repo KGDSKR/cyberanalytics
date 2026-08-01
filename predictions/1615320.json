@@ -1,0 +1,21 @@
+{
+  "matchId": 1615320,
+  "game": "cs2",
+  "createdAt": "2026-08-01T08:39:14.118Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137761,
+      "name": "Altay Esports"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
