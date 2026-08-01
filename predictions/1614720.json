@@ -1,0 +1,21 @@
+{
+  "matchId": 1614720,
+  "game": "cs2",
+  "createdAt": "2026-08-01T20:09:37.948Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 127214,
+      "name": "Red Feet"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
