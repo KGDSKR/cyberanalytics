@@ -1,0 +1,21 @@
+{
+  "matchId": 1583156,
+  "game": "dota2",
+  "createdAt": "2026-08-01T13:11:38.053Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138168,
+      "name": "GLYPH"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
