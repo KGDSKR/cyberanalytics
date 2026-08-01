@@ -1,0 +1,21 @@
+{
+  "matchId": 1602998,
+  "game": "cs2",
+  "createdAt": "2026-08-01T16:11:11.160Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3251,
+      "name": "ENCE"
+    },
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
