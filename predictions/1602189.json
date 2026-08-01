@@ -1,0 +1,21 @@
+{
+  "matchId": 1602189,
+  "game": "cs2",
+  "createdAt": "2026-08-01T10:09:15.463Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
