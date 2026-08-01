@@ -1,0 +1,21 @@
+{
+  "matchId": 1615254,
+  "game": "cs2",
+  "createdAt": "2026-08-01T16:09:55.954Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138986,
+      "name": "MTX"
+    },
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
