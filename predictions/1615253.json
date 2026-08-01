@@ -1,0 +1,21 @@
+{
+  "matchId": 1615253,
+  "game": "cs2",
+  "createdAt": "2026-08-01T16:10:31.290Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138465,
+      "name": "Arch"
+    },
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
