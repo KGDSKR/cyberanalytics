@@ -1,0 +1,21 @@
+{
+  "matchId": 1583160,
+  "game": "dota2",
+  "createdAt": "2026-08-01T15:09:45.540Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137156,
+      "name": "REKONIX"
+    },
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
