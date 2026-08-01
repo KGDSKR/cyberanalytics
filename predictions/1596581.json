@@ -1,0 +1,21 @@
+{
+  "matchId": 1596581,
+  "game": "cs2",
+  "createdAt": "2026-08-01T21:09:17.258Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3256,
+      "name": "NRG"
+    },
+    {
+      "id": 137510,
+      "name": "Voca"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
