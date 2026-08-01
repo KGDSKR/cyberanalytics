@@ -1,0 +1,21 @@
+{
+  "matchId": 1587564,
+  "game": "cs2",
+  "createdAt": "2026-08-01T16:41:01.133Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
