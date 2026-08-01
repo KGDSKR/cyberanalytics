@@ -1,0 +1,21 @@
+{
+  "matchId": 1583147,
+  "game": "dota2",
+  "createdAt": "2026-08-01T07:13:12.109Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1931,
+      "name": "Yellow Submarine"
+    },
+    {
+      "id": 1676,
+      "name": "Vici Gaming"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
