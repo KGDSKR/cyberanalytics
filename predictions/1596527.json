@@ -1,0 +1,21 @@
+{
+  "matchId": 1596527,
+  "game": "cs2",
+  "createdAt": "2026-08-01T17:09:42.754Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3250,
+      "name": "MIBR"
+    },
+    {
+      "id": 135468,
+      "name": "ShindeN"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
