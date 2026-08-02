@@ -1,0 +1,21 @@
+{
+  "matchId": 1587574,
+  "game": "cs2",
+  "createdAt": "2026-08-02T16:09:24.808Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131010,
+      "name": "Sashi Esport"
+    },
+    {
+      "id": 127014,
+      "name": "Sinners"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
