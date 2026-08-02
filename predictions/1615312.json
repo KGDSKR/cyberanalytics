@@ -1,0 +1,21 @@
+{
+  "matchId": 1615312,
+  "game": "cs2",
+  "createdAt": "2026-08-02T12:11:22.017Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138742,
+      "name": "DragonClaw"
+    },
+    {
+      "id": 137953,
+      "name": "Fortress"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
