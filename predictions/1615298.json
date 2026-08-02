@@ -1,0 +1,21 @@
+{
+  "matchId": 1615298,
+  "game": "cs2",
+  "createdAt": "2026-08-02T16:19:43.924Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    },
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
