@@ -1,0 +1,21 @@
+{
+  "matchId": 1615329,
+  "game": "cs2",
+  "createdAt": "2026-08-02T11:39:15.466Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137584,
+      "name": "Omega"
+    },
+    {
+      "id": 135915,
+      "name": "DEPO"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
