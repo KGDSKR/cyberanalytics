@@ -1,0 +1,21 @@
+{
+  "matchId": 1596528,
+  "game": "cs2",
+  "createdAt": "2026-08-02T20:09:19.314Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3250,
+      "name": "MIBR"
+    },
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
