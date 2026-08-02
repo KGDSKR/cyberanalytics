@@ -1,0 +1,21 @@
+{
+  "matchId": 1615318,
+  "game": "cs2",
+  "createdAt": "2026-08-02T12:09:56.182Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
