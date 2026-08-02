@@ -1,0 +1,21 @@
+{
+  "matchId": 1611827,
+  "game": "cs2",
+  "createdAt": "2026-08-02T14:39:31.210Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137581,
+      "name": "Young TigeRES"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
