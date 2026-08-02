@@ -1,0 +1,21 @@
+{
+  "matchId": 1614315,
+  "game": "cs2",
+  "createdAt": "2026-08-02T18:23:36.569Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139029,
+      "name": "Lixxx Club"
+    },
+    {
+      "id": 139036,
+      "name": "SNAILKICK Club"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
