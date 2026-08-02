@@ -1,0 +1,21 @@
+{
+  "matchId": 1583162,
+  "game": "dota2",
+  "createdAt": "2026-08-02T07:09:54.367Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1931,
+      "name": "Yellow Submarine"
+    },
+    {
+      "id": 138494,
+      "name": "Team Resilience"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
