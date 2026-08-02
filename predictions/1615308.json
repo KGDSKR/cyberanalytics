@@ -1,0 +1,21 @@
+{
+  "matchId": 1615308,
+  "game": "cs2",
+  "createdAt": "2026-08-02T16:12:36.074Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134405,
+      "name": "Vexar"
+    },
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
