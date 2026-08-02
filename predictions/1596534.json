@@ -1,0 +1,21 @@
+{
+  "matchId": 1596534,
+  "game": "cs2",
+  "createdAt": "2026-08-02T17:10:07.452Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135468,
+      "name": "ShindeN"
+    },
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
