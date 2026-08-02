@@ -1,0 +1,21 @@
+{
+  "matchId": 1615313,
+  "game": "cs2",
+  "createdAt": "2026-08-02T12:10:36.694Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127837,
+      "name": "los kogutos"
+    },
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
