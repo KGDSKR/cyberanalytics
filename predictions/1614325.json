@@ -1,0 +1,21 @@
+{
+  "matchId": 1614325,
+  "game": "cs2",
+  "createdAt": "2026-08-02T15:40:08.739Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139028,
+      "name": "Buster Club"
+    },
+    {
+      "id": 139031,
+      "name": "Morphilina Club"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
