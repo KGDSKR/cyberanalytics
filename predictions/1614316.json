@@ -1,0 +1,21 @@
+{
+  "matchId": 1614316,
+  "game": "cs2",
+  "createdAt": "2026-08-02T18:22:08.134Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139031,
+      "name": "Morphilina Club"
+    },
+    {
+      "id": 139030,
+      "name": "mokrivskiy Club"
+    }
+  ],
+  "probs": [
+    51,
+    49
+  ]
+}
