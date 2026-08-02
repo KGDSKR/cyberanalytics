@@ -1,0 +1,21 @@
+{
+  "matchId": 1583163,
+  "game": "dota2",
+  "createdAt": "2026-08-02T11:09:23.020Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137156,
+      "name": "REKONIX"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
