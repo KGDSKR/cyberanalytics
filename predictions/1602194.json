@@ -1,0 +1,21 @@
+{
+  "matchId": 1602194,
+  "game": "cs2",
+  "createdAt": "2026-08-02T09:09:34.304Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139044,
+      "name": "ex-1win"
+    },
+    {
+      "id": 132426,
+      "name": "Lazer Cats"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
