@@ -1,0 +1,21 @@
+{
+  "matchId": 1615321,
+  "game": "cs2",
+  "createdAt": "2026-08-02T16:10:53.359Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
