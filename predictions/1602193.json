@@ -1,0 +1,21 @@
+{
+  "matchId": 1602193,
+  "game": "cs2",
+  "createdAt": "2026-08-02T12:20:29.550Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
