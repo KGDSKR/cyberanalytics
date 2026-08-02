@@ -1,0 +1,21 @@
+{
+  "matchId": 1587573,
+  "game": "cs2",
+  "createdAt": "2026-08-02T09:11:36.081Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131010,
+      "name": "Sashi Esport"
+    },
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
