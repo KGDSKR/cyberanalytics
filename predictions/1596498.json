@@ -1,0 +1,21 @@
+{
+  "matchId": 1596498,
+  "game": "cs2",
+  "createdAt": "2026-08-02T13:09:22.141Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
