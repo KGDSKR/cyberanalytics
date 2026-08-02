@@ -1,0 +1,21 @@
+{
+  "matchId": 1615328,
+  "game": "cs2",
+  "createdAt": "2026-08-02T08:09:21.498Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135915,
+      "name": "DEPO"
+    },
+    {
+      "id": 138110,
+      "name": "THE UNIT"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
