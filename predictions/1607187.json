@@ -1,0 +1,21 @@
+{
+  "matchId": 1607187,
+  "game": "dota2",
+  "createdAt": "2026-08-02T10:10:45.799Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137588,
+      "name": "GamerLegion"
+    },
+    {
+      "id": 134559,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    49,
+    51
+  ]
+}
