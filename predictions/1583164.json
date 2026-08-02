@@ -1,0 +1,21 @@
+{
+  "matchId": 1583164,
+  "game": "dota2",
+  "createdAt": "2026-08-02T17:10:50.491Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    },
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
