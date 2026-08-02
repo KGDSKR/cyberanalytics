@@ -1,0 +1,21 @@
+{
+  "matchId": 1587572,
+  "game": "cs2",
+  "createdAt": "2026-08-02T12:22:21.200Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
