@@ -1,0 +1,21 @@
+{
+  "matchId": 1615327,
+  "game": "cs2",
+  "createdAt": "2026-08-02T05:09:17.629Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137584,
+      "name": "Omega"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
