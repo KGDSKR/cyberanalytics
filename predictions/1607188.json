@@ -1,0 +1,21 @@
+{
+  "matchId": 1607188,
+  "game": "dota2",
+  "createdAt": "2026-08-02T13:39:24.286Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133868,
+      "name": "Team Falcons"
+    },
+    {
+      "id": 134536,
+      "name": "1win"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
