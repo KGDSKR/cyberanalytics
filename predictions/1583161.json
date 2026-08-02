@@ -1,0 +1,21 @@
+{
+  "matchId": 1583161,
+  "game": "dota2",
+  "createdAt": "2026-08-02T04:09:17.588Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137885,
+      "name": "PlayTime"
+    },
+    {
+      "id": 1660,
+      "name": "Execration"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
