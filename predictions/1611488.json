@@ -1,0 +1,21 @@
+{
+  "matchId": 1611488,
+  "game": "cs2",
+  "createdAt": "2026-08-03T19:43:52.368Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126377,
+      "name": "Imperial"
+    },
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
