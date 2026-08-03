@@ -1,0 +1,21 @@
+{
+  "matchId": 1596608,
+  "game": "cs2",
+  "createdAt": "2026-08-03T16:59:43.386Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 134188,
+      "name": "Johnny Speeds"
+    },
+    {
+      "id": 129440,
+      "name": "Metizport"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
