@@ -1,0 +1,21 @@
+{
+  "matchId": 1615324,
+  "game": "cs2",
+  "createdAt": "2026-08-03T12:09:42.638Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    },
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
