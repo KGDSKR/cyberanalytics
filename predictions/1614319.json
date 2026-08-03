@@ -1,0 +1,21 @@
+{
+  "matchId": 1614319,
+  "game": "cs2",
+  "createdAt": "2026-08-03T15:46:17.021Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139028,
+      "name": "Buster Club"
+    },
+    {
+      "id": 139030,
+      "name": "mokrivskiy Club"
+    }
+  ],
+  "probs": [
+    51,
+    49
+  ]
+}
