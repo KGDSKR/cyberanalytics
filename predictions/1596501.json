@@ -1,0 +1,21 @@
+{
+  "matchId": 1596501,
+  "game": "cs2",
+  "createdAt": "2026-08-03T13:11:19.236Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 138985,
+      "name": "ex-Young Ninjas"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
