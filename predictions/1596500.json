@@ -1,0 +1,21 @@
+{
+  "matchId": 1596500,
+  "game": "cs2",
+  "createdAt": "2026-08-03T10:09:54.742Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 127837,
+      "name": "los kogutos"
+    }
+  ],
+  "probs": [
+    73,
+    27
+  ]
+}
