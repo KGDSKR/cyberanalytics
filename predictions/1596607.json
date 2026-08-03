@@ -1,0 +1,21 @@
+{
+  "matchId": 1596607,
+  "game": "cs2",
+  "createdAt": "2026-08-03T12:21:32.826Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126417,
+      "name": "Lilmix"
+    },
+    {
+      "id": 134188,
+      "name": "Johnny Speeds"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
