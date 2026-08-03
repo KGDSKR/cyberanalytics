@@ -1,0 +1,21 @@
+{
+  "matchId": 1617667,
+  "game": "cs2",
+  "createdAt": "2026-08-03T16:22:22.658Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 137444,
+      "name": "Spirit Academy Green"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
