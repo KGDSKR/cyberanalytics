@@ -1,0 +1,21 @@
+{
+  "matchId": 1608594,
+  "game": "cs2",
+  "createdAt": "2026-08-03T09:39:59.495Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138820,
+      "name": "EAC Rising"
+    },
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
