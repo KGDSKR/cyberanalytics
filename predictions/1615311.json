@@ -1,0 +1,21 @@
+{
+  "matchId": 1615311,
+  "game": "cs2",
+  "createdAt": "2026-08-03T12:13:08.519Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
