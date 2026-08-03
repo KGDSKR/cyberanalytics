@@ -1,0 +1,21 @@
+{
+  "matchId": 1616787,
+  "game": "cs2",
+  "createdAt": "2026-08-03T09:39:19.931Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    },
+    {
+      "id": 137236,
+      "name": "3DMAX Academy"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
