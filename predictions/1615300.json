@@ -1,0 +1,21 @@
+{
+  "matchId": 1615300,
+  "game": "cs2",
+  "createdAt": "2026-08-03T12:14:12.216Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
