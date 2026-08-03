@@ -1,0 +1,21 @@
+{
+  "matchId": 1583166,
+  "game": "dota2",
+  "createdAt": "2026-08-03T07:11:19.398Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    },
+    {
+      "id": 138494,
+      "name": "Team Resilience"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
