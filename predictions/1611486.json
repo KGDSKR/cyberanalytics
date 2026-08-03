@@ -1,0 +1,21 @@
+{
+  "matchId": 1611486,
+  "game": "cs2",
+  "createdAt": "2026-08-03T13:10:29.788Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125863,
+      "name": "Isurus"
+    },
+    {
+      "id": 134542,
+      "name": "ODDIK Academy"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
