@@ -1,0 +1,21 @@
+{
+  "matchId": 1596606,
+  "game": "cs2",
+  "createdAt": "2026-08-03T12:23:00.579Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3217,
+      "name": "fnatic"
+    },
+    {
+      "id": 129440,
+      "name": "Metizport"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
