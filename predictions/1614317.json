@@ -1,0 +1,21 @@
+{
+  "matchId": 1614317,
+  "game": "cs2",
+  "createdAt": "2026-08-03T10:09:17.004Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139034,
+      "name": "Recrent Club"
+    },
+    {
+      "id": 139033,
+      "name": "Perfecto Club"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
