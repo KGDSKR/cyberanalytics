@@ -1,0 +1,21 @@
+{
+  "matchId": 1583168,
+  "game": "dota2",
+  "createdAt": "2026-08-03T15:20:54.863Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130713,
+      "name": "Rune Eaters"
+    },
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
