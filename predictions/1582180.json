@@ -1,0 +1,21 @@
+{
+  "matchId": 1582180,
+  "game": "cs2",
+  "createdAt": "2026-08-03T07:10:38.003Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135497,
+      "name": "WW Team"
+    },
+    {
+      "id": 137500,
+      "name": "CYBERSHOKE Prospects"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
