@@ -1,0 +1,21 @@
+{
+  "matchId": 1615331,
+  "game": "cs2",
+  "createdAt": "2026-08-03T19:29:28.598Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
