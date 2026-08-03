@@ -1,0 +1,21 @@
+{
+  "matchId": 1596605,
+  "game": "cs2",
+  "createdAt": "2026-08-03T09:10:30.134Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3217,
+      "name": "fnatic"
+    },
+    {
+      "id": 126417,
+      "name": "Lilmix"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
