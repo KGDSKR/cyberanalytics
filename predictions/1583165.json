@@ -1,0 +1,21 @@
+{
+  "matchId": 1583165,
+  "game": "dota2",
+  "createdAt": "2026-08-03T04:09:17.961Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138168,
+      "name": "GLYPH"
+    },
+    {
+      "id": 137885,
+      "name": "PlayTime"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
