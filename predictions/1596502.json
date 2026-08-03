@@ -1,0 +1,21 @@
+{
+  "matchId": 1596502,
+  "game": "cs2",
+  "createdAt": "2026-08-03T18:29:40.704Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
