@@ -1,0 +1,21 @@
+{
+  "matchId": 1615316,
+  "game": "cs2",
+  "createdAt": "2026-08-03T12:11:05.281Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    },
+    {
+      "id": 137953,
+      "name": "Fortress"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
