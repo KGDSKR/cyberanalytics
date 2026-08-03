@@ -1,0 +1,21 @@
+{
+  "matchId": 1583167,
+  "game": "dota2",
+  "createdAt": "2026-08-03T10:11:20.298Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1676,
+      "name": "Vici Gaming"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
