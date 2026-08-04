@@ -1,0 +1,21 @@
+{
+  "matchId": 1618165,
+  "game": "cs2",
+  "createdAt": "2026-08-04T22:39:34.071Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 131253,
+      "name": "ODDIK"
+    },
+    {
+      "id": 135505,
+      "name": "RED Canids Academy"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
