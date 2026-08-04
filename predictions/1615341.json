@@ -1,0 +1,21 @@
+{
+  "matchId": 1615341,
+  "game": "cs2",
+  "createdAt": "2026-08-04T09:09:55.604Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139040,
+      "name": "Finishers"
+    },
+    {
+      "id": 131110,
+      "name": "Mindfreak"
+    }
+  ],
+  "probs": [
+    27,
+    73
+  ]
+}
