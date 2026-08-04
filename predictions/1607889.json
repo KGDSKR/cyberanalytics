@@ -1,0 +1,21 @@
+{
+  "matchId": 1607889,
+  "game": "cs2",
+  "createdAt": "2026-08-04T11:03:43.455Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137546,
+      "name": "Acend"
+    },
+    {
+      "id": 135381,
+      "name": "Betclic Apogee Esports"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
