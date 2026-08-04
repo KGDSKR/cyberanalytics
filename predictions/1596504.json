@@ -1,0 +1,21 @@
+{
+  "matchId": 1596504,
+  "game": "cs2",
+  "createdAt": "2026-08-04T16:00:39.278Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    }
+  ],
+  "probs": [
+    81,
+    19
+  ]
+}
