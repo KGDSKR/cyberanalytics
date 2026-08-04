@@ -1,0 +1,21 @@
+{
+  "matchId": 1611492,
+  "game": "cs2",
+  "createdAt": "2026-08-04T21:30:30.034Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 134355,
+      "name": "Galorys"
+    },
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    }
+  ],
+  "probs": [
+    16,
+    84
+  ]
+}
