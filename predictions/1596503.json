@@ -1,0 +1,21 @@
+{
+  "matchId": 1596503,
+  "game": "cs2",
+  "createdAt": "2026-08-04T10:15:15.632Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 138650,
+      "name": "NEW VISION"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
