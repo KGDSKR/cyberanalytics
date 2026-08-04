@@ -1,0 +1,21 @@
+{
+  "matchId": 1608658,
+  "game": "cs2",
+  "createdAt": "2026-08-04T07:10:03.385Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    },
+    {
+      "id": 137861,
+      "name": "STATE"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
