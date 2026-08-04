@@ -1,0 +1,21 @@
+{
+  "matchId": 1614321,
+  "game": "cs2",
+  "createdAt": "2026-08-04T10:12:05.957Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139032,
+      "name": "PCH3LK1N Club"
+    },
+    {
+      "id": 139036,
+      "name": "SNAILKICK Club"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
