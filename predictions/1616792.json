@@ -1,0 +1,21 @@
+{
+  "matchId": 1616792,
+  "game": "cs2",
+  "createdAt": "2026-08-04T09:41:54.472Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127899,
+      "name": "VP.Prodigy"
+    },
+    {
+      "id": 138837,
+      "name": "SINQU Rehti"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
