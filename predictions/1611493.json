@@ -1,0 +1,21 @@
+{
+  "matchId": 1611493,
+  "game": "cs2",
+  "createdAt": "2026-08-04T22:09:47.634Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    },
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
