@@ -1,0 +1,21 @@
+{
+  "matchId": 1607888,
+  "game": "cs2",
+  "createdAt": "2026-08-04T07:10:42.285Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    },
+    {
+      "id": 134188,
+      "name": "Johnny Speeds"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
