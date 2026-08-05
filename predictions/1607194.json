@@ -1,0 +1,21 @@
+{
+  "matchId": 1607194,
+  "game": "dota2",
+  "createdAt": "2026-08-05T19:00:48.331Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 133868,
+      "name": "Team Falcons"
+    },
+    {
+      "id": 1647,
+      "name": "Team Liquid"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
