@@ -1,0 +1,21 @@
+{
+  "matchId": 1582191,
+  "game": "cs2",
+  "createdAt": "2026-08-05T07:10:47.208Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131010,
+      "name": "Sashi Esport"
+    },
+    {
+      "id": 128519,
+      "name": "GenOne"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
