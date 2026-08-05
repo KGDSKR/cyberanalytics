@@ -1,0 +1,21 @@
+{
+  "matchId": 1607892,
+  "game": "cs2",
+  "createdAt": "2026-08-05T09:11:12.927Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134188,
+      "name": "Johnny Speeds"
+    },
+    {
+      "id": 135381,
+      "name": "Betclic Apogee Esports"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
