@@ -1,0 +1,21 @@
+{
+  "matchId": 1611495,
+  "game": "cs2",
+  "createdAt": "2026-08-05T19:39:17.401Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 130605,
+      "name": "UNO MILLE"
+    },
+    {
+      "id": 134542,
+      "name": "ODDIK Academy"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
