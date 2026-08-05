@@ -1,0 +1,21 @@
+{
+  "matchId": 1616702,
+  "game": "cs2",
+  "createdAt": "2026-08-05T10:12:55.133Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139045,
+      "name": "GamersLab Esports"
+    },
+    {
+      "id": 127497,
+      "name": "eSuba"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
