@@ -1,0 +1,21 @@
+{
+  "matchId": 1615343,
+  "game": "cs2",
+  "createdAt": "2026-08-05T09:10:11.847Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    },
+    {
+      "id": 137596,
+      "name": "Time Waves"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
