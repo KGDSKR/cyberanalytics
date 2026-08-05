@@ -1,0 +1,21 @@
+{
+  "matchId": 1620636,
+  "game": "cs2",
+  "createdAt": "2026-08-05T16:51:47.801Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    },
+    {
+      "id": 137444,
+      "name": "Spirit Academy Green"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
