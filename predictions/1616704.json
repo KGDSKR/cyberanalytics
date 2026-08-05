@@ -1,0 +1,21 @@
+{
+  "matchId": 1616704,
+  "game": "cs2",
+  "createdAt": "2026-08-05T16:39:28.230Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139045,
+      "name": "GamersLab Esports"
+    },
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
