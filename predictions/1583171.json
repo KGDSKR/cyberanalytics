@@ -1,0 +1,21 @@
+{
+  "matchId": 1583171,
+  "game": "dota2",
+  "createdAt": "2026-08-05T07:11:31.289Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138494,
+      "name": "Team Resilience"
+    },
+    {
+      "id": 130713,
+      "name": "Rune Eaters"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
