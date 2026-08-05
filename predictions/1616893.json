@@ -1,0 +1,21 @@
+{
+  "matchId": 1616893,
+  "game": "cs2",
+  "createdAt": "2026-08-05T09:41:45.855Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    },
+    {
+      "id": 138602,
+      "name": "Inner Circle Prospect"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
