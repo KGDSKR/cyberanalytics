@@ -1,0 +1,21 @@
+{
+  "matchId": 1607894,
+  "game": "cs2",
+  "createdAt": "2026-08-05T18:11:38.190Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 135381,
+      "name": "Betclic Apogee Esports"
+    },
+    {
+      "id": 3213,
+      "name": "Liquid"
+    }
+  ],
+  "probs": [
+    10,
+    90
+  ]
+}
