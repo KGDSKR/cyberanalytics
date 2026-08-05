@@ -1,0 +1,21 @@
+{
+  "matchId": 1614326,
+  "game": "cs2",
+  "createdAt": "2026-08-05T10:14:11.599Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139029,
+      "name": "Lixxx Club"
+    },
+    {
+      "id": 139032,
+      "name": "PCH3LK1N Club"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
