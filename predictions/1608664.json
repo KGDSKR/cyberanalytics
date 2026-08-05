@@ -1,0 +1,21 @@
+{
+  "matchId": 1608664,
+  "game": "cs2",
+  "createdAt": "2026-08-05T09:42:30.712Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    },
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
