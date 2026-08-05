@@ -1,0 +1,21 @@
+{
+  "matchId": 1608663,
+  "game": "cs2",
+  "createdAt": "2026-08-05T07:09:21.181Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139014,
+      "name": "Dynamo Eclot Phoenix"
+    },
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
