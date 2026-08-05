@@ -1,0 +1,21 @@
+{
+  "matchId": 1582189,
+  "game": "cs2",
+  "createdAt": "2026-08-05T19:49:58.380Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138975,
+      "name": "Butterfly"
+    },
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
