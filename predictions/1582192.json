@@ -1,0 +1,21 @@
+{
+  "matchId": 1582192,
+  "game": "cs2",
+  "createdAt": "2026-08-06T07:11:34.802Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131010,
+      "name": "Sashi Esport"
+    },
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
