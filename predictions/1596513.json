@@ -1,0 +1,21 @@
+{
+  "matchId": 1596513,
+  "game": "cs2",
+  "createdAt": "2026-08-06T17:50:59.566Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135497,
+      "name": "WW Team"
+    },
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    }
+  ],
+  "probs": [
+    29,
+    71
+  ]
+}
