@@ -1,0 +1,21 @@
+{
+  "matchId": 1616709,
+  "game": "cs2",
+  "createdAt": "2026-08-06T10:12:58.434Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138899,
+      "name": "maybe"
+    },
+    {
+      "id": 139046,
+      "name": "JAM"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
