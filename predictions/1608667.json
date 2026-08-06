@@ -1,0 +1,21 @@
+{
+  "matchId": 1608667,
+  "game": "dota2",
+  "createdAt": "2026-08-06T16:41:09.353Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137658,
+      "name": "No Hoodwink"
+    },
+    {
+      "id": 1948,
+      "name": "Level UP"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
