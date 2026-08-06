@@ -1,0 +1,21 @@
+{
+  "matchId": 1615345,
+  "game": "cs2",
+  "createdAt": "2026-08-06T09:10:41.038Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    },
+    {
+      "id": 138092,
+      "name": "Abyssal"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
