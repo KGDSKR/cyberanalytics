@@ -1,0 +1,21 @@
+{
+  "matchId": 1611501,
+  "game": "cs2",
+  "createdAt": "2026-08-06T23:09:22.726Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134355,
+      "name": "Galorys"
+    },
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
