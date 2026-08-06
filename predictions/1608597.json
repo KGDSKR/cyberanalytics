@@ -1,0 +1,21 @@
+{
+  "matchId": 1608597,
+  "game": "cs2",
+  "createdAt": "2026-08-06T09:42:14.276Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138820,
+      "name": "EAC Rising"
+    },
+    {
+      "id": 130059,
+      "name": "Eternal Fire Academy"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
