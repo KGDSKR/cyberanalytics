@@ -1,0 +1,21 @@
+{
+  "matchId": 1614333,
+  "game": "cs2",
+  "createdAt": "2026-08-06T16:00:05.014Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139028,
+      "name": "Buster Club"
+    },
+    {
+      "id": 139033,
+      "name": "Perfecto Club"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
