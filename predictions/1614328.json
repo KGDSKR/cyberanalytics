@@ -1,0 +1,21 @@
+{
+  "matchId": 1614328,
+  "game": "cs2",
+  "createdAt": "2026-08-06T09:11:18.632Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139036,
+      "name": "SNAILKICK Club"
+    },
+    {
+      "id": 139037,
+      "name": "WorldEdit Club"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
