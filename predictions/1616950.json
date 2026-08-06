@@ -1,0 +1,21 @@
+{
+  "matchId": 1616950,
+  "game": "cs2",
+  "createdAt": "2026-08-06T09:41:40.887Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
