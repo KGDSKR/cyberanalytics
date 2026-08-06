@@ -1,0 +1,21 @@
+{
+  "matchId": 1611499,
+  "game": "cs2",
+  "createdAt": "2026-08-06T18:49:43.379Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 131538,
+      "name": "Yawara Esports"
+    },
+    {
+      "id": 125863,
+      "name": "Isurus"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
