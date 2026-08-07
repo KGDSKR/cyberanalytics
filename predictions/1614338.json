@@ -1,0 +1,21 @@
+{
+  "matchId": 1614338,
+  "game": "cs2",
+  "createdAt": "2026-08-07T18:40:58.137Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139037,
+      "name": "WorldEdit Club"
+    },
+    {
+      "id": 139029,
+      "name": "Lixxx Club"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
