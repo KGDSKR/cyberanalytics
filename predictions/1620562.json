@@ -1,0 +1,21 @@
+{
+  "matchId": 1620562,
+  "game": "cs2",
+  "createdAt": "2026-08-07T08:10:44.714Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139061,
+      "name": "FKOMAR"
+    },
+    {
+      "id": 3217,
+      "name": "fnatic"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
