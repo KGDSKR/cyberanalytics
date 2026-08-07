@@ -1,0 +1,21 @@
+{
+  "matchId": 1616788,
+  "game": "cs2",
+  "createdAt": "2026-08-07T07:09:23.398Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137236,
+      "name": "3DMAX Academy"
+    },
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
