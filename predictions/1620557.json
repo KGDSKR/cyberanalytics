@@ -1,0 +1,21 @@
+{
+  "matchId": 1620557,
+  "game": "cs2",
+  "createdAt": "2026-08-07T08:12:14.167Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131984,
+      "name": "ABT Esports"
+    },
+    {
+      "id": 126408,
+      "name": "9INE"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
