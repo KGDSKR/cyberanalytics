@@ -1,0 +1,21 @@
+{
+  "matchId": 1624075,
+  "game": "dota2",
+  "createdAt": "2026-08-07T21:09:24.454Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    },
+    {
+      "id": 136531,
+      "name": "Team Lynx"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
