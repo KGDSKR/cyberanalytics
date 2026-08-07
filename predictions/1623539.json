@@ -1,0 +1,21 @@
+{
+  "matchId": 1623539,
+  "game": "cs2",
+  "createdAt": "2026-08-07T19:10:29.025Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138288,
+      "name": "Basement Bobs"
+    },
+    {
+      "id": 138826,
+      "name": "PENSIONERS"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
