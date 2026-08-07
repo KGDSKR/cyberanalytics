@@ -1,0 +1,21 @@
+{
+  "matchId": 1624076,
+  "game": "dota2",
+  "createdAt": "2026-08-07T15:40:28.525Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139079,
+      "name": "FTS"
+    },
+    {
+      "id": 1948,
+      "name": "Level UP"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
