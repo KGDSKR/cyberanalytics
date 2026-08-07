@@ -1,0 +1,21 @@
+{
+  "matchId": 1620577,
+  "game": "cs2",
+  "createdAt": "2026-08-07T17:19:43.520Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139067,
+      "name": "NADE"
+    },
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
