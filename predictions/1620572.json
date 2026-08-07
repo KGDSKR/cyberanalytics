@@ -1,0 +1,21 @@
+{
+  "matchId": 1620572,
+  "game": "cs2",
+  "createdAt": "2026-08-07T17:40:20.650Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139064,
+      "name": "levelONE"
+    },
+    {
+      "id": 136560,
+      "name": "Phantom"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
