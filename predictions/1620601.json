@@ -1,0 +1,21 @@
+{
+  "matchId": 1620601,
+  "game": "cs2",
+  "createdAt": "2026-08-07T16:40:52.496Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    },
+    {
+      "id": 127365,
+      "name": "Sangal"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
