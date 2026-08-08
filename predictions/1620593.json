@@ -1,0 +1,21 @@
+{
+  "matchId": 1620593,
+  "game": "cs2",
+  "createdAt": "2026-08-08T09:15:04.707Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137546,
+      "name": "Acend"
+    },
+    {
+      "id": 3256,
+      "name": "NRG"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
