@@ -1,0 +1,21 @@
+{
+  "matchId": 1596520,
+  "game": "cs2",
+  "createdAt": "2026-08-08T17:59:18.106Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138975,
+      "name": "Butterfly"
+    },
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
