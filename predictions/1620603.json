@@ -1,0 +1,21 @@
+{
+  "matchId": 1620603,
+  "game": "cs2",
+  "createdAt": "2026-08-08T08:11:19.692Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
