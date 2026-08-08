@@ -1,0 +1,21 @@
+{
+  "matchId": 1616793,
+  "game": "cs2",
+  "createdAt": "2026-08-08T07:09:58.409Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    },
+    {
+      "id": 138837,
+      "name": "SINQU Rehti"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
