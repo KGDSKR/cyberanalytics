@@ -1,0 +1,21 @@
+{
+  "matchId": 1606270,
+  "game": "dota2",
+  "createdAt": "2026-08-08T09:25:58.822Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137870,
+      "name": "Power Rangers"
+    },
+    {
+      "id": 138857,
+      "name": "Team Syntax"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
