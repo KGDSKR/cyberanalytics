@@ -1,0 +1,21 @@
+{
+  "matchId": 1620584,
+  "game": "cs2",
+  "createdAt": "2026-08-08T09:23:45.058Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139068,
+      "name": "Dhala"
+    },
+    {
+      "id": 136846,
+      "name": "Prestige"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
