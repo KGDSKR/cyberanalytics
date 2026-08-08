@@ -1,0 +1,21 @@
+{
+  "matchId": 1620599,
+  "game": "cs2",
+  "createdAt": "2026-08-08T08:11:56.271Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139073,
+      "name": "Dark Tigre"
+    },
+    {
+      "id": 139072,
+      "name": "MANGANESE"
+    }
+  ],
+  "probs": [
+    49,
+    51
+  ]
+}
