@@ -1,0 +1,21 @@
+{
+  "matchId": 1620598,
+  "game": "cs2",
+  "createdAt": "2026-08-08T08:12:34.482Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135298,
+      "name": "K27"
+    },
+    {
+      "id": 127014,
+      "name": "Sinners"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
