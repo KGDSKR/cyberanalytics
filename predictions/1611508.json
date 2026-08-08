@@ -1,0 +1,21 @@
+{
+  "matchId": 1611508,
+  "game": "cs2",
+  "createdAt": "2026-08-08T20:40:36.200Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
