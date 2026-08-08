@@ -1,0 +1,21 @@
+{
+  "matchId": 1620604,
+  "game": "cs2",
+  "createdAt": "2026-08-08T08:10:39.363Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127365,
+      "name": "Sangal"
+    },
+    {
+      "id": 139074,
+      "name": "zeste"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
