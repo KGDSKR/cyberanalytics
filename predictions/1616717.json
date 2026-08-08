@@ -1,0 +1,21 @@
+{
+  "matchId": 1616717,
+  "game": "cs2",
+  "createdAt": "2026-08-08T16:51:11.079Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 126699,
+      "name": "Nexus"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
