@@ -1,0 +1,21 @@
+{
+  "matchId": 1625141,
+  "game": "cs2",
+  "createdAt": "2026-08-08T07:09:17.864Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
