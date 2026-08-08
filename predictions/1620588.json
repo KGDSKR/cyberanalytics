@@ -1,0 +1,21 @@
+{
+  "matchId": 1620588,
+  "game": "cs2",
+  "createdAt": "2026-08-08T09:22:05.652Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 131010,
+      "name": "Sashi Esport"
+    },
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
