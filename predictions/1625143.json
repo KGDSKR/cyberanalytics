@@ -1,0 +1,21 @@
+{
+  "matchId": 1625143,
+  "game": "cs2",
+  "createdAt": "2026-08-09T07:09:20.198Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    },
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
