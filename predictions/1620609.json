@@ -1,0 +1,21 @@
+{
+  "matchId": 1620609,
+  "game": "cs2",
+  "createdAt": "2026-08-09T09:26:25.789Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    },
+    {
+      "id": 3217,
+      "name": "fnatic"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
