@@ -1,0 +1,21 @@
+{
+  "matchId": 1620632,
+  "game": "cs2",
+  "createdAt": "2026-08-09T18:00:00.570Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
