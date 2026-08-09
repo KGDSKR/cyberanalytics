@@ -1,0 +1,21 @@
+{
+  "matchId": 1620620,
+  "game": "cs2",
+  "createdAt": "2026-08-09T08:13:07.534Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    },
+    {
+      "id": 126584,
+      "name": "OG"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
