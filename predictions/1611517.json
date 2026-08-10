@@ -1,0 +1,21 @@
+{
+  "matchId": 1611517,
+  "game": "cs2",
+  "createdAt": "2026-08-10T20:10:08.173Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    },
+    {
+      "id": 3225,
+      "name": "Keyd"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
