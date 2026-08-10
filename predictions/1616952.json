@@ -1,0 +1,21 @@
+{
+  "matchId": 1616952,
+  "game": "cs2",
+  "createdAt": "2026-08-10T09:42:37.232Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130059,
+      "name": "Eternal Fire Academy"
+    },
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
