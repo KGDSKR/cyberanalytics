@@ -1,0 +1,21 @@
+{
+  "matchId": 1606804,
+  "game": "dota2",
+  "createdAt": "2026-08-10T18:00:54.520Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130713,
+      "name": "Rune Eaters"
+    },
+    {
+      "id": 1699,
+      "name": "Natus Vincere"
+    }
+  ],
+  "probs": [
+    49,
+    51
+  ]
+}
