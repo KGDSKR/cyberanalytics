@@ -1,0 +1,21 @@
+{
+  "matchId": 1615353,
+  "game": "cs2",
+  "createdAt": "2026-08-10T09:10:23.214Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127114,
+      "name": "Rooster"
+    },
+    {
+      "id": 138092,
+      "name": "Abyssal"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
