@@ -1,0 +1,21 @@
+{
+  "matchId": 1627169,
+  "game": "cs2",
+  "createdAt": "2026-08-10T00:00:03.231Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
