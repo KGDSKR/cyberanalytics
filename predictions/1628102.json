@@ -1,0 +1,21 @@
+{
+  "matchId": 1628102,
+  "game": "dota2",
+  "createdAt": "2026-08-10T16:09:43.351Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137658,
+      "name": "No Hoodwink"
+    },
+    {
+      "id": 138858,
+      "name": "RE.Arise"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
