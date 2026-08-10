@@ -1,0 +1,21 @@
+{
+  "matchId": 1628724,
+  "game": "cs2",
+  "createdAt": "2026-08-10T20:39:39.434Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134542,
+      "name": "ODDIK Academy"
+    },
+    {
+      "id": 128624,
+      "name": "Patins da Ferrari"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
