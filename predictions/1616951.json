@@ -1,0 +1,21 @@
+{
+  "matchId": 1616951,
+  "game": "cs2",
+  "createdAt": "2026-08-10T07:10:00.680Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
