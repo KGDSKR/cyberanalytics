@@ -1,0 +1,21 @@
+{
+  "matchId": 1626617,
+  "game": "cs2",
+  "createdAt": "2026-08-11T07:09:20.618Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    },
+    {
+      "id": 137861,
+      "name": "STATE"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
