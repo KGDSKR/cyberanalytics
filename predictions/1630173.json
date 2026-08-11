@@ -1,0 +1,21 @@
+{
+  "matchId": 1630173,
+  "game": "cs2",
+  "createdAt": "2026-08-11T15:19:50.434Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137473,
+      "name": "OldBoys"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
