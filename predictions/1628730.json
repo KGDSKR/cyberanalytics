@@ -1,0 +1,21 @@
+{
+  "matchId": 1628730,
+  "game": "cs2",
+  "createdAt": "2026-08-11T00:50:03.455Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 130605,
+      "name": "UNO MILLE"
+    },
+    {
+      "id": 133388,
+      "name": "pugdesonesto"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
