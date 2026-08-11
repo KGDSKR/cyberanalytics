@@ -1,0 +1,21 @@
+{
+  "matchId": 1628728,
+  "game": "cs2",
+  "createdAt": "2026-08-11T23:39:23.474Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    },
+    {
+      "id": 127214,
+      "name": "Red Feet"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
