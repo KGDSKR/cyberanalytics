@@ -1,0 +1,21 @@
+{
+  "matchId": 1630174,
+  "game": "cs2",
+  "createdAt": "2026-08-11T15:50:06.512Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    },
+    {
+      "id": 139009,
+      "name": "LFO UKRAINE"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
