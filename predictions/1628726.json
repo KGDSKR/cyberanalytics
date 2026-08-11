@@ -1,0 +1,21 @@
+{
+  "matchId": 1628726,
+  "game": "cs2",
+  "createdAt": "2026-08-11T21:29:14.553Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139088,
+      "name": "cobblemon"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
