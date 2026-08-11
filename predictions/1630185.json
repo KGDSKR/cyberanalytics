@@ -1,0 +1,21 @@
+{
+  "matchId": 1630185,
+  "game": "cs2",
+  "createdAt": "2026-08-11T19:20:05.082Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 129468,
+      "name": "Glitchtech Esports"
+    },
+    {
+      "id": 138986,
+      "name": "MTX"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
