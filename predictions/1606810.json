@@ -1,0 +1,21 @@
+{
+  "matchId": 1606810,
+  "game": "dota2",
+  "createdAt": "2026-08-11T15:30:02.291Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1931,
+      "name": "Yellow Submarine"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
