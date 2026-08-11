@@ -1,0 +1,21 @@
+{
+  "matchId": 1606809,
+  "game": "dota2",
+  "createdAt": "2026-08-11T11:46:31.873Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134559,
+      "name": "MOUZ"
+    },
+    {
+      "id": 130713,
+      "name": "Rune Eaters"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
