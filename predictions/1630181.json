@@ -1,0 +1,21 @@
+{
+  "matchId": 1630181,
+  "game": "cs2",
+  "createdAt": "2026-08-11T16:31:58.018Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    },
+    {
+      "id": 138027,
+      "name": "Benched gods"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
