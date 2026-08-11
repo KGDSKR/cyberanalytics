@@ -1,0 +1,21 @@
+{
+  "matchId": 1606805,
+  "game": "dota2",
+  "createdAt": "2026-08-11T08:09:59.809Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1948,
+      "name": "Level UP"
+    },
+    {
+      "id": 1699,
+      "name": "Natus Vincere"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
