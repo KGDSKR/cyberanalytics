@@ -1,0 +1,21 @@
+{
+  "matchId": 1628727,
+  "game": "cs2",
+  "createdAt": "2026-08-11T22:59:48.116Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
