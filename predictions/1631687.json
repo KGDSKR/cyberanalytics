@@ -1,0 +1,21 @@
+{
+  "matchId": 1631687,
+  "game": "cs2",
+  "createdAt": "2026-08-12T20:59:46.456Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    },
+    {
+      "id": 138096,
+      "name": "Back to Back "
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
