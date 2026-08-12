@@ -1,0 +1,21 @@
+{
+  "matchId": 1624088,
+  "game": "cs2",
+  "createdAt": "2026-08-12T16:50:02.159Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3250,
+      "name": "MIBR"
+    },
+    {
+      "id": 3209,
+      "name": "Astralis"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
