@@ -1,0 +1,21 @@
+{
+  "matchId": 1616790,
+  "game": "cs2",
+  "createdAt": "2026-08-12T07:10:50.631Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    },
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
