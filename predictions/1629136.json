@@ -1,0 +1,21 @@
+{
+  "matchId": 1629136,
+  "game": "cs2",
+  "createdAt": "2026-08-12T07:10:11.389Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    },
+    {
+      "id": 127899,
+      "name": "VP.Prodigy"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
