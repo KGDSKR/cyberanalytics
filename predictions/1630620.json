@@ -1,0 +1,21 @@
+{
+  "matchId": 1630620,
+  "game": "cs2",
+  "createdAt": "2026-08-12T18:10:33.727Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137028,
+      "name": "Endless Journey"
+    },
+    {
+      "id": 125774,
+      "name": "HAVU"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
