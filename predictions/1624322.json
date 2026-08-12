@@ -1,0 +1,21 @@
+{
+  "matchId": 1624322,
+  "game": "cs2",
+  "createdAt": "2026-08-12T18:20:50.045Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 135273,
+      "name": "Wildcard"
+    },
+    {
+      "id": 124530,
+      "name": "FURIA"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
