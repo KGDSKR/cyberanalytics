@@ -1,0 +1,21 @@
+{
+  "matchId": 1631190,
+  "game": "cs2",
+  "createdAt": "2026-08-12T17:49:21.459Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138358,
+      "name": "banda chuya"
+    },
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
