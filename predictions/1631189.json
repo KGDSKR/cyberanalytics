@@ -1,0 +1,21 @@
+{
+  "matchId": 1631189,
+  "game": "cs2",
+  "createdAt": "2026-08-12T15:40:50.775Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138845,
+      "name": "NEXORA"
+    },
+    {
+      "id": 129468,
+      "name": "Glitchtech Esports"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
