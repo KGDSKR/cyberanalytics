@@ -1,0 +1,21 @@
+{
+  "matchId": 1631192,
+  "game": "cs2",
+  "createdAt": "2026-08-12T18:11:48.959Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133991,
+      "name": "ZOTIX"
+    },
+    {
+      "id": 126515,
+      "name": "ENRAGE"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
