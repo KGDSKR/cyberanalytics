@@ -1,0 +1,21 @@
+{
+  "matchId": 1630366,
+  "game": "cs2",
+  "createdAt": "2026-08-12T07:09:27.124Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
