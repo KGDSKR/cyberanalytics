@@ -1,0 +1,21 @@
+{
+  "matchId": 1624080,
+  "game": "cs2",
+  "createdAt": "2026-08-12T08:11:18.409Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3249,
+      "name": "BIG"
+    },
+    {
+      "id": 131505,
+      "name": "Aurora Gaming"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
