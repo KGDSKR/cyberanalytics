@@ -1,0 +1,21 @@
+{
+  "matchId": 1631688,
+  "game": "cs2",
+  "createdAt": "2026-08-12T21:49:23.152Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130605,
+      "name": "UNO MILLE"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
