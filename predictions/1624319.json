@@ -1,0 +1,21 @@
+{
+  "matchId": 1624319,
+  "game": "cs2",
+  "createdAt": "2026-08-12T17:19:36.816Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3216,
+      "name": "Natus Vincere"
+    },
+    {
+      "id": 3318,
+      "name": "3DMAX"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
