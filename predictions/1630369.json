@@ -1,0 +1,21 @@
+{
+  "matchId": 1630369,
+  "game": "cs2",
+  "createdAt": "2026-08-13T10:19:22.042Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
