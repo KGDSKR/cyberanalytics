@@ -1,0 +1,21 @@
+{
+  "matchId": 1632584,
+  "game": "cs2",
+  "createdAt": "2026-08-13T20:40:21.255Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127214,
+      "name": "Red Feet"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
