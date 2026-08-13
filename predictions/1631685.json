@@ -1,0 +1,21 @@
+{
+  "matchId": 1631685,
+  "game": "cs2",
+  "createdAt": "2026-08-13T23:31:23.929Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133388,
+      "name": "pugdesonesto"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
