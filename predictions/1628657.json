@@ -1,0 +1,21 @@
+{
+  "matchId": 1628657,
+  "game": "dota2",
+  "createdAt": "2026-08-13T07:10:23.680Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133882,
+      "name": "Aurora"
+    },
+    {
+      "id": 137588,
+      "name": "GamerLegion"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
