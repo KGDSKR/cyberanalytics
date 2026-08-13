@@ -1,0 +1,21 @@
+{
+  "matchId": 1632596,
+  "game": "cs2",
+  "createdAt": "2026-08-13T07:15:51.321Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 138027,
+      "name": "Benched gods"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
