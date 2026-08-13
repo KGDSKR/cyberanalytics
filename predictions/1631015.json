@@ -1,0 +1,21 @@
+{
+  "matchId": 1631015,
+  "game": "cs2",
+  "createdAt": "2026-08-13T14:40:52.511Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    },
+    {
+      "id": 137701,
+      "name": "Bebop"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
