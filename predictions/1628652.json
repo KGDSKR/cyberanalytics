@@ -1,0 +1,21 @@
+{
+  "matchId": 1628652,
+  "game": "dota2",
+  "createdAt": "2026-08-13T03:20:07.434Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138994,
+      "name": "Iron Wing"
+    },
+    {
+      "id": 129609,
+      "name": "Nigma Galaxy"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
