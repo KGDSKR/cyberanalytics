@@ -1,0 +1,21 @@
+{
+  "matchId": 1631686,
+  "game": "cs2",
+  "createdAt": "2026-08-13T23:01:19.338Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
