@@ -1,0 +1,21 @@
+{
+  "matchId": 1628651,
+  "game": "dota2",
+  "createdAt": "2026-08-13T03:10:45.781Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133868,
+      "name": "Team Falcons"
+    },
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
