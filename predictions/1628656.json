@@ -1,0 +1,21 @@
+{
+  "matchId": 1628656,
+  "game": "dota2",
+  "createdAt": "2026-08-13T07:09:25.776Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 1647,
+      "name": "Team Liquid"
+    },
+    {
+      "id": 1676,
+      "name": "Vici Gaming"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
