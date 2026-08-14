@@ -1,0 +1,21 @@
+{
+  "matchId": 1634183,
+  "game": "cs2",
+  "createdAt": "2026-08-14T19:49:42.630Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 3251,
+      "name": "ENCE"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
