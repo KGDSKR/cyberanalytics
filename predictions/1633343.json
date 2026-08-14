@@ -1,0 +1,21 @@
+{
+  "matchId": 1633343,
+  "game": "dota2",
+  "createdAt": "2026-08-14T03:50:48.775Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137073,
+      "name": "Team Yandex"
+    },
+    {
+      "id": 1647,
+      "name": "Team Liquid"
+    }
+  ],
+  "probs": [
+    87,
+    13
+  ]
+}
