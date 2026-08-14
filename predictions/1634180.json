@@ -1,0 +1,21 @@
+{
+  "matchId": 1634180,
+  "game": "cs2",
+  "createdAt": "2026-08-14T07:20:22.744Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    },
+    {
+      "id": 137701,
+      "name": "Bebop"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
