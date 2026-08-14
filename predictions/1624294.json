@@ -1,0 +1,21 @@
+{
+  "matchId": 1624294,
+  "game": "cs2",
+  "createdAt": "2026-08-14T16:00:35.529Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 136955,
+      "name": "FUT Esports"
+    },
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
