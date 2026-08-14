@@ -1,0 +1,21 @@
+{
+  "matchId": 1611482,
+  "game": "cs2",
+  "createdAt": "2026-08-14T23:49:58.913Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
