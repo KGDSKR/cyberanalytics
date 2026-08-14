@@ -1,0 +1,21 @@
+{
+  "matchId": 1633573,
+  "game": "cs2",
+  "createdAt": "2026-08-14T21:50:43.473Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133388,
+      "name": "pugdesonesto"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
