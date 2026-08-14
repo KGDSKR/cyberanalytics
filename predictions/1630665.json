@@ -1,0 +1,21 @@
+{
+  "matchId": 1630665,
+  "game": "cs2",
+  "createdAt": "2026-08-14T19:21:48.439Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
