@@ -1,0 +1,21 @@
+{
+  "matchId": 1633574,
+  "game": "cs2",
+  "createdAt": "2026-08-14T22:51:05.143Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    },
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
