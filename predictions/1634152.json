@@ -1,0 +1,21 @@
+{
+  "matchId": 1634152,
+  "game": "dota2",
+  "createdAt": "2026-08-14T07:11:25.195Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138994,
+      "name": "Iron Wing"
+    },
+    {
+      "id": 133868,
+      "name": "Team Falcons"
+    }
+  ],
+  "probs": [
+    8,
+    92
+  ]
+}
