@@ -1,0 +1,21 @@
+{
+  "matchId": 1630669,
+  "game": "cs2",
+  "createdAt": "2026-08-14T16:31:19.075Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 138840,
+      "name": "ex-Sashi Academy"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
