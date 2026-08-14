@@ -1,0 +1,21 @@
+{
+  "matchId": 1634177,
+  "game": "cs2",
+  "createdAt": "2026-08-14T16:41:18.926Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138934,
+      "name": "Fraternity"
+    },
+    {
+      "id": 137444,
+      "name": "Spirit Academy Green"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
