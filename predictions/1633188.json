@@ -1,0 +1,21 @@
+{
+  "matchId": 1633188,
+  "game": "cs2",
+  "createdAt": "2026-08-14T18:50:46.531Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138777,
+      "name": "ex-MANA eSports"
+    },
+    {
+      "id": 132426,
+      "name": "Lazer Cats"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
