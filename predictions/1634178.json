@@ -1,0 +1,21 @@
+{
+  "matchId": 1634178,
+  "game": "cs2",
+  "createdAt": "2026-08-14T16:49:39.002Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139075,
+      "name": "NoTime"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
