@@ -1,0 +1,21 @@
+{
+  "matchId": 1633187,
+  "game": "cs2",
+  "createdAt": "2026-08-14T18:30:09.905Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
