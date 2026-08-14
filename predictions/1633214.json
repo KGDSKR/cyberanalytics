@@ -1,0 +1,21 @@
+{
+  "matchId": 1633214,
+  "game": "cs2",
+  "createdAt": "2026-08-14T07:21:00.931Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 127899,
+      "name": "VP.Prodigy"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
