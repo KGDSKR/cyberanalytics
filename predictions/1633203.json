@@ -1,0 +1,21 @@
+{
+  "matchId": 1633203,
+  "game": "cs2",
+  "createdAt": "2026-08-14T16:50:59.371Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138631,
+      "name": "Privateer Gaming"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
