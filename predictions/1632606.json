@@ -1,0 +1,21 @@
+{
+  "matchId": 1632606,
+  "game": "cs2",
+  "createdAt": "2026-08-15T08:02:50.620Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    },
+    {
+      "id": 138650,
+      "name": "NEW VISION"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
