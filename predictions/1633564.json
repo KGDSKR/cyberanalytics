@@ -1,0 +1,21 @@
+{
+  "matchId": 1633564,
+  "game": "cs2",
+  "createdAt": "2026-08-15T07:15:23.229Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
