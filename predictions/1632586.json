@@ -1,0 +1,21 @@
+{
+  "matchId": 1632586,
+  "game": "cs2",
+  "createdAt": "2026-08-15T23:19:35.518Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    },
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
