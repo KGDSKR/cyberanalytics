@@ -1,0 +1,21 @@
+{
+  "matchId": 1634759,
+  "game": "dota2",
+  "createdAt": "2026-08-15T01:10:22.480Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1654,
+      "name": "OG"
+    },
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
