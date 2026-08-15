@@ -1,0 +1,21 @@
+{
+  "matchId": 1634753,
+  "game": "dota2",
+  "createdAt": "2026-08-15T07:11:52.843Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 129609,
+      "name": "Nigma Galaxy"
+    },
+    {
+      "id": 1676,
+      "name": "Vici Gaming"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
