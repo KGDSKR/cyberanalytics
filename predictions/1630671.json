@@ -1,0 +1,21 @@
+{
+  "matchId": 1630671,
+  "game": "cs2",
+  "createdAt": "2026-08-15T18:20:34.133Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    },
+    {
+      "id": 138840,
+      "name": "ex-Sashi Academy"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
