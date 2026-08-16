@@ -1,0 +1,21 @@
+{
+  "matchId": 1624147,
+  "game": "cs2",
+  "createdAt": "2026-08-16T19:19:56.391Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133708,
+      "name": "Legacy"
+    },
+    {
+      "id": 3250,
+      "name": "MIBR"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
