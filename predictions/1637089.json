@@ -1,0 +1,21 @@
+{
+  "matchId": 1637089,
+  "game": "dota2",
+  "createdAt": "2026-08-16T07:52:10.850Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    },
+    {
+      "id": 137073,
+      "name": "Team Yandex"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
