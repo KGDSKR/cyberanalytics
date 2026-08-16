@@ -1,0 +1,21 @@
+{
+  "matchId": 1633211,
+  "game": "cs2",
+  "createdAt": "2026-08-16T19:21:35.359Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    },
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
