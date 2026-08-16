@@ -1,0 +1,21 @@
+{
+  "matchId": 1637088,
+  "game": "dota2",
+  "createdAt": "2026-08-16T04:21:30.081Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138994,
+      "name": "Iron Wing"
+    },
+    {
+      "id": 137588,
+      "name": "GamerLegion"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
