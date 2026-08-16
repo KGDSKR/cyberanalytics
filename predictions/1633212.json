@@ -1,0 +1,21 @@
+{
+  "matchId": 1633212,
+  "game": "cs2",
+  "createdAt": "2026-08-16T18:11:09.407Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138370,
+      "name": "Lavked"
+    },
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
