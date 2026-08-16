@@ -1,0 +1,21 @@
+{
+  "matchId": 1632587,
+  "game": "cs2",
+  "createdAt": "2026-08-16T21:10:26.041Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
