@@ -1,0 +1,21 @@
+{
+  "matchId": 1632609,
+  "game": "cs2",
+  "createdAt": "2026-08-17T07:10:15.515Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138027,
+      "name": "Benched gods"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
