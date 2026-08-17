@@ -1,0 +1,21 @@
+{
+  "matchId": 1632583,
+  "game": "cs2",
+  "createdAt": "2026-08-17T01:49:51.852Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
