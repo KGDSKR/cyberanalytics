@@ -1,0 +1,21 @@
+{
+  "matchId": 1634730,
+  "game": "cs2",
+  "createdAt": "2026-08-17T14:44:58.931Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
