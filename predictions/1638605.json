@@ -1,0 +1,21 @@
+{
+  "matchId": 1638605,
+  "game": "cs2",
+  "createdAt": "2026-08-17T10:22:12.069Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
