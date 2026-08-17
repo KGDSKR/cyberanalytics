@@ -1,0 +1,21 @@
+{
+  "matchId": 1639149,
+  "game": "cs2",
+  "createdAt": "2026-08-17T15:50:53.032Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133991,
+      "name": "ZOTIX"
+    },
+    {
+      "id": 139103,
+      "name": "Aritmije"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
