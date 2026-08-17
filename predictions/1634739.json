@@ -1,0 +1,21 @@
+{
+  "matchId": 1634739,
+  "game": "cs2",
+  "createdAt": "2026-08-17T10:29:21.648Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3251,
+      "name": "ENCE"
+    },
+    {
+      "id": 138181,
+      "name": "Esport BERG"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
