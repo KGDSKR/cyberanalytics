@@ -1,0 +1,21 @@
+{
+  "matchId": 1638624,
+  "game": "cs2",
+  "createdAt": "2026-08-17T17:40:09.059Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138631,
+      "name": "Privateer Gaming"
+    },
+    {
+      "id": 138129,
+      "name": "BOJONG"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
