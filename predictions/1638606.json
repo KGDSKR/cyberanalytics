@@ -1,0 +1,21 @@
+{
+  "matchId": 1638606,
+  "game": "cs2",
+  "createdAt": "2026-08-17T15:47:59.025Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 126699,
+      "name": "Nexus"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
