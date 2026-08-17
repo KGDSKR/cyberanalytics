@@ -1,0 +1,21 @@
+{
+  "matchId": 1635618,
+  "game": "cs2",
+  "createdAt": "2026-08-17T00:00:40.221Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139100,
+      "name": "300FPS"
+    },
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
