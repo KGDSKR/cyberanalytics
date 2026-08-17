@@ -1,0 +1,21 @@
+{
+  "matchId": 1637092,
+  "game": "cs2",
+  "createdAt": "2026-08-17T20:51:39.950Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    },
+    {
+      "id": 127214,
+      "name": "Red Feet"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
