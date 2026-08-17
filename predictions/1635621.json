@@ -1,0 +1,21 @@
+{
+  "matchId": 1635621,
+  "game": "cs2",
+  "createdAt": "2026-08-17T20:49:58.458Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 134542,
+      "name": "ODDIK Academy"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
