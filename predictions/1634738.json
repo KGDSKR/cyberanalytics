@@ -1,0 +1,21 @@
+{
+  "matchId": 1634738,
+  "game": "cs2",
+  "createdAt": "2026-08-17T10:26:11.855Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138026,
+      "name": "Atreides"
+    },
+    {
+      "id": 138840,
+      "name": "ex-Sashi Academy"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
