@@ -1,0 +1,21 @@
+{
+  "matchId": 1630674,
+  "game": "cs2",
+  "createdAt": "2026-08-17T07:10:54.126Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132060,
+      "name": "Permitta Esports"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
