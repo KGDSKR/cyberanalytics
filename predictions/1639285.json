@@ -1,0 +1,21 @@
+{
+  "matchId": 1639285,
+  "game": "cs2",
+  "createdAt": "2026-08-18T14:50:05.915Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 137584,
+      "name": "Omega"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
