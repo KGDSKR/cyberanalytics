@@ -1,0 +1,21 @@
+{
+  "matchId": 1630678,
+  "game": "cs2",
+  "createdAt": "2026-08-18T07:14:50.393Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    },
+    {
+      "id": 138406,
+      "name": "Just Players"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
