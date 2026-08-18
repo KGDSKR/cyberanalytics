@@ -1,0 +1,21 @@
+{
+  "matchId": 1639372,
+  "game": "cs2",
+  "createdAt": "2026-08-18T14:10:28.769Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    },
+    {
+      "id": 137953,
+      "name": "Fortress"
+    }
+  ],
+  "probs": [
+    92,
+    8
+  ]
+}
