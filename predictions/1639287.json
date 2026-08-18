@@ -1,0 +1,21 @@
+{
+  "matchId": 1639287,
+  "game": "cs2",
+  "createdAt": "2026-08-18T18:50:31.619Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
