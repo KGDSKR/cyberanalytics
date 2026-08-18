@@ -1,0 +1,21 @@
+{
+  "matchId": 1640216,
+  "game": "cs2",
+  "createdAt": "2026-08-18T07:10:40.851Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132060,
+      "name": "Permitta Esports"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
