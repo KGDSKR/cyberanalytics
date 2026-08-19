@@ -1,0 +1,21 @@
+{
+  "matchId": 1640220,
+  "game": "cs2",
+  "createdAt": "2026-08-19T15:30:30.869Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    },
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
