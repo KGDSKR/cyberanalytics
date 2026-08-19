@@ -1,0 +1,21 @@
+{
+  "matchId": 1639289,
+  "game": "cs2",
+  "createdAt": "2026-08-19T14:40:09.716Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    },
+    {
+      "id": 128258,
+      "name": "Entropy"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
