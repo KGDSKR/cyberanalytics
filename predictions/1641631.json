@@ -1,0 +1,21 @@
+{
+  "matchId": 1641631,
+  "game": "cs2",
+  "createdAt": "2026-08-19T16:51:38.609Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    },
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
