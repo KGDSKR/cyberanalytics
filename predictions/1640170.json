@@ -1,0 +1,21 @@
+{
+  "matchId": 1640170,
+  "game": "cs2",
+  "createdAt": "2026-08-19T16:21:13.908Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137444,
+      "name": "Spirit Academy Green"
+    },
+    {
+      "id": 138897,
+      "name": "TrafficPills Esports"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
