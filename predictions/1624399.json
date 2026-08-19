@@ -1,0 +1,21 @@
+{
+  "matchId": 1624399,
+  "game": "cs2",
+  "createdAt": "2026-08-19T16:39:47.978Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 136955,
+      "name": "FUT Esports"
+    },
+    {
+      "id": 137739,
+      "name": "magic"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
