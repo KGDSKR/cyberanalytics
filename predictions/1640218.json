@@ -1,0 +1,21 @@
+{
+  "matchId": 1640218,
+  "game": "cs2",
+  "createdAt": "2026-08-19T07:09:18.644Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
