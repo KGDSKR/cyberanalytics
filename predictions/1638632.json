@@ -1,0 +1,21 @@
+{
+  "matchId": 1638632,
+  "game": "cs2",
+  "createdAt": "2026-08-19T20:41:23.909Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138845,
+      "name": "NEXORA"
+    },
+    {
+      "id": 133991,
+      "name": "ZOTIX"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
