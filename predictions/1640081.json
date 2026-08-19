@@ -1,0 +1,21 @@
+{
+  "matchId": 1640081,
+  "game": "cs2",
+  "createdAt": "2026-08-19T07:10:00.653Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    },
+    {
+      "id": 136593,
+      "name": "Sangal ALTERS"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
