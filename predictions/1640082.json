@@ -1,0 +1,21 @@
+{
+  "matchId": 1640082,
+  "game": "cs2",
+  "createdAt": "2026-08-19T10:20:00.410Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    },
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
