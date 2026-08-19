@@ -1,0 +1,21 @@
+{
+  "matchId": 1640169,
+  "game": "cs2",
+  "createdAt": "2026-08-19T21:10:28.324Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139100,
+      "name": "300FPS"
+    },
+    {
+      "id": 139102,
+      "name": "BANGARANGA"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
