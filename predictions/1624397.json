@@ -1,0 +1,21 @@
+{
+  "matchId": 1624397,
+  "game": "cs2",
+  "createdAt": "2026-08-19T15:31:15.081Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3210,
+      "name": "G2"
+    },
+    {
+      "id": 3209,
+      "name": "Astralis"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
