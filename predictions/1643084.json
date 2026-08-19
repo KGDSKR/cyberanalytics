@@ -1,0 +1,21 @@
+{
+  "matchId": 1643084,
+  "game": "cs2",
+  "createdAt": "2026-08-19T21:11:27.810Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    },
+    {
+      "id": 138939,
+      "name": "Rush"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
