@@ -1,0 +1,21 @@
+{
+  "matchId": 1634743,
+  "game": "cs2",
+  "createdAt": "2026-08-19T15:39:44.266Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    },
+    {
+      "id": 3251,
+      "name": "ENCE"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
