@@ -1,0 +1,21 @@
+{
+  "matchId": 1630685,
+  "game": "cs2",
+  "createdAt": "2026-08-19T17:40:21.051Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139108,
+      "name": "Drip Too Hard"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
