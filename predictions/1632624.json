@@ -1,0 +1,21 @@
+{
+  "matchId": 1632624,
+  "game": "cs2",
+  "createdAt": "2026-08-20T19:59:17.131Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
