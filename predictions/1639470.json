@@ -1,0 +1,21 @@
+{
+  "matchId": 1639470,
+  "game": "cs2",
+  "createdAt": "2026-08-20T20:29:50.852Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 126584,
+      "name": "OG"
+    },
+    {
+      "id": 129440,
+      "name": "Metizport"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
