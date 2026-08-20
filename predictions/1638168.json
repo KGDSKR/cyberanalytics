@@ -1,0 +1,21 @@
+{
+  "matchId": 1638168,
+  "game": "dota2",
+  "createdAt": "2026-08-20T04:10:48.001Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138839,
+      "name": "TEAM VISION"
+    },
+    {
+      "id": 138993,
+      "name": "BoomBoys"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
