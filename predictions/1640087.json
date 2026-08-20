@@ -1,0 +1,21 @@
+{
+  "matchId": 1640087,
+  "game": "cs2",
+  "createdAt": "2026-08-20T10:20:27.846Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
