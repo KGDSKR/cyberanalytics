@@ -1,0 +1,21 @@
+{
+  "matchId": 1632621,
+  "game": "cs2",
+  "createdAt": "2026-08-20T07:15:09.584Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 139096,
+      "name": "Raccoons"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
