@@ -1,0 +1,21 @@
+{
+  "matchId": 1640164,
+  "game": "cs2",
+  "createdAt": "2026-08-20T19:30:50.864Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138130,
+      "name": "Nordic Valor"
+    },
+    {
+      "id": 138899,
+      "name": "maybe"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
