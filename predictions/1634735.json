@@ -1,0 +1,21 @@
+{
+  "matchId": 1634735,
+  "game": "cs2",
+  "createdAt": "2026-08-20T16:00:44.300Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
