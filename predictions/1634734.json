@@ -1,0 +1,21 @@
+{
+  "matchId": 1634734,
+  "game": "cs2",
+  "createdAt": "2026-08-20T14:32:43.785Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
