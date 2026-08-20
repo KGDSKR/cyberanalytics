@@ -1,0 +1,21 @@
+{
+  "matchId": 1633572,
+  "game": "cs2",
+  "createdAt": "2026-08-20T07:14:28.118Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
