@@ -1,0 +1,21 @@
+{
+  "matchId": 1638190,
+  "game": "dota2",
+  "createdAt": "2026-08-20T16:10:12.322Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 129609,
+      "name": "Nigma Galaxy"
+    },
+    {
+      "id": 133868,
+      "name": "Team Falcons"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
