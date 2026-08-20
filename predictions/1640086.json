@@ -1,0 +1,21 @@
+{
+  "matchId": 1640086,
+  "game": "cs2",
+  "createdAt": "2026-08-20T07:13:47.204Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133725,
+      "name": "Alliance"
+    },
+    {
+      "id": 135026,
+      "name": "ENCE Prospects"
+    }
+  ],
+  "probs": [
+    73,
+    27
+  ]
+}
