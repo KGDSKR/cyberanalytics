@@ -1,0 +1,21 @@
+{
+  "matchId": 1639468,
+  "game": "cs2",
+  "createdAt": "2026-08-20T15:59:21.372Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 126584,
+      "name": "OG"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
