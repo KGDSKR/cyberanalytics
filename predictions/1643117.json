@@ -1,0 +1,21 @@
+{
+  "matchId": 1643117,
+  "game": "cs2",
+  "createdAt": "2026-08-20T20:20:03.593Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 134037,
+      "name": "Banger Gang"
+    },
+    {
+      "id": 131591,
+      "name": "XI Esport"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
