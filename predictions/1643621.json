@@ -1,0 +1,21 @@
+{
+  "matchId": 1643621,
+  "game": "cs2",
+  "createdAt": "2026-08-20T20:30:50.178Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 135505,
+      "name": "RED Canids Academy"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
