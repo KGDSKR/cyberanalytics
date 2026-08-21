@@ -1,0 +1,21 @@
+{
+  "matchId": 1632625,
+  "game": "cs2",
+  "createdAt": "2026-08-21T07:11:21.782Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    },
+    {
+      "id": 137028,
+      "name": "Endless Journey"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
