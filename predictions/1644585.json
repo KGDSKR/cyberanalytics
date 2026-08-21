@@ -1,0 +1,21 @@
+{
+  "matchId": 1644585,
+  "game": "cs2",
+  "createdAt": "2026-08-21T16:30:08.781Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    },
+    {
+      "id": 127497,
+      "name": "eSuba"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
