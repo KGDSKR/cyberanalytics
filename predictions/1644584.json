@@ -1,0 +1,21 @@
+{
+  "matchId": 1644584,
+  "game": "cs2",
+  "createdAt": "2026-08-21T15:21:15.138Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
