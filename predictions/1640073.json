@@ -1,0 +1,21 @@
+{
+  "matchId": 1640073,
+  "game": "cs2",
+  "createdAt": "2026-08-21T07:10:02.738Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
