@@ -1,0 +1,21 @@
+{
+  "matchId": 1633219,
+  "game": "cs2",
+  "createdAt": "2026-08-21T07:10:42.365Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139016,
+      "name": "Nordic Partners Gaming "
+    },
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
