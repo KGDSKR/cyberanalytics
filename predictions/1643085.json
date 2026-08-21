@@ -1,0 +1,21 @@
+{
+  "matchId": 1643085,
+  "game": "cs2",
+  "createdAt": "2026-08-21T20:39:18.479Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138686,
+      "name": "Hunters Rising"
+    },
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
