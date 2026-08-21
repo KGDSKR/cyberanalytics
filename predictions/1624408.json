@@ -1,0 +1,21 @@
+{
+  "matchId": 1624408,
+  "game": "cs2",
+  "createdAt": "2026-08-21T16:30:45.877Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3455,
+      "name": "Vitality"
+    },
+    {
+      "id": 124523,
+      "name": "Spirit"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
