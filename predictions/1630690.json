@@ -1,0 +1,21 @@
+{
+  "matchId": 1630690,
+  "game": "cs2",
+  "createdAt": "2026-08-21T07:12:00.378Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
