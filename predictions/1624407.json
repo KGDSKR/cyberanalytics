@@ -1,0 +1,21 @@
+{
+  "matchId": 1624407,
+  "game": "cs2",
+  "createdAt": "2026-08-21T14:59:22.735Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133708,
+      "name": "Legacy"
+    },
+    {
+      "id": 130564,
+      "name": "Team Falcons"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
