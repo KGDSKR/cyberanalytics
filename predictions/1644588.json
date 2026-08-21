@@ -1,0 +1,21 @@
+{
+  "matchId": 1644588,
+  "game": "cs2",
+  "createdAt": "2026-08-21T18:50:45.207Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    },
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
