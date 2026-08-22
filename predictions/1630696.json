@@ -1,0 +1,21 @@
+{
+  "matchId": 1630696,
+  "game": "cs2",
+  "createdAt": "2026-08-22T16:29:15.988Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 125774,
+      "name": "HAVU"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
