@@ -1,0 +1,21 @@
+{
+  "matchId": 1632632,
+  "game": "cs2",
+  "createdAt": "2026-08-22T17:10:25.295Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138027,
+      "name": "Benched gods"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
