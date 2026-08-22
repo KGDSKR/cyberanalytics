@@ -1,0 +1,21 @@
+{
+  "matchId": 1645130,
+  "game": "cs2",
+  "createdAt": "2026-08-22T05:10:27.206Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134264,
+      "name": "Chinggis Warriors"
+    },
+    {
+      "id": 138702,
+      "name": "Vitalem Aerem"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
