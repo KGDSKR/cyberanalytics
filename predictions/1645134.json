@@ -1,0 +1,21 @@
+{
+  "matchId": 1645134,
+  "game": "cs2",
+  "createdAt": "2026-08-22T08:12:00.979Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138284,
+      "name": "5star"
+    },
+    {
+      "id": 137155,
+      "name": "Kaleido Gaming"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
