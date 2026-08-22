@@ -1,0 +1,21 @@
+{
+  "matchId": 1633223,
+  "game": "cs2",
+  "createdAt": "2026-08-22T07:19:27.959Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
