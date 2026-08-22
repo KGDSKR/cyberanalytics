@@ -1,0 +1,21 @@
+{
+  "matchId": 1640176,
+  "game": "cs2",
+  "createdAt": "2026-08-22T19:30:48.820Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139104,
+      "name": "IMHOWeRGOAT"
+    },
+    {
+      "id": 138163,
+      "name": "Younglings"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
