@@ -1,0 +1,21 @@
+{
+  "matchId": 1638222,
+  "game": "dota2",
+  "createdAt": "2026-08-22T01:09:23.854Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1669,
+      "name": "Team Spirit"
+    },
+    {
+      "id": 1647,
+      "name": "Team Liquid"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
