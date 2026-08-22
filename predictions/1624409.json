@@ -1,0 +1,21 @@
+{
+  "matchId": 1624409,
+  "game": "cs2",
+  "createdAt": "2026-08-22T16:01:56.381Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 124530,
+      "name": "FURIA"
+    },
+    {
+      "id": 136955,
+      "name": "FUT Esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
