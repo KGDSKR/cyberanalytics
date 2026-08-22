@@ -1,0 +1,21 @@
+{
+  "matchId": 1643102,
+  "game": "cs2",
+  "createdAt": "2026-08-22T16:02:54.814Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    },
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
