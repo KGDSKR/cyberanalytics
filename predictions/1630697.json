@@ -1,0 +1,21 @@
+{
+  "matchId": 1630697,
+  "game": "cs2",
+  "createdAt": "2026-08-22T18:09:39.166Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
