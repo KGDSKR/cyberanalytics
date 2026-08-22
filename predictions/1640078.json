@@ -1,0 +1,21 @@
+{
+  "matchId": 1640078,
+  "game": "cs2",
+  "createdAt": "2026-08-22T07:18:50.624Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137967,
+      "name": "ReThink"
+    },
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
