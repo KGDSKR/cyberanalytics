@@ -1,0 +1,21 @@
+{
+  "matchId": 1624410,
+  "game": "cs2",
+  "createdAt": "2026-08-22T16:32:54.890Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133708,
+      "name": "Legacy"
+    },
+    {
+      "id": 124523,
+      "name": "Spirit"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
