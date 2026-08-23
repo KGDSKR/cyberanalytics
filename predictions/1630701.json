@@ -1,0 +1,21 @@
+{
+  "matchId": 1630701,
+  "game": "cs2",
+  "createdAt": "2026-08-23T17:39:44.448Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    }
+  ],
+  "probs": [
+    51,
+    49
+  ]
+}
