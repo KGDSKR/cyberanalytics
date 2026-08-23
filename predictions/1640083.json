@@ -1,0 +1,21 @@
+{
+  "matchId": 1640083,
+  "game": "cs2",
+  "createdAt": "2026-08-23T07:10:48.016Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139112,
+      "name": "ex-Sangal ALTERS"
+    },
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
