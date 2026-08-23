@@ -1,0 +1,21 @@
+{
+  "matchId": 1645131,
+  "game": "cs2",
+  "createdAt": "2026-08-23T02:20:13.833Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    },
+    {
+      "id": 134264,
+      "name": "Chinggis Warriors"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
