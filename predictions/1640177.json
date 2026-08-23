@@ -1,0 +1,21 @@
+{
+  "matchId": 1640177,
+  "game": "cs2",
+  "createdAt": "2026-08-23T17:19:42.798Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 138163,
+      "name": "Younglings"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
