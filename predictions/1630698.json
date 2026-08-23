@@ -1,0 +1,21 @@
+{
+  "matchId": 1630698,
+  "game": "cs2",
+  "createdAt": "2026-08-23T07:12:45.598Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
