@@ -1,0 +1,21 @@
+{
+  "matchId": 1632633,
+  "game": "cs2",
+  "createdAt": "2026-08-23T07:12:06.049Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139096,
+      "name": "Raccoons"
+    },
+    {
+      "id": 134405,
+      "name": "Vexar"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
