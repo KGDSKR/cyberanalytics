@@ -1,0 +1,21 @@
+{
+  "matchId": 1645133,
+  "game": "cs2",
+  "createdAt": "2026-08-24T05:09:36.996Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    },
+    {
+      "id": 138702,
+      "name": "Vitalem Aerem"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
