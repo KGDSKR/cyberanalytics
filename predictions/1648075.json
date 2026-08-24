@@ -1,0 +1,21 @@
+{
+  "matchId": 1648075,
+  "game": "cs2",
+  "createdAt": "2026-08-24T15:01:39.715Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 137357,
+      "name": "X-CITY"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
