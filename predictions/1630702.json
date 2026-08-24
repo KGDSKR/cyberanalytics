@@ -1,0 +1,21 @@
+{
+  "matchId": 1630702,
+  "game": "cs2",
+  "createdAt": "2026-08-24T12:29:18.788Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 127911,
+      "name": "MASONIC"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
