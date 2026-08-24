@@ -1,0 +1,21 @@
+{
+  "matchId": 1646050,
+  "game": "cs2",
+  "createdAt": "2026-08-24T20:30:03.882Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    },
+    {
+      "id": 139113,
+      "name": "Semente do Mal"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
