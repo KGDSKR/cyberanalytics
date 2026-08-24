@@ -1,0 +1,21 @@
+{
+  "matchId": 1649018,
+  "game": "cs2",
+  "createdAt": "2026-08-24T09:23:01.076Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137763,
+      "name": "Morningstar"
+    },
+    {
+      "id": 130329,
+      "name": "Rare Atom"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
