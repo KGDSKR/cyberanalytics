@@ -1,0 +1,21 @@
+{
+  "matchId": 1632637,
+  "game": "cs2",
+  "createdAt": "2026-08-24T12:30:14.326Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138370,
+      "name": "Lavked"
+    },
+    {
+      "id": 134405,
+      "name": "Vexar"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
