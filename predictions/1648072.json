@@ -1,0 +1,21 @@
+{
+  "matchId": 1648072,
+  "game": "cs2",
+  "createdAt": "2026-08-24T08:11:28.938Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    },
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
