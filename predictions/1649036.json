@@ -1,0 +1,21 @@
+{
+  "matchId": 1649036,
+  "game": "cs2",
+  "createdAt": "2026-08-24T16:02:24.643Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139009,
+      "name": "LFO UKRAINE"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
