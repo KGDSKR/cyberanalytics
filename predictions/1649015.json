@@ -1,0 +1,21 @@
+{
+  "matchId": 1649015,
+  "game": "cs2",
+  "createdAt": "2026-08-24T09:26:40.174Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    },
+    {
+      "id": 139122,
+      "name": "Not A Squad Esports"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
