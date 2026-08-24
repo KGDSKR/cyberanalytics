@@ -1,0 +1,21 @@
+{
+  "matchId": 1649032,
+  "game": "cs2",
+  "createdAt": "2026-08-24T15:00:54.727Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 139112,
+      "name": "ex-Sangal ALTERS"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
