@@ -1,0 +1,21 @@
+{
+  "matchId": 1633232,
+  "game": "cs2",
+  "createdAt": "2026-08-24T12:41:16.917Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 138975,
+      "name": "Butterfly"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
