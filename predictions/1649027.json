@@ -1,0 +1,21 @@
+{
+  "matchId": 1649027,
+  "game": "cs2",
+  "createdAt": "2026-08-24T18:01:11.504Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    },
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
