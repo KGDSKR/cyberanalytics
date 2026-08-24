@@ -1,0 +1,21 @@
+{
+  "matchId": 1649537,
+  "game": "dota2",
+  "createdAt": "2026-08-24T06:11:04.623Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    5,
+    95
+  ]
+}
