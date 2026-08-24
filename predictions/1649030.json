@@ -1,0 +1,21 @@
+{
+  "matchId": 1649030,
+  "game": "cs2",
+  "createdAt": "2026-08-24T19:39:24.875Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139106,
+      "name": "Color"
+    },
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
