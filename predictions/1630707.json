@@ -1,0 +1,21 @@
+{
+  "matchId": 1630707,
+  "game": "cs2",
+  "createdAt": "2026-08-25T17:30:29.351Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139108,
+      "name": "Drip Too Hard"
+    },
+    {
+      "id": 138406,
+      "name": "Just Players"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
