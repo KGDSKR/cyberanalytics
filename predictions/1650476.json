@@ -1,0 +1,21 @@
+{
+  "matchId": 1650476,
+  "game": "cs2",
+  "createdAt": "2026-08-25T22:21:12.159Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    },
+    {
+      "id": 136352,
+      "name": "Peak Agency"
+    }
+  ],
+  "probs": [
+    95,
+    5
+  ]
+}
