@@ -1,0 +1,21 @@
+{
+  "matchId": 1640080,
+  "game": "cs2",
+  "createdAt": "2026-08-25T10:11:38.166Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137967,
+      "name": "ReThink"
+    },
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
