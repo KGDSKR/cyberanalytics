@@ -1,0 +1,21 @@
+{
+  "matchId": 1650620,
+  "game": "cs2",
+  "createdAt": "2026-08-25T15:49:58.326Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138845,
+      "name": "NEXORA"
+    },
+    {
+      "id": 126515,
+      "name": "ENRAGE"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
