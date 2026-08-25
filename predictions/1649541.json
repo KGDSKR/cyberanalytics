@@ -1,0 +1,21 @@
+{
+  "matchId": 1649541,
+  "game": "dota2",
+  "createdAt": "2026-08-25T15:20:51.302Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    },
+    {
+      "id": 139079,
+      "name": "FTS"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
