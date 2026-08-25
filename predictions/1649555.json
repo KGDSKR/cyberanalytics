@@ -1,0 +1,21 @@
+{
+  "matchId": 1649555,
+  "game": "dota2",
+  "createdAt": "2026-08-25T06:09:26.520Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138857,
+      "name": "Team Syntax"
+    },
+    {
+      "id": 133873,
+      "name": "Klim Sani4"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
