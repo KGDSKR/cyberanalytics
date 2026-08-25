@@ -1,0 +1,21 @@
+{
+  "matchId": 1650622,
+  "game": "cs2",
+  "createdAt": "2026-08-25T16:10:03.443Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
