@@ -1,0 +1,21 @@
+{
+  "matchId": 1650631,
+  "game": "cs2",
+  "createdAt": "2026-08-25T17:01:51.042Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    },
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
