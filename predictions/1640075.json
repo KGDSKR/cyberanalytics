@@ -1,0 +1,21 @@
+{
+  "matchId": 1640075,
+  "game": "cs2",
+  "createdAt": "2026-08-25T07:12:34.927Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 139107,
+      "name": "QUB"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
