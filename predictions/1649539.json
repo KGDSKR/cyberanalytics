@@ -1,0 +1,21 @@
+{
+  "matchId": 1649539,
+  "game": "dota2",
+  "createdAt": "2026-08-25T06:10:42.266Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
