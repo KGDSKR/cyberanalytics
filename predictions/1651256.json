@@ -1,0 +1,21 @@
+{
+  "matchId": 1651256,
+  "game": "cs2",
+  "createdAt": "2026-08-26T17:30:05.244Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
