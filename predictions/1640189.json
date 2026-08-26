@@ -1,0 +1,21 @@
+{
+  "matchId": 1640189,
+  "game": "cs2",
+  "createdAt": "2026-08-26T15:40:26.759Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 3216,
+      "name": "Natus Vincere"
+    },
+    {
+      "id": 133435,
+      "name": "M80"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
