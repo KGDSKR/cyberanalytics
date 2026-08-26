@@ -1,0 +1,21 @@
+{
+  "matchId": 1650495,
+  "game": "cs2",
+  "createdAt": "2026-08-26T21:00:00.561Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125863,
+      "name": "Isurus"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
