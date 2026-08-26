@@ -1,0 +1,21 @@
+{
+  "matchId": 1650128,
+  "game": "cs2",
+  "createdAt": "2026-08-26T08:13:33.915Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133333,
+      "name": "Arcade Esports"
+    },
+    {
+      "id": 131110,
+      "name": "Mindfreak"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
