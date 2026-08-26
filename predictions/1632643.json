@@ -1,0 +1,21 @@
+{
+  "matchId": 1632643,
+  "game": "cs2",
+  "createdAt": "2026-08-26T14:49:40.406Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    },
+    {
+      "id": 134405,
+      "name": "Vexar"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
