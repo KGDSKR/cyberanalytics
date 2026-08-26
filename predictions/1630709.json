@@ -1,0 +1,21 @@
+{
+  "matchId": 1630709,
+  "game": "cs2",
+  "createdAt": "2026-08-26T16:00:08.578Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
