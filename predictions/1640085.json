@@ -1,0 +1,21 @@
+{
+  "matchId": 1640085,
+  "game": "cs2",
+  "createdAt": "2026-08-26T07:09:27.596Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139112,
+      "name": "ex-Sangal ALTERS"
+    },
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
