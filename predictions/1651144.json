@@ -1,0 +1,21 @@
+{
+  "matchId": 1651144,
+  "game": "cs2",
+  "createdAt": "2026-08-26T19:21:21.611Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 138686,
+      "name": "Hunters Rising"
+    }
+  ],
+  "probs": [
+    61,
+    39
+  ]
+}
