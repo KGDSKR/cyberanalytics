@@ -1,0 +1,21 @@
+{
+  "matchId": 1650457,
+  "game": "cs2",
+  "createdAt": "2026-08-26T14:40:00.178Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 134264,
+      "name": "Chinggis Warriors"
+    },
+    {
+      "id": 137121,
+      "name": "TEAM XDM"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
