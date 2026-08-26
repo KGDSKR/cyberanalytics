@@ -1,0 +1,21 @@
+{
+  "matchId": 1633252,
+  "game": "cs2",
+  "createdAt": "2026-08-26T07:10:10.022Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
