@@ -1,0 +1,21 @@
+{
+  "matchId": 1650508,
+  "game": "cs2",
+  "createdAt": "2026-08-26T01:21:13.020Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129240,
+      "name": "Villainous"
+    },
+    {
+      "id": 138652,
+      "name": "Overtake Sector"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
