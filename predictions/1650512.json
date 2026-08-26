@@ -1,0 +1,21 @@
+{
+  "matchId": 1650512,
+  "game": "cs2",
+  "createdAt": "2026-08-26T00:09:53.296Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132891,
+      "name": "Zomblers"
+    },
+    {
+      "id": 138421,
+      "name": "EMPIRE"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
