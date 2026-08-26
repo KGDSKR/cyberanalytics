@@ -1,0 +1,21 @@
+{
+  "matchId": 1650130,
+  "game": "cs2",
+  "createdAt": "2026-08-26T08:11:18.788Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139126,
+      "name": "Orgless"
+    },
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
