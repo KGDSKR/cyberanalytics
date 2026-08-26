@@ -1,0 +1,21 @@
+{
+  "matchId": 1650506,
+  "game": "cs2",
+  "createdAt": "2026-08-26T01:30:36.320Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137510,
+      "name": "Voca"
+    },
+    {
+      "id": 138368,
+      "name": "Surge"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
