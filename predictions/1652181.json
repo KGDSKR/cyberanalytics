@@ -1,0 +1,21 @@
+{
+  "matchId": 1652181,
+  "game": "cs2",
+  "createdAt": "2026-08-26T19:40:10.673Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
