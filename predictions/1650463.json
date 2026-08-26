@@ -1,0 +1,21 @@
+{
+  "matchId": 1650463,
+  "game": "cs2",
+  "createdAt": "2026-08-26T16:09:20.622Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137155,
+      "name": "Kaleido Gaming"
+    },
+    {
+      "id": 139127,
+      "name": "LEGAM"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
