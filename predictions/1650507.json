@@ -1,0 +1,21 @@
+{
+  "matchId": 1650507,
+  "game": "cs2",
+  "createdAt": "2026-08-26T00:34:10.153Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138044,
+      "name": "FarmVille"
+    },
+    {
+      "id": 138415,
+      "name": "Club 333"
+    }
+  ],
+  "probs": [
+    77,
+    23
+  ]
+}
