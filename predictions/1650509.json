@@ -1,0 +1,21 @@
+{
+  "matchId": 1650509,
+  "game": "cs2",
+  "createdAt": "2026-08-26T00:21:47.465Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129547,
+      "name": "Detonate"
+    },
+    {
+      "id": 134300,
+      "name": "NuTorious"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
