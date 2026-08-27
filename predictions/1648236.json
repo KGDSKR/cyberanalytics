@@ -1,0 +1,21 @@
+{
+  "matchId": 1648236,
+  "game": "cs2",
+  "createdAt": "2026-08-27T20:20:25.976Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    },
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    }
+  ],
+  "probs": [
+    50,
+    50
+  ]
+}
