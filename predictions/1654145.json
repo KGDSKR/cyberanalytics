@@ -1,0 +1,21 @@
+{
+  "matchId": 1654145,
+  "game": "dota2",
+  "createdAt": "2026-08-27T07:10:12.260Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 139142,
+      "name": "TPB3"
+    }
+  ],
+  "probs": [
+    39,
+    61
+  ]
+}
