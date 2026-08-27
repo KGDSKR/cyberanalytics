@@ -1,0 +1,21 @@
+{
+  "matchId": 1640199,
+  "game": "cs2",
+  "createdAt": "2026-08-27T08:12:12.975Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3455,
+      "name": "Vitality"
+    },
+    {
+      "id": 136497,
+      "name": "Inner Circle Esports"
+    }
+  ],
+  "probs": [
+    94,
+    6
+  ]
+}
