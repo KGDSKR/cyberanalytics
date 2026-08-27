@@ -1,0 +1,21 @@
+{
+  "matchId": 1650523,
+  "game": "cs2",
+  "createdAt": "2026-08-27T01:51:44.765Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 129240,
+      "name": "Villainous"
+    },
+    {
+      "id": 129547,
+      "name": "Detonate"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
