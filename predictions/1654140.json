@@ -1,0 +1,21 @@
+{
+  "matchId": 1654140,
+  "game": "dota2",
+  "createdAt": "2026-08-27T05:30:09.782Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139136,
+      "name": "Team 6seven"
+    },
+    {
+      "id": 133212,
+      "name": "Team Kicked"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
