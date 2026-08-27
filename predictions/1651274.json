@@ -1,0 +1,21 @@
+{
+  "matchId": 1651274,
+  "game": "cs2",
+  "createdAt": "2026-08-27T07:11:46.372Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
