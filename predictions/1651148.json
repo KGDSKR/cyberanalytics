@@ -1,0 +1,21 @@
+{
+  "matchId": 1651148,
+  "game": "cs2",
+  "createdAt": "2026-08-27T23:11:25.880Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 135505,
+      "name": "RED Canids Academy"
+    },
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
