@@ -1,0 +1,21 @@
+{
+  "matchId": 1648087,
+  "game": "cs2",
+  "createdAt": "2026-08-27T19:10:59.607Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    },
+    {
+      "id": 137932,
+      "name": "ex-RUBY"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
