@@ -1,0 +1,21 @@
+{
+  "matchId": 1654243,
+  "game": "dota2",
+  "createdAt": "2026-08-27T17:00:44.909Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    },
+    {
+      "id": 138760,
+      "name": "summer bear"
+    }
+  ],
+  "probs": [
+    91,
+    9
+  ]
+}
