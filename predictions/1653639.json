@@ -1,0 +1,21 @@
+{
+  "matchId": 1653639,
+  "game": "cs2",
+  "createdAt": "2026-08-27T07:10:59.225Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    },
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
