@@ -1,0 +1,21 @@
+{
+  "matchId": 1654244,
+  "game": "dota2",
+  "createdAt": "2026-08-27T16:03:14.533Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133873,
+      "name": "Klim Sani4"
+    },
+    {
+      "id": 1948,
+      "name": "Level UP"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
