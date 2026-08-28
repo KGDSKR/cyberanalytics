@@ -1,0 +1,21 @@
+{
+  "matchId": 1650526,
+  "game": "cs2",
+  "createdAt": "2026-08-28T00:30:46.817Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138421,
+      "name": "EMPIRE"
+    },
+    {
+      "id": 139134,
+      "name": "New Legends"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
