@@ -1,0 +1,21 @@
+{
+  "matchId": 1640192,
+  "game": "cs2",
+  "createdAt": "2026-08-28T17:51:09.367Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133435,
+      "name": "M80"
+    },
+    {
+      "id": 124530,
+      "name": "FURIA"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
