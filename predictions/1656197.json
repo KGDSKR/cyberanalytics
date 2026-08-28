@@ -1,0 +1,21 @@
+{
+  "matchId": 1656197,
+  "game": "cs2",
+  "createdAt": "2026-08-28T17:10:01.727Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
