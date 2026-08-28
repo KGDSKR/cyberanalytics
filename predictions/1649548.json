@@ -1,0 +1,21 @@
+{
+  "matchId": 1649548,
+  "game": "dota2",
+  "createdAt": "2026-08-28T16:42:01.757Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139123,
+      "name": "DYNASTY"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
