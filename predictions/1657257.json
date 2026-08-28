@@ -1,0 +1,21 @@
+{
+  "matchId": 1657257,
+  "game": "cs2",
+  "createdAt": "2026-08-28T23:30:45.749Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131782,
+      "name": "AURA Esports"
+    },
+    {
+      "id": 139169,
+      "name": "Friendly Fire"
+    }
+  ],
+  "probs": [
+    51,
+    49
+  ]
+}
