@@ -1,0 +1,21 @@
+{
+  "matchId": 1650527,
+  "game": "cs2",
+  "createdAt": "2026-08-28T01:30:40.111Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    },
+    {
+      "id": 129240,
+      "name": "Villainous"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
