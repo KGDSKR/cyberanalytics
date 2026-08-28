@@ -1,0 +1,21 @@
+{
+  "matchId": 1651277,
+  "game": "cs2",
+  "createdAt": "2026-08-28T07:11:38.117Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
