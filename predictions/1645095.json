@@ -1,0 +1,21 @@
+{
+  "matchId": 1645095,
+  "game": "cs2",
+  "createdAt": "2026-08-28T23:49:38.612Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    },
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
