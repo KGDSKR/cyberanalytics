@@ -1,0 +1,21 @@
+{
+  "matchId": 1649547,
+  "game": "dota2",
+  "createdAt": "2026-08-28T06:10:06.696Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
