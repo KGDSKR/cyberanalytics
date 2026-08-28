@@ -1,0 +1,21 @@
+{
+  "matchId": 1649544,
+  "game": "dota2",
+  "createdAt": "2026-08-28T15:20:09.830Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139124,
+      "name": "Team Synapse"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    17,
+    83
+  ]
+}
