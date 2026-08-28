@@ -1,0 +1,21 @@
+{
+  "matchId": 1645094,
+  "game": "cs2",
+  "createdAt": "2026-08-28T20:10:23.892Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139114,
+      "name": "Peladona"
+    },
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
