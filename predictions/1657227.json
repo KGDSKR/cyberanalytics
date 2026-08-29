@@ -1,0 +1,21 @@
+{
+  "matchId": 1657227,
+  "game": "cs2",
+  "createdAt": "2026-08-29T01:10:41.732Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139156,
+      "name": "Kodex Esports"
+    },
+    {
+      "id": 139155,
+      "name": "Sassy Sunshines"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
