@@ -1,0 +1,21 @@
+{
+  "matchId": 1657263,
+  "game": "cs2",
+  "createdAt": "2026-08-29T04:23:07.380Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139170,
+      "name": "BodyBuilderClub"
+    },
+    {
+      "id": 139171,
+      "name": "Redliners"
+    }
+  ],
+  "probs": [
+    49,
+    51
+  ]
+}
