@@ -1,0 +1,21 @@
+{
+  "matchId": 1657303,
+  "game": "cs2",
+  "createdAt": "2026-08-29T23:51:38.493Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139012,
+      "name": "Elusive"
+    },
+    {
+      "id": 138740,
+      "name": "NineFly Esports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
