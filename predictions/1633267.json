@@ -1,0 +1,21 @@
+{
+  "matchId": 1633267,
+  "game": "cs2",
+  "createdAt": "2026-08-29T08:36:45.218Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139135,
+      "name": "UPGRADE"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
