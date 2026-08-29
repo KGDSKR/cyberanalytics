@@ -1,0 +1,21 @@
+{
+  "matchId": 1654199,
+  "game": "cs2",
+  "createdAt": "2026-08-29T07:13:48.272Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    },
+    {
+      "id": 139112,
+      "name": "ex-Sangal ALTERS"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
