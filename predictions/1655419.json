@@ -1,0 +1,21 @@
+{
+  "matchId": 1655419,
+  "game": "dota2",
+  "createdAt": "2026-08-29T07:00:27.822Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139147,
+      "name": "Ice Cream Men"
+    },
+    {
+      "id": 139142,
+      "name": "TPB3"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
