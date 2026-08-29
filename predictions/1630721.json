@@ -1,0 +1,21 @@
+{
+  "matchId": 1630721,
+  "game": "cs2",
+  "createdAt": "2026-08-29T08:33:58.452Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
