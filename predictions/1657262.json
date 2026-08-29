@@ -1,0 +1,21 @@
+{
+  "matchId": 1657262,
+  "game": "cs2",
+  "createdAt": "2026-08-29T17:09:56.880Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139168,
+      "name": "Lan Crasher"
+    },
+    {
+      "id": 139169,
+      "name": "Friendly Fire"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
