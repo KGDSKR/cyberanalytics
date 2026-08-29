@@ -1,0 +1,21 @@
+{
+  "matchId": 1656399,
+  "game": "dota2",
+  "createdAt": "2026-08-29T08:00:29.497Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    },
+    {
+      "id": 134379,
+      "name": "The goal of all life is death"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
