@@ -1,0 +1,21 @@
+{
+  "matchId": 1650502,
+  "game": "cs2",
+  "createdAt": "2026-08-29T22:09:42.834Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    },
+    {
+      "id": 139129,
+      "name": "ex-MIBR Academy"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
