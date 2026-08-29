@@ -1,0 +1,21 @@
+{
+  "matchId": 1655418,
+  "game": "dota2",
+  "createdAt": "2026-08-29T07:09:20.231Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 136650,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 139136,
+      "name": "Team 6seven"
+    }
+  ],
+  "probs": [
+    98,
+    2
+  ]
+}
