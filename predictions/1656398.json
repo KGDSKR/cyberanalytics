@@ -1,0 +1,21 @@
+{
+  "matchId": 1656398,
+  "game": "dota2",
+  "createdAt": "2026-08-29T07:11:46.841Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137428,
+      "name": "Cloud Rising"
+    },
+    {
+      "id": 139152,
+      "name": "Novus Gaming"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
