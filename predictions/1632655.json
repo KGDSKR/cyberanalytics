@@ -1,0 +1,21 @@
+{
+  "matchId": 1632655,
+  "game": "cs2",
+  "createdAt": "2026-08-29T08:33:02.881Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137028,
+      "name": "Endless Journey"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
