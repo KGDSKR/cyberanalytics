@@ -1,0 +1,21 @@
+{
+  "matchId": 1656233,
+  "game": "cs2",
+  "createdAt": "2026-08-29T20:20:19.682Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    86,
+    14
+  ]
+}
