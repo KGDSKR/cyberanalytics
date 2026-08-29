@@ -1,0 +1,21 @@
+{
+  "matchId": 1656397,
+  "game": "dota2",
+  "createdAt": "2026-08-29T04:19:20.405Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139150,
+      "name": "Nexus Gaming"
+    },
+    {
+      "id": 139151,
+      "name": "Crescent"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
