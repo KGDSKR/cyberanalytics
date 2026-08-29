@@ -1,0 +1,21 @@
+{
+  "matchId": 1657242,
+  "game": "cs2",
+  "createdAt": "2026-08-29T01:00:25.035Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138740,
+      "name": "NineFly Esports"
+    },
+    {
+      "id": 138556,
+      "name": "Team Factor"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
