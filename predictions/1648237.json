@@ -1,0 +1,21 @@
+{
+  "matchId": 1648237,
+  "game": "cs2",
+  "createdAt": "2026-08-29T07:42:29.113Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138370,
+      "name": "Lavked"
+    },
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
