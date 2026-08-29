@@ -1,0 +1,21 @@
+{
+  "matchId": 1649566,
+  "game": "dota2",
+  "createdAt": "2026-08-29T20:21:06.141Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133873,
+      "name": "Klim Sani4"
+    },
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    73,
+    27
+  ]
+}
