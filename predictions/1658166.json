@@ -1,0 +1,21 @@
+{
+  "matchId": 1658166,
+  "game": "cs2",
+  "createdAt": "2026-08-30T07:02:55.837Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137584,
+      "name": "Omega"
+    },
+    {
+      "id": 139177,
+      "name": "Total Domination"
+    }
+  ],
+  "probs": [
+    86,
+    14
+  ]
+}
