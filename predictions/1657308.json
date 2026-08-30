@@ -1,0 +1,21 @@
+{
+  "matchId": 1657308,
+  "game": "cs2",
+  "createdAt": "2026-08-30T03:19:42.265Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139154,
+      "name": "For Fun v4"
+    },
+    {
+      "id": 139156,
+      "name": "Kodex Esports"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
