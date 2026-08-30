@@ -1,0 +1,21 @@
+{
+  "matchId": 1659236,
+  "game": "cs2",
+  "createdAt": "2026-08-30T19:30:52.368Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 3217,
+      "name": "fnatic"
+    },
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
