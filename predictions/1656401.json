@@ -1,0 +1,21 @@
+{
+  "matchId": 1656401,
+  "game": "dota2",
+  "createdAt": "2026-08-30T07:09:32.837Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137428,
+      "name": "Cloud Rising"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
