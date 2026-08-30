@@ -1,0 +1,21 @@
+{
+  "matchId": 1658172,
+  "game": "cs2",
+  "createdAt": "2026-08-30T07:03:37.448Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 137254,
+      "name": "GAMEPOINT"
+    },
+    {
+      "id": 135915,
+      "name": "DEPO"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
