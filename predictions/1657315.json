@@ -1,0 +1,21 @@
+{
+  "matchId": 1657315,
+  "game": "cs2",
+  "createdAt": "2026-08-30T20:00:25.191Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139154,
+      "name": "For Fun v4"
+    },
+    {
+      "id": 137496,
+      "name": "SportsBetExpert"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
