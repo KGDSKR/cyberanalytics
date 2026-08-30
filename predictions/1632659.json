@@ -1,0 +1,21 @@
+{
+  "matchId": 1632659,
+  "game": "cs2",
+  "createdAt": "2026-08-30T07:04:21.651Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    },
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
