@@ -1,0 +1,21 @@
+{
+  "matchId": 1655421,
+  "game": "dota2",
+  "createdAt": "2026-08-30T07:10:29.505Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138753,
+      "name": "Direborn"
+    },
+    {
+      "id": 136650,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    2,
+    98
+  ]
+}
