@@ -1,0 +1,21 @@
+{
+  "matchId": 1657302,
+  "game": "cs2",
+  "createdAt": "2026-08-30T00:10:30.602Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138739,
+      "name": "makeSHIFT"
+    },
+    {
+      "id": 139160,
+      "name": "Unreal Nightmare "
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
