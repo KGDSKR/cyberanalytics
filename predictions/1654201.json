@@ -1,0 +1,21 @@
+{
+  "matchId": 1654201,
+  "game": "cs2",
+  "createdAt": "2026-08-30T07:36:23.194Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    },
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
