@@ -1,0 +1,21 @@
+{
+  "matchId": 1656400,
+  "game": "dota2",
+  "createdAt": "2026-08-30T07:14:43.971Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138494,
+      "name": "Team Resilience"
+    },
+    {
+      "id": 139151,
+      "name": "Crescent"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
