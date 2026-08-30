@@ -1,0 +1,21 @@
+{
+  "matchId": 1657297,
+  "game": "cs2",
+  "createdAt": "2026-08-30T00:20:07.352Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 134300,
+      "name": "NuTorious"
+    },
+    {
+      "id": 134333,
+      "name": "Wanted Goons"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
