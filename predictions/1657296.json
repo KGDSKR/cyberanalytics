@@ -1,0 +1,21 @@
+{
+  "matchId": 1657296,
+  "game": "cs2",
+  "createdAt": "2026-08-30T00:00:03.849Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137496,
+      "name": "SportsBetExpert"
+    },
+    {
+      "id": 139158,
+      "name": "Without a Roof"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
