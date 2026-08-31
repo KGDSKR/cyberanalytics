@@ -1,0 +1,21 @@
+{
+  "matchId": 1648391,
+  "game": "cs2",
+  "createdAt": "2026-08-31T19:00:21.074Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 129440,
+      "name": "Metizport"
+    },
+    {
+      "id": 137440,
+      "name": "ASTRAL"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
