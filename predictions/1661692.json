@@ -1,0 +1,21 @@
+{
+  "matchId": 1661692,
+  "game": "cs2",
+  "createdAt": "2026-08-31T07:01:24.920Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    },
+    {
+      "id": 136330,
+      "name": "Just Swing"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
