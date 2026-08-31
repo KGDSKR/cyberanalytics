@@ -1,0 +1,21 @@
+{
+  "matchId": 1658120,
+  "game": "cs2",
+  "createdAt": "2026-08-31T15:00:15.489Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
