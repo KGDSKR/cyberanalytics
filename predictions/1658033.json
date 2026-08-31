@@ -1,0 +1,21 @@
+{
+  "matchId": 1658033,
+  "game": "cs2",
+  "createdAt": "2026-08-31T07:10:13.628Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137707,
+      "name": "SINQU"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
