@@ -1,0 +1,21 @@
+{
+  "matchId": 1654203,
+  "game": "cs2",
+  "createdAt": "2026-08-31T07:11:00.291Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    },
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
