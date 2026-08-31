@@ -1,0 +1,21 @@
+{
+  "matchId": 1650505,
+  "game": "cs2",
+  "createdAt": "2026-08-31T21:39:46.273Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 126377,
+      "name": "Imperial"
+    },
+    {
+      "id": 135468,
+      "name": "ShindeN"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
