@@ -1,0 +1,21 @@
+{
+  "matchId": 1651278,
+  "game": "cs2",
+  "createdAt": "2026-08-31T07:11:39.880Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125774,
+      "name": "HAVU"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
