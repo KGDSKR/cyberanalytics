@@ -1,0 +1,21 @@
+{
+  "matchId": 1659400,
+  "game": "dota2",
+  "createdAt": "2026-09-01T18:29:46.726Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139124,
+      "name": "Team Synapse"
+    },
+    {
+      "id": 1948,
+      "name": "Level UP"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
