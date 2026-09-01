@@ -1,0 +1,21 @@
+{
+  "matchId": 1654205,
+  "game": "cs2",
+  "createdAt": "2026-09-01T07:10:57.027Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    },
+    {
+      "id": 139107,
+      "name": "QUB"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
