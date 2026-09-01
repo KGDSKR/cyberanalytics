@@ -1,0 +1,21 @@
+{
+  "matchId": 1650535,
+  "game": "cs2",
+  "createdAt": "2026-09-01T00:19:41.260Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136318,
+      "name": "Marsborne"
+    },
+    {
+      "id": 138652,
+      "name": "Overtake Sector"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
