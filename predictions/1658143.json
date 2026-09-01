@@ -1,0 +1,21 @@
+{
+  "matchId": 1658143,
+  "game": "cs2",
+  "createdAt": "2026-09-01T18:11:12.375Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 128258,
+      "name": "Entropy"
+    },
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
