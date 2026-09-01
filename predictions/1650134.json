@@ -1,0 +1,21 @@
+{
+  "matchId": 1650134,
+  "game": "cs2",
+  "createdAt": "2026-09-01T08:20:27.834Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137594,
+      "name": "THUNDER dOWNUNDER"
+    },
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
