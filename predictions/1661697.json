@@ -1,0 +1,21 @@
+{
+  "matchId": 1661697,
+  "game": "cs2",
+  "createdAt": "2026-09-01T04:09:21.887Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139189,
+      "name": "Staqued"
+    },
+    {
+      "id": 137155,
+      "name": "Kaleido Gaming"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
