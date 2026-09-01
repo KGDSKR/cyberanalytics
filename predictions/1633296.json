@@ -1,0 +1,21 @@
+{
+  "matchId": 1633296,
+  "game": "cs2",
+  "createdAt": "2026-09-01T07:12:23.333Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
