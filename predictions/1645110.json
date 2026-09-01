@@ -1,0 +1,21 @@
+{
+  "matchId": 1645110,
+  "game": "cs2",
+  "createdAt": "2026-09-01T22:00:10.281Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
