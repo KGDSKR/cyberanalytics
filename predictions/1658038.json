@@ -1,0 +1,21 @@
+{
+  "matchId": 1658038,
+  "game": "cs2",
+  "createdAt": "2026-09-01T07:10:13.771Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    },
+    {
+      "id": 139172,
+      "name": "yologang"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
