@@ -1,0 +1,21 @@
+{
+  "matchId": 1661699,
+  "game": "cs2",
+  "createdAt": "2026-09-01T06:59:41.882Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    },
+    {
+      "id": 130329,
+      "name": "Rare Atom"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
