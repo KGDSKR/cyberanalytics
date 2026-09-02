@@ -1,0 +1,21 @@
+{
+  "matchId": 1643645,
+  "game": "cs2",
+  "createdAt": "2026-09-02T17:42:20.298Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135298,
+      "name": "K27"
+    },
+    {
+      "id": 125847,
+      "name": "GamerLegion"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
