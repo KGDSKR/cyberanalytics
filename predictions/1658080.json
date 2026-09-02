@@ -1,0 +1,21 @@
+{
+  "matchId": 1658080,
+  "game": "cs2",
+  "createdAt": "2026-09-02T07:01:30.536Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    },
+    {
+      "id": 135915,
+      "name": "DEPO"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
