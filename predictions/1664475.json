@@ -1,0 +1,21 @@
+{
+  "matchId": 1664475,
+  "game": "cs2",
+  "createdAt": "2026-09-02T19:23:16.719Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    },
+    {
+      "id": 138163,
+      "name": "Younglings"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
