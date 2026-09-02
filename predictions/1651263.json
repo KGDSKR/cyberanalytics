@@ -1,0 +1,21 @@
+{
+  "matchId": 1651263,
+  "game": "cs2",
+  "createdAt": "2026-09-02T19:09:48.692Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 136319,
+      "name": "Iberian Soul"
+    },
+    {
+      "id": 126408,
+      "name": "9INE"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
