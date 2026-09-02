@@ -1,0 +1,21 @@
+{
+  "matchId": 1651572,
+  "game": "cs2",
+  "createdAt": "2026-09-02T15:51:23.930Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
