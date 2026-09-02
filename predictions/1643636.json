@@ -1,0 +1,21 @@
+{
+  "matchId": 1643636,
+  "game": "cs2",
+  "createdAt": "2026-09-02T14:31:43.585Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139106,
+      "name": "Color"
+    },
+    {
+      "id": 129381,
+      "name": "B8"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
