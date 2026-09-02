@@ -1,0 +1,21 @@
+{
+  "matchId": 1643637,
+  "game": "cs2",
+  "createdAt": "2026-09-02T17:50:59.527Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    },
+    {
+      "id": 3246,
+      "name": "Heroic"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
