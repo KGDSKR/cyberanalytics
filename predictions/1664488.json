@@ -1,0 +1,21 @@
+{
+  "matchId": 1664488,
+  "game": "cs2",
+  "createdAt": "2026-09-02T19:01:40.796Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139111,
+      "name": "MORROW"
+    },
+    {
+      "id": 138181,
+      "name": "Esport BERG"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
