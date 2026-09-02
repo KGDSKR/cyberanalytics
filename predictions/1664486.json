@@ -1,0 +1,21 @@
+{
+  "matchId": 1664486,
+  "game": "cs2",
+  "createdAt": "2026-09-02T19:01:07.218Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133991,
+      "name": "ZOTIX"
+    },
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
