@@ -1,0 +1,21 @@
+{
+  "matchId": 1661701,
+  "game": "cs2",
+  "createdAt": "2026-09-02T04:39:51.706Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    },
+    {
+      "id": 137155,
+      "name": "Kaleido Gaming"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
