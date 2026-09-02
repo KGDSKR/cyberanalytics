@@ -1,0 +1,21 @@
+{
+  "matchId": 1645111,
+  "game": "cs2",
+  "createdAt": "2026-09-02T18:59:25.375Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    },
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    }
+  ],
+  "probs": [
+    51,
+    49
+  ]
+}
