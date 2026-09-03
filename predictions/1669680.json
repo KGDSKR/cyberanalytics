@@ -1,0 +1,21 @@
+{
+  "matchId": 1669680,
+  "game": "cs2",
+  "createdAt": "2026-09-03T23:40:31.369Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137496,
+      "name": "SportsBetExpert"
+    },
+    {
+      "id": 139199,
+      "name": "Axial"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
