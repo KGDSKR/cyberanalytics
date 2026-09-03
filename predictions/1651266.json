@@ -1,0 +1,21 @@
+{
+  "matchId": 1651266,
+  "game": "cs2",
+  "createdAt": "2026-09-03T14:59:45.173Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 136577,
+      "name": "Team Novaq"
+    },
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    }
+  ],
+  "probs": [
+    23,
+    77
+  ]
+}
