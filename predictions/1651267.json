@@ -1,0 +1,21 @@
+{
+  "matchId": 1651267,
+  "game": "cs2",
+  "createdAt": "2026-09-03T19:19:48.735Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 137584,
+      "name": "Omega"
+    },
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
