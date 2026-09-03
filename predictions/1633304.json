@@ -1,0 +1,21 @@
+{
+  "matchId": 1633304,
+  "game": "cs2",
+  "createdAt": "2026-09-03T08:32:19.367Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3318,
+      "name": "3DMAX"
+    },
+    {
+      "id": 127976,
+      "name": "Infinite"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
