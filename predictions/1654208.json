@@ -1,0 +1,21 @@
+{
+  "matchId": 1654208,
+  "game": "cs2",
+  "createdAt": "2026-09-03T07:15:13.625Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    },
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
