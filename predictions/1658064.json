@@ -1,0 +1,21 @@
+{
+  "matchId": 1658064,
+  "game": "cs2",
+  "createdAt": "2026-09-03T07:14:28.094Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134405,
+      "name": "Vexar"
+    },
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
