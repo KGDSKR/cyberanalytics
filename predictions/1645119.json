@@ -1,0 +1,21 @@
+{
+  "matchId": 1645119,
+  "game": "cs2",
+  "createdAt": "2026-09-03T21:19:44.592Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 131538,
+      "name": "Yawara Esports"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
