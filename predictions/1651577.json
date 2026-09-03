@@ -1,0 +1,21 @@
+{
+  "matchId": 1651577,
+  "game": "cs2",
+  "createdAt": "2026-09-03T19:29:21.782Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
