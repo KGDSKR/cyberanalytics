@@ -1,0 +1,21 @@
+{
+  "matchId": 1663805,
+  "game": "cs2",
+  "createdAt": "2026-09-03T19:21:10.790Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    },
+    {
+      "id": 3217,
+      "name": "fnatic"
+    }
+  ],
+  "probs": [
+    17,
+    83
+  ]
+}
