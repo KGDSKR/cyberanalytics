@@ -1,0 +1,21 @@
+{
+  "matchId": 1651576,
+  "game": "cs2",
+  "createdAt": "2026-09-03T14:40:35.473Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138370,
+      "name": "Lavked"
+    },
+    {
+      "id": 125774,
+      "name": "HAVU"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
