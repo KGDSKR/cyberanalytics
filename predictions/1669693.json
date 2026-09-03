@@ -1,0 +1,21 @@
+{
+  "matchId": 1669693,
+  "game": "cs2",
+  "createdAt": "2026-09-03T23:10:33.311Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    },
+    {
+      "id": 138652,
+      "name": "Overtake Sector"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
