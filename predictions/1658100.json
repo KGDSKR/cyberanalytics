@@ -1,0 +1,21 @@
+{
+  "matchId": 1658100,
+  "game": "cs2",
+  "createdAt": "2026-09-03T05:10:09.889Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    },
+    {
+      "id": 137155,
+      "name": "Kaleido Gaming"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
