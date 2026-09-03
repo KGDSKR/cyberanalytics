@@ -1,0 +1,21 @@
+{
+  "matchId": 1663798,
+  "game": "cs2",
+  "createdAt": "2026-09-03T16:19:27.345Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3218,
+      "name": "NIP"
+    },
+    {
+      "id": 127365,
+      "name": "Sangal"
+    }
+  ],
+  "probs": [
+    16,
+    84
+  ]
+}
