@@ -1,0 +1,21 @@
+{
+  "matchId": 1645116,
+  "game": "cs2",
+  "createdAt": "2026-09-03T21:39:48.082Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3225,
+      "name": "Keyd"
+    },
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
