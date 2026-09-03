@@ -1,0 +1,21 @@
+{
+  "matchId": 1658101,
+  "game": "cs2",
+  "createdAt": "2026-09-03T05:29:41.945Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135915,
+      "name": "DEPO"
+    },
+    {
+      "id": 126439,
+      "name": "Lynn Vision"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
