@@ -1,0 +1,21 @@
+{
+  "matchId": 1669683,
+  "game": "cs2",
+  "createdAt": "2026-09-03T23:29:40.426Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136318,
+      "name": "Marsborne"
+    },
+    {
+      "id": 138044,
+      "name": "FarmVille"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
