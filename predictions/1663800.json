@@ -1,0 +1,21 @@
+{
+  "matchId": 1663800,
+  "game": "cs2",
+  "createdAt": "2026-09-04T08:13:25.348Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127976,
+      "name": "Infinite"
+    },
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
