@@ -1,0 +1,21 @@
+{
+  "matchId": 1665212,
+  "game": "dota2",
+  "createdAt": "2026-09-04T08:14:31.468Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137547,
+      "name": "ЯЧЁ123"
+    },
+    {
+      "id": 128080,
+      "name": "Yangon Galacticos"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
