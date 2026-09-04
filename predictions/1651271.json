@@ -1,0 +1,21 @@
+{
+  "matchId": 1651271,
+  "game": "cs2",
+  "createdAt": "2026-09-04T07:11:48.714Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
