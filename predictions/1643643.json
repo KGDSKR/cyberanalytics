@@ -1,0 +1,21 @@
+{
+  "matchId": 1643643,
+  "game": "cs2",
+  "createdAt": "2026-09-04T16:20:23.825Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 129381,
+      "name": "B8"
+    },
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
