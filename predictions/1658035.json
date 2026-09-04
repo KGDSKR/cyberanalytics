@@ -1,0 +1,21 @@
+{
+  "matchId": 1658035,
+  "game": "cs2",
+  "createdAt": "2026-09-04T07:10:22.300Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
