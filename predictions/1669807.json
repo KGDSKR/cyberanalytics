@@ -1,0 +1,21 @@
+{
+  "matchId": 1669807,
+  "game": "cs2",
+  "createdAt": "2026-09-04T21:59:57.032Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    },
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
