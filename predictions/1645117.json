@@ -1,0 +1,21 @@
+{
+  "matchId": 1645117,
+  "game": "cs2",
+  "createdAt": "2026-09-04T19:21:14.893Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 130605,
+      "name": "UNO MILLE"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
