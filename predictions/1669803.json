@@ -1,0 +1,21 @@
+{
+  "matchId": 1669803,
+  "game": "cs2",
+  "createdAt": "2026-09-04T16:40:47.861Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    },
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
