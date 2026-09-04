@@ -1,0 +1,21 @@
+{
+  "matchId": 1640212,
+  "game": "cs2",
+  "createdAt": "2026-09-04T18:30:38.423Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 124530,
+      "name": "FURIA"
+    },
+    {
+      "id": 3455,
+      "name": "Vitality"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
