@@ -1,0 +1,21 @@
+{
+  "matchId": 1651578,
+  "game": "cs2",
+  "createdAt": "2026-09-04T07:11:05.147Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
