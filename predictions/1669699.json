@@ -1,0 +1,21 @@
+{
+  "matchId": 1669699,
+  "game": "cs2",
+  "createdAt": "2026-09-05T02:30:15.089Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 136064,
+      "name": "Chicken Coop Esports"
+    },
+    {
+      "id": 139199,
+      "name": "Axial"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
