@@ -1,0 +1,21 @@
+{
+  "matchId": 1664394,
+  "game": "cs2",
+  "createdAt": "2026-09-05T08:13:12.815Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3217,
+      "name": "fnatic"
+    },
+    {
+      "id": 139180,
+      "name": "BBL"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
