@@ -1,0 +1,21 @@
+{
+  "matchId": 1672276,
+  "game": "cs2",
+  "createdAt": "2026-09-05T16:20:51.913Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139212,
+      "name": "Quintessence"
+    },
+    {
+      "id": 139214,
+      "name": "Sabertooth"
+    }
+  ],
+  "probs": [
+    50,
+    50
+  ]
+}
