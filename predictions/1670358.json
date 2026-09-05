@@ -1,0 +1,21 @@
+{
+  "matchId": 1670358,
+  "game": "cs2",
+  "createdAt": "2026-09-05T03:20:36.872Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136318,
+      "name": "Marsborne"
+    },
+    {
+      "id": 127826,
+      "name": "Incognito"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
