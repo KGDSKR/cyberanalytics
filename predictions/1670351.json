@@ -1,0 +1,21 @@
+{
+  "matchId": 1670351,
+  "game": "cs2",
+  "createdAt": "2026-09-05T00:09:22.606Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 133326,
+      "name": "Bounty Hunters Esports"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
