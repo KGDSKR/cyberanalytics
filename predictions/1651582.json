@@ -1,0 +1,21 @@
+{
+  "matchId": 1651582,
+  "game": "cs2",
+  "createdAt": "2026-09-05T07:11:26.002Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
