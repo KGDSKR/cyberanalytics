@@ -1,0 +1,21 @@
+{
+  "matchId": 1658040,
+  "game": "cs2",
+  "createdAt": "2026-09-05T07:10:28.625Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139172,
+      "name": "yologang"
+    },
+    {
+      "id": 135978,
+      "name": "eternal premium"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
