@@ -1,0 +1,21 @@
+{
+  "matchId": 1665221,
+  "game": "dota2",
+  "createdAt": "2026-09-06T04:29:26.204Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 132981,
+      "name": "Carstensz"
+    },
+    {
+      "id": 138655,
+      "name": "D family"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
