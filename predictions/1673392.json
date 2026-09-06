@@ -1,0 +1,21 @@
+{
+  "matchId": 1673392,
+  "game": "cs2",
+  "createdAt": "2026-09-06T07:11:11.860Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138837,
+      "name": "SINQU Rehti"
+    },
+    {
+      "id": 137877,
+      "name": "TEAM ASCEND"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
