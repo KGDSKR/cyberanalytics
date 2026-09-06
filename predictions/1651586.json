@@ -1,0 +1,21 @@
+{
+  "matchId": 1651586,
+  "game": "cs2",
+  "createdAt": "2026-09-06T18:50:32.227Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
