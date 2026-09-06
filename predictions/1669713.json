@@ -1,0 +1,21 @@
+{
+  "matchId": 1669713,
+  "game": "cs2",
+  "createdAt": "2026-09-06T20:40:41.299Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    },
+    {
+      "id": 137780,
+      "name": "Beyond Limits"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
