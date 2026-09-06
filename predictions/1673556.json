@@ -1,0 +1,21 @@
+{
+  "matchId": 1673556,
+  "game": "cs2",
+  "createdAt": "2026-09-06T22:30:21.864Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 131538,
+      "name": "Yawara Esports"
+    },
+    {
+      "id": 138620,
+      "name": "Turma do Pagode"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
