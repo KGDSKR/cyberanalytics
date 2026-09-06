@@ -1,0 +1,21 @@
+{
+  "matchId": 1669709,
+  "game": "cs2",
+  "createdAt": "2026-09-06T01:49:49.211Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 133997,
+      "name": "regain"
+    },
+    {
+      "id": 134300,
+      "name": "NuTorious"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
