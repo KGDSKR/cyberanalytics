@@ -1,0 +1,21 @@
+{
+  "matchId": 1664400,
+  "game": "cs2",
+  "createdAt": "2026-09-06T08:37:11.271Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3218,
+      "name": "NIP"
+    },
+    {
+      "id": 3217,
+      "name": "fnatic"
+    }
+  ],
+  "probs": [
+    50,
+    50
+  ]
+}
