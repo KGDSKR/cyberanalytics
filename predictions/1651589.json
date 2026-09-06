@@ -1,0 +1,21 @@
+{
+  "matchId": 1651589,
+  "game": "cs2",
+  "createdAt": "2026-09-06T07:12:45.718Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
