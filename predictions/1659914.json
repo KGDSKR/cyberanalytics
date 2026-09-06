@@ -1,0 +1,21 @@
+{
+  "matchId": 1659914,
+  "game": "dota2",
+  "createdAt": "2026-09-06T08:45:30.245Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133873,
+      "name": "Klim Sani4"
+    },
+    {
+      "id": 137354,
+      "name": " Pipsqueak+4"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
