@@ -1,0 +1,21 @@
+{
+  "matchId": 1665217,
+  "game": "dota2",
+  "createdAt": "2026-09-06T05:30:12.421Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 138753,
+      "name": "Direborn"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
