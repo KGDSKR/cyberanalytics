@@ -1,0 +1,21 @@
+{
+  "matchId": 1673554,
+  "game": "cs2",
+  "createdAt": "2026-09-06T23:09:46.659Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138096,
+      "name": "Back to Back "
+    },
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    }
+  ],
+  "probs": [
+    77,
+    23
+  ]
+}
