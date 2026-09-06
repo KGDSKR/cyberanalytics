@@ -1,0 +1,21 @@
+{
+  "matchId": 1658045,
+  "game": "cs2",
+  "createdAt": "2026-09-06T07:11:59.315Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128629,
+      "name": "megoshort"
+    },
+    {
+      "id": 138834,
+      "name": "train launcher"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
