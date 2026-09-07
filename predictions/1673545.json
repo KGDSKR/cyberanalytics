@@ -1,0 +1,21 @@
+{
+  "matchId": 1673545,
+  "game": "cs2",
+  "createdAt": "2026-09-07T07:16:33.269Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
