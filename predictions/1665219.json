@@ -1,0 +1,21 @@
+{
+  "matchId": 1665219,
+  "game": "dota2",
+  "createdAt": "2026-09-07T03:01:08.504Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138753,
+      "name": "Direborn"
+    },
+    {
+      "id": 139148,
+      "name": "Team Kinetix"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
