@@ -1,0 +1,21 @@
+{
+  "matchId": 1673520,
+  "game": "cs2",
+  "createdAt": "2026-09-07T20:39:58.233Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    },
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
