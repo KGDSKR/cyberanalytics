@@ -1,0 +1,21 @@
+{
+  "matchId": 1672237,
+  "game": "cs2",
+  "createdAt": "2026-09-07T19:00:52.841Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 125774,
+      "name": "HAVU"
+    },
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
