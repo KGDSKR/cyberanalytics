@@ -1,0 +1,21 @@
+{
+  "matchId": 1673519,
+  "game": "cs2",
+  "createdAt": "2026-09-07T15:41:14.358Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127976,
+      "name": "Infinite"
+    },
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
