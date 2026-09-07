@@ -1,0 +1,21 @@
+{
+  "matchId": 1669718,
+  "game": "cs2",
+  "createdAt": "2026-09-07T00:50:29.481Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 129547,
+      "name": "Detonate"
+    },
+    {
+      "id": 133997,
+      "name": "regain"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
