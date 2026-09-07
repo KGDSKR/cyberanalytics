@@ -1,0 +1,21 @@
+{
+  "matchId": 1673558,
+  "game": "cs2",
+  "createdAt": "2026-09-07T03:29:32.938Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 125863,
+      "name": "Isurus"
+    },
+    {
+      "id": 138620,
+      "name": "Turma do Pagode"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
