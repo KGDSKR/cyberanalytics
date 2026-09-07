@@ -1,0 +1,21 @@
+{
+  "matchId": 1673397,
+  "game": "cs2",
+  "createdAt": "2026-09-07T07:18:07.709Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138117,
+      "name": "CTRL Esports"
+    },
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
