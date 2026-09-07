@@ -1,0 +1,21 @@
+{
+  "matchId": 1669122,
+  "game": "cs2",
+  "createdAt": "2026-09-07T16:10:10.650Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    },
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    }
+  ],
+  "probs": [
+    49,
+    51
+  ]
+}
