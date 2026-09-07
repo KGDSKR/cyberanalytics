@@ -1,0 +1,21 @@
+{
+  "matchId": 1676095,
+  "game": "cs2",
+  "createdAt": "2026-09-07T20:10:26.251Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139210,
+      "name": "TitanFlow"
+    },
+    {
+      "id": 137507,
+      "name": "Spirit Academy Black"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
