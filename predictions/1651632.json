@@ -1,0 +1,21 @@
+{
+  "matchId": 1651632,
+  "game": "cs2",
+  "createdAt": "2026-09-07T07:36:36.495Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    },
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
