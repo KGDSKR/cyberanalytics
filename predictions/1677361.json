@@ -1,0 +1,21 @@
+{
+  "matchId": 1677361,
+  "game": "cs2",
+  "createdAt": "2026-09-08T07:17:39.757Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138729,
+      "name": "DNK"
+    },
+    {
+      "id": 138897,
+      "name": "TrafficPills Esports"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
