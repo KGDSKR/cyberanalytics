@@ -1,0 +1,21 @@
+{
+  "matchId": 1669121,
+  "game": "cs2",
+  "createdAt": "2026-09-08T15:12:10.813Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
