@@ -1,0 +1,21 @@
+{
+  "matchId": 1672240,
+  "game": "cs2",
+  "createdAt": "2026-09-08T15:10:59.950Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    },
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
