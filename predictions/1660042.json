@@ -1,0 +1,21 @@
+{
+  "matchId": 1660042,
+  "game": "cs2",
+  "createdAt": "2026-09-08T02:14:57.999Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133708,
+      "name": "Legacy"
+    },
+    {
+      "id": 137739,
+      "name": "magic"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
