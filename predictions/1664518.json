@@ -1,0 +1,21 @@
+{
+  "matchId": 1664518,
+  "game": "cs2",
+  "createdAt": "2026-09-08T18:41:43.032Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138163,
+      "name": "Younglings"
+    },
+    {
+      "id": 134037,
+      "name": "Banger Gang"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
