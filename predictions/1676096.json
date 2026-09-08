@@ -1,0 +1,21 @@
+{
+  "matchId": 1676096,
+  "game": "cs2",
+  "createdAt": "2026-09-08T20:19:41.114Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139225,
+      "name": "DINERO"
+    },
+    {
+      "id": 138129,
+      "name": "BOJONG"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
