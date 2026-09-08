@@ -1,0 +1,21 @@
+{
+  "matchId": 1660046,
+  "game": "cs2",
+  "createdAt": "2026-09-08T07:12:38.002Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3250,
+      "name": "MIBR"
+    },
+    {
+      "id": 3272,
+      "name": "TheMongolz"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
