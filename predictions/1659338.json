@@ -1,0 +1,21 @@
+{
+  "matchId": 1659338,
+  "game": "dota2",
+  "createdAt": "2026-09-08T19:59:38.998Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 1699,
+      "name": "Natus Vincere"
+    },
+    {
+      "id": 133873,
+      "name": "Klim Sani4"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
