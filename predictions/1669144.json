@@ -1,0 +1,21 @@
+{
+  "matchId": 1669144,
+  "game": "cs2",
+  "createdAt": "2026-09-09T15:10:26.131Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
