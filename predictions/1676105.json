@@ -1,0 +1,21 @@
+{
+  "matchId": 1676105,
+  "game": "cs2",
+  "createdAt": "2026-09-09T18:49:23.113Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137507,
+      "name": "Spirit Academy Black"
+    },
+    {
+      "id": 139209,
+      "name": "The Golden Horde"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
