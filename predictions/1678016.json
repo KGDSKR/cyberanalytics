@@ -1,0 +1,21 @@
+{
+  "matchId": 1678016,
+  "game": "cs2",
+  "createdAt": "2026-09-09T08:13:59.451Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135298,
+      "name": "K27"
+    },
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
