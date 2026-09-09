@@ -1,0 +1,21 @@
+{
+  "matchId": 1677388,
+  "game": "cs2",
+  "createdAt": "2026-09-09T10:31:42.390Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135915,
+      "name": "DEPO"
+    },
+    {
+      "id": 139227,
+      "name": "OxinGame"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
