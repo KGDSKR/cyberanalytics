@@ -1,0 +1,21 @@
+{
+  "matchId": 1659348,
+  "game": "dota2",
+  "createdAt": "2026-09-09T14:01:07.918Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 134559,
+      "name": "MOUZ"
+    },
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
