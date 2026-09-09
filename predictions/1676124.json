@@ -1,0 +1,21 @@
+{
+  "matchId": 1676124,
+  "game": "cs2",
+  "createdAt": "2026-09-09T05:11:36.843Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    },
+    {
+      "id": 139226,
+      "name": "Devious"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
