@@ -1,0 +1,21 @@
+{
+  "matchId": 1651679,
+  "game": "cs2",
+  "createdAt": "2026-09-09T17:41:57.475Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
