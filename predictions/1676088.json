@@ -1,0 +1,21 @@
+{
+  "matchId": 1676088,
+  "game": "cs2",
+  "createdAt": "2026-09-09T04:40:10.850Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3248,
+      "name": "TYLOO"
+    },
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
