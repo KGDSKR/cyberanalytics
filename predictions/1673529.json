@@ -1,0 +1,21 @@
+{
+  "matchId": 1673529,
+  "game": "cs2",
+  "createdAt": "2026-09-09T20:39:25.346Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135298,
+      "name": "K27"
+    },
+    {
+      "id": 135497,
+      "name": "WW Team"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
