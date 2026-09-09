@@ -1,0 +1,21 @@
+{
+  "matchId": 1678031,
+  "game": "cs2",
+  "createdAt": "2026-09-09T14:50:46.961Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    },
+    {
+      "id": 139180,
+      "name": "BBL"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
