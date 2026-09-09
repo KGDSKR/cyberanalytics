@@ -1,0 +1,21 @@
+{
+  "matchId": 1676106,
+  "game": "cs2",
+  "createdAt": "2026-09-09T16:50:59.589Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139217,
+      "name": "FLXRE"
+    },
+    {
+      "id": 139216,
+      "name": "valarmorghulis"
+    }
+  ],
+  "probs": [
+    14,
+    86
+  ]
+}
