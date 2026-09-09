@@ -1,0 +1,21 @@
+{
+  "matchId": 1674243,
+  "game": "cs2",
+  "createdAt": "2026-09-09T02:10:27.717Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137739,
+      "name": "magic"
+    },
+    {
+      "id": 3212,
+      "name": "FaZe"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
