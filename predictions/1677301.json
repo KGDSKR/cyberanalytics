@@ -1,0 +1,21 @@
+{
+  "matchId": 1677301,
+  "game": "cs2",
+  "createdAt": "2026-09-09T22:10:01.030Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125751,
+      "name": "paiN"
+    },
+    {
+      "id": 138096,
+      "name": "Back to Back "
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
