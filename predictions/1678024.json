@@ -1,0 +1,21 @@
+{
+  "matchId": 1678024,
+  "game": "cs2",
+  "createdAt": "2026-09-09T15:11:36.846Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 131189,
+      "name": "EYEBALLERS"
+    },
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
