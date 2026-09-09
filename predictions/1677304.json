@@ -1,0 +1,21 @@
+{
+  "matchId": 1677304,
+  "game": "cs2",
+  "createdAt": "2026-09-09T18:41:24.475Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138620,
+      "name": "Turma do Pagode"
+    },
+    {
+      "id": 138988,
+      "name": "DENDELE CS"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
