@@ -1,0 +1,21 @@
+{
+  "matchId": 1674254,
+  "game": "cs2",
+  "createdAt": "2026-09-09T07:10:30.365Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 126709,
+      "name": "9z"
+    },
+    {
+      "id": 3250,
+      "name": "MIBR"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
