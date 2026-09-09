@@ -1,0 +1,21 @@
+{
+  "matchId": 1678035,
+  "game": "cs2",
+  "createdAt": "2026-09-09T19:30:56.640Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3218,
+      "name": "NIP"
+    },
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
