@@ -1,0 +1,21 @@
+{
+  "matchId": 1676454,
+  "game": "cs2",
+  "createdAt": "2026-09-09T22:40:24.962Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137510,
+      "name": "Voca"
+    },
+    {
+      "id": 129240,
+      "name": "Villainous"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
