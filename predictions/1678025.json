@@ -1,0 +1,21 @@
+{
+  "matchId": 1678025,
+  "game": "cs2",
+  "createdAt": "2026-09-09T07:40:01.606Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 135273,
+      "name": "Wildcard"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
