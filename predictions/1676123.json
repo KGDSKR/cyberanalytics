@@ -1,0 +1,21 @@
+{
+  "matchId": 1676123,
+  "game": "cs2",
+  "createdAt": "2026-09-09T06:30:47.158Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139126,
+      "name": "Orgless"
+    },
+    {
+      "id": 139040,
+      "name": "Finishers"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
