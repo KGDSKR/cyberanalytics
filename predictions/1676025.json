@@ -1,0 +1,21 @@
+{
+  "matchId": 1676025,
+  "game": "cs2",
+  "createdAt": "2026-09-10T20:49:53.372Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
