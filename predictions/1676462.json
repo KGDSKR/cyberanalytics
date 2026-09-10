@@ -1,0 +1,21 @@
+{
+  "matchId": 1676462,
+  "game": "cs2",
+  "createdAt": "2026-09-10T23:50:26.154Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139222,
+      "name": "antivalue"
+    },
+    {
+      "id": 136064,
+      "name": "Chicken Coop Esports"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
