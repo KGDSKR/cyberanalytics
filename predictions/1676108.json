@@ -1,0 +1,21 @@
+{
+  "matchId": 1676108,
+  "game": "cs2",
+  "createdAt": "2026-09-10T18:19:36.866Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139209,
+      "name": "The Golden Horde"
+    },
+    {
+      "id": 139215,
+      "name": "pivstar"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
