@@ -1,0 +1,21 @@
+{
+  "matchId": 1676098,
+  "game": "cs2",
+  "createdAt": "2026-09-10T19:51:22.253Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    },
+    {
+      "id": 139212,
+      "name": "Quintessence"
+    }
+  ],
+  "probs": [
+    14,
+    86
+  ]
+}
