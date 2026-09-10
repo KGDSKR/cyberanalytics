@@ -1,0 +1,21 @@
+{
+  "matchId": 1681241,
+  "game": "cs2",
+  "createdAt": "2026-09-10T07:17:52.228Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131848,
+      "name": "largadosypelados"
+    },
+    {
+      "id": 138296,
+      "name": "MTX"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
