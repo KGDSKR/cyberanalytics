@@ -1,0 +1,21 @@
+{
+  "matchId": 1681249,
+  "game": "cs2",
+  "createdAt": "2026-09-10T14:42:00.058Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139236,
+      "name": "TEIKO"
+    },
+    {
+      "id": 138899,
+      "name": "maybe"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
