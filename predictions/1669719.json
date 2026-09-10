@@ -1,0 +1,21 @@
+{
+  "matchId": 1669719,
+  "game": "cs2",
+  "createdAt": "2026-09-10T22:51:14.797Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137496,
+      "name": "SportsBetExpert"
+    },
+    {
+      "id": 138044,
+      "name": "FarmVille"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
