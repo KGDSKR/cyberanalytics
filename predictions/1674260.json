@@ -1,0 +1,21 @@
+{
+  "matchId": 1674260,
+  "game": "cs2",
+  "createdAt": "2026-09-10T02:20:55.324Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126709,
+      "name": "9z"
+    },
+    {
+      "id": 3210,
+      "name": "G2"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
