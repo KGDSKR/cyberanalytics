@@ -1,0 +1,21 @@
+{
+  "matchId": 1664521,
+  "game": "cs2",
+  "createdAt": "2026-09-10T19:20:47.845Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    },
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
