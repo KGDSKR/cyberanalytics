@@ -1,0 +1,21 @@
+{
+  "matchId": 1676457,
+  "game": "cs2",
+  "createdAt": "2026-09-10T01:10:47.814Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3213,
+      "name": "Liquid"
+    },
+    {
+      "id": 139222,
+      "name": "antivalue"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
