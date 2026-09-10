@@ -1,0 +1,21 @@
+{
+  "matchId": 1678027,
+  "game": "cs2",
+  "createdAt": "2026-09-10T14:09:33.264Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
