@@ -1,0 +1,21 @@
+{
+  "matchId": 1651682,
+  "game": "cs2",
+  "createdAt": "2026-09-10T19:30:01.723Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
