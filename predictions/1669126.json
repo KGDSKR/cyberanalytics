@@ -1,0 +1,21 @@
+{
+  "matchId": 1669126,
+  "game": "cs2",
+  "createdAt": "2026-09-10T16:10:46.343Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 128629,
+      "name": "megoshort"
+    },
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    }
+  ],
+  "probs": [
+    16,
+    84
+  ]
+}
