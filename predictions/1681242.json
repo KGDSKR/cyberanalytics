@@ -1,0 +1,21 @@
+{
+  "matchId": 1681242,
+  "game": "cs2",
+  "createdAt": "2026-09-10T07:16:27.805Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138899,
+      "name": "maybe"
+    },
+    {
+      "id": 139065,
+      "name": "REVENIX"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
