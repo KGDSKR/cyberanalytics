@@ -1,0 +1,21 @@
+{
+  "matchId": 1676461,
+  "game": "cs2",
+  "createdAt": "2026-09-10T22:21:16.231Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129240,
+      "name": "Villainous"
+    },
+    {
+      "id": 139158,
+      "name": "Without a Roof"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
