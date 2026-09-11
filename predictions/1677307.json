@@ -1,0 +1,21 @@
+{
+  "matchId": 1677307,
+  "game": "cs2",
+  "createdAt": "2026-09-11T21:10:30.825Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 126377,
+      "name": "Imperial"
+    },
+    {
+      "id": 138988,
+      "name": "DENDELE CS"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
