@@ -1,0 +1,21 @@
+{
+  "matchId": 1677310,
+  "game": "cs2",
+  "createdAt": "2026-09-11T14:40:56.465Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    },
+    {
+      "id": 138096,
+      "name": "Back to Back "
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
