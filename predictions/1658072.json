@@ -1,0 +1,21 @@
+{
+  "matchId": 1658072,
+  "game": "cs2",
+  "createdAt": "2026-09-11T10:10:27.114Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    },
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
