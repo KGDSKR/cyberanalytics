@@ -1,0 +1,21 @@
+{
+  "matchId": 1680166,
+  "game": "dota2",
+  "createdAt": "2026-09-11T17:21:16.221Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139232,
+      "name": "Recrent Club"
+    },
+    {
+      "id": 138723,
+      "name": "VooDooSh Club"
+    }
+  ],
+  "probs": [
+    10,
+    90
+  ]
+}
