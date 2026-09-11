@@ -1,0 +1,21 @@
+{
+  "matchId": 1678033,
+  "game": "cs2",
+  "createdAt": "2026-09-11T14:31:21.111Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3318,
+      "name": "3DMAX"
+    },
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
