@@ -1,0 +1,21 @@
+{
+  "matchId": 1677987,
+  "game": "cs2",
+  "createdAt": "2026-09-11T07:19:33.284Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137701,
+      "name": "Bebop"
+    },
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
