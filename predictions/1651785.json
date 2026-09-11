@@ -1,0 +1,21 @@
+{
+  "matchId": 1651785,
+  "game": "cs2",
+  "createdAt": "2026-09-11T15:10:26.566Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 137546,
+      "name": "Acend"
+    },
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
