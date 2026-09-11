@@ -1,0 +1,21 @@
+{
+  "matchId": 1669722,
+  "game": "cs2",
+  "createdAt": "2026-09-11T02:09:58.092Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 132366,
+      "name": "LAG Gaming"
+    },
+    {
+      "id": 133997,
+      "name": "regain"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
