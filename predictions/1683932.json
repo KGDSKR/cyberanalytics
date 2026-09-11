@@ -1,0 +1,21 @@
+{
+  "matchId": 1683932,
+  "game": "cs2",
+  "createdAt": "2026-09-11T16:02:10.041Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    },
+    {
+      "id": 139209,
+      "name": "The Golden Horde"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
