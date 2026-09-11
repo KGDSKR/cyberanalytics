@@ -1,0 +1,21 @@
+{
+  "matchId": 1676463,
+  "game": "cs2",
+  "createdAt": "2026-09-11T22:13:54.792Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139158,
+      "name": "Without a Roof"
+    },
+    {
+      "id": 136318,
+      "name": "Marsborne"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
