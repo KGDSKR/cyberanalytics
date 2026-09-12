@@ -1,0 +1,21 @@
+{
+  "matchId": 1676466,
+  "game": "cs2",
+  "createdAt": "2026-09-12T21:09:24.333Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 3213,
+      "name": "Liquid"
+    },
+    {
+      "id": 137510,
+      "name": "Voca"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
