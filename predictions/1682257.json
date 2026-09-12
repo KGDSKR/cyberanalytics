@@ -1,0 +1,21 @@
+{
+  "matchId": 1682257,
+  "game": "dota2",
+  "createdAt": "2026-09-12T18:20:10.073Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 133873,
+      "name": "Klim Sani4"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
