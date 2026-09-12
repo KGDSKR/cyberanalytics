@@ -1,0 +1,21 @@
+{
+  "matchId": 1678041,
+  "game": "cs2",
+  "createdAt": "2026-09-12T15:50:37.159Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
