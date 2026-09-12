@@ -1,0 +1,21 @@
+{
+  "matchId": 1683259,
+  "game": "cs2",
+  "createdAt": "2026-09-12T07:17:33.176Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138370,
+      "name": "Lavked"
+    },
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
