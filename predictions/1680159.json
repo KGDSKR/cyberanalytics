@@ -1,0 +1,21 @@
+{
+  "matchId": 1680159,
+  "game": "dota2",
+  "createdAt": "2026-09-12T10:11:10.812Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138719,
+      "name": "Daxak Club"
+    },
+    {
+      "id": 138725,
+      "name": "NS Club"
+    }
+  ],
+  "probs": [
+    98,
+    2
+  ]
+}
