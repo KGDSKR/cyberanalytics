@@ -1,0 +1,21 @@
+{
+  "matchId": 1669724,
+  "game": "cs2",
+  "createdAt": "2026-09-12T00:20:53.097Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137496,
+      "name": "SportsBetExpert"
+    },
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
