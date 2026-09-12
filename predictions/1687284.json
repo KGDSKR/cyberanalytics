@@ -1,0 +1,21 @@
+{
+  "matchId": 1687284,
+  "game": "cs2",
+  "createdAt": "2026-09-12T22:40:14.188Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    },
+    {
+      "id": 139251,
+      "name": "Yamf Team"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
