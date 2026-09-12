@@ -1,0 +1,21 @@
+{
+  "matchId": 1676460,
+  "game": "cs2",
+  "createdAt": "2026-09-12T02:30:09.269Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3256,
+      "name": "NRG"
+    },
+    {
+      "id": 3213,
+      "name": "Liquid"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
