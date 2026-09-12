@@ -1,0 +1,21 @@
+{
+  "matchId": 1683865,
+  "game": "dota2",
+  "createdAt": "2026-09-12T03:39:27.142Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 136650,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
