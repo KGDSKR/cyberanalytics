@@ -1,0 +1,21 @@
+{
+  "matchId": 1676465,
+  "game": "cs2",
+  "createdAt": "2026-09-12T03:00:26.836Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137510,
+      "name": "Voca"
+    },
+    {
+      "id": 139158,
+      "name": "Without a Roof"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
