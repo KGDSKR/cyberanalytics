@@ -1,0 +1,21 @@
+{
+  "matchId": 1685296,
+  "game": "cs2",
+  "createdAt": "2026-09-12T07:13:24.431Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137967,
+      "name": "ReThink"
+    },
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
