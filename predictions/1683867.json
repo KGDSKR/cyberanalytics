@@ -1,0 +1,21 @@
+{
+  "matchId": 1683867,
+  "game": "dota2",
+  "createdAt": "2026-09-12T08:31:49.236Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 1660,
+      "name": "Execration"
+    },
+    {
+      "id": 128080,
+      "name": "Yangon Galacticos"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
