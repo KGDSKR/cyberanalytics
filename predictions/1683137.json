@@ -1,0 +1,21 @@
+{
+  "matchId": 1683137,
+  "game": "cs2",
+  "createdAt": "2026-09-12T07:18:11.552Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    },
+    {
+      "id": 137953,
+      "name": "Fortress"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
