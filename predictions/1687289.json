@@ -1,0 +1,21 @@
+{
+  "matchId": 1687289,
+  "game": "cs2",
+  "createdAt": "2026-09-13T22:51:15.261Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139113,
+      "name": "Semente do Mal"
+    },
+    {
+      "id": 139253,
+      "name": "Tropa do felipudo"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
