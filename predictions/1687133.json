@@ -1,0 +1,21 @@
+{
+  "matchId": 1687133,
+  "game": "cs2",
+  "createdAt": "2026-09-13T07:41:07.166Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3248,
+      "name": "TYLOO"
+    },
+    {
+      "id": 135915,
+      "name": "DEPO"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
