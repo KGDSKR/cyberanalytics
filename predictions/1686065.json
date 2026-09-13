@@ -1,0 +1,21 @@
+{
+  "matchId": 1686065,
+  "game": "cs2",
+  "createdAt": "2026-09-13T05:10:32.695Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137932,
+      "name": "ex-RUBY"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
