@@ -1,0 +1,21 @@
+{
+  "matchId": 1680135,
+  "game": "dota2",
+  "createdAt": "2026-09-13T20:39:44.480Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138722,
+      "name": "Stray Club"
+    },
+    {
+      "id": 139234,
+      "name": "YBN Club"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
