@@ -1,0 +1,21 @@
+{
+  "matchId": 1669737,
+  "game": "cs2",
+  "createdAt": "2026-09-13T20:30:59.298Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139158,
+      "name": "Without a Roof"
+    },
+    {
+      "id": 132366,
+      "name": "LAG Gaming"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
