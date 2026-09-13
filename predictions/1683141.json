@@ -1,0 +1,21 @@
+{
+  "matchId": 1683141,
+  "game": "cs2",
+  "createdAt": "2026-09-13T08:00:24.915Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138897,
+      "name": "TrafficPills Esports"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
