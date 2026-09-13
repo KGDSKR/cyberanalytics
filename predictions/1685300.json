@@ -1,0 +1,21 @@
+{
+  "matchId": 1685300,
+  "game": "cs2",
+  "createdAt": "2026-09-13T07:25:54.792Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    },
+    {
+      "id": 3251,
+      "name": "ENCE"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
