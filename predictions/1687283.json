@@ -1,0 +1,21 @@
+{
+  "matchId": 1687283,
+  "game": "cs2",
+  "createdAt": "2026-09-13T21:12:11.176Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    },
+    {
+      "id": 139254,
+      "name": "Los Niños"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
