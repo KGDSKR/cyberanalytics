@@ -1,0 +1,21 @@
+{
+  "matchId": 1687965,
+  "game": "dota2",
+  "createdAt": "2026-09-13T18:32:23.208Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 134208,
+      "name": "Kalmychata"
+    },
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
