@@ -1,0 +1,21 @@
+{
+  "matchId": 1676113,
+  "game": "cs2",
+  "createdAt": "2026-09-13T17:30:11.965Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139210,
+      "name": "TitanFlow"
+    },
+    {
+      "id": 139209,
+      "name": "The Golden Horde"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
