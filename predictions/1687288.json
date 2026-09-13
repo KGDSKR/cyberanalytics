@@ -1,0 +1,21 @@
+{
+  "matchId": 1687288,
+  "game": "cs2",
+  "createdAt": "2026-09-13T23:01:23.846Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    },
+    {
+      "id": 136352,
+      "name": "Peak Agency"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
