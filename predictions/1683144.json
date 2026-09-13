@@ -1,0 +1,21 @@
+{
+  "matchId": 1683144,
+  "game": "cs2",
+  "createdAt": "2026-09-13T18:11:08.169Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
