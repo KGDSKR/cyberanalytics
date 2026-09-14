@@ -1,0 +1,21 @@
+{
+  "matchId": 1690005,
+  "game": "cs2",
+  "createdAt": "2026-09-14T23:01:42.840Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139099,
+      "name": "underw0rld"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
