@@ -1,0 +1,21 @@
+{
+  "matchId": 1688033,
+  "game": "dota2",
+  "createdAt": "2026-09-14T08:24:56.957Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139238,
+      "name": "Dawn Bulls"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
