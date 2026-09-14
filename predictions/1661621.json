@@ -1,0 +1,21 @@
+{
+  "matchId": 1661621,
+  "game": "cs2",
+  "createdAt": "2026-09-14T17:21:53.914Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139188,
+      "name": "Pandaric eSports"
+    },
+    {
+      "id": 138178,
+      "name": "Team LEISURE"
+    }
+  ],
+  "probs": [
+    4,
+    96
+  ]
+}
