@@ -1,0 +1,21 @@
+{
+  "matchId": 1688034,
+  "game": "dota2",
+  "createdAt": "2026-09-14T14:51:07.996Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138669,
+      "name": "Two Move"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
