@@ -1,0 +1,21 @@
+{
+  "matchId": 1686070,
+  "game": "cs2",
+  "createdAt": "2026-09-14T05:09:49.074Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138975,
+      "name": "Butterfly"
+    },
+    {
+      "id": 139244,
+      "name": "HyperSpace"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
