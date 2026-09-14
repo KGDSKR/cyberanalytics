@@ -1,0 +1,21 @@
+{
+  "matchId": 1686069,
+  "game": "cs2",
+  "createdAt": "2026-09-14T07:09:29.913Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
