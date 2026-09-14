@@ -1,0 +1,21 @@
+{
+  "matchId": 1680137,
+  "game": "dota2",
+  "createdAt": "2026-09-14T15:31:02.162Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138720,
+      "name": "Rostik999 Club"
+    },
+    {
+      "id": 139233,
+      "name": "Cooman Club"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
