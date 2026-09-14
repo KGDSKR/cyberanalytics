@@ -1,0 +1,21 @@
+{
+  "matchId": 1686074,
+  "game": "cs2",
+  "createdAt": "2026-09-14T15:11:51.979Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    },
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
