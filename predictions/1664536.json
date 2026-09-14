@@ -1,0 +1,21 @@
+{
+  "matchId": 1664536,
+  "game": "cs2",
+  "createdAt": "2026-09-14T19:30:31.173Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    },
+    {
+      "id": 133991,
+      "name": "ZOTIX"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
