@@ -1,0 +1,21 @@
+{
+  "matchId": 1673396,
+  "game": "cs2",
+  "createdAt": "2026-09-14T08:32:43.272Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137877,
+      "name": "TEAM ASCEND"
+    },
+    {
+      "id": 135026,
+      "name": "ENCE Prospects"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
