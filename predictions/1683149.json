@@ -1,0 +1,21 @@
+{
+  "matchId": 1683149,
+  "game": "cs2",
+  "createdAt": "2026-09-15T07:22:56.207Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
