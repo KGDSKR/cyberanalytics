@@ -1,0 +1,21 @@
+{
+  "matchId": 1686091,
+  "game": "cs2",
+  "createdAt": "2026-09-15T20:49:24.506Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    },
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
