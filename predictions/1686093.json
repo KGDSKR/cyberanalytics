@@ -1,0 +1,21 @@
+{
+  "matchId": 1686093,
+  "game": "cs2",
+  "createdAt": "2026-09-15T14:32:35.922Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 135497,
+      "name": "WW Team"
+    },
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    16,
+    84
+  ]
+}
