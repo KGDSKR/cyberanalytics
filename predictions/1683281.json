@@ -1,0 +1,21 @@
+{
+  "matchId": 1683281,
+  "game": "cs2",
+  "createdAt": "2026-09-15T10:21:36.105Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128258,
+      "name": "Entropy"
+    },
+    {
+      "id": 134405,
+      "name": "Vexar"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
