@@ -1,0 +1,21 @@
+{
+  "matchId": 1691077,
+  "game": "cs2",
+  "createdAt": "2026-09-15T14:41:34.345Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137440,
+      "name": "ASTRAL"
+    },
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
