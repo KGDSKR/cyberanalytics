@@ -1,0 +1,21 @@
+{
+  "matchId": 1692871,
+  "game": "cs2",
+  "createdAt": "2026-09-15T19:41:10.326Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    },
+    {
+      "id": 133776,
+      "name": "Signatus"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
