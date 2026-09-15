@@ -1,0 +1,21 @@
+{
+  "matchId": 1690008,
+  "game": "cs2",
+  "createdAt": "2026-09-15T23:29:44.054Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    },
+    {
+      "id": 139113,
+      "name": "Semente do Mal"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
