@@ -1,0 +1,21 @@
+{
+  "matchId": 1690007,
+  "game": "cs2",
+  "createdAt": "2026-09-15T23:40:34.517Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138939,
+      "name": "Rush"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
