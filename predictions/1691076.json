@@ -1,0 +1,21 @@
+{
+  "matchId": 1691076,
+  "game": "cs2",
+  "createdAt": "2026-09-15T14:40:10.928Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 139103,
+      "name": "Aritmije"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
