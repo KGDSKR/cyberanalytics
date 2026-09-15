@@ -1,0 +1,21 @@
+{
+  "matchId": 1683280,
+  "game": "cs2",
+  "createdAt": "2026-09-15T07:22:09.504Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138742,
+      "name": "DragonClaw"
+    },
+    {
+      "id": 126699,
+      "name": "Nexus"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
