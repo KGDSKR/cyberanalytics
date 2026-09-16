@@ -1,0 +1,21 @@
+{
+  "matchId": 1683165,
+  "game": "cs2",
+  "createdAt": "2026-09-16T17:21:31.333Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    },
+    {
+      "id": 3251,
+      "name": "ENCE"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
