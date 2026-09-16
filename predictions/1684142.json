@@ -1,0 +1,21 @@
+{
+  "matchId": 1684142,
+  "game": "cs2",
+  "createdAt": "2026-09-16T07:14:17.471Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
