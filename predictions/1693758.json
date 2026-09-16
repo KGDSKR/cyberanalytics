@@ -1,0 +1,21 @@
+{
+  "matchId": 1693758,
+  "game": "cs2",
+  "createdAt": "2026-09-16T23:00:54.920Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    },
+    {
+      "id": 139250,
+      "name": "HOLANDA 78"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
