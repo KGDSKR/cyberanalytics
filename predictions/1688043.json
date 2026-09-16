@@ -1,0 +1,21 @@
+{
+  "matchId": 1688043,
+  "game": "dota2",
+  "createdAt": "2026-09-16T14:12:56.197Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    },
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    }
+  ],
+  "probs": [
+    17,
+    83
+  ]
+}
