@@ -1,0 +1,21 @@
+{
+  "matchId": 1683164,
+  "game": "cs2",
+  "createdAt": "2026-09-16T14:33:35.048Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138897,
+      "name": "TrafficPills Esports"
+    },
+    {
+      "id": 139219,
+      "name": "KAMUI"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
