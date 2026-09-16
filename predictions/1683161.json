@@ -1,0 +1,21 @@
+{
+  "matchId": 1683161,
+  "game": "cs2",
+  "createdAt": "2026-09-16T07:16:27.389Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    },
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
