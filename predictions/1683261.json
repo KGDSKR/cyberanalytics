@@ -1,0 +1,21 @@
+{
+  "matchId": 1683261,
+  "game": "cs2",
+  "createdAt": "2026-09-16T07:15:13.102Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138370,
+      "name": "Lavked"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
