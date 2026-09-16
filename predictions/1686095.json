@@ -1,0 +1,21 @@
+{
+  "matchId": 1686095,
+  "game": "cs2",
+  "createdAt": "2026-09-16T14:15:28.488Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139135,
+      "name": "UPGRADE"
+    },
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
