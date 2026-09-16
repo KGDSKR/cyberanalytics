@@ -1,0 +1,21 @@
+{
+  "matchId": 1692975,
+  "game": "cs2",
+  "createdAt": "2026-09-16T07:13:29.434Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138602,
+      "name": "Inner Circle Prospect"
+    },
+    {
+      "id": 130059,
+      "name": "Eternal Fire Academy"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
