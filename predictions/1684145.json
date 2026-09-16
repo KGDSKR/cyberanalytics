@@ -1,0 +1,21 @@
+{
+  "matchId": 1684145,
+  "game": "cs2",
+  "createdAt": "2026-09-16T17:51:31.312Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139135,
+      "name": "UPGRADE"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
