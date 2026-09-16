@@ -1,0 +1,21 @@
+{
+  "matchId": 1684144,
+  "game": "cs2",
+  "createdAt": "2026-09-16T14:16:12.148Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
