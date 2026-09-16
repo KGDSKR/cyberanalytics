@@ -1,0 +1,21 @@
+{
+  "matchId": 1688042,
+  "game": "dota2",
+  "createdAt": "2026-09-16T10:11:00.473Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138272,
+      "name": "BALU"
+    },
+    {
+      "id": 139124,
+      "name": "Team Synapse"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
