@@ -1,0 +1,21 @@
+{
+  "matchId": 1683168,
+  "game": "cs2",
+  "createdAt": "2026-09-17T19:20:20.125Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 3251,
+      "name": "ENCE"
+    },
+    {
+      "id": 139219,
+      "name": "KAMUI"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
