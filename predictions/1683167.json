@@ -1,0 +1,21 @@
+{
+  "matchId": 1683167,
+  "game": "cs2",
+  "createdAt": "2026-09-17T15:30:03.468Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
