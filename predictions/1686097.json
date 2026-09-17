@@ -1,0 +1,21 @@
+{
+  "matchId": 1686097,
+  "game": "cs2",
+  "createdAt": "2026-09-17T07:48:47.315Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 139247,
+      "name": "7o7 eSports"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
