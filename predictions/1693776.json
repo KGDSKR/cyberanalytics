@@ -1,0 +1,21 @@
+{
+  "matchId": 1693776,
+  "game": "dota2",
+  "createdAt": "2026-09-17T20:19:22.991Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138721,
+      "name": "Rostikfacekid Club"
+    },
+    {
+      "id": 138723,
+      "name": "VooDooSh Club"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
