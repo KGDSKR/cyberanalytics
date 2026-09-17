@@ -1,0 +1,21 @@
+{
+  "matchId": 1681373,
+  "game": "cs2",
+  "createdAt": "2026-09-17T10:11:22.609Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 125847,
+      "name": "GamerLegion"
+    },
+    {
+      "id": 3228,
+      "name": "Luminosity"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
