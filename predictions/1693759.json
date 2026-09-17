@@ -1,0 +1,21 @@
+{
+  "matchId": 1693759,
+  "game": "cs2",
+  "createdAt": "2026-09-17T00:59:59.285Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    },
+    {
+      "id": 136352,
+      "name": "Peak Agency"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
