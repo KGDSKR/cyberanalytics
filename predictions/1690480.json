@@ -1,0 +1,21 @@
+{
+  "matchId": 1690480,
+  "game": "cs2",
+  "createdAt": "2026-09-17T14:29:43.302Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135468,
+      "name": "ShindeN"
+    },
+    {
+      "id": 138159,
+      "name": "EHISTO BASE"
+    }
+  ],
+  "probs": [
+    93,
+    7
+  ]
+}
