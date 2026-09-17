@@ -1,0 +1,21 @@
+{
+  "matchId": 1686098,
+  "game": "cs2",
+  "createdAt": "2026-09-17T07:13:55.207Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139200,
+      "name": "Nice Try"
+    },
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
