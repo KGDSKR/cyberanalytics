@@ -1,0 +1,21 @@
+{
+  "matchId": 1681374,
+  "game": "cs2",
+  "createdAt": "2026-09-17T10:10:36.539Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3218,
+      "name": "NIP"
+    },
+    {
+      "id": 133435,
+      "name": "M80"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
