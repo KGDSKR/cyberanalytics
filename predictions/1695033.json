@@ -1,0 +1,21 @@
+{
+  "matchId": 1695033,
+  "game": "cs2",
+  "createdAt": "2026-09-18T07:21:00.253Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 139269,
+      "name": "2miracll"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
