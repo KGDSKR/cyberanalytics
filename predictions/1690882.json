@@ -1,0 +1,21 @@
+{
+  "matchId": 1690882,
+  "game": "cs2",
+  "createdAt": "2026-09-18T00:10:05.650Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139263,
+      "name": "CLANSBR"
+    },
+    {
+      "id": 139262,
+      "name": "Elementals"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
