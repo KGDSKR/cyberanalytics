@@ -1,0 +1,21 @@
+{
+  "matchId": 1686122,
+  "game": "cs2",
+  "createdAt": "2026-09-18T21:49:33.660Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138181,
+      "name": "Esport BERG"
+    },
+    {
+      "id": 137271,
+      "name": "FC Famalicão Esports"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
