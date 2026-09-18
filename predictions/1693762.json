@@ -1,0 +1,21 @@
+{
+  "matchId": 1693762,
+  "game": "cs2",
+  "createdAt": "2026-09-18T20:10:53.691Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139099,
+      "name": "underw0rld"
+    },
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
