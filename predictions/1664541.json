@@ -1,0 +1,21 @@
+{
+  "matchId": 1664541,
+  "game": "cs2",
+  "createdAt": "2026-09-18T18:31:14.624Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    },
+    {
+      "id": 134037,
+      "name": "Banger Gang"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
