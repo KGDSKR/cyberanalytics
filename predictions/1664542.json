@@ -1,0 +1,21 @@
+{
+  "matchId": 1664542,
+  "game": "cs2",
+  "createdAt": "2026-09-18T18:00:47.731Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137444,
+      "name": "Spirit Academy Green"
+    },
+    {
+      "id": 137474,
+      "name": "OLDBOYS PL"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
