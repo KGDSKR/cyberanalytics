@@ -1,0 +1,21 @@
+{
+  "matchId": 1683271,
+  "game": "cs2",
+  "createdAt": "2026-09-18T08:17:07.226Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
