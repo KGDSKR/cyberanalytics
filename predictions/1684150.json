@@ -1,0 +1,21 @@
+{
+  "matchId": 1684150,
+  "game": "cs2",
+  "createdAt": "2026-09-18T07:25:28.617Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
