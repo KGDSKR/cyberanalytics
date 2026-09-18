@@ -1,0 +1,21 @@
+{
+  "matchId": 1693754,
+  "game": "cs2",
+  "createdAt": "2026-09-18T00:10:39.367Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138939,
+      "name": "Rush"
+    },
+    {
+      "id": 139113,
+      "name": "Semente do Mal"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
