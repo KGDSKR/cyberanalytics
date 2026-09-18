@@ -1,0 +1,21 @@
+{
+  "matchId": 1686117,
+  "game": "cs2",
+  "createdAt": "2026-09-18T22:29:26.891Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    },
+    {
+      "id": 139065,
+      "name": "REVENIX"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
