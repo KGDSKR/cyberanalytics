@@ -1,0 +1,21 @@
+{
+  "matchId": 1685168,
+  "game": "cs2",
+  "createdAt": "2026-09-18T17:21:41.688Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3256,
+      "name": "NRG"
+    },
+    {
+      "id": 131505,
+      "name": "Aurora Gaming"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
