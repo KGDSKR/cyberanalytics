@@ -1,0 +1,21 @@
+{
+  "matchId": 1683172,
+  "game": "cs2",
+  "createdAt": "2026-09-18T14:41:09.760Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
