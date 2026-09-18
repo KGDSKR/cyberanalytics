@@ -1,0 +1,21 @@
+{
+  "matchId": 1695038,
+  "game": "cs2",
+  "createdAt": "2026-09-18T07:20:18.582Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 127789,
+      "name": "SPARX"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
