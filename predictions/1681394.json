@@ -1,0 +1,21 @@
+{
+  "matchId": 1681394,
+  "game": "cs2",
+  "createdAt": "2026-09-18T14:54:25.805Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127976,
+      "name": "Infinite"
+    },
+    {
+      "id": 136497,
+      "name": "Inner Circle Esports"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
