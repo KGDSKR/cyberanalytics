@@ -1,0 +1,21 @@
+{
+  "matchId": 1690932,
+  "game": "cs2",
+  "createdAt": "2026-09-18T22:30:25.449Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 135468,
+      "name": "ShindeN"
+    },
+    {
+      "id": 138620,
+      "name": "Turma do Pagode"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
