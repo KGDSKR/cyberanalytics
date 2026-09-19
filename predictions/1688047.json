@@ -1,0 +1,21 @@
+{
+  "matchId": 1688047,
+  "game": "dota2",
+  "createdAt": "2026-09-19T19:21:29.528Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 134208,
+      "name": "Kalmychata"
+    },
+    {
+      "id": 1931,
+      "name": "Yellow Submarine"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
