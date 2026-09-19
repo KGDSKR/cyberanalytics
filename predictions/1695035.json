@@ -1,0 +1,21 @@
+{
+  "matchId": 1695035,
+  "game": "cs2",
+  "createdAt": "2026-09-19T07:12:46.563Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 137581,
+      "name": "Young TigeRES"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
