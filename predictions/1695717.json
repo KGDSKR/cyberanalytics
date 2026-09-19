@@ -1,0 +1,21 @@
+{
+  "matchId": 1695717,
+  "game": "cs2",
+  "createdAt": "2026-09-19T07:11:10.888Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138602,
+      "name": "Inner Circle Prospect"
+    },
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
