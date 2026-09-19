@@ -1,0 +1,21 @@
+{
+  "matchId": 1694715,
+  "game": "dota2",
+  "createdAt": "2026-09-19T16:29:47.057Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
