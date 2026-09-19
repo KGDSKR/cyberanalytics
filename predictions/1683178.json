@@ -1,0 +1,21 @@
+{
+  "matchId": 1683178,
+  "game": "cs2",
+  "createdAt": "2026-09-19T16:30:19.079Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
