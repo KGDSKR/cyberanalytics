@@ -1,0 +1,21 @@
+{
+  "matchId": 1695040,
+  "game": "cs2",
+  "createdAt": "2026-09-19T07:12:01.331Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
