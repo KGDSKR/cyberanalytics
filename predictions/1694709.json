@@ -1,0 +1,21 @@
+{
+  "matchId": 1694709,
+  "game": "dota2",
+  "createdAt": "2026-09-19T06:09:54.184Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    },
+    {
+      "id": 139268,
+      "name": "Pibbles Corp"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
