@@ -1,0 +1,21 @@
+{
+  "matchId": 1688055,
+  "game": "dota2",
+  "createdAt": "2026-09-19T16:20:23.322Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
