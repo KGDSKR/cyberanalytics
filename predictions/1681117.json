@@ -1,0 +1,21 @@
+{
+  "matchId": 1681117,
+  "game": "cs2",
+  "createdAt": "2026-09-19T15:51:46.666Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
