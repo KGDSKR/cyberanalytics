@@ -1,0 +1,21 @@
+{
+  "matchId": 1686126,
+  "game": "cs2",
+  "createdAt": "2026-09-19T20:20:44.917Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 138181,
+      "name": "Esport BERG"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
