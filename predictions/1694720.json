@@ -1,0 +1,21 @@
+{
+  "matchId": 1694720,
+  "game": "dota2",
+  "createdAt": "2026-09-20T06:09:26.328Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139267,
+      "name": "Conventus Stellarum"
+    },
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
