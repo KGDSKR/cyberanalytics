@@ -1,0 +1,21 @@
+{
+  "matchId": 1684161,
+  "game": "cs2",
+  "createdAt": "2026-09-20T19:29:57.368Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 136659,
+      "name": "SPARTA"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
