@@ -1,0 +1,21 @@
+{
+  "matchId": 1693764,
+  "game": "cs2",
+  "createdAt": "2026-09-20T01:40:40.112Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
