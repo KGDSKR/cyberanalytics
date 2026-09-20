@@ -1,0 +1,21 @@
+{
+  "matchId": 1695054,
+  "game": "cs2",
+  "createdAt": "2026-09-20T17:09:52.979Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 133891,
+      "name": "PARTIZAN"
+    },
+    {
+      "id": 137357,
+      "name": "X-CITY"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
