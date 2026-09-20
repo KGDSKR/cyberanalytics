@@ -1,0 +1,21 @@
+{
+  "matchId": 1681121,
+  "game": "cs2",
+  "createdAt": "2026-09-20T17:00:00.086Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
