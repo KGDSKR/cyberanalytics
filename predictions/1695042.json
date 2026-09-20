@@ -1,0 +1,21 @@
+{
+  "matchId": 1695042,
+  "game": "cs2",
+  "createdAt": "2026-09-20T17:53:06.373Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    },
+    {
+      "id": 127789,
+      "name": "SPARX"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
