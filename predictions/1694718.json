@@ -1,0 +1,21 @@
+{
+  "matchId": 1694718,
+  "game": "dota2",
+  "createdAt": "2026-09-20T16:29:32.524Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137354,
+      "name": " Pipsqueak+4"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
