@@ -1,0 +1,21 @@
+{
+  "matchId": 1690937,
+  "game": "cs2",
+  "createdAt": "2026-09-20T20:10:49.484Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133326,
+      "name": "Bounty Hunters Esports"
+    },
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
