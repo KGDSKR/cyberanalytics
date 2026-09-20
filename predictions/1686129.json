@@ -1,0 +1,21 @@
+{
+  "matchId": 1686129,
+  "game": "cs2",
+  "createdAt": "2026-09-20T19:40:31.355Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
