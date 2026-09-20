@@ -1,0 +1,21 @@
+{
+  "matchId": 1681122,
+  "game": "cs2",
+  "createdAt": "2026-09-20T18:51:07.201Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    },
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
