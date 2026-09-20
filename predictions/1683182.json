@@ -1,0 +1,21 @@
+{
+  "matchId": 1683182,
+  "game": "cs2",
+  "createdAt": "2026-09-20T08:36:07.468Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
