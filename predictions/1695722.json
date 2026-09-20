@@ -1,0 +1,21 @@
+{
+  "matchId": 1695722,
+  "game": "cs2",
+  "createdAt": "2026-09-20T07:11:16.666Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136846,
+      "name": "Prestige"
+    },
+    {
+      "id": 139218,
+      "name": "OldMix"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
