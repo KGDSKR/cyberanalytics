@@ -1,0 +1,21 @@
+{
+  "matchId": 1688036,
+  "game": "dota2",
+  "createdAt": "2026-09-20T20:19:43.332Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 134208,
+      "name": "Kalmychata"
+    },
+    {
+      "id": 138669,
+      "name": "Two Move"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
