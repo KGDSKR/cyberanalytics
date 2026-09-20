@@ -1,0 +1,21 @@
+{
+  "matchId": 1685175,
+  "game": "cs2",
+  "createdAt": "2026-09-20T17:59:33.710Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:2",
+  "teams": [
+    {
+      "id": 131505,
+      "name": "Aurora Gaming"
+    },
+    {
+      "id": 3455,
+      "name": "Vitality"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
