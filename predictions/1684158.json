@@ -1,0 +1,21 @@
+{
+  "matchId": 1684158,
+  "game": "cs2",
+  "createdAt": "2026-09-20T07:14:03.402Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    81,
+    19
+  ]
+}
