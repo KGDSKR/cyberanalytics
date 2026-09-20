@@ -1,0 +1,21 @@
+{
+  "matchId": 1681119,
+  "game": "cs2",
+  "createdAt": "2026-09-20T08:34:56.866Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
