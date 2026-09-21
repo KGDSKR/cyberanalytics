@@ -1,0 +1,21 @@
+{
+  "matchId": 1683184,
+  "game": "cs2",
+  "createdAt": "2026-09-21T07:19:50.274Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
