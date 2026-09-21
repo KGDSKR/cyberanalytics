@@ -1,0 +1,21 @@
+{
+  "matchId": 1694725,
+  "game": "dota2",
+  "createdAt": "2026-09-21T16:13:47.772Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139268,
+      "name": "Pibbles Corp"
+    },
+    {
+      "id": 127965,
+      "name": "Hokori"
+    }
+  ],
+  "probs": [
+    90,
+    10
+  ]
+}
