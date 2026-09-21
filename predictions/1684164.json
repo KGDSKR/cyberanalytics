@@ -1,0 +1,21 @@
+{
+  "matchId": 1684164,
+  "game": "cs2",
+  "createdAt": "2026-09-21T15:21:13.463Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
