@@ -1,0 +1,21 @@
+{
+  "matchId": 1702935,
+  "game": "dota2",
+  "createdAt": "2026-09-21T19:30:01.327Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139285,
+      "name": "Cake Team"
+    },
+    {
+      "id": 139006,
+      "name": "avice Team"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
