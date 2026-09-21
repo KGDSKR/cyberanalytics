@@ -1,0 +1,21 @@
+{
+  "matchId": 1683263,
+  "game": "cs2",
+  "createdAt": "2026-09-21T07:19:06.613Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
