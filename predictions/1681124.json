@@ -1,0 +1,21 @@
+{
+  "matchId": 1681124,
+  "game": "cs2",
+  "createdAt": "2026-09-21T14:53:49.966Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 126699,
+      "name": "Nexus"
+    },
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
