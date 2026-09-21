@@ -1,0 +1,21 @@
+{
+  "matchId": 1694726,
+  "game": "dota2",
+  "createdAt": "2026-09-21T06:10:16.327Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137588,
+      "name": "GamerLegion"
+    },
+    {
+      "id": 137354,
+      "name": " Pipsqueak+4"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
