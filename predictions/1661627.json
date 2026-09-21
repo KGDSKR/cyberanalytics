@@ -1,0 +1,21 @@
+{
+  "matchId": 1661627,
+  "game": "cs2",
+  "createdAt": "2026-09-21T20:00:08.030Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 126694,
+      "name": "BIG Academy"
+    },
+    {
+      "id": 138179,
+      "name": "Huskies eSport"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
