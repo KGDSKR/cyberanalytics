@@ -1,0 +1,21 @@
+{
+  "matchId": 1702708,
+  "game": "dota2",
+  "createdAt": "2026-09-21T16:12:35.219Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139124,
+      "name": "Team Synapse"
+    },
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    87,
+    13
+  ]
+}
