@@ -1,0 +1,21 @@
+{
+  "matchId": 1700652,
+  "game": "cs2",
+  "createdAt": "2026-09-22T14:41:30.223Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138110,
+      "name": "THE UNIT"
+    },
+    {
+      "id": 137121,
+      "name": "TEAM XDM"
+    }
+  ],
+  "probs": [
+    23,
+    77
+  ]
+}
