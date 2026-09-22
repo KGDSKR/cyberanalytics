@@ -1,0 +1,21 @@
+{
+  "matchId": 1694735,
+  "game": "dota2",
+  "createdAt": "2026-09-22T06:09:51.386Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139267,
+      "name": "Conventus Stellarum"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
