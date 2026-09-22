@@ -1,0 +1,21 @@
+{
+  "matchId": 1683290,
+  "game": "cs2",
+  "createdAt": "2026-09-22T07:24:32.080Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 134405,
+      "name": "Vexar"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
