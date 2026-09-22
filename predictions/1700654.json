@@ -1,0 +1,21 @@
+{
+  "matchId": 1700654,
+  "game": "cs2",
+  "createdAt": "2026-09-22T14:20:33.891Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 130329,
+      "name": "Rare Atom"
+    },
+    {
+      "id": 137344,
+      "name": "Legion"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
