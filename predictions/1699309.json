@@ -1,0 +1,21 @@
+{
+  "matchId": 1699309,
+  "game": "cs2",
+  "createdAt": "2026-09-22T07:17:47.050Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
