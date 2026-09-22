@@ -1,0 +1,21 @@
+{
+  "matchId": 1702578,
+  "game": "cs2",
+  "createdAt": "2026-09-22T14:40:48.582Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    },
+    {
+      "id": 139283,
+      "name": "Mira"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
