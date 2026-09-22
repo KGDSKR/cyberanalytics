@@ -1,0 +1,21 @@
+{
+  "matchId": 1704607,
+  "game": "cs2",
+  "createdAt": "2026-09-22T10:31:02.507Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 127125,
+      "name": "MARKandLARRY"
+    },
+    {
+      "id": 139126,
+      "name": "Orgless"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
