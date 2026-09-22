@@ -1,0 +1,21 @@
+{
+  "matchId": 1684022,
+  "game": "cs2",
+  "createdAt": "2026-09-22T16:11:54.313Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139180,
+      "name": "BBL"
+    },
+    {
+      "id": 134188,
+      "name": "Johnny Speeds"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
