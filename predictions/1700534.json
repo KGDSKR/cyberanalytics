@@ -1,0 +1,21 @@
+{
+  "matchId": 1700534,
+  "game": "cs2",
+  "createdAt": "2026-09-22T19:59:42.084Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 132060,
+      "name": "Permitta Esports"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
