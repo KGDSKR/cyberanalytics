@@ -1,0 +1,21 @@
+{
+  "matchId": 1695725,
+  "game": "cs2",
+  "createdAt": "2026-09-22T07:20:23.060Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    },
+    {
+      "id": 139218,
+      "name": "OldMix"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
