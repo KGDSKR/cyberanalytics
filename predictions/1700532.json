@@ -1,0 +1,21 @@
+{
+  "matchId": 1700532,
+  "game": "cs2",
+  "createdAt": "2026-09-22T14:23:43.113Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
