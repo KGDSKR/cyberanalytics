@@ -1,0 +1,21 @@
+{
+  "matchId": 1683188,
+  "game": "cs2",
+  "createdAt": "2026-09-22T07:29:36.953Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
