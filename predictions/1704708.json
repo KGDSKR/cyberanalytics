@@ -1,0 +1,21 @@
+{
+  "matchId": 1704708,
+  "game": "dota2",
+  "createdAt": "2026-09-22T10:22:09.425Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    },
+    {
+      "id": 136531,
+      "name": "Team Lynx"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
