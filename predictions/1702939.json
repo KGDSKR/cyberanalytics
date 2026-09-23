@@ -1,0 +1,21 @@
+{
+  "matchId": 1702939,
+  "game": "dota2",
+  "createdAt": "2026-09-23T17:51:17.637Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139006,
+      "name": "avice Team"
+    },
+    {
+      "id": 139284,
+      "name": "gpk Team"
+    }
+  ],
+  "probs": [
+    96,
+    4
+  ]
+}
