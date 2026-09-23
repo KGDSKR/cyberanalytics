@@ -1,0 +1,21 @@
+{
+  "matchId": 1700569,
+  "game": "cs2",
+  "createdAt": "2026-09-23T02:50:32.246Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 132366,
+      "name": "LAG Gaming"
+    },
+    {
+      "id": 132891,
+      "name": "Zomblers"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
