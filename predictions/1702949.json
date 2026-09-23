@@ -1,0 +1,21 @@
+{
+  "matchId": 1702949,
+  "game": "dota2",
+  "createdAt": "2026-09-23T23:11:12.708Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 136960,
+      "name": "YBN Team"
+    },
+    {
+      "id": 136967,
+      "name": "Rostik Team"
+    }
+  ],
+  "probs": [
+    8,
+    92
+  ]
+}
