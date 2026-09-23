@@ -1,0 +1,21 @@
+{
+  "matchId": 1700625,
+  "game": "cs2",
+  "createdAt": "2026-09-23T23:20:38.956Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 125863,
+      "name": "Isurus"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
