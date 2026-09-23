@@ -1,0 +1,21 @@
+{
+  "matchId": 1700573,
+  "game": "cs2",
+  "createdAt": "2026-09-23T02:10:44.892Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138623,
+      "name": "FRZ Unit"
+    },
+    {
+      "id": 138652,
+      "name": "Overtake Sector"
+    }
+  ],
+  "probs": [
+    14,
+    86
+  ]
+}
