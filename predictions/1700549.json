@@ -1,0 +1,21 @@
+{
+  "matchId": 1700549,
+  "game": "cs2",
+  "createdAt": "2026-09-23T19:10:53.281Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139041,
+      "name": "Ryvex"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
