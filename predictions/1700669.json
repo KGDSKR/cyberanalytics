@@ -1,0 +1,21 @@
+{
+  "matchId": 1700669,
+  "game": "cs2",
+  "createdAt": "2026-09-23T15:31:12.984Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 134069,
+      "name": "The QUBE Esports"
+    },
+    {
+      "id": 139281,
+      "name": "bLight blue"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
