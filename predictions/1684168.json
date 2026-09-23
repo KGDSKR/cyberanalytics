@@ -1,0 +1,21 @@
+{
+  "matchId": 1684168,
+  "game": "cs2",
+  "createdAt": "2026-09-23T07:15:11.157Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
