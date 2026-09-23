@@ -1,0 +1,21 @@
+{
+  "matchId": 1694738,
+  "game": "dota2",
+  "createdAt": "2026-09-23T06:09:33.990Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134536,
+      "name": "1win"
+    },
+    {
+      "id": 137354,
+      "name": " Pipsqueak+4"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
