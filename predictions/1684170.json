@@ -1,0 +1,21 @@
+{
+  "matchId": 1684170,
+  "game": "cs2",
+  "createdAt": "2026-09-23T16:01:49.430Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
