@@ -1,0 +1,21 @@
+{
+  "matchId": 1683293,
+  "game": "cs2",
+  "createdAt": "2026-09-23T07:18:32.643Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 137075,
+      "name": "Misa Esports"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
