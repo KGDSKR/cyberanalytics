@@ -1,0 +1,21 @@
+{
+  "matchId": 1700577,
+  "game": "cs2",
+  "createdAt": "2026-09-23T01:50:15.436Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133304,
+      "name": "FlyQuest RED"
+    },
+    {
+      "id": 136318,
+      "name": "Marsborne"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
