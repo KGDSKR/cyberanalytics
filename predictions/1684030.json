@@ -1,0 +1,21 @@
+{
+  "matchId": 1684030,
+  "game": "cs2",
+  "createdAt": "2026-09-24T15:23:07.943Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 135381,
+      "name": "Betclic Apogee Esports"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
