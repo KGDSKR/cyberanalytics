@@ -1,0 +1,21 @@
+{
+  "matchId": 1693636,
+  "game": "cs2",
+  "createdAt": "2026-09-24T18:11:19.304Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138302,
+      "name": "INFINITE Talent"
+    },
+    {
+      "id": 139266,
+      "name": "Optibet"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
