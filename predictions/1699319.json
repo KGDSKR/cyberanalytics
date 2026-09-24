@@ -1,0 +1,21 @@
+{
+  "matchId": 1699319,
+  "game": "cs2",
+  "createdAt": "2026-09-24T07:14:17.799Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128258,
+      "name": "Entropy"
+    },
+    {
+      "id": 135978,
+      "name": "eternal premium"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
