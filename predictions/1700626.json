@@ -1,0 +1,21 @@
+{
+  "matchId": 1700626,
+  "game": "cs2",
+  "createdAt": "2026-09-24T00:39:23.006Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139113,
+      "name": "Semente do Mal"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
