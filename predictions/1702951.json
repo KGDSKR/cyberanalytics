@@ -1,0 +1,21 @@
+{
+  "matchId": 1702951,
+  "game": "dota2",
+  "createdAt": "2026-09-24T20:20:13.622Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 136963,
+      "name": "Travoman Team"
+    },
+    {
+      "id": 136962,
+      "name": "Stray Team"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
