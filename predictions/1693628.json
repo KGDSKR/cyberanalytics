@@ -1,0 +1,21 @@
+{
+  "matchId": 1693628,
+  "game": "cs2",
+  "createdAt": "2026-09-24T11:34:23.406Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138676,
+      "name": "A Great Chaos"
+    },
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
