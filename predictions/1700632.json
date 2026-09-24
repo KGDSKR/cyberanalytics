@@ -1,0 +1,21 @@
+{
+  "matchId": 1700632,
+  "game": "cs2",
+  "createdAt": "2026-09-24T22:00:49.271Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139098,
+      "name": "Low Cortisol"
+    },
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
