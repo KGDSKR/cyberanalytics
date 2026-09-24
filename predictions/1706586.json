@@ -1,0 +1,21 @@
+{
+  "matchId": 1706586,
+  "game": "cs2",
+  "createdAt": "2026-09-24T22:00:10.342Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 131848,
+      "name": "largadosypelados"
+    },
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
