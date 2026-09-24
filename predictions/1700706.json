@@ -1,0 +1,21 @@
+{
+  "matchId": 1700706,
+  "game": "dota2",
+  "createdAt": "2026-09-24T06:09:40.650Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128329,
+      "name": "Xtreme Gaming"
+    },
+    {
+      "id": 136650,
+      "name": "Team Nemesis"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
