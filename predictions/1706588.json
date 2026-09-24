@@ -1,0 +1,21 @@
+{
+  "matchId": 1706588,
+  "game": "cs2",
+  "createdAt": "2026-09-24T07:12:48.116Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139016,
+      "name": "Nordic Partners Gaming "
+    },
+    {
+      "id": 139065,
+      "name": "REVENIX"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
