@@ -1,0 +1,21 @@
+{
+  "matchId": 1700673,
+  "game": "cs2",
+  "createdAt": "2026-09-24T14:51:07.612Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138702,
+      "name": "Vitalem Aerem"
+    },
+    {
+      "id": 139281,
+      "name": "bLight blue"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
