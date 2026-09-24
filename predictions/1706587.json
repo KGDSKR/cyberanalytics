@@ -1,0 +1,21 @@
+{
+  "matchId": 1706587,
+  "game": "cs2",
+  "createdAt": "2026-09-24T07:13:31.296Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    },
+    {
+      "id": 137271,
+      "name": "FC Famalicão Esports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
