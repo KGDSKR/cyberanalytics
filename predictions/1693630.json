@@ -1,0 +1,21 @@
+{
+  "matchId": 1693630,
+  "game": "cs2",
+  "createdAt": "2026-09-24T16:52:17.628Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138676,
+      "name": "A Great Chaos"
+    },
+    {
+      "id": 134320,
+      "name": "aimclub"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
