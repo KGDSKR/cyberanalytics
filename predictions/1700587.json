@@ -1,0 +1,21 @@
+{
+  "matchId": 1700587,
+  "game": "cs2",
+  "createdAt": "2026-09-24T00:51:51.965Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139134,
+      "name": "New Legends"
+    },
+    {
+      "id": 138623,
+      "name": "FRZ Unit"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
