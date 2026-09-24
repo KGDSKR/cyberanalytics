@@ -1,0 +1,21 @@
+{
+  "matchId": 1700631,
+  "game": "cs2",
+  "createdAt": "2026-09-24T22:22:01.116Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3225,
+      "name": "Keyd"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
