@@ -1,0 +1,21 @@
+{
+  "matchId": 1700707,
+  "game": "dota2",
+  "createdAt": "2026-09-24T10:30:49.263Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 1699,
+      "name": "Natus Vincere"
+    },
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
