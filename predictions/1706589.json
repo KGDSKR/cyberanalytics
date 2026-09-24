@@ -1,0 +1,21 @@
+{
+  "matchId": 1706589,
+  "game": "cs2",
+  "createdAt": "2026-09-24T11:00:59.219Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137992,
+      "name": "Fluxo W7M"
+    },
+    {
+      "id": 139016,
+      "name": "Nordic Partners Gaming "
+    }
+  ],
+  "probs": [
+    86,
+    14
+  ]
+}
