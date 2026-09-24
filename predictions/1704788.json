@@ -1,0 +1,21 @@
+{
+  "matchId": 1704788,
+  "game": "cs2",
+  "createdAt": "2026-09-24T20:19:26.688Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 133891,
+      "name": "PARTIZAN"
+    },
+    {
+      "id": 139289,
+      "name": "Fever Squad"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
