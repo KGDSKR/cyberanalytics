@@ -1,0 +1,21 @@
+{
+  "matchId": 1700629,
+  "game": "cs2",
+  "createdAt": "2026-09-24T21:11:32.500Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133326,
+      "name": "Bounty Hunters Esports"
+    },
+    {
+      "id": 131538,
+      "name": "Yawara Esports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
