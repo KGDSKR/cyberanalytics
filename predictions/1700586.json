@@ -1,0 +1,21 @@
+{
+  "matchId": 1700586,
+  "game": "cs2",
+  "createdAt": "2026-09-24T00:53:44.522Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132891,
+      "name": "Zomblers"
+    },
+    {
+      "id": 138415,
+      "name": "Club 333"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
