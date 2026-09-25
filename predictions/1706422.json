@@ -1,0 +1,21 @@
+{
+  "matchId": 1706422,
+  "game": "cs2",
+  "createdAt": "2026-09-25T15:30:35.427Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    },
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
