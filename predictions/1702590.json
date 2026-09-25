@@ -1,0 +1,21 @@
+{
+  "matchId": 1702590,
+  "game": "cs2",
+  "createdAt": "2026-09-25T15:00:26.770Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    },
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
