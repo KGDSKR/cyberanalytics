@@ -1,0 +1,21 @@
+{
+  "matchId": 1700622,
+  "game": "cs2",
+  "createdAt": "2026-09-25T22:00:05.387Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    },
+    {
+      "id": 138620,
+      "name": "Turma do Pagode"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
