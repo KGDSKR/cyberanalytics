@@ -1,0 +1,21 @@
+{
+  "matchId": 1710203,
+  "game": "dota2",
+  "createdAt": "2026-09-25T15:32:12.981Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:2",
+  "teams": [
+    {
+      "id": 139124,
+      "name": "Team Synapse"
+    },
+    {
+      "id": 1931,
+      "name": "Yellow Submarine"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
