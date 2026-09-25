@@ -1,0 +1,21 @@
+{
+  "matchId": 1686133,
+  "game": "cs2",
+  "createdAt": "2026-09-25T19:50:51.379Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137739,
+      "name": "magic"
+    },
+    {
+      "id": 131189,
+      "name": "EYEBALLERS"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
