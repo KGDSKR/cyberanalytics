@@ -1,0 +1,21 @@
+{
+  "matchId": 1700593,
+  "game": "cs2",
+  "createdAt": "2026-09-25T00:09:50.615Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129547,
+      "name": "Detonate"
+    },
+    {
+      "id": 134333,
+      "name": "Wanted Goons"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
