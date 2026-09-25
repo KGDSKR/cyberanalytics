@@ -1,0 +1,21 @@
+{
+  "matchId": 1699322,
+  "game": "cs2",
+  "createdAt": "2026-09-25T07:19:49.197Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128258,
+      "name": "Entropy"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
