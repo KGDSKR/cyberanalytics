@@ -1,0 +1,21 @@
+{
+  "matchId": 1699327,
+  "game": "cs2",
+  "createdAt": "2026-09-25T19:00:31.576Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
