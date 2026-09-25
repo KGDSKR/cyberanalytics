@@ -1,0 +1,21 @@
+{
+  "matchId": 1706568,
+  "game": "cs2",
+  "createdAt": "2026-09-25T07:15:26.886Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    },
+    {
+      "id": 138894,
+      "name": "FaZe Up Next"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
