@@ -1,0 +1,21 @@
+{
+  "matchId": 1704618,
+  "game": "cs2",
+  "createdAt": "2026-09-25T10:31:04.034Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138092,
+      "name": "Abyssal"
+    },
+    {
+      "id": 133333,
+      "name": "Arcade Esports"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
