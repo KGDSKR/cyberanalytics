@@ -1,0 +1,21 @@
+{
+  "matchId": 1706566,
+  "game": "cs2",
+  "createdAt": "2026-09-25T21:10:02.269Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139200,
+      "name": "Nice Try"
+    },
+    {
+      "id": 127976,
+      "name": "Infinite"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
