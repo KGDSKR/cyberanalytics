@@ -1,0 +1,21 @@
+{
+  "matchId": 1700590,
+  "game": "cs2",
+  "createdAt": "2026-09-25T00:22:26.745Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    },
+    {
+      "id": 138415,
+      "name": "Club 333"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
