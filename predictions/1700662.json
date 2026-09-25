@@ -1,0 +1,21 @@
+{
+  "matchId": 1700662,
+  "game": "cs2",
+  "createdAt": "2026-09-25T14:50:48.943Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 126439,
+      "name": "Lynn Vision"
+    },
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    }
+  ],
+  "probs": [
+    92,
+    8
+  ]
+}
