@@ -1,0 +1,21 @@
+{
+  "matchId": 1699313,
+  "game": "cs2",
+  "createdAt": "2026-09-26T07:15:17.519Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    },
+    {
+      "id": 138848,
+      "name": "Mai Tai"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
