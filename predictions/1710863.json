@@ -1,0 +1,21 @@
+{
+  "matchId": 1710863,
+  "game": "cs2",
+  "createdAt": "2026-09-26T15:51:10.043Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    },
+    {
+      "id": 137271,
+      "name": "FC Famalicão Esports"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
