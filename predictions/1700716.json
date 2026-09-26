@@ -1,0 +1,21 @@
+{
+  "matchId": 1700716,
+  "game": "dota2",
+  "createdAt": "2026-09-26T11:11:33.387Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 133882,
+      "name": "Aurora"
+    },
+    {
+      "id": 1699,
+      "name": "Natus Vincere"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
