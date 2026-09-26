@@ -1,0 +1,21 @@
+{
+  "matchId": 1700594,
+  "game": "cs2",
+  "createdAt": "2026-09-26T02:20:04.714Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    },
+    {
+      "id": 138044,
+      "name": "FarmVille"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
