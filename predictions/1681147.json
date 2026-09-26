@@ -1,0 +1,21 @@
+{
+  "matchId": 1681147,
+  "game": "cs2",
+  "createdAt": "2026-09-26T07:50:27.125Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3251,
+      "name": "ENCE"
+    },
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
