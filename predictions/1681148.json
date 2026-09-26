@@ -1,0 +1,21 @@
+{
+  "matchId": 1681148,
+  "game": "cs2",
+  "createdAt": "2026-09-26T19:20:47.230Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
