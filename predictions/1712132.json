@@ -1,0 +1,21 @@
+{
+  "matchId": 1712132,
+  "game": "cs2",
+  "createdAt": "2026-09-26T07:14:21.229Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    },
+    {
+      "id": 139314,
+      "name": "TheChampionGG"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
