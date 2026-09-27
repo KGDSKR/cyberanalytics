@@ -1,0 +1,21 @@
+{
+  "matchId": 1712142,
+  "game": "cs2",
+  "createdAt": "2026-09-27T07:05:34.847Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138117,
+      "name": "CTRL Esports"
+    },
+    {
+      "id": 135436,
+      "name": "Revenge"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
