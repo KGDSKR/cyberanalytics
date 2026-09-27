@@ -1,0 +1,21 @@
+{
+  "matchId": 1710855,
+  "game": "cs2",
+  "createdAt": "2026-09-27T19:54:27.035Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    },
+    {
+      "id": 139298,
+      "name": "overTIME"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
