@@ -1,0 +1,21 @@
+{
+  "matchId": 1684182,
+  "game": "cs2",
+  "createdAt": "2026-09-27T07:07:53.790Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    },
+    {
+      "id": 136319,
+      "name": "Iberian Soul"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
