@@ -1,0 +1,21 @@
+{
+  "matchId": 1711992,
+  "game": "dota2",
+  "createdAt": "2026-09-27T02:25:35.119Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137529,
+      "name": "Cloud Dawning"
+    },
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
