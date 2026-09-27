@@ -1,0 +1,21 @@
+{
+  "matchId": 1704622,
+  "game": "cs2",
+  "createdAt": "2026-09-27T08:23:50.689Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127114,
+      "name": "Rooster"
+    },
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
