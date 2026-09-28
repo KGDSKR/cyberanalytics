@@ -1,0 +1,21 @@
+{
+  "matchId": 1683303,
+  "game": "cs2",
+  "createdAt": "2026-09-28T07:07:26.823Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136934,
+      "name": "Bushido Wildcats"
+    },
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
