@@ -1,0 +1,21 @@
+{
+  "matchId": 1684183,
+  "game": "cs2",
+  "createdAt": "2026-09-28T07:06:33.238Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 137708,
+      "name": "BET-M 33"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
