@@ -1,0 +1,21 @@
+{
+  "matchId": 1711996,
+  "game": "dota2",
+  "createdAt": "2026-09-28T05:23:55.644Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128080,
+      "name": "Yangon Galacticos"
+    },
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
