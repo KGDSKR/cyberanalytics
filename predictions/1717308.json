@@ -1,0 +1,21 @@
+{
+  "matchId": 1717308,
+  "game": "cs2",
+  "createdAt": "2026-09-28T20:55:43.652Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
