@@ -1,0 +1,21 @@
+{
+  "matchId": 1700472,
+  "game": "cs2",
+  "createdAt": "2026-09-28T07:05:39.150Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    },
+    {
+      "id": 138181,
+      "name": "Esport BERG"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
