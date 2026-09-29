@@ -1,0 +1,21 @@
+{
+  "matchId": 1712933,
+  "game": "cs2",
+  "createdAt": "2026-09-29T07:04:43.249Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139135,
+      "name": "UPGRADE"
+    },
+    {
+      "id": 139316,
+      "name": "REFRESHER"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
