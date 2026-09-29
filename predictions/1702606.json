@@ -1,0 +1,21 @@
+{
+  "matchId": 1702606,
+  "game": "cs2",
+  "createdAt": "2026-09-29T19:53:35.198Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    },
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
