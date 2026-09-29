@@ -1,0 +1,21 @@
+{
+  "matchId": 1700599,
+  "game": "cs2",
+  "createdAt": "2026-09-29T02:04:04.453Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 133997,
+      "name": "regain"
+    },
+    {
+      "id": 136318,
+      "name": "Marsborne"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
