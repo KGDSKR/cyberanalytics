@@ -1,0 +1,21 @@
+{
+  "matchId": 1700477,
+  "game": "cs2",
+  "createdAt": "2026-09-29T14:33:37.767Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 127911,
+      "name": "MASONIC"
+    },
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
