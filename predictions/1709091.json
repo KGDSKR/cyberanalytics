@@ -1,0 +1,21 @@
+{
+  "matchId": 1709091,
+  "game": "dota2",
+  "createdAt": "2026-09-29T19:13:16.256Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 1647,
+      "name": "Team Liquid"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
