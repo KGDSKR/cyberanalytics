@@ -1,0 +1,21 @@
+{
+  "matchId": 1689903,
+  "game": "cs2",
+  "createdAt": "2026-09-29T20:35:15.385Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127365,
+      "name": "Sangal"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
