@@ -1,0 +1,21 @@
+{
+  "matchId": 1712932,
+  "game": "cs2",
+  "createdAt": "2026-09-29T07:03:34.356Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
