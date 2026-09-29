@@ -1,0 +1,21 @@
+{
+  "matchId": 1711999,
+  "game": "dota2",
+  "createdAt": "2026-09-29T07:10:44.790Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 128080,
+      "name": "Yangon Galacticos"
+    },
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
