@@ -1,0 +1,21 @@
+{
+  "matchId": 1689887,
+  "game": "cs2",
+  "createdAt": "2026-09-29T15:34:58.943Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
