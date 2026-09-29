@@ -1,0 +1,21 @@
+{
+  "matchId": 1716594,
+  "game": "cs2",
+  "createdAt": "2026-09-29T15:17:15.947Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
