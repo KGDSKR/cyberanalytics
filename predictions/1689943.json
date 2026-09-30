@@ -1,0 +1,21 @@
+{
+  "matchId": 1689943,
+  "game": "cs2",
+  "createdAt": "2026-09-30T10:34:22.454Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127365,
+      "name": "Sangal"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
