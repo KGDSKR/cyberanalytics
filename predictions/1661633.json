@@ -1,0 +1,21 @@
+{
+  "matchId": 1661633,
+  "game": "cs2",
+  "createdAt": "2026-09-30T17:43:24.963Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 132551,
+      "name": "Reveal"
+    },
+    {
+      "id": 138179,
+      "name": "Huskies eSport"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
