@@ -1,0 +1,21 @@
+{
+  "matchId": 1712943,
+  "game": "cs2",
+  "createdAt": "2026-09-30T07:04:33.776Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139320,
+      "name": "PRIVATE"
+    },
+    {
+      "id": 139319,
+      "name": "EVO Elite"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
