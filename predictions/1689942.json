@@ -1,0 +1,21 @@
+{
+  "matchId": 1689942,
+  "game": "cs2",
+  "createdAt": "2026-09-30T10:34:55.708Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
