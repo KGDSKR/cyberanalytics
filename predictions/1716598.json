@@ -1,0 +1,21 @@
+{
+  "matchId": 1716598,
+  "game": "cs2",
+  "createdAt": "2026-09-30T15:23:36.390Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 128629,
+      "name": "megoshort"
+    },
+    {
+      "id": 135978,
+      "name": "eternal premium"
+    }
+  ],
+  "probs": [
+    27,
+    73
+  ]
+}
