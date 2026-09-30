@@ -1,0 +1,21 @@
+{
+  "matchId": 1692891,
+  "game": "cs2",
+  "createdAt": "2026-09-30T22:35:10.077Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    },
+    {
+      "id": 139099,
+      "name": "underw0rld"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
