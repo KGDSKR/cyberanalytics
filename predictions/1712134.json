@@ -1,0 +1,21 @@
+{
+  "matchId": 1712134,
+  "game": "cs2",
+  "createdAt": "2026-09-30T07:08:02.547Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    },
+    {
+      "id": 135026,
+      "name": "ENCE Prospects"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
