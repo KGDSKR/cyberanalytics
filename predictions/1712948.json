@@ -1,0 +1,21 @@
+{
+  "matchId": 1712948,
+  "game": "cs2",
+  "createdAt": "2026-09-30T15:34:57.776Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    },
+    {
+      "id": 139328,
+      "name": "CRUISER AURORA"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
