@@ -1,0 +1,21 @@
+{
+  "matchId": 1709087,
+  "game": "dota2",
+  "createdAt": "2026-09-30T13:14:09.171Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 130768,
+      "name": "BetBoom Team"
+    },
+    {
+      "id": 1654,
+      "name": "OG"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
