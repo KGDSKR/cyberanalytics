@@ -1,0 +1,21 @@
+{
+  "matchId": 1712949,
+  "game": "cs2",
+  "createdAt": "2026-09-30T18:44:54.789Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133542,
+      "name": "CYBERSHOKE Esports"
+    },
+    {
+      "id": 135298,
+      "name": "K27"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
