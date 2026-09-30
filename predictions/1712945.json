@@ -1,0 +1,21 @@
+{
+  "matchId": 1712945,
+  "game": "cs2",
+  "createdAt": "2026-09-30T07:34:10.087Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139319,
+      "name": "EVO Elite"
+    },
+    {
+      "id": 139321,
+      "name": "Team Magnum"
+    }
+  ],
+  "probs": [
+    51,
+    49
+  ]
+}
