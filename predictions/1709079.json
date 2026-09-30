@@ -1,0 +1,21 @@
+{
+  "matchId": 1709079,
+  "game": "dota2",
+  "createdAt": "2026-09-30T15:14:40.108Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136650,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 1699,
+      "name": "Natus Vincere"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
