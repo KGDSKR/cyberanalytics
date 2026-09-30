@@ -1,0 +1,21 @@
+{
+  "matchId": 1683306,
+  "game": "cs2",
+  "createdAt": "2026-09-30T07:10:29.430Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 138400,
+      "name": "mellren"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
