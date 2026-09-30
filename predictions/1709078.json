@@ -1,0 +1,21 @@
+{
+  "matchId": 1709078,
+  "game": "dota2",
+  "createdAt": "2026-09-30T13:17:46.378Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 1669,
+      "name": "Team Spirit"
+    },
+    {
+      "id": 134536,
+      "name": "1win"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
