@@ -1,0 +1,21 @@
+{
+  "matchId": 1709089,
+  "game": "dota2",
+  "createdAt": "2026-10-01T14:33:59.571Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 134559,
+      "name": "MOUZ"
+    },
+    {
+      "id": 1654,
+      "name": "OG"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
