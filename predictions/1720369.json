@@ -1,0 +1,21 @@
+{
+  "matchId": 1720369,
+  "game": "cs2",
+  "createdAt": "2026-10-01T07:05:33.554Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134320,
+      "name": "aimclub"
+    },
+    {
+      "id": 131984,
+      "name": "ABT Esports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
