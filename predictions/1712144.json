@@ -1,0 +1,21 @@
+{
+  "matchId": 1712144,
+  "game": "cs2",
+  "createdAt": "2026-10-01T07:06:28.917Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138117,
+      "name": "CTRL Esports"
+    },
+    {
+      "id": 138110,
+      "name": "THE UNIT"
+    }
+  ],
+  "probs": [
+    51,
+    49
+  ]
+}
