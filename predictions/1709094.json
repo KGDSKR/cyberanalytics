@@ -1,0 +1,21 @@
+{
+  "matchId": 1709094,
+  "game": "dota2",
+  "createdAt": "2026-10-01T16:16:01.526Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137588,
+      "name": "GamerLegion"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
