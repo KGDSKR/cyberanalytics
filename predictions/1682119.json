@@ -1,0 +1,21 @@
+{
+  "matchId": 1682119,
+  "game": "cs2",
+  "createdAt": "2026-10-01T11:43:08.498Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 129381,
+      "name": "B8"
+    },
+    {
+      "id": 3228,
+      "name": "Luminosity"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
