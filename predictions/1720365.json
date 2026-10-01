@@ -1,0 +1,21 @@
+{
+  "matchId": 1720365,
+  "game": "cs2",
+  "createdAt": "2026-10-01T19:16:43.726Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137271,
+      "name": "FC Famalicão Esports"
+    },
+    {
+      "id": 137736,
+      "name": "Flame Hard"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
