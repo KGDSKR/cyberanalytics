@@ -1,0 +1,21 @@
+{
+  "matchId": 1702624,
+  "game": "cs2",
+  "createdAt": "2026-10-02T23:13:10.485Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 134355,
+      "name": "Galorys"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
