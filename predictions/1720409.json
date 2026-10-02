@@ -1,0 +1,21 @@
+{
+  "matchId": 1720409,
+  "game": "cs2",
+  "createdAt": "2026-10-02T18:03:32.688Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 135273,
+      "name": "Wildcard"
+    },
+    {
+      "id": 139200,
+      "name": "Nice Try"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
