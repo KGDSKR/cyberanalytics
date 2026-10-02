@@ -1,0 +1,21 @@
+{
+  "matchId": 1700488,
+  "game": "cs2",
+  "createdAt": "2026-10-02T07:05:59.414Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138181,
+      "name": "Esport BERG"
+    },
+    {
+      "id": 128629,
+      "name": "megoshort"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
