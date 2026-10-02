@@ -1,0 +1,21 @@
+{
+  "matchId": 1721167,
+  "game": "cs2",
+  "createdAt": "2026-10-02T15:54:49.661Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 139016,
+      "name": "Nordic Partners Gaming "
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
