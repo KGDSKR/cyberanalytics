@@ -1,0 +1,21 @@
+{
+  "matchId": 1712008,
+  "game": "dota2",
+  "createdAt": "2026-10-02T07:04:22.918Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 139148,
+      "name": "Team Kinetix"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
