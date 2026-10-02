@@ -1,0 +1,21 @@
+{
+  "matchId": 1712009,
+  "game": "dota2",
+  "createdAt": "2026-10-02T08:14:17.127Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137529,
+      "name": "Cloud Dawning"
+    },
+    {
+      "id": 135546,
+      "name": "Ivory"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
