@@ -1,0 +1,21 @@
+{
+  "matchId": 1720404,
+  "game": "cs2",
+  "createdAt": "2026-10-02T09:24:19.549Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138419,
+      "name": "PURE"
+    },
+    {
+      "id": 139200,
+      "name": "Nice Try"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
