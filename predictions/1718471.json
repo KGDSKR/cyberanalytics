@@ -1,0 +1,21 @@
+{
+  "matchId": 1718471,
+  "game": "cs2",
+  "createdAt": "2026-10-02T09:25:13.301Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139135,
+      "name": "UPGRADE"
+    },
+    {
+      "id": 135298,
+      "name": "K27"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
