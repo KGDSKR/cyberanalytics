@@ -1,0 +1,21 @@
+{
+  "matchId": 1700491,
+  "game": "cs2",
+  "createdAt": "2026-10-02T19:33:58.914Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    },
+    {
+      "id": 127911,
+      "name": "MASONIC"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
