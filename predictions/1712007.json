@@ -1,0 +1,21 @@
+{
+  "matchId": 1712007,
+  "game": "dota2",
+  "createdAt": "2026-10-02T02:33:12.654Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
