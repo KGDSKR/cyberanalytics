@@ -1,0 +1,21 @@
+{
+  "matchId": 1712178,
+  "game": "cs2",
+  "createdAt": "2026-10-03T15:14:16.615Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
