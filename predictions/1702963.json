@@ -1,0 +1,21 @@
+{
+  "matchId": 1702963,
+  "game": "dota2",
+  "createdAt": "2026-10-03T16:14:13.842Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139007,
+      "name": "Daxak Team"
+    },
+    {
+      "id": 139285,
+      "name": "Cake Team"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
