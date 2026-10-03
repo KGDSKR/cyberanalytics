@@ -1,0 +1,21 @@
+{
+  "matchId": 1712010,
+  "game": "dota2",
+  "createdAt": "2026-10-03T02:05:29.338Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137529,
+      "name": "Cloud Dawning"
+    },
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
