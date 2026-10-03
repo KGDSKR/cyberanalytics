@@ -1,0 +1,21 @@
+{
+  "matchId": 1702962,
+  "game": "dota2",
+  "createdAt": "2026-10-03T09:23:06.184Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136967,
+      "name": "Rostik Team"
+    },
+    {
+      "id": 139285,
+      "name": "Cake Team"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
