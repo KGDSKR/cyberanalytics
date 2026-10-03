@@ -1,0 +1,21 @@
+{
+  "matchId": 1711369,
+  "game": "cs2",
+  "createdAt": "2026-10-03T09:23:09.536Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 130564,
+      "name": "Team Falcons"
+    },
+    {
+      "id": 3248,
+      "name": "TYLOO"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
