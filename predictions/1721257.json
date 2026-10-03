@@ -1,0 +1,21 @@
+{
+  "matchId": 1721257,
+  "game": "cs2",
+  "createdAt": "2026-10-03T08:07:03.031Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127365,
+      "name": "Sangal"
+    },
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
