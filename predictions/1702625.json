@@ -1,0 +1,21 @@
+{
+  "matchId": 1702625,
+  "game": "cs2",
+  "createdAt": "2026-10-03T19:53:59.404Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 134355,
+      "name": "Galorys"
+    },
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
