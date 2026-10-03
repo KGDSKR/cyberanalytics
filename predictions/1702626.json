@@ -1,0 +1,21 @@
+{
+  "matchId": 1702626,
+  "game": "cs2",
+  "createdAt": "2026-10-03T22:33:23.613Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137341,
+      "name": "ex-Keyd Stars"
+    },
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
