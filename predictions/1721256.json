@@ -1,0 +1,21 @@
+{
+  "matchId": 1721256,
+  "game": "cs2",
+  "createdAt": "2026-10-03T08:07:51.568Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
