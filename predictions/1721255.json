@@ -1,0 +1,21 @@
+{
+  "matchId": 1721255,
+  "game": "cs2",
+  "createdAt": "2026-10-03T08:08:31.749Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    },
+    {
+      "id": 139180,
+      "name": "BBL"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
