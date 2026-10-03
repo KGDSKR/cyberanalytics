@@ -1,0 +1,21 @@
+{
+  "matchId": 1721254,
+  "game": "cs2",
+  "createdAt": "2026-10-03T08:09:11.661Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 3218,
+      "name": "NIP"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
