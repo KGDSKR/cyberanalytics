@@ -1,0 +1,21 @@
+{
+  "matchId": 1712180,
+  "game": "cs2",
+  "createdAt": "2026-10-04T16:13:07.989Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
