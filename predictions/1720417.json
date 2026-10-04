@@ -1,0 +1,21 @@
+{
+  "matchId": 1720417,
+  "game": "cs2",
+  "createdAt": "2026-10-04T09:10:29.485Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127976,
+      "name": "Infinite"
+    },
+    {
+      "id": 126738,
+      "name": "SAW"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
