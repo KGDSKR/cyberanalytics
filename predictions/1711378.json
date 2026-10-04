@@ -1,0 +1,21 @@
+{
+  "matchId": 1711378,
+  "game": "cs2",
+  "createdAt": "2026-10-04T08:04:18.812Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135468,
+      "name": "ShindeN"
+    },
+    {
+      "id": 133708,
+      "name": "Legacy"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
