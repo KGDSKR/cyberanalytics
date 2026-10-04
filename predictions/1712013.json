@@ -1,0 +1,21 @@
+{
+  "matchId": 1712013,
+  "game": "dota2",
+  "createdAt": "2026-10-04T05:03:10.066Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 135546,
+      "name": "Ivory"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
