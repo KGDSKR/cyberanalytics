@@ -1,0 +1,21 @@
+{
+  "matchId": 1712136,
+  "game": "cs2",
+  "createdAt": "2026-10-04T07:04:46.148Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139314,
+      "name": "TheChampionGG"
+    },
+    {
+      "id": 135026,
+      "name": "ENCE Prospects"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
