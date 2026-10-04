@@ -1,0 +1,21 @@
+{
+  "matchId": 1711377,
+  "game": "cs2",
+  "createdAt": "2026-10-04T08:04:55.480Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 124523,
+      "name": "Spirit"
+    },
+    {
+      "id": 133719,
+      "name": "PARIVISION"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
