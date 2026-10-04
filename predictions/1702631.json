@@ -1,0 +1,21 @@
+{
+  "matchId": 1702631,
+  "game": "cs2",
+  "createdAt": "2026-10-04T23:23:41.253Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 134355,
+      "name": "Galorys"
+    },
+    {
+      "id": 138620,
+      "name": "Turma do Pagode"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
