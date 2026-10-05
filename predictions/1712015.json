@@ -1,0 +1,21 @@
+{
+  "matchId": 1712015,
+  "game": "dota2",
+  "createdAt": "2026-10-05T02:53:52.508Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137547,
+      "name": "ЯЧЁ123"
+    },
+    {
+      "id": 139148,
+      "name": "Team Kinetix"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
