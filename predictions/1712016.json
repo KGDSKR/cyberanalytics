@@ -1,0 +1,21 @@
+{
+  "matchId": 1712016,
+  "game": "dota2",
+  "createdAt": "2026-10-05T05:04:03.977Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138753,
+      "name": "Direborn"
+    },
+    {
+      "id": 137529,
+      "name": "Cloud Dawning"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
