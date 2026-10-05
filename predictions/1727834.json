@@ -1,0 +1,21 @@
+{
+  "matchId": 1727834,
+  "game": "dota2",
+  "createdAt": "2026-10-05T07:07:15.482Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139124,
+      "name": "Team Synapse"
+    },
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
