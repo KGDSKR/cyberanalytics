@@ -1,0 +1,21 @@
+{
+  "matchId": 1728293,
+  "game": "cs2",
+  "createdAt": "2026-10-05T07:04:30.965Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137467,
+      "name": "Elite Klan"
+    },
+    {
+      "id": 138117,
+      "name": "CTRL Esports"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
