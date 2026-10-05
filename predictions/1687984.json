@@ -1,0 +1,21 @@
+{
+  "matchId": 1687984,
+  "game": "cs2",
+  "createdAt": "2026-10-05T15:55:27.798Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137861,
+      "name": "STATE"
+    },
+    {
+      "id": 129856,
+      "name": "ECSTATIC"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
