@@ -1,0 +1,21 @@
+{
+  "matchId": 1727841,
+  "game": "dota2",
+  "createdAt": "2026-10-06T07:07:45.086Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 139339,
+      "name": "CyberHero"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
