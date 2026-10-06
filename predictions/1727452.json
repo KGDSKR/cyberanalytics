@@ -1,0 +1,21 @@
+{
+  "matchId": 1727452,
+  "game": "cs2",
+  "createdAt": "2026-10-06T07:06:59.303Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138406,
+      "name": "Just Players"
+    },
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
