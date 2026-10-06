@@ -1,0 +1,21 @@
+{
+  "matchId": 1712018,
+  "game": "dota2",
+  "createdAt": "2026-10-06T07:03:17.833Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    },
+    {
+      "id": 138753,
+      "name": "Direborn"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
