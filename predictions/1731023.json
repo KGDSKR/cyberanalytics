@@ -1,0 +1,21 @@
+{
+  "matchId": 1731023,
+  "game": "cs2",
+  "createdAt": "2026-10-07T21:44:57.166Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138086,
+      "name": "METANOIA WOLVES"
+    },
+    {
+      "id": 131848,
+      "name": "largadosypelados"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
