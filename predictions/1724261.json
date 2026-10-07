@@ -1,0 +1,21 @@
+{
+  "matchId": 1724261,
+  "game": "cs2",
+  "createdAt": "2026-10-07T07:11:04.591Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    },
+    {
+      "id": 137707,
+      "name": "SINQU"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
