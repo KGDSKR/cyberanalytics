@@ -1,0 +1,21 @@
+{
+  "matchId": 1724265,
+  "game": "cs2",
+  "createdAt": "2026-10-07T10:16:40.676Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    },
+    {
+      "id": 137707,
+      "name": "SINQU"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
