@@ -1,0 +1,21 @@
+{
+  "matchId": 1712022,
+  "game": "dota2",
+  "createdAt": "2026-10-07T10:04:13.499Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 128080,
+      "name": "Yangon Galacticos"
+    },
+    {
+      "id": 138753,
+      "name": "Direborn"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
