@@ -1,0 +1,21 @@
+{
+  "matchId": 1731022,
+  "game": "cs2",
+  "createdAt": "2026-10-07T23:34:33.385Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138620,
+      "name": "Turma do Pagode"
+    },
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
