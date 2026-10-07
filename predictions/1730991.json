@@ -1,0 +1,21 @@
+{
+  "matchId": 1730991,
+  "game": "cs2",
+  "createdAt": "2026-10-07T07:06:02.979Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131591,
+      "name": "XI Esport"
+    },
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
