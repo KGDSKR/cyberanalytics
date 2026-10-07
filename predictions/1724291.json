@@ -1,0 +1,21 @@
+{
+  "matchId": 1724291,
+  "game": "cs2",
+  "createdAt": "2026-10-07T20:34:36.560Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126738,
+      "name": "SAW"
+    },
+    {
+      "id": 134251,
+      "name": "Rebels Gaming"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
