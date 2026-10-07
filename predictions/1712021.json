@@ -1,0 +1,21 @@
+{
+  "matchId": 1712021,
+  "game": "dota2",
+  "createdAt": "2026-10-07T02:13:09.918Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138753,
+      "name": "Direborn"
+    },
+    {
+      "id": 137547,
+      "name": "ЯЧЁ123"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
