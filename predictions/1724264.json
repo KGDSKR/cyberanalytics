@@ -1,0 +1,21 @@
+{
+  "matchId": 1724264,
+  "game": "cs2",
+  "createdAt": "2026-10-07T09:34:46.237Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 126584,
+      "name": "OG"
+    },
+    {
+      "id": 139069,
+      "name": "Orion Wanderers"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
