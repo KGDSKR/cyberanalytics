@@ -1,0 +1,21 @@
+{
+  "matchId": 1733013,
+  "game": "cs2",
+  "createdAt": "2026-10-07T07:05:17.374Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    },
+    {
+      "id": 127837,
+      "name": "los kogutos"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
