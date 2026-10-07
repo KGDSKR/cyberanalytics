@@ -1,0 +1,21 @@
+{
+  "matchId": 1727570,
+  "game": "cs2",
+  "createdAt": "2026-10-07T07:08:05.361Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139208,
+      "name": "Gothic"
+    },
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
