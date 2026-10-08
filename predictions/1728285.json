@@ -1,0 +1,21 @@
+{
+  "matchId": 1728285,
+  "game": "cs2",
+  "createdAt": "2026-10-08T07:05:22.101Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    },
+    {
+      "id": 138837,
+      "name": "SINQU Rehti"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
