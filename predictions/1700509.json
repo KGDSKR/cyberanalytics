@@ -1,0 +1,21 @@
+{
+  "matchId": 1700509,
+  "game": "cs2",
+  "createdAt": "2026-10-08T07:06:45.271Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137546,
+      "name": "Acend"
+    },
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
