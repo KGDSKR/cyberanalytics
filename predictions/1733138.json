@@ -1,0 +1,21 @@
+{
+  "matchId": 1733138,
+  "game": "cs2",
+  "createdAt": "2026-10-08T16:54:34.149Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
