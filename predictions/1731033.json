@@ -1,0 +1,21 @@
+{
+  "matchId": 1731033,
+  "game": "cs2",
+  "createdAt": "2026-10-08T21:53:52.325Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    },
+    {
+      "id": 135743,
+      "name": "BESTIA Academy"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
