@@ -1,0 +1,21 @@
+{
+  "matchId": 1709124,
+  "game": "dota2",
+  "createdAt": "2026-10-08T19:23:34.040Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135712,
+      "name": "PARIVISION"
+    },
+    {
+      "id": 137073,
+      "name": "Team Yandex"
+    }
+  ],
+  "probs": [
+    92,
+    8
+  ]
+}
