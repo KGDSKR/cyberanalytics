@@ -1,0 +1,21 @@
+{
+  "matchId": 1730996,
+  "game": "cs2",
+  "createdAt": "2026-10-08T07:04:38.452Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    },
+    {
+      "id": 138110,
+      "name": "THE UNIT"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
