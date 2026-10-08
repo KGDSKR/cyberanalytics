@@ -1,0 +1,21 @@
+{
+  "matchId": 1733015,
+  "game": "cs2",
+  "createdAt": "2026-10-08T07:03:59.284Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127837,
+      "name": "los kogutos"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
