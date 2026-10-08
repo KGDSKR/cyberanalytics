@@ -1,0 +1,21 @@
+{
+  "matchId": 1727600,
+  "game": "cs2",
+  "createdAt": "2026-10-08T07:06:02.868Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138370,
+      "name": "Lavked"
+    },
+    {
+      "id": 137953,
+      "name": "Fortress"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
