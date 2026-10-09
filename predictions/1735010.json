@@ -1,0 +1,21 @@
+{
+  "matchId": 1735010,
+  "game": "cs2",
+  "createdAt": "2026-10-09T23:54:57.158Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    },
+    {
+      "id": 133497,
+      "name": "KZG"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
