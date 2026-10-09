@@ -1,0 +1,21 @@
+{
+  "matchId": 1731128,
+  "game": "cs2",
+  "createdAt": "2026-10-09T15:53:29.842Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135214,
+      "name": "Alter Ego"
+    },
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
