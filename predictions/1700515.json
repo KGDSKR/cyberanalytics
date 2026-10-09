@@ -1,0 +1,21 @@
+{
+  "matchId": 1700515,
+  "game": "cs2",
+  "createdAt": "2026-10-09T07:06:30.235Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
