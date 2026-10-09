@@ -1,0 +1,21 @@
+{
+  "matchId": 1739503,
+  "game": "cs2",
+  "createdAt": "2026-10-09T22:54:59.476Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139204,
+      "name": "Celestial"
+    },
+    {
+      "id": 139375,
+      "name": "Midwest Maniacs"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
