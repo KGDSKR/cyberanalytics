@@ -1,0 +1,21 @@
+{
+  "matchId": 1727750,
+  "game": "cs2",
+  "createdAt": "2026-10-09T07:05:48.664Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    },
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
