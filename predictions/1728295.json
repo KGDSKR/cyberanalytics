@@ -1,0 +1,21 @@
+{
+  "matchId": 1728295,
+  "game": "cs2",
+  "createdAt": "2026-10-09T07:05:09.214Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137467,
+      "name": "Elite Klan"
+    },
+    {
+      "id": 139118,
+      "name": "Royal Foxes Esports"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
