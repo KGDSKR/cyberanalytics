@@ -1,0 +1,21 @@
+{
+  "matchId": 1731129,
+  "game": "cs2",
+  "createdAt": "2026-10-09T15:03:54.897Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 130329,
+      "name": "Rare Atom"
+    },
+    {
+      "id": 138702,
+      "name": "Vitalem Aerem"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
