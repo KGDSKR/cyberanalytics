@@ -1,0 +1,21 @@
+{
+  "matchId": 1709127,
+  "game": "dota2",
+  "createdAt": "2026-10-09T20:14:10.098Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    },
+    {
+      "id": 133882,
+      "name": "Aurora"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
