@@ -1,0 +1,21 @@
+{
+  "matchId": 1731084,
+  "game": "cs2",
+  "createdAt": "2026-10-09T00:25:41.501Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133997,
+      "name": "regain"
+    },
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
