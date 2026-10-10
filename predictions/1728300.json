@@ -1,0 +1,21 @@
+{
+  "matchId": 1728300,
+  "game": "cs2",
+  "createdAt": "2026-10-10T08:13:39.191Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137236,
+      "name": "3DMAX Academy"
+    },
+    {
+      "id": 139314,
+      "name": "TheChampionGG"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
