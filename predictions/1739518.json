@@ -1,0 +1,21 @@
+{
+  "matchId": 1739518,
+  "game": "cs2",
+  "createdAt": "2026-10-10T18:44:34.534Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 130438,
+      "name": "Last Dance"
+    },
+    {
+      "id": 139158,
+      "name": "Without a Roof"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
