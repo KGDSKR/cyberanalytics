@@ -1,0 +1,21 @@
+{
+  "matchId": 1739520,
+  "game": "cs2",
+  "createdAt": "2026-10-10T17:54:08.808Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137496,
+      "name": "SportsBetExpert"
+    },
+    {
+      "id": 139372,
+      "name": "Team Fathom Gaming"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
