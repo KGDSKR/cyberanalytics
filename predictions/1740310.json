@@ -1,0 +1,21 @@
+{
+  "matchId": 1740310,
+  "game": "dota2",
+  "createdAt": "2026-10-10T22:04:38.135Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139394,
+      "name": "Skyreavers"
+    },
+    {
+      "id": 137808,
+      "name": "Rottweilas Latam"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
