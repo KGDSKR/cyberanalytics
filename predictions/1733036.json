@@ -1,0 +1,21 @@
+{
+  "matchId": 1733036,
+  "game": "cs2",
+  "createdAt": "2026-10-10T17:13:50.196Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    },
+    {
+      "id": 139355,
+      "name": "antidaun"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
