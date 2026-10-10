@@ -1,0 +1,21 @@
+{
+  "matchId": 1700519,
+  "game": "cs2",
+  "createdAt": "2026-10-10T17:03:37.266Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 136319,
+      "name": "Iberian Soul"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
