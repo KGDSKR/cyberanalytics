@@ -1,0 +1,21 @@
+{
+  "matchId": 1735021,
+  "game": "cs2",
+  "createdAt": "2026-10-10T07:26:23.618Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    },
+    {
+      "id": 138092,
+      "name": "Abyssal"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
