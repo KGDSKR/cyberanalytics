@@ -1,0 +1,21 @@
+{
+  "matchId": 1731094,
+  "game": "cs2",
+  "createdAt": "2026-10-10T01:15:45.400Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133997,
+      "name": "regain"
+    },
+    {
+      "id": 129240,
+      "name": "Villainous"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
