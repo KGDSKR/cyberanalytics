@@ -1,0 +1,21 @@
+{
+  "matchId": 1735022,
+  "game": "cs2",
+  "createdAt": "2026-10-10T07:25:26.246Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126269,
+      "name": "madlikewizards"
+    },
+    {
+      "id": 131110,
+      "name": "Mindfreak"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
