@@ -1,0 +1,21 @@
+{
+  "matchId": 1731095,
+  "game": "cs2",
+  "createdAt": "2026-10-10T01:35:44.780Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139345,
+      "name": "Desi Boyz"
+    },
+    {
+      "id": 138421,
+      "name": "EMPIRE"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
