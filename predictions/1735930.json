@@ -1,0 +1,21 @@
+{
+  "matchId": 1735930,
+  "game": "cs2",
+  "createdAt": "2026-10-10T07:03:16.708Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138284,
+      "name": "5star"
+    },
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
