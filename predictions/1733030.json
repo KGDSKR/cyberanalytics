@@ -1,0 +1,21 @@
+{
+  "matchId": 1733030,
+  "game": "cs2",
+  "createdAt": "2026-10-10T07:08:56.196Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
