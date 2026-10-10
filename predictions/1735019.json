@@ -1,0 +1,21 @@
+{
+  "matchId": 1735019,
+  "game": "cs2",
+  "createdAt": "2026-10-10T05:13:37.052Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    },
+    {
+      "id": 126269,
+      "name": "madlikewizards"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
