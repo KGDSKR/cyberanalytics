@@ -1,0 +1,21 @@
+{
+  "matchId": 1731092,
+  "game": "cs2",
+  "createdAt": "2026-10-10T01:14:40.722Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129547,
+      "name": "Detonate"
+    },
+    {
+      "id": 138415,
+      "name": "Club 333"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
