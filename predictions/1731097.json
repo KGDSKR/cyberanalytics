@@ -1,0 +1,21 @@
+{
+  "matchId": 1731097,
+  "game": "cs2",
+  "createdAt": "2026-10-11T01:53:25.631Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138421,
+      "name": "EMPIRE"
+    },
+    {
+      "id": 133997,
+      "name": "regain"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
