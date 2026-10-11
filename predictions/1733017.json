@@ -1,0 +1,21 @@
+{
+  "matchId": 1733017,
+  "game": "cs2",
+  "createdAt": "2026-10-11T07:04:53.504Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
