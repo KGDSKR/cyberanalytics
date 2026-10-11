@@ -1,0 +1,21 @@
+{
+  "matchId": 1735933,
+  "game": "cs2",
+  "createdAt": "2026-10-11T07:03:24.628Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    },
+    {
+      "id": 134264,
+      "name": "Chinggis Warriors"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
