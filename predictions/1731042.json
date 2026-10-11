@@ -1,0 +1,21 @@
+{
+  "matchId": 1731042,
+  "game": "cs2",
+  "createdAt": "2026-10-11T20:44:01.764Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131538,
+      "name": "Yawara Esports"
+    },
+    {
+      "id": 134355,
+      "name": "Galorys"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
