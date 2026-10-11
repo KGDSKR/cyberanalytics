@@ -1,0 +1,21 @@
+{
+  "matchId": 1728297,
+  "game": "cs2",
+  "createdAt": "2026-10-11T07:06:20.373Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    },
+    {
+      "id": 137467,
+      "name": "Elite Klan"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
