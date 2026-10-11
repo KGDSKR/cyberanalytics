@@ -1,0 +1,21 @@
+{
+  "matchId": 1739536,
+  "game": "cs2",
+  "createdAt": "2026-10-11T23:53:19.759Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135273,
+      "name": "Wildcard"
+    },
+    {
+      "id": 138988,
+      "name": "DENDELE CS"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
