@@ -1,0 +1,21 @@
+{
+  "matchId": 1743549,
+  "game": "cs2",
+  "createdAt": "2026-10-12T15:25:11.640Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 134188,
+      "name": "Johnny Speeds"
+    },
+    {
+      "id": 139320,
+      "name": "PRIVATE"
+    }
+  ],
+  "probs": [
+    73,
+    27
+  ]
+}
