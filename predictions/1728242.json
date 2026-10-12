@@ -1,0 +1,21 @@
+{
+  "matchId": 1728242,
+  "game": "cs2",
+  "createdAt": "2026-10-12T07:17:23.941Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139336,
+      "name": "Bread Eaters Esports"
+    },
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
