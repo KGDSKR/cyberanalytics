@@ -1,0 +1,21 @@
+{
+  "matchId": 1744335,
+  "game": "dota2",
+  "createdAt": "2026-10-12T19:23:32.974Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139238,
+      "name": "Dawn Bulls"
+    },
+    {
+      "id": 139378,
+      "name": "The Warriors"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
