@@ -1,0 +1,21 @@
+{
+  "matchId": 1743558,
+  "game": "dota2",
+  "createdAt": "2026-10-12T15:04:43.047Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139389,
+      "name": "old blood"
+    },
+    {
+      "id": 139406,
+      "name": "White Sails"
+    }
+  ],
+  "probs": [
+    2,
+    98
+  ]
+}
