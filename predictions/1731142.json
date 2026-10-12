@@ -1,0 +1,21 @@
+{
+  "matchId": 1731142,
+  "game": "cs2",
+  "createdAt": "2026-10-12T15:13:28.072Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 127365,
+      "name": "Sangal"
+    },
+    {
+      "id": 135381,
+      "name": "Betclic Apogee Esports"
+    }
+  ],
+  "probs": [
+    92,
+    8
+  ]
+}
