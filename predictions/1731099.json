@@ -1,0 +1,21 @@
+{
+  "matchId": 1731099,
+  "game": "cs2",
+  "createdAt": "2026-10-12T00:45:28.822Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138652,
+      "name": "Overtake Sector"
+    },
+    {
+      "id": 133997,
+      "name": "regain"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
