@@ -1,0 +1,21 @@
+{
+  "matchId": 1742612,
+  "game": "dota2",
+  "createdAt": "2026-10-12T08:15:52.266Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135546,
+      "name": "Ivory"
+    },
+    {
+      "id": 139402,
+      "name": "Team Nemesis Academy"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
