@@ -1,0 +1,21 @@
+{
+  "matchId": 1733041,
+  "game": "cs2",
+  "createdAt": "2026-10-12T07:05:16.013Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
