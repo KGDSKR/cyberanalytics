@@ -1,0 +1,21 @@
+{
+  "matchId": 1742613,
+  "game": "dota2",
+  "createdAt": "2026-10-12T07:10:18.500Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139148,
+      "name": "Team Kinetix"
+    },
+    {
+      "id": 139368,
+      "name": "Thailand All Star"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
