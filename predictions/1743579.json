@@ -1,0 +1,21 @@
+{
+  "matchId": 1743579,
+  "game": "dota2",
+  "createdAt": "2026-10-12T07:03:52.700Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1931,
+      "name": "Yellow Submarine"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
