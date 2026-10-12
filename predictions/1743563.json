@@ -1,0 +1,21 @@
+{
+  "matchId": 1743563,
+  "game": "dota2",
+  "createdAt": "2026-10-12T15:23:25.404Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 136531,
+      "name": "Team Lynx"
+    },
+    {
+      "id": 139339,
+      "name": "CyberHero"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
