@@ -1,0 +1,21 @@
+{
+  "matchId": 1731098,
+  "game": "cs2",
+  "createdAt": "2026-10-12T00:53:59.228Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    },
+    {
+      "id": 129547,
+      "name": "Detonate"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
