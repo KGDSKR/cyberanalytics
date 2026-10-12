@@ -1,0 +1,21 @@
+{
+  "matchId": 1742193,
+  "game": "dota2",
+  "createdAt": "2026-10-12T07:03:11.554Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139364,
+      "name": "Su4 Esport"
+    },
+    {
+      "id": 139365,
+      "name": "Cresent"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
