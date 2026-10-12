@@ -1,0 +1,21 @@
+{
+  "matchId": 1731141,
+  "game": "cs2",
+  "createdAt": "2026-10-12T14:45:00.173Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 136497,
+      "name": "Inner Circle Esports"
+    },
+    {
+      "id": 3218,
+      "name": "NIP"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
