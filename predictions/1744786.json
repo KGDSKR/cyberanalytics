@@ -1,0 +1,21 @@
+{
+  "matchId": 1744786,
+  "game": "cs2",
+  "createdAt": "2026-10-13T07:04:38.903Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134261,
+      "name": "Copenhagen Wolves"
+    },
+    {
+      "id": 139344,
+      "name": "VP.Future 3"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
