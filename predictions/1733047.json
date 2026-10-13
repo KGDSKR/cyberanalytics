@@ -1,0 +1,21 @@
+{
+  "matchId": 1733047,
+  "game": "cs2",
+  "createdAt": "2026-10-13T07:05:16.829Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
