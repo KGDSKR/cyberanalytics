@@ -1,0 +1,21 @@
+{
+  "matchId": 1731150,
+  "game": "cs2",
+  "createdAt": "2026-10-13T17:53:56.725Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 3213,
+      "name": "Liquid"
+    },
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    }
+  ],
+  "probs": [
+    85,
+    15
+  ]
+}
