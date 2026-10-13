@@ -1,0 +1,21 @@
+{
+  "matchId": 1731088,
+  "game": "cs2",
+  "createdAt": "2026-10-13T00:34:10.209Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136064,
+      "name": "Chicken Coop Esports"
+    },
+    {
+      "id": 132891,
+      "name": "Zomblers"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
