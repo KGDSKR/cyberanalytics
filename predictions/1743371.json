@@ -1,0 +1,21 @@
+{
+  "matchId": 1743371,
+  "game": "dota2",
+  "createdAt": "2026-10-13T14:14:23.021Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139339,
+      "name": "CyberHero"
+    },
+    {
+      "id": 139380,
+      "name": "Shadow Dance"
+    }
+  ],
+  "probs": [
+    98,
+    2
+  ]
+}
