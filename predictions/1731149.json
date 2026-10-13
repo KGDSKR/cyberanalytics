@@ -1,0 +1,21 @@
+{
+  "matchId": 1731149,
+  "game": "cs2",
+  "createdAt": "2026-10-13T14:35:48.836Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 139180,
+      "name": "BBL"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
