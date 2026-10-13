@@ -1,0 +1,21 @@
+{
+  "matchId": 1743372,
+  "game": "dota2",
+  "createdAt": "2026-10-13T17:29:16.517Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 1931,
+      "name": "Yellow Submarine"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
