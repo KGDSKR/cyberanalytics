@@ -1,0 +1,21 @@
+{
+  "matchId": 1743395,
+  "game": "dota2",
+  "createdAt": "2026-10-14T23:04:29.382Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133237,
+      "name": "Chandogs"
+    },
+    {
+      "id": 127965,
+      "name": "Hokori"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
