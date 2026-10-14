@@ -1,0 +1,21 @@
+{
+  "matchId": 1748430,
+  "game": "dota2",
+  "createdAt": "2026-10-14T16:04:46.949Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139425,
+      "name": "zxcursed Team"
+    },
+    {
+      "id": 138690,
+      "name": "Nix Team"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
