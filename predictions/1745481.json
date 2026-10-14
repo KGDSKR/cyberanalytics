@@ -1,0 +1,21 @@
+{
+  "matchId": 1745481,
+  "game": "dota2",
+  "createdAt": "2026-10-14T07:06:34.204Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137428,
+      "name": "Cloud Rising"
+    },
+    {
+      "id": 139363,
+      "name": "Zenith"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
