@@ -1,0 +1,21 @@
+{
+  "matchId": 1727854,
+  "game": "cs2",
+  "createdAt": "2026-10-14T07:05:56.530Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 138811,
+      "name": "6666"
+    }
+  ],
+  "probs": [
+    16,
+    84
+  ]
+}
