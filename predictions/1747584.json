@@ -1,0 +1,21 @@
+{
+  "matchId": 1747584,
+  "game": "cs2",
+  "createdAt": "2026-10-14T21:15:47.463Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    },
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
