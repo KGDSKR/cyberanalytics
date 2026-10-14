@@ -1,0 +1,21 @@
+{
+  "matchId": 1733051,
+  "game": "cs2",
+  "createdAt": "2026-10-14T07:05:18.525Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139208,
+      "name": "Gothic"
+    },
+    {
+      "id": 138370,
+      "name": "Lavked"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
