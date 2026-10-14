@@ -1,0 +1,21 @@
+{
+  "matchId": 1747595,
+  "game": "cs2",
+  "createdAt": "2026-10-14T21:04:28.350Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
