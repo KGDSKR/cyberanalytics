@@ -1,0 +1,21 @@
+{
+  "matchId": 1745477,
+  "game": "dota2",
+  "createdAt": "2026-10-14T14:13:56.676Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138494,
+      "name": "Team Resilience"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    97,
+    3
+  ]
+}
