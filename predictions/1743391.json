@@ -1,0 +1,21 @@
+{
+  "matchId": 1743391,
+  "game": "dota2",
+  "createdAt": "2026-10-14T00:36:29.596Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139268,
+      "name": "Pibbles Corp"
+    },
+    {
+      "id": 137885,
+      "name": "PlayTime"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
