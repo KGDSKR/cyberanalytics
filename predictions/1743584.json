@@ -1,0 +1,21 @@
+{
+  "matchId": 1743584,
+  "game": "dota2",
+  "createdAt": "2026-10-14T21:33:30.606Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139238,
+      "name": "Dawn Bulls"
+    },
+    {
+      "id": 139407,
+      "name": "salamit"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
