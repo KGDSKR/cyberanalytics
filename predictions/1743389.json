@@ -1,0 +1,21 @@
+{
+  "matchId": 1743389,
+  "game": "dota2",
+  "createdAt": "2026-10-14T00:35:27.159Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137685,
+      "name": "Amaru Gaming"
+    },
+    {
+      "id": 137808,
+      "name": "Rottweilas Latam"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
