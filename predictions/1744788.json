@@ -1,0 +1,21 @@
+{
+  "matchId": 1744788,
+  "game": "cs2",
+  "createdAt": "2026-10-14T07:04:41.632Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138117,
+      "name": "CTRL Esports"
+    },
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
