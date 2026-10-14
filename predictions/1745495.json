@@ -1,0 +1,21 @@
+{
+  "matchId": 1745495,
+  "game": "cs2",
+  "createdAt": "2026-10-14T07:04:01.982Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    },
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
