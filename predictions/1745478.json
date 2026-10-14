@@ -1,0 +1,21 @@
+{
+  "matchId": 1745478,
+  "game": "dota2",
+  "createdAt": "2026-10-14T03:33:48.517Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139412,
+      "name": "Imperial Power"
+    },
+    {
+      "id": 137529,
+      "name": "Cloud Dawning"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
