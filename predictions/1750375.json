@@ -1,0 +1,21 @@
+{
+  "matchId": 1750375,
+  "game": "cs2",
+  "createdAt": "2026-10-15T23:54:34.816Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139417,
+      "name": "A NATA"
+    },
+    {
+      "id": 139414,
+      "name": "ARK E-sports"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
