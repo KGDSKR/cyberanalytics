@@ -1,0 +1,21 @@
+{
+  "matchId": 1745502,
+  "game": "cs2",
+  "createdAt": "2026-10-15T11:57:11.476Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139041,
+      "name": "Ryvex"
+    },
+    {
+      "id": 138899,
+      "name": "maybe"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
