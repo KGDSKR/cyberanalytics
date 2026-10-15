@@ -1,0 +1,21 @@
+{
+  "matchId": 1746352,
+  "game": "cs2",
+  "createdAt": "2026-10-15T00:34:15.749Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    },
+    {
+      "id": 131110,
+      "name": "Mindfreak"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
