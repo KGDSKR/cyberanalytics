@@ -1,0 +1,21 @@
+{
+  "matchId": 1750374,
+  "game": "cs2",
+  "createdAt": "2026-10-15T20:36:28.921Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 134833,
+      "name": "Martians"
+    },
+    {
+      "id": 138155,
+      "name": "Hacha Esports"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
