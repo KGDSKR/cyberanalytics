@@ -1,0 +1,21 @@
+{
+  "matchId": 1745497,
+  "game": "cs2",
+  "createdAt": "2026-10-15T07:05:04.181Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137538,
+      "name": "B8 Academy"
+    },
+    {
+      "id": 127837,
+      "name": "los kogutos"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
