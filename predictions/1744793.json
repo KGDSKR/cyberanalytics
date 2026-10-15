@@ -1,0 +1,21 @@
+{
+  "matchId": 1744793,
+  "game": "cs2",
+  "createdAt": "2026-10-15T07:05:53.418Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139344,
+      "name": "VP.Future 3"
+    },
+    {
+      "id": 138618,
+      "name": "Vitality Academy"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
