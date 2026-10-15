@@ -1,0 +1,21 @@
+{
+  "matchId": 1745483,
+  "game": "dota2",
+  "createdAt": "2026-10-15T03:24:16.810Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    },
+    {
+      "id": 139363,
+      "name": "Zenith"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
