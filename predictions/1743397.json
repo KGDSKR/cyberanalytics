@@ -1,0 +1,21 @@
+{
+  "matchId": 1743397,
+  "game": "dota2",
+  "createdAt": "2026-10-15T01:44:44.255Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133237,
+      "name": "Chandogs"
+    },
+    {
+      "id": 139394,
+      "name": "Skyreavers"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
