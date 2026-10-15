@@ -1,0 +1,21 @@
+{
+  "matchId": 1743586,
+  "game": "dota2",
+  "createdAt": "2026-10-15T07:03:13.223Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    },
+    {
+      "id": 139407,
+      "name": "salamit"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
