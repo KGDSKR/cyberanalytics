@@ -1,0 +1,21 @@
+{
+  "matchId": 1743400,
+  "game": "dota2",
+  "createdAt": "2026-10-15T23:13:14.915Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:2",
+  "teams": [
+    {
+      "id": 137685,
+      "name": "Amaru Gaming"
+    },
+    {
+      "id": 139394,
+      "name": "Skyreavers"
+    }
+  ],
+  "probs": [
+    8,
+    92
+  ]
+}
