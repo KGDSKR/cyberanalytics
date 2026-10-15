@@ -1,0 +1,21 @@
+{
+  "matchId": 1743516,
+  "game": "cs2",
+  "createdAt": "2026-10-15T07:06:32.947Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
