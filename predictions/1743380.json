@@ -1,0 +1,21 @@
+{
+  "matchId": 1743380,
+  "game": "dota2",
+  "createdAt": "2026-10-15T11:43:20.205Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137870,
+      "name": "Power Rangers"
+    },
+    {
+      "id": 134208,
+      "name": "Kalmychata"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
