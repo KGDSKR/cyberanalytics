@@ -1,0 +1,21 @@
+{
+  "matchId": 1749768,
+  "game": "cs2",
+  "createdAt": "2026-10-15T07:03:51.616Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136846,
+      "name": "Prestige"
+    },
+    {
+      "id": 131552,
+      "name": "The Chosen Few"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
