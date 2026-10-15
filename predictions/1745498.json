@@ -1,0 +1,21 @@
+{
+  "matchId": 1745498,
+  "game": "cs2",
+  "createdAt": "2026-10-15T15:44:41.736Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    },
+    {
+      "id": 139428,
+      "name": "ex-6666"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
