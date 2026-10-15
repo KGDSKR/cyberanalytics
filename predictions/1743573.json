@@ -1,0 +1,21 @@
+{
+  "matchId": 1743573,
+  "game": "dota2",
+  "createdAt": "2026-10-15T19:35:22.458Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    },
+    {
+      "id": 139392,
+      "name": "Mena Warriors"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
