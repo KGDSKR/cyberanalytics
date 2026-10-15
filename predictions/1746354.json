@@ -1,0 +1,21 @@
+{
+  "matchId": 1746354,
+  "game": "cs2",
+  "createdAt": "2026-10-15T02:45:45.993Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127114,
+      "name": "Rooster"
+    },
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
