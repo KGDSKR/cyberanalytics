@@ -1,0 +1,21 @@
+{
+  "matchId": 1731102,
+  "game": "cs2",
+  "createdAt": "2026-10-15T00:04:20.560Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136064,
+      "name": "Chicken Coop Esports"
+    },
+    {
+      "id": 138652,
+      "name": "Overtake Sector"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
