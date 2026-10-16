@@ -1,0 +1,21 @@
+{
+  "matchId": 1750377,
+  "game": "cs2",
+  "createdAt": "2026-10-16T18:33:36.212Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    },
+    {
+      "id": 139254,
+      "name": "Los Niños"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
