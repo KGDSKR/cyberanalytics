@@ -1,0 +1,21 @@
+{
+  "matchId": 1752504,
+  "game": "cs2",
+  "createdAt": "2026-10-16T17:44:13.979Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139320,
+      "name": "PRIVATE"
+    },
+    {
+      "id": 139135,
+      "name": "UPGRADE"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
