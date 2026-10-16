@@ -1,0 +1,21 @@
+{
+  "matchId": 1751431,
+  "game": "cs2",
+  "createdAt": "2026-10-16T07:09:59.497Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    },
+    {
+      "id": 135381,
+      "name": "Betclic Apogee Esports"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
