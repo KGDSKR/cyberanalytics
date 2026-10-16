@@ -1,0 +1,21 @@
+{
+  "matchId": 1746367,
+  "game": "cs2",
+  "createdAt": "2026-10-16T23:13:49.932Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    },
+    {
+      "id": 139421,
+      "name": "Off Chops"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
