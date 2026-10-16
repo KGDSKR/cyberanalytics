@@ -1,0 +1,21 @@
+{
+  "matchId": 1742238,
+  "game": "cs2",
+  "createdAt": "2026-10-16T15:25:15.554Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 137581,
+      "name": "Young TigeRES"
+    },
+    {
+      "id": 139245,
+      "name": "Young27"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
