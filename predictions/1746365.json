@@ -1,0 +1,21 @@
+{
+  "matchId": 1746365,
+  "game": "cs2",
+  "createdAt": "2026-10-16T04:34:10.834Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139421,
+      "name": "Off Chops"
+    },
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
