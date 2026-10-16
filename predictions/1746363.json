@@ -1,0 +1,21 @@
+{
+  "matchId": 1746363,
+  "game": "cs2",
+  "createdAt": "2026-10-16T01:34:05.392Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    },
+    {
+      "id": 138092,
+      "name": "Abyssal"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
