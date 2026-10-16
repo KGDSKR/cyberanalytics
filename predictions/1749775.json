@@ -1,0 +1,21 @@
+{
+  "matchId": 1749775,
+  "game": "cs2",
+  "createdAt": "2026-10-16T07:36:07.225Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138087,
+      "name": " Gatorian"
+    },
+    {
+      "id": 135026,
+      "name": "ENCE Prospects"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
