@@ -1,0 +1,21 @@
+{
+  "matchId": 1746368,
+  "game": "cs2",
+  "createdAt": "2026-10-16T23:03:37.804Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127114,
+      "name": "Rooster"
+    },
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
