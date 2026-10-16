@@ -1,0 +1,21 @@
+{
+  "matchId": 1750376,
+  "game": "cs2",
+  "createdAt": "2026-10-16T15:23:48.782Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135072,
+      "name": "Joga de terno"
+    },
+    {
+      "id": 139202,
+      "name": "your end"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
