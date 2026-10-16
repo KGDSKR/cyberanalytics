@@ -1,0 +1,21 @@
+{
+  "matchId": 1752505,
+  "game": "cs2",
+  "createdAt": "2026-10-16T15:53:36.243Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 132927,
+      "name": "Rune Eaters"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
