@@ -1,0 +1,21 @@
+{
+  "matchId": 1742237,
+  "game": "cs2",
+  "createdAt": "2026-10-16T07:15:29.353Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    },
+    {
+      "id": 137235,
+      "name": "VP.Future"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
