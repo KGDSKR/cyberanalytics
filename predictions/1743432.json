@@ -1,0 +1,21 @@
+{
+  "matchId": 1743432,
+  "game": "dota2",
+  "createdAt": "2026-10-16T03:34:18.591Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139148,
+      "name": "Team Kinetix"
+    },
+    {
+      "id": 1660,
+      "name": "Execration"
+    }
+  ],
+  "probs": [
+    27,
+    73
+  ]
+}
