@@ -1,0 +1,21 @@
+{
+  "matchId": 1745514,
+  "game": "cs2",
+  "createdAt": "2026-10-17T18:25:02.065Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138400,
+      "name": "mellren"
+    },
+    {
+      "id": 139355,
+      "name": "antidaun"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
