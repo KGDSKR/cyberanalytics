@@ -1,0 +1,21 @@
+{
+  "matchId": 1743570,
+  "game": "dota2",
+  "createdAt": "2026-10-17T18:44:30.033Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
