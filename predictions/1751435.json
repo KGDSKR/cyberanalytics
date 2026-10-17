@@ -1,0 +1,21 @@
+{
+  "matchId": 1751435,
+  "game": "cs2",
+  "createdAt": "2026-10-17T07:05:06.829Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    },
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
