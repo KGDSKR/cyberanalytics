@@ -1,0 +1,21 @@
+{
+  "matchId": 1744795,
+  "game": "cs2",
+  "createdAt": "2026-10-17T07:06:45.061Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139344,
+      "name": "VP.Future 3"
+    },
+    {
+      "id": 139336,
+      "name": "Bread Eaters Esports"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
