@@ -1,0 +1,21 @@
+{
+  "matchId": 1741366,
+  "game": "cs2",
+  "createdAt": "2026-10-17T18:46:52.531Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 130564,
+      "name": "Team Falcons"
+    },
+    {
+      "id": 133458,
+      "name": "BetBoom Team"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
