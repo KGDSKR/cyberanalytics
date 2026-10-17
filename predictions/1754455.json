@@ -1,0 +1,21 @@
+{
+  "matchId": 1754455,
+  "game": "cs2",
+  "createdAt": "2026-10-17T17:04:41.316Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139416,
+      "name": "Alianza Lima Esports"
+    },
+    {
+      "id": 138033,
+      "name": "Blitzkrieg"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
