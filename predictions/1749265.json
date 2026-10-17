@@ -1,0 +1,21 @@
+{
+  "matchId": 1749265,
+  "game": "dota2",
+  "createdAt": "2026-10-17T07:14:40.426Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136140,
+      "name": "Team Tidebound"
+    },
+    {
+      "id": 138494,
+      "name": "Team Resilience"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
