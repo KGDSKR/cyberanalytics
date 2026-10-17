@@ -1,0 +1,21 @@
+{
+  "matchId": 1743533,
+  "game": "cs2",
+  "createdAt": "2026-10-17T07:07:25.270Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 125774,
+      "name": "HAVU"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
