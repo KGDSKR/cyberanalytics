@@ -1,0 +1,21 @@
+{
+  "matchId": 1735008,
+  "game": "cs2",
+  "createdAt": "2026-10-17T15:24:42.453Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3246,
+      "name": "Heroic"
+    },
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
