@@ -1,0 +1,21 @@
+{
+  "matchId": 1743590,
+  "game": "dota2",
+  "createdAt": "2026-10-17T07:04:17.916Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    },
+    {
+      "id": 139431,
+      "name": "LFO"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
