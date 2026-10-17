@@ -1,0 +1,21 @@
+{
+  "matchId": 1745507,
+  "game": "cs2",
+  "createdAt": "2026-10-17T07:05:58.061Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139097,
+      "name": "Revise"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
