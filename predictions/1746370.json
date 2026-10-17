@@ -1,0 +1,21 @@
+{
+  "matchId": 1746370,
+  "game": "cs2",
+  "createdAt": "2026-10-17T07:03:34.001Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139421,
+      "name": "Off Chops"
+    },
+    {
+      "id": 127114,
+      "name": "Rooster"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
