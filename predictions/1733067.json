@@ -1,0 +1,21 @@
+{
+  "matchId": 1733067,
+  "game": "cs2",
+  "createdAt": "2026-10-18T07:06:47.345Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138963,
+      "name": "Black Phoenix"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
