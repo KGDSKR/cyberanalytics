@@ -1,0 +1,21 @@
+{
+  "matchId": 1741367,
+  "game": "cs2",
+  "createdAt": "2026-10-18T16:24:33.120Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 124530,
+      "name": "FURIA"
+    },
+    {
+      "id": 133458,
+      "name": "BetBoom Team"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
