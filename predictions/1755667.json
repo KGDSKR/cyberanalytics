@@ -1,0 +1,21 @@
+{
+  "matchId": 1755667,
+  "game": "cs2",
+  "createdAt": "2026-10-18T20:56:43.828Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139422,
+      "name": "6yuBoJlbl"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
