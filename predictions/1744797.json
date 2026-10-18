@@ -1,0 +1,21 @@
+{
+  "matchId": 1744797,
+  "game": "cs2",
+  "createdAt": "2026-10-18T07:06:04.670Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139344,
+      "name": "VP.Future 3"
+    },
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
