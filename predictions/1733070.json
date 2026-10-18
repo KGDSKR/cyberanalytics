@@ -1,0 +1,21 @@
+{
+  "matchId": 1733070,
+  "game": "cs2",
+  "createdAt": "2026-10-18T18:35:54.957Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    77,
+    23
+  ]
+}
