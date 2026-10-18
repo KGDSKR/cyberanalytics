@@ -1,0 +1,21 @@
+{
+  "matchId": 1748451,
+  "game": "dota2",
+  "createdAt": "2026-10-18T20:33:45.561Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:2",
+  "teams": [
+    {
+      "id": 139424,
+      "name": "Gorgc Team"
+    },
+    {
+      "id": 136959,
+      "name": "Stariy bog Team"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
