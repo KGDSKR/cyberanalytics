@@ -1,0 +1,21 @@
+{
+  "matchId": 1749787,
+  "game": "cs2",
+  "createdAt": "2026-10-18T07:03:54.404Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137467,
+      "name": "Elite Klan"
+    },
+    {
+      "id": 138281,
+      "name": "Passion Academy"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
