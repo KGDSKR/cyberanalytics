@@ -1,0 +1,21 @@
+{
+  "matchId": 1749770,
+  "game": "cs2",
+  "createdAt": "2026-10-19T07:03:15.468Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134261,
+      "name": "Copenhagen Wolves"
+    },
+    {
+      "id": 136846,
+      "name": "Prestige"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
