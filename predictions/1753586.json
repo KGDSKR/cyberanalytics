@@ -1,0 +1,21 @@
+{
+  "matchId": 1753586,
+  "game": "cs2",
+  "createdAt": "2026-10-19T15:04:30.368Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    },
+    {
+      "id": 139041,
+      "name": "Ryvex"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
