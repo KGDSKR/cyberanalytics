@@ -1,0 +1,21 @@
+{
+  "matchId": 1727875,
+  "game": "cs2",
+  "createdAt": "2026-10-19T07:05:43.826Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
