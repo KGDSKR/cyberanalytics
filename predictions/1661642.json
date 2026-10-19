@@ -1,0 +1,21 @@
+{
+  "matchId": 1661642,
+  "game": "cs2",
+  "createdAt": "2026-10-19T18:25:34.442Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139188,
+      "name": "Pandaric eSports"
+    },
+    {
+      "id": 135450,
+      "name": "Regnum4Games"
+    }
+  ],
+  "probs": [
+    10,
+    90
+  ]
+}
