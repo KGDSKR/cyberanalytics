@@ -1,0 +1,21 @@
+{
+  "matchId": 1742202,
+  "game": "cs2",
+  "createdAt": "2026-10-19T14:24:11.036Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    },
+    {
+      "id": 126699,
+      "name": "Nexus"
+    }
+  ],
+  "probs": [
+    27,
+    73
+  ]
+}
