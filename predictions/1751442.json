@@ -1,0 +1,21 @@
+{
+  "matchId": 1751442,
+  "game": "cs2",
+  "createdAt": "2026-10-19T14:54:38.167Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
