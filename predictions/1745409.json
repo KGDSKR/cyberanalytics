@@ -1,0 +1,21 @@
+{
+  "matchId": 1745409,
+  "game": "cs2",
+  "createdAt": "2026-10-19T18:23:53.945Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133719,
+      "name": "PARIVISION"
+    },
+    {
+      "id": 137739,
+      "name": "magic"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
