@@ -1,0 +1,21 @@
+{
+  "matchId": 1742203,
+  "game": "cs2",
+  "createdAt": "2026-10-19T20:53:47.441Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 126699,
+      "name": "Nexus"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
