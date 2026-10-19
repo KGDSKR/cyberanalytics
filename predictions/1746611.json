@@ -1,0 +1,21 @@
+{
+  "matchId": 1746611,
+  "game": "cs2",
+  "createdAt": "2026-10-19T07:04:03.838Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
