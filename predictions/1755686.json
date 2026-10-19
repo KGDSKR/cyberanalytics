@@ -1,0 +1,21 @@
+{
+  "matchId": 1755686,
+  "game": "cs2",
+  "createdAt": "2026-10-19T08:05:38.490Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    },
+    {
+      "id": 135381,
+      "name": "Betclic Apogee Esports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
