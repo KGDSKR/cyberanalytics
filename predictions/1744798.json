@@ -1,0 +1,21 @@
+{
+  "matchId": 1744798,
+  "game": "cs2",
+  "createdAt": "2026-10-19T07:05:00.527Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    },
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
