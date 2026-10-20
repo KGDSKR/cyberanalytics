@@ -1,0 +1,21 @@
+{
+  "matchId": 1759481,
+  "game": "dota2",
+  "createdAt": "2026-10-20T07:03:27.524Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139413,
+      "name": "Resp Gaming"
+    },
+    {
+      "id": 128080,
+      "name": "Yangon Galacticos"
+    }
+  ],
+  "probs": [
+    14,
+    86
+  ]
+}
