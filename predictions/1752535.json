@@ -1,0 +1,21 @@
+{
+  "matchId": 1752535,
+  "game": "cs2",
+  "createdAt": "2026-10-20T07:04:06.900Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139430,
+      "name": "Wept Xyloid Melancholy"
+    },
+    {
+      "id": 134264,
+      "name": "Chinggis Warriors"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
