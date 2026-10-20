@@ -1,0 +1,21 @@
+{
+  "matchId": 1748750,
+  "game": "cs2",
+  "createdAt": "2026-10-20T14:55:00.200Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3246,
+      "name": "Heroic"
+    },
+    {
+      "id": 133988,
+      "name": "HyperSpirit"
+    }
+  ],
+  "probs": [
+    77,
+    23
+  ]
+}
