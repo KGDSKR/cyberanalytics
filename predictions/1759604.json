@@ -1,0 +1,21 @@
+{
+  "matchId": 1759604,
+  "game": "cs2",
+  "createdAt": "2026-10-20T06:24:18.753Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 139440,
+      "name": "FN Team"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
