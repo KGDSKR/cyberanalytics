@@ -1,0 +1,21 @@
+{
+  "matchId": 1759630,
+  "game": "cs2",
+  "createdAt": "2026-10-20T21:43:39.174Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139441,
+      "name": "WISP"
+    },
+    {
+      "id": 135497,
+      "name": "WW Team"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
