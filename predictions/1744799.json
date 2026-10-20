@@ -1,0 +1,21 @@
+{
+  "matchId": 1744799,
+  "game": "cs2",
+  "createdAt": "2026-10-20T07:07:50.056Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134261,
+      "name": "Copenhagen Wolves"
+    },
+    {
+      "id": 139089,
+      "name": "EAC Extra"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
