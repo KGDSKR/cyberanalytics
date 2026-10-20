@@ -1,0 +1,21 @@
+{
+  "matchId": 1759605,
+  "game": "cs2",
+  "createdAt": "2026-10-20T07:05:14.189Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138897,
+      "name": "TrafficPills Esports"
+    },
+    {
+      "id": 138845,
+      "name": "NEXORA"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
