@@ -1,0 +1,21 @@
+{
+  "matchId": 1746752,
+  "game": "cs2",
+  "createdAt": "2026-10-20T07:07:06.025Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
