@@ -1,0 +1,21 @@
+{
+  "matchId": 1752533,
+  "game": "cs2",
+  "createdAt": "2026-10-20T03:03:09.450Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126439,
+      "name": "Lynn Vision"
+    },
+    {
+      "id": 137763,
+      "name": "Morningstar"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
