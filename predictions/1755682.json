@@ -1,0 +1,21 @@
+{
+  "matchId": 1755682,
+  "game": "cs2",
+  "createdAt": "2026-10-20T08:30:10.518Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 129440,
+      "name": "Metizport"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
