@@ -1,0 +1,21 @@
+{
+  "matchId": 1760460,
+  "game": "cs2",
+  "createdAt": "2026-10-20T16:53:42.717Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135326,
+      "name": "Wingman"
+    },
+    {
+      "id": 139097,
+      "name": "Revise"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
