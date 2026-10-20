@@ -1,0 +1,21 @@
+{
+  "matchId": 1752534,
+  "game": "cs2",
+  "createdAt": "2026-10-20T04:03:32.504Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135214,
+      "name": "Alter Ego"
+    },
+    {
+      "id": 130329,
+      "name": "Rare Atom"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
