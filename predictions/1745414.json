@@ -1,0 +1,21 @@
+{
+  "matchId": 1745414,
+  "game": "cs2",
+  "createdAt": "2026-10-20T09:43:48.388Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133725,
+      "name": "Alliance"
+    },
+    {
+      "id": 139320,
+      "name": "PRIVATE"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
