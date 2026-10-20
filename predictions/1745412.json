@@ -1,0 +1,21 @@
+{
+  "matchId": 1745412,
+  "game": "cs2",
+  "createdAt": "2026-10-20T18:23:38.278Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 3217,
+      "name": "fnatic"
+    },
+    {
+      "id": 133719,
+      "name": "PARIVISION"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
