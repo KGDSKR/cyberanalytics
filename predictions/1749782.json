@@ -1,0 +1,21 @@
+{
+  "matchId": 1749782,
+  "game": "cs2",
+  "createdAt": "2026-10-21T07:06:29.717Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    },
+    {
+      "id": 139336,
+      "name": "Bread Eaters Esports"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
