@@ -1,0 +1,21 @@
+{
+  "matchId": 1752539,
+  "game": "cs2",
+  "createdAt": "2026-10-21T02:03:33.114Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135214,
+      "name": "Alter Ego"
+    },
+    {
+      "id": 137763,
+      "name": "Morningstar"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
