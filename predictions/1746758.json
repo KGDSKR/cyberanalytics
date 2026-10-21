@@ -1,0 +1,21 @@
+{
+  "matchId": 1746758,
+  "game": "cs2",
+  "createdAt": "2026-10-21T17:13:20.392Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138370,
+      "name": "Lavked"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
