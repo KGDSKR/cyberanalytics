@@ -1,0 +1,21 @@
+{
+  "matchId": 1748770,
+  "game": "cs2",
+  "createdAt": "2026-10-21T13:44:23.694Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    },
+    {
+      "id": 126699,
+      "name": "Nexus"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
