@@ -1,0 +1,21 @@
+{
+  "matchId": 1759656,
+  "game": "cs2",
+  "createdAt": "2026-10-21T15:34:55.032Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
