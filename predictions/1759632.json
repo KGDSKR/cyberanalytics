@@ -1,0 +1,21 @@
+{
+  "matchId": 1759632,
+  "game": "cs2",
+  "createdAt": "2026-10-21T07:03:53.485Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139435,
+      "name": "Team ACES"
+    },
+    {
+      "id": 139319,
+      "name": "EVO Elite"
+    }
+  ],
+  "probs": [
+    92,
+    8
+  ]
+}
