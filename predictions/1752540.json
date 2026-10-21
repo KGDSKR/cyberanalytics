@@ -1,0 +1,21 @@
+{
+  "matchId": 1752540,
+  "game": "cs2",
+  "createdAt": "2026-10-21T03:34:21.749Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139430,
+      "name": "Wept Xyloid Melancholy"
+    },
+    {
+      "id": 138702,
+      "name": "Vitalem Aerem"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
