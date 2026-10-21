@@ -1,0 +1,21 @@
+{
+  "matchId": 1759634,
+  "game": "cs2",
+  "createdAt": "2026-10-21T08:14:32.628Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139443,
+      "name": "XMETA"
+    },
+    {
+      "id": 139319,
+      "name": "EVO Elite"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
