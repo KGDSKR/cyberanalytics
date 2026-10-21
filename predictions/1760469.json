@@ -1,0 +1,21 @@
+{
+  "matchId": 1760469,
+  "game": "cs2",
+  "createdAt": "2026-10-21T18:54:10.192Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138729,
+      "name": "DNK"
+    },
+    {
+      "id": 138676,
+      "name": "A Great Chaos"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
