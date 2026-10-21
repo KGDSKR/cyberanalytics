@@ -1,0 +1,21 @@
+{
+  "matchId": 1752536,
+  "game": "cs2",
+  "createdAt": "2026-10-21T07:04:50.760Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130329,
+      "name": "Rare Atom"
+    },
+    {
+      "id": 126439,
+      "name": "Lynn Vision"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
