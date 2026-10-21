@@ -1,0 +1,21 @@
+{
+  "matchId": 1759631,
+  "game": "cs2",
+  "createdAt": "2026-10-21T07:03:14.542Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    },
+    {
+      "id": 139443,
+      "name": "XMETA"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
