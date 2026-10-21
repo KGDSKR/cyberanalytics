@@ -1,0 +1,21 @@
+{
+  "matchId": 1746756,
+  "game": "cs2",
+  "createdAt": "2026-10-21T07:07:18.821Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    },
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
