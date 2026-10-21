@@ -1,0 +1,21 @@
+{
+  "matchId": 1756292,
+  "game": "dota2",
+  "createdAt": "2026-10-21T15:14:32.347Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139238,
+      "name": "Dawn Bulls"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
