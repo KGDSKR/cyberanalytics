@@ -1,0 +1,21 @@
+{
+  "matchId": 1727885,
+  "game": "cs2",
+  "createdAt": "2026-10-21T07:18:12.736Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126624,
+      "name": "Brute"
+    },
+    {
+      "id": 139428,
+      "name": "ex-6666"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
