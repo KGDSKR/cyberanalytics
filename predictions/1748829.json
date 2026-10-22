@@ -1,0 +1,21 @@
+{
+  "matchId": 1748829,
+  "game": "cs2",
+  "createdAt": "2026-10-22T14:44:17.439Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 126699,
+      "name": "Nexus"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
