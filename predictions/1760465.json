@@ -1,0 +1,21 @@
+{
+  "matchId": 1760465,
+  "game": "cs2",
+  "createdAt": "2026-10-22T07:04:14.602Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127497,
+      "name": "eSuba"
+    },
+    {
+      "id": 139353,
+      "name": "TTG Esports"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
