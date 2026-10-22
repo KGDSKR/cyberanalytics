@@ -1,0 +1,21 @@
+{
+  "matchId": 1759612,
+  "game": "cs2",
+  "createdAt": "2026-10-22T20:53:16.506Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139135,
+      "name": "UPGRADE"
+    },
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
