@@ -1,0 +1,21 @@
+{
+  "matchId": 1752541,
+  "game": "cs2",
+  "createdAt": "2026-10-22T02:23:22.610Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137763,
+      "name": "Morningstar"
+    },
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
