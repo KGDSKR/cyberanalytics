@@ -1,0 +1,21 @@
+{
+  "matchId": 1753729,
+  "game": "dota2",
+  "createdAt": "2026-10-22T08:21:45.828Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137073,
+      "name": "Team Yandex"
+    },
+    {
+      "id": 137588,
+      "name": "GamerLegion"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
