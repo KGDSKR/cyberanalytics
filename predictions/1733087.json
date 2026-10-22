@@ -1,0 +1,21 @@
+{
+  "matchId": 1733087,
+  "game": "cs2",
+  "createdAt": "2026-10-22T16:05:02.907Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137546,
+      "name": "Acend"
+    },
+    {
+      "id": 139428,
+      "name": "ex-6666"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
