@@ -1,0 +1,21 @@
+{
+  "matchId": 1755691,
+  "game": "cs2",
+  "createdAt": "2026-10-22T17:46:35.988Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127365,
+      "name": "Sangal"
+    },
+    {
+      "id": 129440,
+      "name": "Metizport"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
