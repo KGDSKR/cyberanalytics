@@ -1,0 +1,21 @@
+{
+  "matchId": 1759647,
+  "game": "cs2",
+  "createdAt": "2026-10-22T17:47:16.784Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    },
+    {
+      "id": 139219,
+      "name": "KAMUI"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
