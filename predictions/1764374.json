@@ -1,0 +1,21 @@
+{
+  "matchId": 1764374,
+  "game": "cs2",
+  "createdAt": "2026-10-22T22:03:44.092Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139098,
+      "name": "Low Cortisol"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
