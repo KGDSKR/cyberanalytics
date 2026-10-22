@@ -1,0 +1,21 @@
+{
+  "matchId": 1745419,
+  "game": "cs2",
+  "createdAt": "2026-10-22T12:03:37.229Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 3249,
+      "name": "BIG"
+    },
+    {
+      "id": 3272,
+      "name": "TheMongolz"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
