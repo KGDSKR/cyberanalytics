@@ -1,0 +1,21 @@
+{
+  "matchId": 1748830,
+  "game": "cs2",
+  "createdAt": "2026-10-22T14:04:12.449Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    },
+    {
+      "id": 3212,
+      "name": "FaZe"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
