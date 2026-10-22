@@ -1,0 +1,21 @@
+{
+  "matchId": 1749790,
+  "game": "cs2",
+  "createdAt": "2026-10-22T11:43:07.617Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135436,
+      "name": "Revenge"
+    },
+    {
+      "id": 137467,
+      "name": "Elite Klan"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
