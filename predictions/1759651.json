@@ -1,0 +1,21 @@
+{
+  "matchId": 1759651,
+  "game": "cs2",
+  "createdAt": "2026-10-23T13:53:59.702Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 138976,
+      "name": "WBT Academy"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
