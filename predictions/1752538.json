@@ -1,0 +1,21 @@
+{
+  "matchId": 1752538,
+  "game": "cs2",
+  "createdAt": "2026-10-23T02:03:27.785Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126439,
+      "name": "Lynn Vision"
+    },
+    {
+      "id": 134264,
+      "name": "Chinggis Warriors"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
