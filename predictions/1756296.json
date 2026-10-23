@@ -1,0 +1,21 @@
+{
+  "matchId": 1756296,
+  "game": "dota2",
+  "createdAt": "2026-10-23T13:23:55.887Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139124,
+      "name": "Team Synapse"
+    },
+    {
+      "id": 139238,
+      "name": "Dawn Bulls"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
