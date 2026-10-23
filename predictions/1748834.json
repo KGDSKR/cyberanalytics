@@ -1,0 +1,21 @@
+{
+  "matchId": 1748834,
+  "game": "cs2",
+  "createdAt": "2026-10-23T21:04:29.141Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
