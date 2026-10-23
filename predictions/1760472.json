@@ -1,0 +1,21 @@
+{
+  "matchId": 1760472,
+  "game": "cs2",
+  "createdAt": "2026-10-23T07:05:58.885Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139445,
+      "name": "NOCTIS"
+    },
+    {
+      "id": 135978,
+      "name": "eternal premium"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
