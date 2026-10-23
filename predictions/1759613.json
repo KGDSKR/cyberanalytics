@@ -1,0 +1,21 @@
+{
+  "matchId": 1759613,
+  "game": "cs2",
+  "createdAt": "2026-10-23T10:14:34.349Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 139435,
+      "name": "Team ACES"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
