@@ -1,0 +1,21 @@
+{
+  "matchId": 1766393,
+  "game": "cs2",
+  "createdAt": "2026-10-23T07:05:10.872Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    },
+    {
+      "id": 139097,
+      "name": "Revise"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
