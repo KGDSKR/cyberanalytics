@@ -1,0 +1,21 @@
+{
+  "matchId": 1749772,
+  "game": "cs2",
+  "createdAt": "2026-10-23T07:06:52.932Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134261,
+      "name": "Copenhagen Wolves"
+    },
+    {
+      "id": 131552,
+      "name": "The Chosen Few"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
