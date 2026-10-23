@@ -1,0 +1,21 @@
+{
+  "matchId": 1746765,
+  "game": "cs2",
+  "createdAt": "2026-10-23T12:13:55.137Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    16,
+    84
+  ]
+}
