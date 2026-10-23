@@ -1,0 +1,21 @@
+{
+  "matchId": 1764377,
+  "game": "cs2",
+  "createdAt": "2026-10-23T16:25:04.459Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    },
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
