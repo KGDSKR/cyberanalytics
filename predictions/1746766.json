@@ -1,0 +1,21 @@
+{
+  "matchId": 1746766,
+  "game": "cs2",
+  "createdAt": "2026-10-23T07:07:36.178Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
