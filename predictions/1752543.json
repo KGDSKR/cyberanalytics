@@ -1,0 +1,21 @@
+{
+  "matchId": 1752543,
+  "game": "cs2",
+  "createdAt": "2026-10-23T04:34:52.983Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    },
+    {
+      "id": 130329,
+      "name": "Rare Atom"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
