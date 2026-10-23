@@ -1,0 +1,21 @@
+{
+  "matchId": 1749779,
+  "game": "cs2",
+  "createdAt": "2026-10-23T11:45:33.472Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    },
+    {
+      "id": 135026,
+      "name": "ENCE Prospects"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
