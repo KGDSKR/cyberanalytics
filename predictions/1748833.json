@@ -1,0 +1,21 @@
+{
+  "matchId": 1748833,
+  "game": "cs2",
+  "createdAt": "2026-10-23T17:13:11.211Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
