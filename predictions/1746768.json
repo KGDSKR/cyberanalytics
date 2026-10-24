@@ -1,0 +1,21 @@
+{
+  "matchId": 1746768,
+  "game": "cs2",
+  "createdAt": "2026-10-24T08:33:21.079Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    },
+    {
+      "id": 139428,
+      "name": "ex-6666"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
