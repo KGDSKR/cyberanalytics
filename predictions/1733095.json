@@ -1,0 +1,21 @@
+{
+  "matchId": 1733095,
+  "game": "cs2",
+  "createdAt": "2026-10-24T08:35:42.866Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137546,
+      "name": "Acend"
+    },
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
