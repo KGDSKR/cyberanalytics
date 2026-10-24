@@ -1,0 +1,21 @@
+{
+  "matchId": 1733096,
+  "game": "cs2",
+  "createdAt": "2026-10-24T15:45:41.724Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 126624,
+      "name": "Brute"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
