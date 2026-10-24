@@ -1,0 +1,21 @@
+{
+  "matchId": 1759491,
+  "game": "dota2",
+  "createdAt": "2026-10-24T02:04:02.914Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139413,
+      "name": "Resp Gaming"
+    },
+    {
+      "id": 139402,
+      "name": "Team Nemesis Academy"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
