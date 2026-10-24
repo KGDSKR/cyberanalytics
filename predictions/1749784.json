@@ -1,0 +1,21 @@
+{
+  "matchId": 1749784,
+  "game": "cs2",
+  "createdAt": "2026-10-24T07:07:27.176Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139336,
+      "name": "Bread Eaters Esports"
+    },
+    {
+      "id": 130421,
+      "name": "9INE Academy"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
