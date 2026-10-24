@@ -1,0 +1,21 @@
+{
+  "matchId": 1756297,
+  "game": "dota2",
+  "createdAt": "2026-10-24T15:13:16.645Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139124,
+      "name": "Team Synapse"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
