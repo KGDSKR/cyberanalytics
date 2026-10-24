@@ -1,0 +1,21 @@
+{
+  "matchId": 1767136,
+  "game": "cs2",
+  "createdAt": "2026-10-24T19:04:31.148Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139353,
+      "name": "TTG Esports"
+    },
+    {
+      "id": 139097,
+      "name": "Revise"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
