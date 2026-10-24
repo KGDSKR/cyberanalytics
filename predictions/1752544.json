@@ -1,0 +1,21 @@
+{
+  "matchId": 1752544,
+  "game": "cs2",
+  "createdAt": "2026-10-24T02:03:16.405Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134264,
+      "name": "Chinggis Warriors"
+    },
+    {
+      "id": 130329,
+      "name": "Rare Atom"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
