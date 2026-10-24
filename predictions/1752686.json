@@ -1,0 +1,21 @@
+{
+  "matchId": 1752686,
+  "game": "cs2",
+  "createdAt": "2026-10-24T06:03:37.526Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131505,
+      "name": "Aurora Gaming"
+    },
+    {
+      "id": 3272,
+      "name": "TheMongolz"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
