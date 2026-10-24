@@ -1,0 +1,21 @@
+{
+  "matchId": 1758461,
+  "game": "cs2",
+  "createdAt": "2026-10-24T23:03:24.795Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    },
+    {
+      "id": 126377,
+      "name": "Imperial"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
