@@ -1,0 +1,21 @@
+{
+  "matchId": 1769593,
+  "game": "cs2",
+  "createdAt": "2026-10-24T23:35:03.680Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138716,
+      "name": "Iowa Stormboar"
+    },
+    {
+      "id": 136064,
+      "name": "Chicken Coop Esports"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
