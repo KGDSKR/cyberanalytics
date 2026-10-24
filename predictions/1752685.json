@@ -1,0 +1,21 @@
+{
+  "matchId": 1752685,
+  "game": "cs2",
+  "createdAt": "2026-10-24T07:05:08.593Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 136955,
+      "name": "FUT Esports"
+    },
+    {
+      "id": 3248,
+      "name": "TYLOO"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
