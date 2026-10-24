@@ -1,0 +1,21 @@
+{
+  "matchId": 1766398,
+  "game": "cs2",
+  "createdAt": "2026-10-24T07:06:40.919Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    },
+    {
+      "id": 139041,
+      "name": "Ryvex"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
