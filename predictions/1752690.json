@@ -1,0 +1,21 @@
+{
+  "matchId": 1752690,
+  "game": "cs2",
+  "createdAt": "2026-10-24T15:54:11.784Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 3455,
+      "name": "Vitality"
+    },
+    {
+      "id": 126709,
+      "name": "9z"
+    }
+  ],
+  "probs": [
+    92,
+    8
+  ]
+}
