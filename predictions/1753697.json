@@ -1,0 +1,21 @@
+{
+  "matchId": 1753697,
+  "game": "cs2",
+  "createdAt": "2026-10-25T07:03:24.413Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 124523,
+      "name": "Spirit"
+    },
+    {
+      "id": 3248,
+      "name": "TYLOO"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
