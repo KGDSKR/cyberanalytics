@@ -1,0 +1,21 @@
+{
+  "matchId": 1766986,
+  "game": "cs2",
+  "createdAt": "2026-10-25T21:54:01.527Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 136534,
+      "name": "Tropa do KinGui"
+    },
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
