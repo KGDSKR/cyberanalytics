@@ -1,0 +1,21 @@
+{
+  "matchId": 1753753,
+  "game": "dota2",
+  "createdAt": "2026-10-25T16:34:39.451Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 1669,
+      "name": "Team Spirit"
+    },
+    {
+      "id": 139432,
+      "name": "Astra Invicta"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
