@@ -1,0 +1,21 @@
+{
+  "matchId": 1766515,
+  "game": "cs2",
+  "createdAt": "2026-10-25T20:43:56.990Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137507,
+      "name": "Spirit Academy Black"
+    },
+    {
+      "id": 139452,
+      "name": "Winx"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
