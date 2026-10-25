@@ -1,0 +1,21 @@
+{
+  "matchId": 1746774,
+  "game": "cs2",
+  "createdAt": "2026-10-25T15:34:31.871Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    },
+    {
+      "id": 139435,
+      "name": "Team ACES"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
