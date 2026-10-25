@@ -1,0 +1,21 @@
+{
+  "matchId": 1759493,
+  "game": "dota2",
+  "createdAt": "2026-10-25T05:03:20.769Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139148,
+      "name": "Team Kinetix"
+    },
+    {
+      "id": 137529,
+      "name": "Cloud Dawning"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
