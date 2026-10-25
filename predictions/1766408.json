@@ -1,0 +1,21 @@
+{
+  "matchId": 1766408,
+  "game": "cs2",
+  "createdAt": "2026-10-25T08:05:53.632Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134405,
+      "name": "Vexar"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
