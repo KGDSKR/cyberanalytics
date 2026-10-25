@@ -1,0 +1,21 @@
+{
+  "matchId": 1766517,
+  "game": "cs2",
+  "createdAt": "2026-10-25T17:54:23.721Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 131441,
+      "name": "Monte"
+    },
+    {
+      "id": 139353,
+      "name": "TTG Esports"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
