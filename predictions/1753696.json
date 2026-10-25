@@ -1,0 +1,21 @@
+{
+  "matchId": 1753696,
+  "game": "cs2",
+  "createdAt": "2026-10-25T07:04:09.062Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136955,
+      "name": "FUT Esports"
+    },
+    {
+      "id": 3213,
+      "name": "Liquid"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
