@@ -1,0 +1,21 @@
+{
+  "matchId": 1769552,
+  "game": "cs2",
+  "createdAt": "2026-10-25T08:05:11.265Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136846,
+      "name": "Prestige"
+    },
+    {
+      "id": 135436,
+      "name": "Revenge"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
