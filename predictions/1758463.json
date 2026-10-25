@@ -1,0 +1,21 @@
+{
+  "matchId": 1758463,
+  "game": "cs2",
+  "createdAt": "2026-10-25T23:53:44.037Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 126377,
+      "name": "Imperial"
+    },
+    {
+      "id": 125751,
+      "name": "paiN"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
