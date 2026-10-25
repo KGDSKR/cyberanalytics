@@ -1,0 +1,21 @@
+{
+  "matchId": 1766516,
+  "game": "cs2",
+  "createdAt": "2026-10-25T18:05:08.883Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139225,
+      "name": "DINERO"
+    },
+    {
+      "id": 137878,
+      "name": "DimoniX Esports"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
