@@ -1,0 +1,21 @@
+{
+  "matchId": 1772313,
+  "game": "cs2",
+  "createdAt": "2026-10-26T17:14:20.727Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139225,
+      "name": "DINERO"
+    },
+    {
+      "id": 139353,
+      "name": "TTG Esports"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
