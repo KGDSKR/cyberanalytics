@@ -1,0 +1,21 @@
+{
+  "matchId": 1753704,
+  "game": "cs2",
+  "createdAt": "2026-10-26T07:06:27.756Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3272,
+      "name": "TheMongolz"
+    },
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
