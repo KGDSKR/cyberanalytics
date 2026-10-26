@@ -1,0 +1,21 @@
+{
+  "matchId": 1727901,
+  "game": "cs2",
+  "createdAt": "2026-10-26T10:13:35.097Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    }
+  ],
+  "probs": [
+    17,
+    83
+  ]
+}
