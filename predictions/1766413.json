@@ -1,0 +1,21 @@
+{
+  "matchId": 1766413,
+  "game": "cs2",
+  "createdAt": "2026-10-26T09:13:11.084Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137508,
+      "name": "Falcons Force"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
