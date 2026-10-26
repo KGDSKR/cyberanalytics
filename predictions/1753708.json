@@ -1,0 +1,21 @@
+{
+  "matchId": 1753708,
+  "game": "cs2",
+  "createdAt": "2026-10-26T14:05:24.696Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3213,
+      "name": "Liquid"
+    },
+    {
+      "id": 133708,
+      "name": "Legacy"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
