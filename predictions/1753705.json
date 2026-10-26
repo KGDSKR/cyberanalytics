@@ -1,0 +1,21 @@
+{
+  "matchId": 1753705,
+  "game": "cs2",
+  "createdAt": "2026-10-26T07:05:39.258Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    },
+    {
+      "id": 131505,
+      "name": "Aurora Gaming"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
