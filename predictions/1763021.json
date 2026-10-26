@@ -1,0 +1,21 @@
+{
+  "matchId": 1763021,
+  "game": "cs2",
+  "createdAt": "2026-10-26T05:34:12.242Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    },
+    {
+      "id": 125873,
+      "name": "Ground Zero"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
