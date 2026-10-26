@@ -1,0 +1,21 @@
+{
+  "matchId": 1746778,
+  "game": "cs2",
+  "createdAt": "2026-10-26T14:06:22.418Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 125774,
+      "name": "HAVU"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
