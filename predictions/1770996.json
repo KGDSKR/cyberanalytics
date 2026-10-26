@@ -1,0 +1,21 @@
+{
+  "matchId": 1770996,
+  "game": "cs2",
+  "createdAt": "2026-10-26T08:05:23.541Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126699,
+      "name": "Nexus"
+    },
+    {
+      "id": 139097,
+      "name": "Revise"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
