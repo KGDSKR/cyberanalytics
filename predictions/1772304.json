@@ -1,0 +1,21 @@
+{
+  "matchId": 1772304,
+  "game": "cs2",
+  "createdAt": "2026-10-26T21:23:59.317Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139450,
+      "name": "prodigy"
+    },
+    {
+      "id": 137357,
+      "name": "X-CITY"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
