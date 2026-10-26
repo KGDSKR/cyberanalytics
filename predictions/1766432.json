@@ -1,0 +1,21 @@
+{
+  "matchId": 1766432,
+  "game": "cs2",
+  "createdAt": "2026-10-26T19:46:28.017Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139438,
+      "name": "gotei 5"
+    },
+    {
+      "id": 139099,
+      "name": "underw0rld"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
