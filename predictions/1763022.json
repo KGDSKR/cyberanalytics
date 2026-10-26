@@ -1,0 +1,21 @@
+{
+  "matchId": 1763022,
+  "game": "cs2",
+  "createdAt": "2026-10-26T07:03:22.374Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139421,
+      "name": "Off Chops"
+    },
+    {
+      "id": 135214,
+      "name": "Alter Ego"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
