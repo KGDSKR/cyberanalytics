@@ -1,0 +1,21 @@
+{
+  "matchId": 1763030,
+  "game": "cs2",
+  "createdAt": "2026-10-27T07:04:09.062Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139189,
+      "name": "Staqued"
+    },
+    {
+      "id": 138092,
+      "name": "Abyssal"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
