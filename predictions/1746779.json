@@ -1,0 +1,21 @@
+{
+  "matchId": 1746779,
+  "game": "cs2",
+  "createdAt": "2026-10-27T13:35:03.241Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
