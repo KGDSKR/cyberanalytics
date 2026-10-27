@@ -1,0 +1,21 @@
+{
+  "matchId": 1727905,
+  "game": "cs2",
+  "createdAt": "2026-10-27T09:44:27.563Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137289,
+      "name": "Team Nemesis"
+    },
+    {
+      "id": 126624,
+      "name": "Brute"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
