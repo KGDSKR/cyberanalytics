@@ -1,0 +1,21 @@
+{
+  "matchId": 1772623,
+  "game": "dota2",
+  "createdAt": "2026-10-27T13:25:01.756Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137658,
+      "name": "No Hoodwink"
+    },
+    {
+      "id": 139392,
+      "name": "Mena Warriors"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
