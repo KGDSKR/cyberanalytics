@@ -1,0 +1,21 @@
+{
+  "matchId": 1772305,
+  "game": "cs2",
+  "createdAt": "2026-10-27T20:53:32.219Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137569,
+      "name": "Team Nemesis Academy"
+    },
+    {
+      "id": 137507,
+      "name": "Spirit Academy Black"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
