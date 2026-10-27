@@ -1,0 +1,21 @@
+{
+  "matchId": 1769556,
+  "game": "cs2",
+  "createdAt": "2026-10-27T08:05:40.443Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136846,
+      "name": "Prestige"
+    },
+    {
+      "id": 139336,
+      "name": "Bread Eaters Esports"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
