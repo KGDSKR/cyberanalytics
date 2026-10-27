@@ -1,0 +1,21 @@
+{
+  "matchId": 1774329,
+  "game": "cs2",
+  "createdAt": "2026-10-27T15:14:34.571Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135326,
+      "name": "Wingman"
+    },
+    {
+      "id": 139097,
+      "name": "Revise"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
