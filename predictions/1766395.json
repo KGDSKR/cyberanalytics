@@ -1,0 +1,21 @@
+{
+  "matchId": 1766395,
+  "game": "cs2",
+  "createdAt": "2026-10-27T08:06:13.979Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139097,
+      "name": "Revise"
+    },
+    {
+      "id": 135978,
+      "name": "eternal premium"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
