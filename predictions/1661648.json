@@ -1,0 +1,21 @@
+{
+  "matchId": 1661648,
+  "game": "cs2",
+  "createdAt": "2026-10-28T19:24:02.306Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139187,
+      "name": "BLUEJAYS.de"
+    },
+    {
+      "id": 138178,
+      "name": "Team LEISURE"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
