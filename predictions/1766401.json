@@ -1,0 +1,21 @@
+{
+  "matchId": 1766401,
+  "game": "cs2",
+  "createdAt": "2026-10-28T13:04:21.339Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    },
+    {
+      "id": 128629,
+      "name": "megoshort"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
