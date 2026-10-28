@@ -1,0 +1,21 @@
+{
+  "matchId": 1753763,
+  "game": "dota2",
+  "createdAt": "2026-10-28T13:57:23.269Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137073,
+      "name": "Team Yandex"
+    },
+    {
+      "id": 139432,
+      "name": "Astra Invicta"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
