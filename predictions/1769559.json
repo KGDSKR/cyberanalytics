@@ -1,0 +1,21 @@
+{
+  "matchId": 1769559,
+  "game": "cs2",
+  "createdAt": "2026-10-28T13:05:19.388Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    },
+    {
+      "id": 134261,
+      "name": "Copenhagen Wolves"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
