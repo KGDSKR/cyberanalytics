@@ -1,0 +1,21 @@
+{
+  "matchId": 1772627,
+  "game": "dota2",
+  "createdAt": "2026-10-28T08:28:16.717Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139391,
+      "name": " oveA"
+    },
+    {
+      "id": 139392,
+      "name": "Mena Warriors"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
