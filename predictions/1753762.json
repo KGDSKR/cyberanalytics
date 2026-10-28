@@ -1,0 +1,21 @@
+{
+  "matchId": 1753762,
+  "game": "dota2",
+  "createdAt": "2026-10-28T10:03:43.933Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 135712,
+      "name": "PARIVISION"
+    },
+    {
+      "id": 1647,
+      "name": "Team Liquid"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
