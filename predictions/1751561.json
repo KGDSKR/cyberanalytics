@@ -1,0 +1,21 @@
+{
+  "matchId": 1751561,
+  "game": "cs2",
+  "createdAt": "2026-10-28T13:03:23.217Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 3209,
+      "name": "Astralis"
+    },
+    {
+      "id": 137739,
+      "name": "magic"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
