@@ -1,0 +1,21 @@
+{
+  "matchId": 1769558,
+  "game": "cs2",
+  "createdAt": "2026-10-28T08:05:29.102Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135436,
+      "name": "Revenge"
+    },
+    {
+      "id": 138087,
+      "name": " Gatorian"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
