@@ -1,0 +1,21 @@
+{
+  "matchId": 1753683,
+  "game": "cs2",
+  "createdAt": "2026-10-29T12:45:08.360Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 3455,
+      "name": "Vitality"
+    },
+    {
+      "id": 3216,
+      "name": "Natus Vincere"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
