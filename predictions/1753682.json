@@ -1,0 +1,21 @@
+{
+  "matchId": 1753682,
+  "game": "cs2",
+  "createdAt": "2026-10-29T07:04:25.710Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136955,
+      "name": "FUT Esports"
+    },
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
