@@ -1,0 +1,21 @@
+{
+  "matchId": 1772646,
+  "game": "dota2",
+  "createdAt": "2026-10-29T22:34:28.273Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137808,
+      "name": "Rottweilas Latam"
+    },
+    {
+      "id": 139461,
+      "name": "Roshan Hunters"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
