@@ -1,0 +1,21 @@
+{
+  "matchId": 1746809,
+  "game": "cs2",
+  "createdAt": "2026-10-29T09:26:26.207Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138975,
+      "name": "Butterfly"
+    },
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
