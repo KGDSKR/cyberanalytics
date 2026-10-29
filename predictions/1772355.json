@@ -1,0 +1,21 @@
+{
+  "matchId": 1772355,
+  "game": "dota2",
+  "createdAt": "2026-10-29T02:23:55.814Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139460,
+      "name": "Los Perros"
+    },
+    {
+      "id": 137905,
+      "name": "New Growth"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
