@@ -1,0 +1,21 @@
+{
+  "matchId": 1776369,
+  "game": "cs2",
+  "createdAt": "2026-10-29T22:43:15.004Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 134355,
+      "name": "Galorys"
+    },
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
