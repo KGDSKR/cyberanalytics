@@ -1,0 +1,21 @@
+{
+  "matchId": 1774359,
+  "game": "cs2",
+  "createdAt": "2026-10-29T20:43:09.104Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 3248,
+      "name": "TYLOO"
+    },
+    {
+      "id": 136319,
+      "name": "Iberian Soul"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
