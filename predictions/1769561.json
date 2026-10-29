@@ -1,0 +1,21 @@
+{
+  "matchId": 1769561,
+  "game": "cs2",
+  "createdAt": "2026-10-29T12:46:31.575Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 135436,
+      "name": "Revenge"
+    },
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
