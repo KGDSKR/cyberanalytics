@@ -1,0 +1,21 @@
+{
+  "matchId": 1777546,
+  "game": "cs2",
+  "createdAt": "2026-10-29T08:04:44.124Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 138899,
+      "name": "maybe"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
