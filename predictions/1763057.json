@@ -1,0 +1,21 @@
+{
+  "matchId": 1763057,
+  "game": "cs2",
+  "createdAt": "2026-10-29T09:04:11.698Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129381,
+      "name": "B8"
+    },
+    {
+      "id": 130569,
+      "name": "HOTU"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
