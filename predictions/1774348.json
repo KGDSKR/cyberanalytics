@@ -1,0 +1,21 @@
+{
+  "matchId": 1774348,
+  "game": "cs2",
+  "createdAt": "2026-10-29T12:36:53.252Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    27,
+    73
+  ]
+}
