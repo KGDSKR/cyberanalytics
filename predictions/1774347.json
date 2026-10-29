@@ -1,0 +1,21 @@
+{
+  "matchId": 1774347,
+  "game": "cs2",
+  "createdAt": "2026-10-29T08:05:27.551Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138976,
+      "name": "WBT Academy"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
