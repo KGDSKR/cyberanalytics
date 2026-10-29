@@ -1,0 +1,21 @@
+{
+  "matchId": 1776368,
+  "game": "cs2",
+  "createdAt": "2026-10-29T20:25:04.428Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 3256,
+      "name": "NRG"
+    },
+    {
+      "id": 139469,
+      "name": "Tactical Chaos"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
