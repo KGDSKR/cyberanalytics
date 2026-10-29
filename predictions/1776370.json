@@ -1,0 +1,21 @@
+{
+  "matchId": 1776370,
+  "game": "cs2",
+  "createdAt": "2026-10-29T23:43:39.703Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3256,
+      "name": "NRG"
+    },
+    {
+      "id": 128378,
+      "name": "Procyon Gaming"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
