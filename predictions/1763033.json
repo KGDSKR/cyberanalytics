@@ -1,0 +1,21 @@
+{
+  "matchId": 1763033,
+  "game": "cs2",
+  "createdAt": "2026-10-30T03:04:48.857Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135214,
+      "name": "Alter Ego"
+    },
+    {
+      "id": 138092,
+      "name": "Abyssal"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
