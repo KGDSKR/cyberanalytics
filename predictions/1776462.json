@@ -1,0 +1,21 @@
+{
+  "matchId": 1776462,
+  "game": "cs2",
+  "createdAt": "2026-10-30T22:55:31.579Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138155,
+      "name": "Hacha Esports"
+    },
+    {
+      "id": 129352,
+      "name": "BTH"
+    }
+  ],
+  "probs": [
+    92,
+    8
+  ]
+}
