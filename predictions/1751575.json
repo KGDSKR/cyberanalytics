@@ -1,0 +1,21 @@
+{
+  "matchId": 1751575,
+  "game": "cs2",
+  "createdAt": "2026-10-30T18:13:45.281Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "2:0",
+  "teams": [
+    {
+      "id": 3217,
+      "name": "fnatic"
+    },
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
