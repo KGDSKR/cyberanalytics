@@ -1,0 +1,21 @@
+{
+  "matchId": 1759492,
+  "game": "dota2",
+  "createdAt": "2026-10-30T05:23:06.381Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139363,
+      "name": "Zenith"
+    },
+    {
+      "id": 128080,
+      "name": "Yangon Galacticos"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
