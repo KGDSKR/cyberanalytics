@@ -1,0 +1,21 @@
+{
+  "matchId": 1753686,
+  "game": "cs2",
+  "createdAt": "2026-10-30T13:43:43.164Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 124522,
+      "name": "Nemiga"
+    },
+    {
+      "id": 3455,
+      "name": "Vitality"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
