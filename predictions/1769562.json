@@ -1,0 +1,21 @@
+{
+  "matchId": 1769562,
+  "game": "cs2",
+  "createdAt": "2026-10-30T08:05:54.349Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138087,
+      "name": " Gatorian"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
