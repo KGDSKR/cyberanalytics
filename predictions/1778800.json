@@ -1,0 +1,21 @@
+{
+  "matchId": 1778800,
+  "game": "cs2",
+  "createdAt": "2026-10-30T18:06:52.759Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135326,
+      "name": "Wingman"
+    },
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    }
+  ],
+  "probs": [
+    66,
+    34
+  ]
+}
