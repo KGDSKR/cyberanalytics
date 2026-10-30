@@ -1,0 +1,21 @@
+{
+  "matchId": 1778795,
+  "game": "cs2",
+  "createdAt": "2026-10-30T08:04:38.927Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126417,
+      "name": "Lilmix"
+    },
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
