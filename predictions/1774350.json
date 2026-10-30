@@ -1,0 +1,21 @@
+{
+  "matchId": 1774350,
+  "game": "cs2",
+  "createdAt": "2026-10-30T08:05:20.490Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    },
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
