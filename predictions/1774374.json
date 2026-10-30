@@ -1,0 +1,21 @@
+{
+  "matchId": 1774374,
+  "game": "cs2",
+  "createdAt": "2026-10-30T21:34:45.595Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 126584,
+      "name": "OG"
+    },
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
