@@ -1,0 +1,21 @@
+{
+  "matchId": 1772362,
+  "game": "dota2",
+  "createdAt": "2026-10-30T22:44:41.281Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139459,
+      "name": "rebeldes"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
