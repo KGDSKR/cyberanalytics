@@ -1,0 +1,21 @@
+{
+  "matchId": 1772361,
+  "game": "dota2",
+  "createdAt": "2026-10-30T20:44:22.176Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139457,
+      "name": "SOLID"
+    },
+    {
+      "id": 133237,
+      "name": "Chandogs"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
