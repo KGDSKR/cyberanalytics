@@ -1,0 +1,21 @@
+{
+  "matchId": 1746814,
+  "game": "cs2",
+  "createdAt": "2026-10-30T08:16:30.979Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
