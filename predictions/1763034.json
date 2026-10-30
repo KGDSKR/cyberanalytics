@@ -1,0 +1,21 @@
+{
+  "matchId": 1763034,
+  "game": "cs2",
+  "createdAt": "2026-10-30T03:03:45.839Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    },
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
