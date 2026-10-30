@@ -1,0 +1,21 @@
+{
+  "matchId": 1774372,
+  "game": "cs2",
+  "createdAt": "2026-10-30T20:34:17.665Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 135177,
+      "name": "BC.Game Esports"
+    },
+    {
+      "id": 129440,
+      "name": "Metizport"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
