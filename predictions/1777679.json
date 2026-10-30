@@ -1,0 +1,21 @@
+{
+  "matchId": 1777679,
+  "game": "cs2",
+  "createdAt": "2026-10-30T17:33:19.228Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    },
+    {
+      "id": 137584,
+      "name": "Omega"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
