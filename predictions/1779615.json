@@ -1,0 +1,21 @@
+{
+  "matchId": 1779615,
+  "game": "cs2",
+  "createdAt": "2026-10-30T19:34:15.246Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138686,
+      "name": "Hunters Rising"
+    },
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
