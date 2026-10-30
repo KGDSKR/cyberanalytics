@@ -1,0 +1,21 @@
+{
+  "matchId": 1776335,
+  "game": "cs2",
+  "createdAt": "2026-10-30T13:54:12.301Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    },
+    {
+      "id": 137461,
+      "name": "naocopulas"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
