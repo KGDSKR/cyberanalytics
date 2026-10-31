@@ -1,0 +1,21 @@
+{
+  "matchId": 1763037,
+  "game": "cs2",
+  "createdAt": "2026-10-31T05:33:49.791Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135214,
+      "name": "Alter Ego"
+    },
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
