@@ -1,0 +1,21 @@
+{
+  "matchId": 1782748,
+  "game": "cs2",
+  "createdAt": "2026-10-31T15:06:46.933Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    },
+    {
+      "id": 139480,
+      "name": " ThePigs"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
