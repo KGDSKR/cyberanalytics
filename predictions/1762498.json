@@ -1,0 +1,21 @@
+{
+  "matchId": 1762498,
+  "game": "cs2",
+  "createdAt": "2026-10-31T09:25:48.073Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 130569,
+      "name": "HOTU"
+    },
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
