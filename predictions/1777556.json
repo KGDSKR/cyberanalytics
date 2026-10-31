@@ -1,0 +1,21 @@
+{
+  "matchId": 1777556,
+  "game": "cs2",
+  "createdAt": "2026-10-31T08:05:40.328Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138537,
+      "name": "PsychoFace"
+    },
+    {
+      "id": 135981,
+      "name": "Donstu Esports"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
