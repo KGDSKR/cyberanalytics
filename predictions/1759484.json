@@ -1,0 +1,21 @@
+{
+  "matchId": 1759484,
+  "game": "dota2",
+  "createdAt": "2026-10-31T06:14:01.693Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139363,
+      "name": "Zenith"
+    },
+    {
+      "id": 139413,
+      "name": "Resp Gaming"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
