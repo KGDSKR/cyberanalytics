@@ -1,0 +1,21 @@
+{
+  "matchId": 1782753,
+  "game": "cs2",
+  "createdAt": "2026-10-31T22:33:27.466Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139480,
+      "name": " ThePigs"
+    },
+    {
+      "id": 138117,
+      "name": "CTRL Esports"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
