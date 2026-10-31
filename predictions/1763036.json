@@ -1,0 +1,21 @@
+{
+  "matchId": 1763036,
+  "game": "cs2",
+  "createdAt": "2026-10-31T02:43:08.986Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138092,
+      "name": "Abyssal"
+    },
+    {
+      "id": 138151,
+      "name": "NEXVOID"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
