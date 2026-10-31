@@ -1,0 +1,21 @@
+{
+  "matchId": 1766412,
+  "game": "cs2",
+  "createdAt": "2026-10-31T08:07:40.928Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134405,
+      "name": "Vexar"
+    },
+    {
+      "id": 127497,
+      "name": "eSuba"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
