@@ -1,0 +1,21 @@
+{
+  "matchId": 1772632,
+  "game": "dota2",
+  "createdAt": "2026-10-31T15:54:46.633Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127965,
+      "name": "Hokori"
+    },
+    {
+      "id": 129222,
+      "name": "potn9ki"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
