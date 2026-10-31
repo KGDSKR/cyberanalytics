@@ -1,0 +1,21 @@
+{
+  "matchId": 1772648,
+  "game": "dota2",
+  "createdAt": "2026-10-31T20:15:21.079Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139385,
+      "name": "Level Up Academy"
+    },
+    {
+      "id": 139389,
+      "name": "old blood"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
