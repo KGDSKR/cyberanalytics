@@ -1,0 +1,21 @@
+{
+  "matchId": 1782870,
+  "game": "cs2",
+  "createdAt": "2026-10-31T20:34:36.048Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
