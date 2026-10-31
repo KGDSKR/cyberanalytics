@@ -1,0 +1,21 @@
+{
+  "matchId": 1781563,
+  "game": "cs2",
+  "createdAt": "2026-10-31T16:15:04.536Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135978,
+      "name": "eternal premium"
+    },
+    {
+      "id": 138729,
+      "name": "DNK"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
