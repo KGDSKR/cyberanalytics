@@ -1,0 +1,21 @@
+{
+  "matchId": 1782755,
+  "game": "cs2",
+  "createdAt": "2026-11-01T16:24:44.718Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    },
+    {
+      "id": 139041,
+      "name": "Ryvex"
+    }
+  ],
+  "probs": [
+    87,
+    13
+  ]
+}
