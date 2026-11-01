@@ -1,0 +1,21 @@
+{
+  "matchId": 1776472,
+  "game": "cs2",
+  "createdAt": "2026-11-01T15:44:00.764Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    },
+    {
+      "id": 132800,
+      "name": "BESTIA"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
