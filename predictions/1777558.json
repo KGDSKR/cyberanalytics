@@ -1,0 +1,21 @@
+{
+  "matchId": 1777558,
+  "game": "cs2",
+  "createdAt": "2026-11-01T08:04:07.026Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138537,
+      "name": "PsychoFace"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
