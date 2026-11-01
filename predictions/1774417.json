@@ -1,0 +1,21 @@
+{
+  "matchId": 1774417,
+  "game": "cs2",
+  "createdAt": "2026-11-01T17:33:59.225Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 136319,
+      "name": "Iberian Soul"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
