@@ -1,0 +1,21 @@
+{
+  "matchId": 1776474,
+  "game": "cs2",
+  "createdAt": "2026-11-01T21:44:45.760Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    },
+    {
+      "id": 135273,
+      "name": "Wildcard"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
