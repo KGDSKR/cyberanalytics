@@ -1,0 +1,21 @@
+{
+  "matchId": 1783982,
+  "game": "cs2",
+  "createdAt": "2026-11-01T19:04:15.667Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 131591,
+      "name": "XI Esport"
+    },
+    {
+      "id": 138986,
+      "name": "MTX"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
