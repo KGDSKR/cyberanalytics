@@ -1,0 +1,21 @@
+{
+  "matchId": 1776470,
+  "game": "cs2",
+  "createdAt": "2026-11-01T00:53:15.856Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 3256,
+      "name": "NRG"
+    },
+    {
+      "id": 135273,
+      "name": "Wildcard"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
