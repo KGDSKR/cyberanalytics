@@ -1,0 +1,21 @@
+{
+  "matchId": 1762501,
+  "game": "cs2",
+  "createdAt": "2026-11-01T08:06:39.551Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133900,
+      "name": "The Huns Esports"
+    },
+    {
+      "id": 138284,
+      "name": "5star"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
