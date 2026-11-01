@@ -1,0 +1,21 @@
+{
+  "matchId": 1769566,
+  "game": "cs2",
+  "createdAt": "2026-11-01T08:04:59.693Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    },
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
