@@ -1,0 +1,21 @@
+{
+  "matchId": 1776330,
+  "game": "cs2",
+  "createdAt": "2026-11-01T01:14:15.818Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 126377,
+      "name": "Imperial"
+    },
+    {
+      "id": 139098,
+      "name": "Low Cortisol"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
