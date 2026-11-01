@@ -1,0 +1,21 @@
+{
+  "matchId": 1763038,
+  "game": "cs2",
+  "createdAt": "2026-11-01T02:23:40.052Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    },
+    {
+      "id": 135214,
+      "name": "Alter Ego"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
