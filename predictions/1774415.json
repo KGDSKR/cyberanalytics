@@ -1,0 +1,21 @@
+{
+  "matchId": 1774415,
+  "game": "cs2",
+  "createdAt": "2026-11-01T11:26:28.984Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 126994,
+      "name": "JiJieHao"
+    },
+    {
+      "id": 129440,
+      "name": "Metizport"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
