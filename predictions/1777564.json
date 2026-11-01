@@ -1,0 +1,21 @@
+{
+  "matchId": 1777564,
+  "game": "cs2",
+  "createdAt": "2026-11-01T18:24:43.029Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    },
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
