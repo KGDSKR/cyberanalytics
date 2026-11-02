@@ -1,0 +1,21 @@
+{
+  "matchId": 1766428,
+  "game": "cs2",
+  "createdAt": "2026-11-02T08:36:43.467Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    },
+    {
+      "id": 137951,
+      "name": "Invicta"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
