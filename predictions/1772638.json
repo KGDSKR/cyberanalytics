@@ -1,0 +1,21 @@
+{
+  "matchId": 1772638,
+  "game": "dota2",
+  "createdAt": "2026-11-02T16:05:54.456Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127965,
+      "name": "Hokori"
+    },
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
