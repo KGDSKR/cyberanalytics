@@ -1,0 +1,21 @@
+{
+  "matchId": 1785821,
+  "game": "cs2",
+  "createdAt": "2026-11-02T18:33:33.056Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127497,
+      "name": "eSuba"
+    },
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
