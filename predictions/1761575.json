@@ -1,0 +1,21 @@
+{
+  "matchId": 1761575,
+  "game": "cs2",
+  "createdAt": "2026-11-02T08:57:41.705Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    },
+    {
+      "id": 3248,
+      "name": "TYLOO"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
