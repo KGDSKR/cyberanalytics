@@ -1,0 +1,21 @@
+{
+  "matchId": 1772637,
+  "game": "dota2",
+  "createdAt": "2026-11-02T14:23:45.211Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 129222,
+      "name": "potn9ki"
+    },
+    {
+      "id": 139463,
+      "name": "HellNight-"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
