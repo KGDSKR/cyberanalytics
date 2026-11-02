@@ -1,0 +1,21 @@
+{
+  "matchId": 1761573,
+  "game": "cs2",
+  "createdAt": "2026-11-02T09:05:58.037Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3216,
+      "name": "Natus Vincere"
+    },
+    {
+      "id": 130564,
+      "name": "Team Falcons"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
