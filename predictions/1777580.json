@@ -1,0 +1,21 @@
+{
+  "matchId": 1777580,
+  "game": "cs2",
+  "createdAt": "2026-11-02T15:44:32.048Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 125774,
+      "name": "HAVU"
+    },
+    {
+      "id": 138130,
+      "name": "Nordic Valor"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
