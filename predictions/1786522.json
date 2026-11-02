@@ -1,0 +1,21 @@
+{
+  "matchId": 1786522,
+  "game": "dota2",
+  "createdAt": "2026-11-02T15:53:47.255Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139007,
+      "name": "Daxak Team"
+    },
+    {
+      "id": 139493,
+      "name": " iLTW TEAM"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
