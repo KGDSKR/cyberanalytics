@@ -1,0 +1,21 @@
+{
+  "matchId": 1780346,
+  "game": "cs2",
+  "createdAt": "2026-11-02T21:43:58.013Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139465,
+      "name": "GODS PLAN"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
