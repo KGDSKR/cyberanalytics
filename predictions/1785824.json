@@ -1,0 +1,21 @@
+{
+  "matchId": 1785824,
+  "game": "cs2",
+  "createdAt": "2026-11-02T18:05:06.090Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138358,
+      "name": "banda chuya"
+    },
+    {
+      "id": 137356,
+      "name": "JUMBO TEAM"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
