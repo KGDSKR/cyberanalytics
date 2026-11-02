@@ -1,0 +1,21 @@
+{
+  "matchId": 1759499,
+  "game": "dota2",
+  "createdAt": "2026-11-02T08:04:47.240Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139363,
+      "name": "Zenith"
+    },
+    {
+      "id": 138753,
+      "name": "Direborn"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
