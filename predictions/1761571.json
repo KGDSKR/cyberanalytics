@@ -1,0 +1,21 @@
+{
+  "matchId": 1761571,
+  "game": "cs2",
+  "createdAt": "2026-11-02T01:43:21.050Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3246,
+      "name": "Heroic"
+    },
+    {
+      "id": 129381,
+      "name": "B8"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
