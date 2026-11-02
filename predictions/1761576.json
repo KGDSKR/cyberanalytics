@@ -1,0 +1,21 @@
+{
+  "matchId": 1761576,
+  "game": "cs2",
+  "createdAt": "2026-11-02T08:04:01.719Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 126709,
+      "name": "9z"
+    },
+    {
+      "id": 133458,
+      "name": "BetBoom Team"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
