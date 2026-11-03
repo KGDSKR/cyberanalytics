@@ -1,0 +1,21 @@
+{
+  "matchId": 1785734,
+  "game": "dota2",
+  "createdAt": "2026-11-03T17:44:12.128Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    },
+    {
+      "id": 139462,
+      "name": "angry birds"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
