@@ -1,0 +1,21 @@
+{
+  "matchId": 1781470,
+  "game": "cs2",
+  "createdAt": "2026-11-03T02:43:19.936Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3213,
+      "name": "Liquid"
+    },
+    {
+      "id": 133719,
+      "name": "PARIVISION"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
