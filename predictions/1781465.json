@@ -1,0 +1,21 @@
+{
+  "matchId": 1781465,
+  "game": "cs2",
+  "createdAt": "2026-11-03T08:03:24.966Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3212,
+      "name": "FaZe"
+    },
+    {
+      "id": 130564,
+      "name": "Team Falcons"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
