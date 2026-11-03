@@ -1,0 +1,21 @@
+{
+  "matchId": 1756308,
+  "game": "dota2",
+  "createdAt": "2026-11-03T11:14:04.292Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139340,
+      "name": "LEGION"
+    },
+    {
+      "id": 1654,
+      "name": "OG"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
