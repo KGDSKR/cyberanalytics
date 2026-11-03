@@ -1,0 +1,21 @@
+{
+  "matchId": 1784389,
+  "game": "cs2",
+  "createdAt": "2026-11-03T08:07:05.522Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
