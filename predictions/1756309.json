@@ -1,0 +1,21 @@
+{
+  "matchId": 1756309,
+  "game": "dota2",
+  "createdAt": "2026-11-03T15:13:57.075Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    },
+    {
+      "id": 139339,
+      "name": "CyberHero"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
