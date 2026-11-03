@@ -1,0 +1,21 @@
+{
+  "matchId": 1777583,
+  "game": "cs2",
+  "createdAt": "2026-11-03T18:45:17.507Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 137707,
+      "name": "SINQU"
+    },
+    {
+      "id": 136846,
+      "name": "Prestige"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
