@@ -1,0 +1,21 @@
+{
+  "matchId": 1777566,
+  "game": "cs2",
+  "createdAt": "2026-11-03T09:31:48.210Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    },
+    {
+      "id": 138899,
+      "name": "maybe"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
