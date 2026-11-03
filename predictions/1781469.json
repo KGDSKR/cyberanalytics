@@ -1,0 +1,21 @@
+{
+  "matchId": 1781469,
+  "game": "cs2",
+  "createdAt": "2026-11-03T04:04:18.949Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    },
+    {
+      "id": 133458,
+      "name": "BetBoom Team"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
