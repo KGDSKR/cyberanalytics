@@ -1,0 +1,21 @@
+{
+  "matchId": 1781474,
+  "game": "cs2",
+  "createdAt": "2026-11-04T01:33:27.755Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3213,
+      "name": "Liquid"
+    },
+    {
+      "id": 3248,
+      "name": "TYLOO"
+    }
+  ],
+  "probs": [
+    86,
+    14
+  ]
+}
