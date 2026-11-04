@@ -1,0 +1,21 @@
+{
+  "matchId": 1781476,
+  "game": "cs2",
+  "createdAt": "2026-11-04T08:05:11.974Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 3213,
+      "name": "Liquid"
+    },
+    {
+      "id": 133458,
+      "name": "BetBoom Team"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
