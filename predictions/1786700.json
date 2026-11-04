@@ -1,0 +1,21 @@
+{
+  "matchId": 1786700,
+  "game": "cs2",
+  "createdAt": "2026-11-04T18:03:45.349Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    },
+    {
+      "id": 139202,
+      "name": "your end"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
