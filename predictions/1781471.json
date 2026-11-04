@@ -1,0 +1,21 @@
+{
+  "matchId": 1781471,
+  "game": "cs2",
+  "createdAt": "2026-11-04T08:03:28.067Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    },
+    {
+      "id": 133719,
+      "name": "PARIVISION"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
