@@ -1,0 +1,21 @@
+{
+  "matchId": 1788759,
+  "game": "cs2",
+  "createdAt": "2026-11-04T08:07:42.350Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    },
+    {
+      "id": 131189,
+      "name": "EYEBALLERS"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
