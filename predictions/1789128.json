@@ -1,0 +1,21 @@
+{
+  "matchId": 1789128,
+  "game": "cs2",
+  "createdAt": "2026-11-04T14:04:39.308Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139320,
+      "name": "PRIVATE"
+    },
+    {
+      "id": 138694,
+      "name": "Dark Moon"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
