@@ -1,0 +1,21 @@
+{
+  "matchId": 1786792,
+  "game": "cs2",
+  "createdAt": "2026-11-04T08:57:19.611Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    },
+    {
+      "id": 139208,
+      "name": "Gothic"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
