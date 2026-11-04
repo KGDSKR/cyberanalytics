@@ -1,0 +1,21 @@
+{
+  "matchId": 1789127,
+  "game": "cs2",
+  "createdAt": "2026-11-04T08:06:52.641Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    },
+    {
+      "id": 138729,
+      "name": "DNK"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
