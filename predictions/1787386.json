@@ -1,0 +1,21 @@
+{
+  "matchId": 1787386,
+  "game": "cs2",
+  "createdAt": "2026-11-04T14:25:26.950Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 126417,
+      "name": "Lilmix"
+    },
+    {
+      "id": 138400,
+      "name": "mellren"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
