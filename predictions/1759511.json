@@ -1,0 +1,21 @@
+{
+  "matchId": 1759511,
+  "game": "dota2",
+  "createdAt": "2026-11-04T08:05:58.398Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139367,
+      "name": "Royal Bear"
+    },
+    {
+      "id": 138753,
+      "name": "Direborn"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
