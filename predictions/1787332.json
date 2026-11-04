@@ -1,0 +1,21 @@
+{
+  "matchId": 1787332,
+  "game": "cs2",
+  "createdAt": "2026-11-04T15:16:39.388Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    },
+    {
+      "id": 137551,
+      "name": "Four Magic"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
