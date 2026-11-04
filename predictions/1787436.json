@@ -1,0 +1,21 @@
+{
+  "matchId": 1787436,
+  "game": "cs2",
+  "createdAt": "2026-11-04T18:54:57.181Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 134251,
+      "name": "Rebels Gaming"
+    },
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    }
+  ],
+  "probs": [
+    91,
+    9
+  ]
+}
