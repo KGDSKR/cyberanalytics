@@ -1,0 +1,21 @@
+{
+  "matchId": 1781475,
+  "game": "cs2",
+  "createdAt": "2026-11-04T03:43:44.423Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 133458,
+      "name": "BetBoom Team"
+    },
+    {
+      "id": 131505,
+      "name": "Aurora Gaming"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
