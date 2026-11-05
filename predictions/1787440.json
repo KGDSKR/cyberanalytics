@@ -1,0 +1,21 @@
+{
+  "matchId": 1787440,
+  "game": "cs2",
+  "createdAt": "2026-11-05T14:15:15.220Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 134251,
+      "name": "Rebels Gaming"
+    },
+    {
+      "id": 138400,
+      "name": "mellren"
+    }
+  ],
+  "probs": [
+    77,
+    23
+  ]
+}
