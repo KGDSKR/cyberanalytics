@@ -1,0 +1,21 @@
+{
+  "matchId": 1788766,
+  "game": "cs2",
+  "createdAt": "2026-11-05T14:44:35.868Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139314,
+      "name": "TheChampionGG"
+    },
+    {
+      "id": 139426,
+      "name": "SANCTUM"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
