@@ -1,0 +1,21 @@
+{
+  "matchId": 1789131,
+  "game": "cs2",
+  "createdAt": "2026-11-05T08:05:14.911Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    },
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
