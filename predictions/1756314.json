@@ -1,0 +1,21 @@
+{
+  "matchId": 1756314,
+  "game": "dota2",
+  "createdAt": "2026-11-05T22:13:20.028Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "2:1",
+  "teams": [
+    {
+      "id": 1699,
+      "name": "Natus Vincere"
+    },
+    {
+      "id": 137588,
+      "name": "GamerLegion"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
