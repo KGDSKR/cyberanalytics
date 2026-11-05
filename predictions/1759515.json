@@ -1,0 +1,21 @@
+{
+  "matchId": 1759515,
+  "game": "dota2",
+  "createdAt": "2026-11-05T08:03:46.108Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139367,
+      "name": "Royal Bear"
+    },
+    {
+      "id": 128080,
+      "name": "Yangon Galacticos"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
