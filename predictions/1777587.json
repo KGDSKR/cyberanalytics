@@ -1,0 +1,21 @@
+{
+  "matchId": 1777587,
+  "game": "cs2",
+  "createdAt": "2026-11-05T19:43:49.363Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138130,
+      "name": "Nordic Valor"
+    },
+    {
+      "id": 138131,
+      "name": "BoyBand"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
