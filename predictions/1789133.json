@@ -1,0 +1,21 @@
+{
+  "matchId": 1789133,
+  "game": "cs2",
+  "createdAt": "2026-11-05T14:53:58.238Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138617,
+      "name": "INOX Division"
+    },
+    {
+      "id": 128887,
+      "name": "Honvéd"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
