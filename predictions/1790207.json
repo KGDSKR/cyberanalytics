@@ -1,0 +1,21 @@
+{
+  "matchId": 1790207,
+  "game": "cs2",
+  "createdAt": "2026-11-05T18:03:52.468Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139504,
+      "name": "Monkeys"
+    },
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
