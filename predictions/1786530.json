@@ -1,0 +1,21 @@
+{
+  "matchId": 1786530,
+  "game": "dota2",
+  "createdAt": "2026-11-05T11:05:29.950Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139492,
+      "name": "rostikfacekid TEAM"
+    },
+    {
+      "id": 139007,
+      "name": "Daxak Team"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
