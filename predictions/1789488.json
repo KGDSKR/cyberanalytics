@@ -1,0 +1,21 @@
+{
+  "matchId": 1789488,
+  "game": "cs2",
+  "createdAt": "2026-11-05T08:04:28.484Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    },
+    {
+      "id": 139529,
+      "name": "Balkan Outlaws"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
