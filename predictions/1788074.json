@@ -1,0 +1,21 @@
+{
+  "matchId": 1788074,
+  "game": "cs2",
+  "createdAt": "2026-11-05T08:06:41.791Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137701,
+      "name": "Bebop"
+    },
+    {
+      "id": 128629,
+      "name": "megoshort"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
