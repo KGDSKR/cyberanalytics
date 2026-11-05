@@ -1,0 +1,21 @@
+{
+  "matchId": 1785756,
+  "game": "dota2",
+  "createdAt": "2026-11-05T14:24:18.951Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 136531,
+      "name": "Team Lynx"
+    },
+    {
+      "id": 139490,
+      "name": "Time to Sleep"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
