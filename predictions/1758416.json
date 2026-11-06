@@ -1,0 +1,21 @@
+{
+  "matchId": 1758416,
+  "game": "cs2",
+  "createdAt": "2026-11-06T23:33:18.458Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138942,
+      "name": "Grêmio Esports"
+    },
+    {
+      "id": 138886,
+      "name": "BORRACHEIROS"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
