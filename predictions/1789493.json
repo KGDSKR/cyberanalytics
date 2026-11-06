@@ -1,0 +1,21 @@
+{
+  "matchId": 1789493,
+  "game": "cs2",
+  "createdAt": "2026-11-06T08:05:49.090Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
