@@ -1,0 +1,21 @@
+{
+  "matchId": 1789135,
+  "game": "cs2",
+  "createdAt": "2026-11-06T08:06:34.522Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    },
+    {
+      "id": 139097,
+      "name": "Revise"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
