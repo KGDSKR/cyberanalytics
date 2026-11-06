@@ -1,0 +1,21 @@
+{
+  "matchId": 1788082,
+  "game": "cs2",
+  "createdAt": "2026-11-06T08:08:06.319Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    },
+    {
+      "id": 137551,
+      "name": "Four Magic"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
