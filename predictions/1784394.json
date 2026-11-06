@@ -1,0 +1,21 @@
+{
+  "matchId": 1784394,
+  "game": "cs2",
+  "createdAt": "2026-11-06T09:27:38.845Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    },
+    {
+      "id": 135474,
+      "name": "Fire Flux Esports"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
