@@ -1,0 +1,21 @@
+{
+  "matchId": 1795365,
+  "game": "cs2",
+  "createdAt": "2026-11-07T15:44:55.180Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139320,
+      "name": "PRIVATE"
+    },
+    {
+      "id": 139266,
+      "name": "Optibet"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
