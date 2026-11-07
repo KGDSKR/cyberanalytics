@@ -1,0 +1,21 @@
+{
+  "matchId": 1784404,
+  "game": "cs2",
+  "createdAt": "2026-11-07T08:07:25.501Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134188,
+      "name": "Johnny Speeds"
+    },
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
