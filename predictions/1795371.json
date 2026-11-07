@@ -1,0 +1,21 @@
+{
+  "matchId": 1795371,
+  "game": "cs2",
+  "createdAt": "2026-11-07T18:49:03.920Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    },
+    {
+      "id": 139529,
+      "name": "Balkan Outlaws"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
