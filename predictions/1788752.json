@@ -1,0 +1,21 @@
+{
+  "matchId": 1788752,
+  "game": "cs2",
+  "createdAt": "2026-11-07T08:05:04.967Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    },
+    {
+      "id": 130421,
+      "name": "9INE Academy"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
