@@ -1,0 +1,21 @@
+{
+  "matchId": 1791738,
+  "game": "dota2",
+  "createdAt": "2026-11-07T17:34:26.125Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
