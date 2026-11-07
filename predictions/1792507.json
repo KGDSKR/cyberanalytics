@@ -1,0 +1,21 @@
+{
+  "matchId": 1792507,
+  "game": "dota2",
+  "createdAt": "2026-11-07T09:11:14.731Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 139340,
+      "name": "LEGION"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
