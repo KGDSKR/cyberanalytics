@@ -1,0 +1,21 @@
+{
+  "matchId": 1791740,
+  "game": "dota2",
+  "createdAt": "2026-11-07T22:16:41.675Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    },
+    {
+      "id": 139339,
+      "name": "CyberHero"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
