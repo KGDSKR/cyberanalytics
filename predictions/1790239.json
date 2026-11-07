@@ -1,0 +1,21 @@
+{
+  "matchId": 1790239,
+  "game": "cs2",
+  "createdAt": "2026-11-07T21:35:07.247Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139502,
+      "name": "BRUTE SQ"
+    },
+    {
+      "id": 139014,
+      "name": "Dynamo Eclot Phoenix"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
