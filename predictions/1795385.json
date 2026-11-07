@@ -1,0 +1,21 @@
+{
+  "matchId": 1795385,
+  "game": "cs2",
+  "createdAt": "2026-11-07T15:25:31.863Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 134320,
+      "name": "aimclub"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
