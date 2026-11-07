@@ -1,0 +1,21 @@
+{
+  "matchId": 1795372,
+  "game": "cs2",
+  "createdAt": "2026-11-07T18:24:33.591Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138729,
+      "name": "DNK"
+    },
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
