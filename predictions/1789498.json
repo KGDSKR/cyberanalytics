@@ -1,0 +1,21 @@
+{
+  "matchId": 1789498,
+  "game": "cs2",
+  "createdAt": "2026-11-07T08:04:14.614Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    },
+    {
+      "id": 139149,
+      "name": "Saint Sinners"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
