@@ -1,0 +1,21 @@
+{
+  "matchId": 1781484,
+  "game": "cs2",
+  "createdAt": "2026-11-07T05:33:23.795Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3272,
+      "name": "TheMongolz"
+    },
+    {
+      "id": 3216,
+      "name": "Natus Vincere"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
