@@ -1,0 +1,21 @@
+{
+  "matchId": 1791739,
+  "game": "dota2",
+  "createdAt": "2026-11-07T18:34:01.074Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    }
+  ],
+  "probs": [
+    79,
+    21
+  ]
+}
