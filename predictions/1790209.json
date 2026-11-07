@@ -1,0 +1,21 @@
+{
+  "matchId": 1790209,
+  "game": "cs2",
+  "createdAt": "2026-11-07T20:03:32.608Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139504,
+      "name": "Monkeys"
+    },
+    {
+      "id": 139506,
+      "name": "SINNERS Legacy"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
