@@ -1,0 +1,21 @@
+{
+  "matchId": 1788084,
+  "game": "cs2",
+  "createdAt": "2026-11-07T08:05:52.915Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137551,
+      "name": "Four Magic"
+    },
+    {
+      "id": 127911,
+      "name": "MASONIC"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
