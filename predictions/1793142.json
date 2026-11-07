@@ -1,0 +1,21 @@
+{
+  "matchId": 1793142,
+  "game": "dota2",
+  "createdAt": "2026-11-07T16:55:20.500Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 127965,
+      "name": "Hokori"
+    },
+    {
+      "id": 137808,
+      "name": "Rottweilas Latam"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
