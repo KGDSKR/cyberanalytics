@@ -1,0 +1,21 @@
+{
+  "matchId": 1795390,
+  "game": "cs2",
+  "createdAt": "2026-11-08T20:34:16.022Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 134320,
+      "name": "aimclub"
+    },
+    {
+      "id": 139529,
+      "name": "Balkan Outlaws"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
