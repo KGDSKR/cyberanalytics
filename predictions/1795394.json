@@ -1,0 +1,21 @@
+{
+  "matchId": 1795394,
+  "game": "cs2",
+  "createdAt": "2026-11-08T18:34:22.842Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137699,
+      "name": "FOKUS"
+    },
+    {
+      "id": 137546,
+      "name": "Acend"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
