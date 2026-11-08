@@ -1,0 +1,21 @@
+{
+  "matchId": 1788086,
+  "game": "cs2",
+  "createdAt": "2026-11-08T15:54:36.176Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    },
+    {
+      "id": 127911,
+      "name": "MASONIC"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
