@@ -1,0 +1,21 @@
+{
+  "matchId": 1788761,
+  "game": "cs2",
+  "createdAt": "2026-11-08T08:04:06.088Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    },
+    {
+      "id": 139502,
+      "name": "BRUTE SQ"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
