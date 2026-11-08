@@ -1,0 +1,21 @@
+{
+  "matchId": 1791676,
+  "game": "dota2",
+  "createdAt": "2026-11-08T10:21:27.555Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    },
+    {
+      "id": 139363,
+      "name": "Zenith"
+    }
+  ],
+  "probs": [
+    80,
+    20
+  ]
+}
