@@ -1,0 +1,21 @@
+{
+  "matchId": 1784405,
+  "game": "cs2",
+  "createdAt": "2026-11-08T08:06:09.053Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136516,
+      "name": "BASEMENT BOYS"
+    },
+    {
+      "id": 128766,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
