@@ -1,0 +1,21 @@
+{
+  "matchId": 1788076,
+  "game": "cs2",
+  "createdAt": "2026-11-08T08:04:50.397Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137701,
+      "name": "Bebop"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
