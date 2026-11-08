@@ -1,0 +1,21 @@
+{
+  "matchId": 1781487,
+  "game": "cs2",
+  "createdAt": "2026-11-08T03:03:16.108Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3216,
+      "name": "Natus Vincere"
+    },
+    {
+      "id": 133458,
+      "name": "BetBoom Team"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
