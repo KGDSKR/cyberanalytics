@@ -1,0 +1,21 @@
+{
+  "matchId": 1786808,
+  "game": "cs2",
+  "createdAt": "2026-11-08T08:05:29.576Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135321,
+      "name": "G2 Ares"
+    },
+    {
+      "id": 138101,
+      "name": "Inner Circle Academy"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
