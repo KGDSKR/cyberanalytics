@@ -1,0 +1,21 @@
+{
+  "matchId": 1784407,
+  "game": "cs2",
+  "createdAt": "2026-11-08T15:34:33.920Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138470,
+      "name": "ex-ENCE"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
