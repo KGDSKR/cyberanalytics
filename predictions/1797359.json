@@ -1,0 +1,21 @@
+{
+  "matchId": 1797359,
+  "game": "cs2",
+  "createdAt": "2026-11-08T21:23:32.034Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139012,
+      "name": "Elusive"
+    },
+    {
+      "id": 136318,
+      "name": "Marsborne"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
