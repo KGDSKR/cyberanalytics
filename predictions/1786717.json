@@ -1,0 +1,21 @@
+{
+  "matchId": 1786717,
+  "game": "cs2",
+  "createdAt": "2026-11-08T21:45:07.341Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139098,
+      "name": "Low Cortisol"
+    },
+    {
+      "id": 138939,
+      "name": "Rush"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
