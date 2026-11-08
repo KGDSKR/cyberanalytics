@@ -1,0 +1,21 @@
+{
+  "matchId": 1788081,
+  "game": "cs2",
+  "createdAt": "2026-11-08T12:24:33.352Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 136846,
+      "name": "Prestige"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
