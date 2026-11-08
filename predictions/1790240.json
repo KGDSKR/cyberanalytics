@@ -1,0 +1,21 @@
+{
+  "matchId": 1790240,
+  "game": "cs2",
+  "createdAt": "2026-11-08T21:15:00.920Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133063,
+      "name": "UNiTY esports"
+    },
+    {
+      "id": 139502,
+      "name": "BRUTE SQ"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
