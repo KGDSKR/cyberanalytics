@@ -1,0 +1,21 @@
+{
+  "matchId": 1792495,
+  "game": "dota2",
+  "createdAt": "2026-11-08T09:07:12.273Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139339,
+      "name": "CyberHero"
+    },
+    {
+      "id": 139462,
+      "name": "angry birds"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
