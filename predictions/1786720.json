@@ -1,0 +1,21 @@
+{
+  "matchId": 1786720,
+  "game": "cs2",
+  "createdAt": "2026-11-09T23:53:53.433Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139202,
+      "name": "your end"
+    },
+    {
+      "id": 138111,
+      "name": "Damajuana"
+    }
+  ],
+  "probs": [
+    56,
+    44
+  ]
+}
