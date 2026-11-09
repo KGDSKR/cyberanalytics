@@ -1,0 +1,21 @@
+{
+  "matchId": 1777589,
+  "game": "cs2",
+  "createdAt": "2026-11-09T19:53:44.692Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137707,
+      "name": "SINQU"
+    },
+    {
+      "id": 138130,
+      "name": "Nordic Valor"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
