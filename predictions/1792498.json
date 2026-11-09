@@ -1,0 +1,21 @@
+{
+  "matchId": 1792498,
+  "game": "dota2",
+  "createdAt": "2026-11-09T18:33:27.615Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137870,
+      "name": "Power Rangers"
+    },
+    {
+      "id": 130763,
+      "name": "Ka4kanarskie cyxariki"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
