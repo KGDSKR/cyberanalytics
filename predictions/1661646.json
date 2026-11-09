@@ -1,0 +1,21 @@
+{
+  "matchId": 1661646,
+  "game": "cs2",
+  "createdAt": "2026-11-09T23:53:12.897Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138179,
+      "name": "Huskies eSport"
+    },
+    {
+      "id": 139188,
+      "name": "Pandaric eSports"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
