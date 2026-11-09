@@ -1,0 +1,21 @@
+{
+  "matchId": 1785742,
+  "game": "dota2",
+  "createdAt": "2026-11-09T10:44:16.649Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
