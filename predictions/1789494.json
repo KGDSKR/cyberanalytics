@@ -1,0 +1,21 @@
+{
+  "matchId": 1789494,
+  "game": "cs2",
+  "createdAt": "2026-11-09T17:24:40.573Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
