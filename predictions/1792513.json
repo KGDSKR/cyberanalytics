@@ -1,0 +1,21 @@
+{
+  "matchId": 1792513,
+  "game": "dota2",
+  "createdAt": "2026-11-09T09:04:59.493Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    },
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    }
+  ],
+  "probs": [
+    73,
+    27
+  ]
+}
