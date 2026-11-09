@@ -1,0 +1,21 @@
+{
+  "matchId": 1791683,
+  "game": "dota2",
+  "createdAt": "2026-11-09T09:05:35.076Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137885,
+      "name": "PlayTime"
+    },
+    {
+      "id": 129222,
+      "name": "potn9ki"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
