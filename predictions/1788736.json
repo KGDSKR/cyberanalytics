@@ -1,0 +1,21 @@
+{
+  "matchId": 1788736,
+  "game": "cs2",
+  "createdAt": "2026-11-09T08:04:44.645Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    },
+    {
+      "id": 136846,
+      "name": "Prestige"
+    }
+  ],
+  "probs": [
+    43,
+    57
+  ]
+}
