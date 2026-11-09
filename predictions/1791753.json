@@ -1,0 +1,21 @@
+{
+  "matchId": 1791753,
+  "game": "dota2",
+  "createdAt": "2026-11-09T21:04:14.411Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
