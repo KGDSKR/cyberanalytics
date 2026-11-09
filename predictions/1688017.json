@@ -1,0 +1,21 @@
+{
+  "matchId": 1688017,
+  "game": "cs2",
+  "createdAt": "2026-11-09T18:44:55.756Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 129876,
+      "name": "Linx Legacy Esport"
+    },
+    {
+      "id": 129856,
+      "name": "ECSTATIC"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
