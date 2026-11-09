@@ -1,0 +1,21 @@
+{
+  "matchId": 1791684,
+  "game": "dota2",
+  "createdAt": "2026-11-09T13:35:30.025Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139517,
+      "name": "Froglings"
+    },
+    {
+      "id": 137885,
+      "name": "PlayTime"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
