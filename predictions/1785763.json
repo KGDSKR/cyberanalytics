@@ -1,0 +1,21 @@
+{
+  "matchId": 1785763,
+  "game": "dota2",
+  "createdAt": "2026-11-09T19:55:32.421Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 139489,
+      "name": "Team Allied"
+    }
+  ],
+  "probs": [
+    70,
+    30
+  ]
+}
