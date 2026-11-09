@@ -1,0 +1,21 @@
+{
+  "matchId": 1795395,
+  "game": "cs2",
+  "createdAt": "2026-11-09T16:34:27.896Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 134320,
+      "name": "aimclub"
+    },
+    {
+      "id": 126408,
+      "name": "9INE"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
