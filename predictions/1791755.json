@@ -1,0 +1,21 @@
+{
+  "matchId": 1791755,
+  "game": "dota2",
+  "createdAt": "2026-11-10T13:34:51.517Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 137685,
+      "name": "Amaru Gaming"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
