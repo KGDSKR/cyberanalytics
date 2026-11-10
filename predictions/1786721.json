@@ -1,0 +1,21 @@
+{
+  "matchId": 1786721,
+  "game": "cs2",
+  "createdAt": "2026-11-10T20:53:50.053Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 125863,
+      "name": "Isurus"
+    },
+    {
+      "id": 135505,
+      "name": "RED Canids Academy"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
