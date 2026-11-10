@@ -1,0 +1,21 @@
+{
+  "matchId": 1791749,
+  "game": "dota2",
+  "createdAt": "2026-11-10T19:06:37.625Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
