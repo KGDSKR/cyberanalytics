@@ -1,0 +1,21 @@
+{
+  "matchId": 1789496,
+  "game": "cs2",
+  "createdAt": "2026-11-10T13:24:32.872Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
