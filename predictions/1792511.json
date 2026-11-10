@@ -1,0 +1,21 @@
+{
+  "matchId": 1792511,
+  "game": "dota2",
+  "createdAt": "2026-11-10T09:05:34.103Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 1931,
+      "name": "Yellow Submarine"
+    },
+    {
+      "id": 139340,
+      "name": "LEGION"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
