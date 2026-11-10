@@ -1,0 +1,21 @@
+{
+  "matchId": 1789495,
+  "game": "cs2",
+  "createdAt": "2026-11-10T08:04:58.460Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    },
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
