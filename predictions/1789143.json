@@ -1,0 +1,21 @@
+{
+  "matchId": 1789143,
+  "game": "cs2",
+  "createdAt": "2026-11-10T08:06:10.807Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    },
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
