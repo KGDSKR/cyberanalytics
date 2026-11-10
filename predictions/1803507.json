@@ -1,0 +1,21 @@
+{
+  "matchId": 1803507,
+  "game": "cs2",
+  "createdAt": "2026-11-10T18:04:56.872Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138129,
+      "name": "BOJONG"
+    },
+    {
+      "id": 137473,
+      "name": "OldBoys"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
