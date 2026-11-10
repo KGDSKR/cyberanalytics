@@ -1,0 +1,21 @@
+{
+  "matchId": 1796473,
+  "game": "cs2",
+  "createdAt": "2026-11-10T08:03:59.601Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126624,
+      "name": "Brute"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
