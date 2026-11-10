@@ -1,0 +1,21 @@
+{
+  "matchId": 1788772,
+  "game": "cs2",
+  "createdAt": "2026-11-10T08:08:30.708Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139500,
+      "name": "Bad Beavers"
+    },
+    {
+      "id": 134261,
+      "name": "Copenhagen Wolves"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
