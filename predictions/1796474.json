@@ -1,0 +1,21 @@
+{
+  "matchId": 1796474,
+  "game": "cs2",
+  "createdAt": "2026-11-10T13:25:06.356Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139435,
+      "name": "Team ACES"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    27,
+    73
+  ]
+}
