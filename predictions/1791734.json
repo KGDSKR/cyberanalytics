@@ -1,0 +1,21 @@
+{
+  "matchId": 1791734,
+  "game": "dota2",
+  "createdAt": "2026-11-11T14:35:40.900Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    }
+  ],
+  "probs": [
+    49,
+    51
+  ]
+}
