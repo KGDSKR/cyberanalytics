@@ -1,0 +1,21 @@
+{
+  "matchId": 1785751,
+  "game": "dota2",
+  "createdAt": "2026-11-11T14:04:28.031Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    },
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
