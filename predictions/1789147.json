@@ -1,0 +1,21 @@
+{
+  "matchId": 1789147,
+  "game": "cs2",
+  "createdAt": "2026-11-11T08:05:00.054Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
