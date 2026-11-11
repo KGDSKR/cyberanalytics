@@ -1,0 +1,21 @@
+{
+  "matchId": 1791731,
+  "game": "dota2",
+  "createdAt": "2026-11-11T10:08:59.837Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 135697,
+      "name": "Yakult Brothers"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
