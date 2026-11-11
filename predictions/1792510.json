@@ -1,0 +1,21 @@
+{
+  "matchId": 1792510,
+  "game": "dota2",
+  "createdAt": "2026-11-11T09:05:29.018Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    },
+    {
+      "id": 139340,
+      "name": "LEGION"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
