@@ -1,0 +1,21 @@
+{
+  "matchId": 1791732,
+  "game": "dota2",
+  "createdAt": "2026-11-11T09:30:37.069Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139339,
+      "name": "CyberHero"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    73,
+    27
+  ]
+}
