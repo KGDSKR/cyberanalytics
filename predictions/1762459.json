@@ -1,0 +1,21 @@
+{
+  "matchId": 1762459,
+  "game": "cs2",
+  "createdAt": "2026-11-11T06:23:47.149Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 124523,
+      "name": "Spirit"
+    },
+    {
+      "id": 136955,
+      "name": "FUT Esports"
+    }
+  ],
+  "probs": [
+    15,
+    85
+  ]
+}
