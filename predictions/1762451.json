@@ -1,0 +1,21 @@
+{
+  "matchId": 1762451,
+  "game": "cs2",
+  "createdAt": "2026-11-11T03:44:10.015Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3455,
+      "name": "Vitality"
+    },
+    {
+      "id": 130564,
+      "name": "Team Falcons"
+    }
+  ],
+  "probs": [
+    88,
+    12
+  ]
+}
