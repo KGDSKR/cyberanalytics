@@ -1,0 +1,21 @@
+{
+  "matchId": 1804938,
+  "game": "cs2",
+  "createdAt": "2026-11-11T17:44:25.380Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 133315,
+      "name": "PCIFIC"
+    },
+    {
+      "id": 137739,
+      "name": "magic"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
