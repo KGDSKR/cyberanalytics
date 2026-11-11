@@ -1,0 +1,21 @@
+{
+  "matchId": 1762460,
+  "game": "cs2",
+  "createdAt": "2026-11-11T08:36:18.527Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    },
+    {
+      "id": 3210,
+      "name": "G2"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
