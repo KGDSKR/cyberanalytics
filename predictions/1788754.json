@@ -1,0 +1,21 @@
+{
+  "matchId": 1788754,
+  "game": "cs2",
+  "createdAt": "2026-11-11T08:05:53.666Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130421,
+      "name": "9INE Academy"
+    },
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
