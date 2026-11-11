@@ -1,0 +1,21 @@
+{
+  "matchId": 1791735,
+  "game": "dota2",
+  "createdAt": "2026-11-11T18:13:39.984Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139339,
+      "name": "CyberHero"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    86,
+    14
+  ]
+}
