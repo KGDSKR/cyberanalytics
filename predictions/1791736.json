@@ -1,0 +1,21 @@
+{
+  "matchId": 1791736,
+  "game": "dota2",
+  "createdAt": "2026-11-11T14:36:28.165Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 137685,
+      "name": "Amaru Gaming"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
