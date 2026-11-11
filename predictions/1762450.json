@@ -1,0 +1,21 @@
+{
+  "matchId": 1762450,
+  "game": "cs2",
+  "createdAt": "2026-11-11T03:03:24.281Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133708,
+      "name": "Legacy"
+    },
+    {
+      "id": 124530,
+      "name": "FURIA"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
