@@ -1,0 +1,21 @@
+{
+  "matchId": 1791733,
+  "game": "dota2",
+  "createdAt": "2026-11-11T09:06:03.156Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
