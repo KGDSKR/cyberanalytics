@@ -1,0 +1,21 @@
+{
+  "matchId": 1809113,
+  "game": "cs2",
+  "createdAt": "2026-11-12T22:34:29.929Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139594,
+      "name": "LUNTIKI"
+    },
+    {
+      "id": 126232,
+      "name": "m1x"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
