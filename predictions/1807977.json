@@ -1,0 +1,21 @@
+{
+  "matchId": 1807977,
+  "game": "dota2",
+  "createdAt": "2026-11-12T11:24:56.358Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139600,
+      "name": "Red John"
+    },
+    {
+      "id": 128357,
+      "name": "PuckChamp"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
