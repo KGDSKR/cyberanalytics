@@ -1,0 +1,21 @@
+{
+  "matchId": 1789151,
+  "game": "cs2",
+  "createdAt": "2026-11-12T08:07:01.750Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130590,
+      "name": "The Last Resort"
+    },
+    {
+      "id": 127911,
+      "name": "MASONIC"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
