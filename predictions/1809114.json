@@ -1,0 +1,21 @@
+{
+  "matchId": 1809114,
+  "game": "cs2",
+  "createdAt": "2026-11-12T22:33:28.199Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138975,
+      "name": "Butterfly"
+    },
+    {
+      "id": 139575,
+      "name": "33"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
