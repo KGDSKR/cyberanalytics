@@ -1,0 +1,21 @@
+{
+  "matchId": 1762461,
+  "game": "cs2",
+  "createdAt": "2026-11-12T06:13:33.205Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136955,
+      "name": "FUT Esports"
+    },
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
