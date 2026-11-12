@@ -1,0 +1,21 @@
+{
+  "matchId": 1806985,
+  "game": "cs2",
+  "createdAt": "2026-11-12T15:25:21.728Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139471,
+      "name": "ex-INOX Division"
+    },
+    {
+      "id": 139597,
+      "name": "mixLVLT"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
