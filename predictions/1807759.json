@@ -1,0 +1,21 @@
+{
+  "matchId": 1807759,
+  "game": "cs2",
+  "createdAt": "2026-11-12T14:44:06.975Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138840,
+      "name": "ex-Sashi Academy"
+    },
+    {
+      "id": 139580,
+      "name": "Tulpar"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
