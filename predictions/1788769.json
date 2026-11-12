@@ -1,0 +1,21 @@
+{
+  "matchId": 1788769,
+  "game": "cs2",
+  "createdAt": "2026-11-12T08:07:42.921Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139314,
+      "name": "TheChampionGG"
+    },
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
