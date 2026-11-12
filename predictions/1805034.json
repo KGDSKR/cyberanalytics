@@ -1,0 +1,21 @@
+{
+  "matchId": 1805034,
+  "game": "dota2",
+  "createdAt": "2026-11-12T22:13:30.236Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 137658,
+      "name": "No Hoodwink"
+    },
+    {
+      "id": 139391,
+      "name": " oveA"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
