@@ -1,0 +1,21 @@
+{
+  "matchId": 1793317,
+  "game": "dota2",
+  "createdAt": "2026-11-12T18:24:57.139Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135712,
+      "name": "PARIVISION"
+    },
+    {
+      "id": 139547,
+      "name": "DO KONCA"
+    }
+  ],
+  "probs": [
+    87,
+    13
+  ]
+}
