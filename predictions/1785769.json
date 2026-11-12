@@ -1,0 +1,21 @@
+{
+  "matchId": 1785769,
+  "game": "dota2",
+  "createdAt": "2026-11-12T15:04:28.207Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139339,
+      "name": "CyberHero"
+    },
+    {
+      "id": 139489,
+      "name": "Team Allied"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
