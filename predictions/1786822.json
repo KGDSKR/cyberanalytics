@@ -1,0 +1,21 @@
+{
+  "matchId": 1786822,
+  "game": "cs2",
+  "createdAt": "2026-11-12T13:35:00.948Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
