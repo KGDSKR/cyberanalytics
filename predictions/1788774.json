@@ -1,0 +1,21 @@
+{
+  "matchId": 1788774,
+  "game": "cs2",
+  "createdAt": "2026-11-12T09:23:09.840Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139500,
+      "name": "Bad Beavers"
+    },
+    {
+      "id": 131552,
+      "name": "The Chosen Few"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
