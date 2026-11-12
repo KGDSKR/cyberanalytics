@@ -1,0 +1,21 @@
+{
+  "matchId": 1807760,
+  "game": "cs2",
+  "createdAt": "2026-11-12T08:04:49.747Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139444,
+      "name": "Ducks"
+    },
+    {
+      "id": 138729,
+      "name": "DNK"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
