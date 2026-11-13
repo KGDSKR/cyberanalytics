@@ -1,0 +1,21 @@
+{
+  "matchId": 1805854,
+  "game": "cs2",
+  "createdAt": "2026-11-13T21:05:05.683Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138140,
+      "name": "Team PCH3LK1N"
+    },
+    {
+      "id": 137746,
+      "name": "Team Recrent"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
