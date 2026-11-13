@@ -1,0 +1,21 @@
+{
+  "matchId": 1762445,
+  "game": "cs2",
+  "createdAt": "2026-11-13T07:03:32.209Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3455,
+      "name": "Vitality"
+    },
+    {
+      "id": 3240,
+      "name": "MOUZ"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
