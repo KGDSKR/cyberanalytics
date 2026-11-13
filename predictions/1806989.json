@@ -1,0 +1,21 @@
+{
+  "matchId": 1806989,
+  "game": "cs2",
+  "createdAt": "2026-11-13T16:34:18.974Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138899,
+      "name": "maybe"
+    },
+    {
+      "id": 139597,
+      "name": "mixLVLT"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
