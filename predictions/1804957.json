@@ -1,0 +1,21 @@
+{
+  "matchId": 1804957,
+  "game": "cs2",
+  "createdAt": "2026-11-13T08:07:11.128Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137551,
+      "name": "Four Magic"
+    },
+    {
+      "id": 139578,
+      "name": "ASTRON"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
