@@ -1,0 +1,21 @@
+{
+  "matchId": 1805036,
+  "game": "dota2",
+  "createdAt": "2026-11-13T14:08:49.720Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 129222,
+      "name": "potn9ki"
+    },
+    {
+      "id": 139391,
+      "name": " oveA"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
