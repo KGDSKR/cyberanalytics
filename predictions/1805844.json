@@ -1,0 +1,21 @@
+{
+  "matchId": 1805844,
+  "game": "cs2",
+  "createdAt": "2026-11-13T18:33:58.607Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139037,
+      "name": "Team WorldEdit"
+    },
+    {
+      "id": 139584,
+      "name": "Team NS"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
