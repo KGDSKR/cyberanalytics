@@ -1,0 +1,21 @@
+{
+  "matchId": 1806970,
+  "game": "dota2",
+  "createdAt": "2026-11-13T19:03:08.283Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 1647,
+      "name": "Team Liquid"
+    },
+    {
+      "id": 1657,
+      "name": "LGD Gaming"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
