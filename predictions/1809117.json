@@ -1,0 +1,21 @@
+{
+  "matchId": 1809117,
+  "game": "cs2",
+  "createdAt": "2026-11-13T21:04:08.582Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137861,
+      "name": "STATE"
+    },
+    {
+      "id": 139575,
+      "name": "33"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
