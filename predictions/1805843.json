@@ -1,0 +1,21 @@
+{
+  "matchId": 1805843,
+  "game": "cs2",
+  "createdAt": "2026-11-13T14:36:27.221Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139588,
+      "name": "Team Buster"
+    },
+    {
+      "id": 139584,
+      "name": "Team NS"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
