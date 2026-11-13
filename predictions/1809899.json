@@ -1,0 +1,21 @@
+{
+  "matchId": 1809899,
+  "game": "cs2",
+  "createdAt": "2026-11-13T08:05:44.280Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    },
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    }
+  ],
+  "probs": [
+    23,
+    77
+  ]
+}
