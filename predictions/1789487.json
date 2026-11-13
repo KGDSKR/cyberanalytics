@@ -1,0 +1,21 @@
+{
+  "matchId": 1789487,
+  "game": "cs2",
+  "createdAt": "2026-11-13T08:10:41.806Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    },
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
