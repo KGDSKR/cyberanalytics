@@ -1,0 +1,21 @@
+{
+  "matchId": 1786736,
+  "game": "cs2",
+  "createdAt": "2026-11-13T14:44:29.346Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138620,
+      "name": "Turma do Pagode"
+    },
+    {
+      "id": 138939,
+      "name": "Rush"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
