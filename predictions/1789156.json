@@ -1,0 +1,21 @@
+{
+  "matchId": 1789156,
+  "game": "cs2",
+  "createdAt": "2026-11-13T15:33:07.229Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137703,
+      "name": "ex-Zero Tenacity"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
