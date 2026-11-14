@@ -1,0 +1,21 @@
+{
+  "matchId": 1811267,
+  "game": "cs2",
+  "createdAt": "2026-11-14T16:35:43.286Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139097,
+      "name": "Revise"
+    },
+    {
+      "id": 133125,
+      "name": "Aurora Young Blood"
+    }
+  ],
+  "probs": [
+    83,
+    17
+  ]
+}
