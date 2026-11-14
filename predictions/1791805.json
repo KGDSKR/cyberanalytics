@@ -1,0 +1,21 @@
+{
+  "matchId": 1791805,
+  "game": "dota2",
+  "createdAt": "2026-11-14T16:53:57.719Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    12,
+    88
+  ]
+}
