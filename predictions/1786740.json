@@ -1,0 +1,21 @@
+{
+  "matchId": 1786740,
+  "game": "cs2",
+  "createdAt": "2026-11-14T23:23:06.715Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 134355,
+      "name": "Galorys"
+    },
+    {
+      "id": 139098,
+      "name": "Low Cortisol"
+    }
+  ],
+  "probs": [
+    78,
+    22
+  ]
+}
