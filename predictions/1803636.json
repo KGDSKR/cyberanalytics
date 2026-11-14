@@ -1,0 +1,21 @@
+{
+  "matchId": 1803636,
+  "game": "cs2",
+  "createdAt": "2026-11-14T16:13:07.642Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 126408,
+      "name": "9INE"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
