@@ -1,0 +1,21 @@
+{
+  "matchId": 1807006,
+  "game": "cs2",
+  "createdAt": "2026-11-14T19:04:45.370Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133725,
+      "name": "Alliance"
+    },
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
