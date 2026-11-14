@@ -1,0 +1,21 @@
+{
+  "matchId": 1811927,
+  "game": "cs2",
+  "createdAt": "2026-11-14T23:34:18.769Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135305,
+      "name": "street dogs"
+    },
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
