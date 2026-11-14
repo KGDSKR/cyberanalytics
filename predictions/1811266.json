@@ -1,0 +1,21 @@
+{
+  "matchId": 1811266,
+  "game": "cs2",
+  "createdAt": "2026-11-14T08:04:06.700Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127497,
+      "name": "eSuba"
+    },
+    {
+      "id": 139219,
+      "name": "KAMUI"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
