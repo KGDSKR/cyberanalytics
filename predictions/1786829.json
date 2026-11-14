@@ -1,0 +1,21 @@
+{
+  "matchId": 1786829,
+  "game": "cs2",
+  "createdAt": "2026-11-14T08:08:55.864Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127976,
+      "name": "Infinite"
+    },
+    {
+      "id": 139435,
+      "name": "Team ACES"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
