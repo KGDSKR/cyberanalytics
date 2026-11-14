@@ -1,0 +1,21 @@
+{
+  "matchId": 1803635,
+  "game": "cs2",
+  "createdAt": "2026-11-14T08:05:46.900Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 128519,
+      "name": "GenOne"
+    },
+    {
+      "id": 139529,
+      "name": "Balkan Outlaws"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
