@@ -1,0 +1,21 @@
+{
+  "matchId": 1786742,
+  "game": "cs2",
+  "createdAt": "2026-11-14T20:44:17.035Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    },
+    {
+      "id": 139599,
+      "name": "ex-Yawara"
+    }
+  ],
+  "probs": [
+    27,
+    73
+  ]
+}
