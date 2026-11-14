@@ -1,0 +1,21 @@
+{
+  "matchId": 1786831,
+  "game": "cs2",
+  "createdAt": "2026-11-14T17:23:19.793Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 136319,
+      "name": "Iberian Soul"
+    },
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
