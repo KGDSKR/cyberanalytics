@@ -1,0 +1,21 @@
+{
+  "matchId": 1811930,
+  "game": "cs2",
+  "createdAt": "2026-11-14T23:14:17.120Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 139604,
+      "name": "arroba"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
