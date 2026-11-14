@@ -1,0 +1,21 @@
+{
+  "matchId": 1807007,
+  "game": "cs2",
+  "createdAt": "2026-11-14T18:24:15.283Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139471,
+      "name": "ex-INOX Division"
+    },
+    {
+      "id": 138899,
+      "name": "maybe"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
