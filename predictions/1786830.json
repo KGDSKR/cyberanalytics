@@ -1,0 +1,21 @@
+{
+  "matchId": 1786830,
+  "game": "cs2",
+  "createdAt": "2026-11-14T12:24:32.368Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
