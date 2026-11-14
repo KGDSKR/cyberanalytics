@@ -1,0 +1,21 @@
+{
+  "matchId": 1805846,
+  "game": "cs2",
+  "createdAt": "2026-11-14T15:34:14.821Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139583,
+      "name": "Team leva2k"
+    },
+    {
+      "id": 139584,
+      "name": "Team NS"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
