@@ -1,0 +1,21 @@
+{
+  "matchId": 1786746,
+  "game": "cs2",
+  "createdAt": "2026-11-15T23:33:48.729Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 134355,
+      "name": "Galorys"
+    },
+    {
+      "id": 139449,
+      "name": "BARCA"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
