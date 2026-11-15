@@ -1,0 +1,21 @@
+{
+  "matchId": 1786834,
+  "game": "cs2",
+  "createdAt": "2026-11-15T12:34:31.220Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 137584,
+      "name": "Omega"
+    },
+    {
+      "id": 136319,
+      "name": "Iberian Soul"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
