@@ -1,0 +1,21 @@
+{
+  "matchId": 1813243,
+  "game": "cs2",
+  "createdAt": "2026-11-15T08:03:57.731Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131984,
+      "name": "ABT Esports"
+    },
+    {
+      "id": 137551,
+      "name": "Four Magic"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
