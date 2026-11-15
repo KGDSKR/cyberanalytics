@@ -1,0 +1,21 @@
+{
+  "matchId": 1786744,
+  "game": "cs2",
+  "createdAt": "2026-11-15T16:14:56.164Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 134355,
+      "name": "Galorys"
+    },
+    {
+      "id": 139518,
+      "name": "Axorfy Gaming"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
