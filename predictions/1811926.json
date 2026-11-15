@@ -1,0 +1,21 @@
+{
+  "matchId": 1811926,
+  "game": "cs2",
+  "createdAt": "2026-11-15T21:14:31.902Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139518,
+      "name": "Axorfy Gaming"
+    },
+    {
+      "id": 128373,
+      "name": "9z Academy"
+    }
+  ],
+  "probs": [
+    22,
+    78
+  ]
+}
