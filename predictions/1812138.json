@@ -1,0 +1,21 @@
+{
+  "matchId": 1812138,
+  "game": "cs2",
+  "createdAt": "2026-11-15T08:04:39.489Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    },
+    {
+      "id": 131552,
+      "name": "The Chosen Few"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
