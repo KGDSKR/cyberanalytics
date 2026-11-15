@@ -1,0 +1,21 @@
+{
+  "matchId": 1785745,
+  "game": "dota2",
+  "createdAt": "2026-11-15T20:54:46.252Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    },
+    {
+      "id": 139462,
+      "name": "angry birds"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
