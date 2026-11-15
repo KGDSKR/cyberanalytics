@@ -1,0 +1,21 @@
+{
+  "matchId": 1813239,
+  "game": "cs2",
+  "createdAt": "2026-11-15T17:13:37.213Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 138840,
+      "name": "ex-Sashi Academy"
+    },
+    {
+      "id": 139444,
+      "name": "Ducks"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
