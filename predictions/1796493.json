@@ -1,0 +1,21 @@
+{
+  "matchId": 1796493,
+  "game": "cs2",
+  "createdAt": "2026-11-15T09:16:40.695Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138974,
+      "name": "ex-RUSTEC"
+    },
+    {
+      "id": 138146,
+      "name": "Drama eSports"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
