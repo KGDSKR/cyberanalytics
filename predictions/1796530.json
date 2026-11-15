@@ -1,0 +1,21 @@
+{
+  "matchId": 1796530,
+  "game": "cs2",
+  "createdAt": "2026-11-15T19:06:32.858Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133719,
+      "name": "PARIVISION"
+    },
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
