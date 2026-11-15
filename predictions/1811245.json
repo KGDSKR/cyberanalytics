@@ -1,0 +1,21 @@
+{
+  "matchId": 1811245,
+  "game": "dota2",
+  "createdAt": "2026-11-15T17:06:04.830Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139462,
+      "name": "angry birds"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
