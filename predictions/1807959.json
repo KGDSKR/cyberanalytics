@@ -1,0 +1,21 @@
+{
+  "matchId": 1807959,
+  "game": "dota2",
+  "createdAt": "2026-11-15T15:04:18.792Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139489,
+      "name": "Team Allied"
+    },
+    {
+      "id": 135854,
+      "name": "Zero Tenacity"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
