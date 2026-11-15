@@ -1,0 +1,21 @@
+{
+  "matchId": 1793336,
+  "game": "dota2",
+  "createdAt": "2026-11-15T19:04:24.072Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133882,
+      "name": "Aurora"
+    },
+    {
+      "id": 139547,
+      "name": "DO KONCA"
+    }
+  ],
+  "probs": [
+    76,
+    24
+  ]
+}
