@@ -1,0 +1,21 @@
+{
+  "matchId": 1805863,
+  "game": "cs2",
+  "createdAt": "2026-11-15T16:03:06.687Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 138137,
+      "name": "Team Bratishkin"
+    },
+    {
+      "id": 139586,
+      "name": "Team cutierover"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
