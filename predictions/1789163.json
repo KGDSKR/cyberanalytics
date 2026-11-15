@@ -1,0 +1,21 @@
+{
+  "matchId": 1789163,
+  "game": "cs2",
+  "createdAt": "2026-11-15T09:30:30.820Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    7,
+    93
+  ]
+}
