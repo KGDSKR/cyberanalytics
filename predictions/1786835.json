@@ -1,0 +1,21 @@
+{
+  "matchId": 1786835,
+  "game": "cs2",
+  "createdAt": "2026-11-15T09:51:26.548Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3288,
+      "name": "Virtus.pro"
+    },
+    {
+      "id": 139603,
+      "name": "Hype Tech"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
