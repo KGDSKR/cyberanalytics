@@ -1,0 +1,21 @@
+{
+  "matchId": 1796528,
+  "game": "cs2",
+  "createdAt": "2026-11-15T08:06:58.172Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 3212,
+      "name": "FaZe"
+    },
+    {
+      "id": 3217,
+      "name": "fnatic"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
