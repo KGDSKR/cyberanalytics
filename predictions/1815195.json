@@ -1,0 +1,21 @@
+{
+  "matchId": 1815195,
+  "game": "cs2",
+  "createdAt": "2026-11-16T08:04:33.017Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139580,
+      "name": "Tulpar"
+    },
+    {
+      "id": 139097,
+      "name": "Revise"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
