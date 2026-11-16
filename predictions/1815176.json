@@ -1,0 +1,21 @@
+{
+  "matchId": 1815176,
+  "game": "dota2",
+  "createdAt": "2026-11-16T08:07:55.633Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139462,
+      "name": "angry birds"
+    },
+    {
+      "id": 136531,
+      "name": "Team Lynx"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
