@@ -1,0 +1,21 @@
+{
+  "matchId": 1815197,
+  "game": "cs2",
+  "createdAt": "2026-11-16T14:45:20.234Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139578,
+      "name": "ASTRON"
+    },
+    {
+      "id": 139041,
+      "name": "Ryvex"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
