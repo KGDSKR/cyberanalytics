@@ -1,0 +1,21 @@
+{
+  "matchId": 1812642,
+  "game": "dota2",
+  "createdAt": "2026-11-16T09:49:44.834Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139605,
+      "name": "Ryvex Esports"
+    },
+    {
+      "id": 139606,
+      "name": "Cloud of Hope"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
