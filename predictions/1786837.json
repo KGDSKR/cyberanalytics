@@ -1,0 +1,21 @@
+{
+  "matchId": 1786837,
+  "game": "cs2",
+  "createdAt": "2026-11-16T15:35:50.360Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 137584,
+      "name": "Omega"
+    },
+    {
+      "id": 139320,
+      "name": "PRIVATE"
+    }
+  ],
+  "probs": [
+    46,
+    54
+  ]
+}
