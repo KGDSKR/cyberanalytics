@@ -1,0 +1,21 @@
+{
+  "matchId": 1811932,
+  "game": "cs2",
+  "createdAt": "2026-11-16T00:03:55.319Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138524,
+      "name": "QUINTESSÊNCIA"
+    },
+    {
+      "id": 139601,
+      "name": "DISFARÇADOS"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
