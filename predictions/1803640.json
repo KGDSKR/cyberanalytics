@@ -1,0 +1,21 @@
+{
+  "matchId": 1803640,
+  "game": "cs2",
+  "createdAt": "2026-11-16T14:14:08.228Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139471,
+      "name": "ex-INOX Division"
+    },
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    }
+  ],
+  "probs": [
+    30,
+    70
+  ]
+}
