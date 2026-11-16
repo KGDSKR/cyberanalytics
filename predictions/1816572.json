@@ -1,0 +1,21 @@
+{
+  "matchId": 1816572,
+  "game": "cs2",
+  "createdAt": "2026-11-16T23:14:46.427Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 128373,
+      "name": "9z Academy"
+    },
+    {
+      "id": 135305,
+      "name": "street dogs"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
