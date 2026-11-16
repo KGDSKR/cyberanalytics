@@ -1,0 +1,21 @@
+{
+  "matchId": 1816565,
+  "game": "cs2",
+  "createdAt": "2026-11-16T23:24:13.706Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139518,
+      "name": "Axorfy Gaming"
+    },
+    {
+      "id": 139026,
+      "name": "MEIA NOITE"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
