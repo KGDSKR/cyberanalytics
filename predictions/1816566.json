@@ -1,0 +1,21 @@
+{
+  "matchId": 1816566,
+  "game": "cs2",
+  "createdAt": "2026-11-16T23:06:13.002Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139283,
+      "name": "Mira"
+    },
+    {
+      "id": 138939,
+      "name": "Rush"
+    }
+  ],
+  "probs": [
+    63,
+    37
+  ]
+}
