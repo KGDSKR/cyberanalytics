@@ -1,0 +1,21 @@
+{
+  "matchId": 1811957,
+  "game": "cs2",
+  "createdAt": "2026-11-16T21:14:12.652Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139601,
+      "name": "DISFARÇADOS"
+    },
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
