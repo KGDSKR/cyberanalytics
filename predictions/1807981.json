@@ -1,0 +1,21 @@
+{
+  "matchId": 1807981,
+  "game": "dota2",
+  "createdAt": "2026-11-16T14:15:11.906Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    },
+    {
+      "id": 137870,
+      "name": "Power Rangers"
+    }
+  ],
+  "probs": [
+    24,
+    76
+  ]
+}
