@@ -1,0 +1,21 @@
+{
+  "matchId": 1791802,
+  "game": "dota2",
+  "createdAt": "2026-11-16T14:44:00.115Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139517,
+      "name": "Froglings"
+    },
+    {
+      "id": 137417,
+      "name": "Inner Circle x Insanity"
+    }
+  ],
+  "probs": [
+    3,
+    97
+  ]
+}
