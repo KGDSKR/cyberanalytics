@@ -1,0 +1,21 @@
+{
+  "matchId": 1803641,
+  "game": "cs2",
+  "createdAt": "2026-11-17T08:09:23.485Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138841,
+      "name": "WBT"
+    },
+    {
+      "id": 138470,
+      "name": "ex-ENCE"
+    }
+  ],
+  "probs": [
+    40,
+    60
+  ]
+}
