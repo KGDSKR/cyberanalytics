@@ -1,0 +1,21 @@
+{
+  "matchId": 1816568,
+  "game": "cs2",
+  "createdAt": "2026-11-17T23:43:34.009Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139601,
+      "name": "DISFARÇADOS"
+    },
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
