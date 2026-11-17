@@ -1,0 +1,21 @@
+{
+  "matchId": 1818029,
+  "game": "cs2",
+  "createdAt": "2026-11-17T08:05:14.639Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136846,
+      "name": "Prestige"
+    },
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
