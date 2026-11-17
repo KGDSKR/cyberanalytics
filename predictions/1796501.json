@@ -1,0 +1,21 @@
+{
+  "matchId": 1796501,
+  "game": "cs2",
+  "createdAt": "2026-11-17T13:43:57.531Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139603,
+      "name": "Hype Tech"
+    },
+    {
+      "id": 139471,
+      "name": "ex-INOX Division"
+    }
+  ],
+  "probs": [
+    14,
+    86
+  ]
+}
