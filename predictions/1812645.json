@@ -1,0 +1,21 @@
+{
+  "matchId": 1812645,
+  "game": "dota2",
+  "createdAt": "2026-11-17T11:06:55.773Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139606,
+      "name": "Cloud of Hope"
+    },
+    {
+      "id": 137428,
+      "name": "Cloud Rising"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
