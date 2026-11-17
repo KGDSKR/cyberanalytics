@@ -1,0 +1,21 @@
+{
+  "matchId": 1814138,
+  "game": "cs2",
+  "createdAt": "2026-11-17T08:07:42.321Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    },
+    {
+      "id": 126491,
+      "name": "NAVI Junior"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
