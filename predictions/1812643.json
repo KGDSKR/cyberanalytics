@@ -1,0 +1,21 @@
+{
+  "matchId": 1812643,
+  "game": "dota2",
+  "createdAt": "2026-11-17T03:03:27.957Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139402,
+      "name": "Team Nemesis Academy"
+    },
+    {
+      "id": 139605,
+      "name": "Ryvex Esports"
+    }
+  ],
+  "probs": [
+    26,
+    74
+  ]
+}
