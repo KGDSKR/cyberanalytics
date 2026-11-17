@@ -1,0 +1,21 @@
+{
+  "matchId": 1812644,
+  "game": "dota2",
+  "createdAt": "2026-11-17T06:23:30.130Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138753,
+      "name": "Direborn"
+    },
+    {
+      "id": 139605,
+      "name": "Ryvex Esports"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
