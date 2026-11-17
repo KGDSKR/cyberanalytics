@@ -1,0 +1,21 @@
+{
+  "matchId": 1803642,
+  "game": "cs2",
+  "createdAt": "2026-11-17T11:47:40.133Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 127976,
+      "name": "Infinite"
+    },
+    {
+      "id": 129160,
+      "name": "MOUZ NXT"
+    }
+  ],
+  "probs": [
+    20,
+    80
+  ]
+}
