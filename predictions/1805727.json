@@ -1,0 +1,21 @@
+{
+  "matchId": 1805727,
+  "game": "cs2",
+  "createdAt": "2026-11-17T09:39:29.841Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127014,
+      "name": "Sinners"
+    },
+    {
+      "id": 126699,
+      "name": "Nexus"
+    }
+  ],
+  "probs": [
+    38,
+    62
+  ]
+}
