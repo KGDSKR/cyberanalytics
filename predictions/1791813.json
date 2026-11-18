@@ -1,0 +1,21 @@
+{
+  "matchId": 1791813,
+  "game": "dota2",
+  "createdAt": "2026-11-18T15:04:24.246Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 138842,
+      "name": "HULIGANI"
+    },
+    {
+      "id": 2227,
+      "name": "Nemiga Gaming"
+    }
+  ],
+  "probs": [
+    92,
+    8
+  ]
+}
