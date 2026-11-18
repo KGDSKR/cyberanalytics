@@ -1,0 +1,21 @@
+{
+  "matchId": 1807962,
+  "game": "dota2",
+  "createdAt": "2026-11-18T11:55:10.417Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139462,
+      "name": "angry birds"
+    },
+    {
+      "id": 137540,
+      "name": "Spirit Academy"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
