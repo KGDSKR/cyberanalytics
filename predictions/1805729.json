@@ -1,0 +1,21 @@
+{
+  "matchId": 1805729,
+  "game": "cs2",
+  "createdAt": "2026-11-18T09:07:26.056Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126699,
+      "name": "Nexus"
+    },
+    {
+      "id": 136319,
+      "name": "Iberian Soul"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
