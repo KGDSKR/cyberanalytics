@@ -1,0 +1,21 @@
+{
+  "matchId": 1815863,
+  "game": "dota2",
+  "createdAt": "2026-11-18T12:43:31.428Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 136531,
+      "name": "Team Lynx"
+    },
+    {
+      "id": 139239,
+      "name": "Xipto Esports"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
