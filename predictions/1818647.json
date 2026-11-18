@@ -1,0 +1,21 @@
+{
+  "matchId": 1818647,
+  "game": "cs2",
+  "createdAt": "2026-11-18T08:09:45.188Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 134405,
+      "name": "Vexar"
+    },
+    {
+      "id": 139578,
+      "name": "ASTRON"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
