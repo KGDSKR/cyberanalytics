@@ -1,0 +1,21 @@
+{
+  "matchId": 1791308,
+  "game": "cs2",
+  "createdAt": "2026-11-18T13:23:42.325Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 135381,
+      "name": "Apogee Esports"
+    },
+    {
+      "id": 3249,
+      "name": "BIG"
+    }
+  ],
+  "probs": [
+    8,
+    92
+  ]
+}
