@@ -1,0 +1,21 @@
+{
+  "matchId": 1796505,
+  "game": "cs2",
+  "createdAt": "2026-11-18T16:57:23.626Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 139471,
+      "name": "ex-INOX Division"
+    }
+  ],
+  "probs": [
+    84,
+    16
+  ]
+}
