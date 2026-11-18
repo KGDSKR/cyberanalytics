@@ -1,0 +1,21 @@
+{
+  "matchId": 1803643,
+  "game": "cs2",
+  "createdAt": "2026-11-18T08:12:49.701Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139529,
+      "name": "Balkan Outlaws"
+    },
+    {
+      "id": 138660,
+      "name": "WRAITH PCIFIC"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
