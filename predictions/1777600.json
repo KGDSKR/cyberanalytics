@@ -1,0 +1,21 @@
+{
+  "matchId": 1777600,
+  "game": "cs2",
+  "createdAt": "2026-11-18T17:00:45.209Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    },
+    {
+      "id": 132459,
+      "name": "ROUNDS"
+    }
+  ],
+  "probs": [
+    9,
+    91
+  ]
+}
