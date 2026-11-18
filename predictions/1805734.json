@@ -1,0 +1,21 @@
+{
+  "matchId": 1805734,
+  "game": "cs2",
+  "createdAt": "2026-11-18T21:44:04.414Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139180,
+      "name": "BBL"
+    },
+    {
+      "id": 3222,
+      "name": "Envy"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
