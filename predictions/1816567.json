@@ -1,0 +1,21 @@
+{
+  "matchId": 1816567,
+  "game": "cs2",
+  "createdAt": "2026-11-18T00:53:10.711Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 138276,
+      "name": "ALKA GAMING"
+    },
+    {
+      "id": 139254,
+      "name": "Los Niños"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
