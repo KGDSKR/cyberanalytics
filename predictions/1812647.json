@@ -1,0 +1,21 @@
+{
+  "matchId": 1812647,
+  "game": "dota2",
+  "createdAt": "2026-11-18T06:03:10.302Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139413,
+      "name": "Resp Gaming"
+    },
+    {
+      "id": 139606,
+      "name": "Cloud of Hope"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
