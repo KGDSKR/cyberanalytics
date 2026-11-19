@@ -1,0 +1,21 @@
+{
+  "matchId": 1812649,
+  "game": "dota2",
+  "createdAt": "2026-11-19T03:03:52.018Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139605,
+      "name": "Ryvex Esports"
+    },
+    {
+      "id": 1660,
+      "name": "Execration"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
