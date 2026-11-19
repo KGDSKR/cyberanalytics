@@ -1,0 +1,21 @@
+{
+  "matchId": 1821600,
+  "game": "cs2",
+  "createdAt": "2026-11-19T17:47:32.924Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 131552,
+      "name": "The Chosen Few"
+    }
+  ],
+  "probs": [
+    48,
+    52
+  ]
+}
