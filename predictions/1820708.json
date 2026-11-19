@@ -1,0 +1,21 @@
+{
+  "matchId": 1820708,
+  "game": "cs2",
+  "createdAt": "2026-11-19T00:54:46.087Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139158,
+      "name": "Without a Roof"
+    },
+    {
+      "id": 134300,
+      "name": "NuTorious"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
