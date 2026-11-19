@@ -1,0 +1,21 @@
+{
+  "matchId": 1816576,
+  "game": "cs2",
+  "createdAt": "2026-11-19T00:13:07.270Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139601,
+      "name": "DISFARÇADOS"
+    },
+    {
+      "id": 128373,
+      "name": "9z Academy"
+    }
+  ],
+  "probs": [
+    18,
+    82
+  ]
+}
