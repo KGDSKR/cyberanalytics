@@ -1,0 +1,21 @@
+{
+  "matchId": 1818163,
+  "game": "cs2",
+  "createdAt": "2026-11-19T08:09:10.325Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
