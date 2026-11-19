@@ -1,0 +1,21 @@
+{
+  "matchId": 1812651,
+  "game": "dota2",
+  "createdAt": "2026-11-19T11:05:39.978Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 137428,
+      "name": "Cloud Rising"
+    },
+    {
+      "id": 139402,
+      "name": "Team Nemesis Academy"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
