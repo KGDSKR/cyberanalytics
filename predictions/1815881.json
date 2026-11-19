@@ -1,0 +1,21 @@
+{
+  "matchId": 1815881,
+  "game": "cs2",
+  "createdAt": "2026-11-19T08:10:26.056Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 130779,
+      "name": "gothboiclique"
+    },
+    {
+      "id": 137861,
+      "name": "STATE"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
