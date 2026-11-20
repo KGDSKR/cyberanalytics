@@ -1,0 +1,21 @@
+{
+  "matchId": 1789183,
+  "game": "cs2",
+  "createdAt": "2026-11-20T09:29:34.495Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139200,
+      "name": "Nice Try"
+    },
+    {
+      "id": 130794,
+      "name": "BakS eSports"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
