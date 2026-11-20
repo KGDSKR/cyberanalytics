@@ -1,0 +1,21 @@
+{
+  "matchId": 1819293,
+  "game": "cs2",
+  "createdAt": "2026-11-20T08:05:02.880Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 139111,
+      "name": "Morrow Esports"
+    },
+    {
+      "id": 139579,
+      "name": "evermore"
+    }
+  ],
+  "probs": [
+    17,
+    83
+  ]
+}
