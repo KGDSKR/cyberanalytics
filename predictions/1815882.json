@@ -1,0 +1,21 @@
+{
+  "matchId": 1815882,
+  "game": "cs2",
+  "createdAt": "2026-11-20T08:17:00.304Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 131189,
+      "name": "EYEBALLERS"
+    },
+    {
+      "id": 137861,
+      "name": "STATE"
+    }
+  ],
+  "probs": [
+    75,
+    25
+  ]
+}
