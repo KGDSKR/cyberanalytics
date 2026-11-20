@@ -1,0 +1,21 @@
+{
+  "matchId": 1816582,
+  "game": "cs2",
+  "createdAt": "2026-11-20T22:44:28.208Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 131849,
+      "name": "paiN Academy"
+    },
+    {
+      "id": 139254,
+      "name": "Los Niños"
+    }
+  ],
+  "probs": [
+    13,
+    87
+  ]
+}
