@@ -1,0 +1,21 @@
+{
+  "matchId": 1803647,
+  "game": "cs2",
+  "createdAt": "2026-11-20T08:18:41.917Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139529,
+      "name": "Balkan Outlaws"
+    },
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    }
+  ],
+  "probs": [
+    52,
+    48
+  ]
+}
