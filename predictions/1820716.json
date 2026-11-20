@@ -1,0 +1,21 @@
+{
+  "matchId": 1820716,
+  "game": "cs2",
+  "createdAt": "2026-11-20T00:46:16.742Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:1",
+  "teams": [
+    {
+      "id": 132366,
+      "name": "LAG Gaming"
+    },
+    {
+      "id": 129240,
+      "name": "Villainous"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
