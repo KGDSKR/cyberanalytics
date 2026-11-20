@@ -1,0 +1,21 @@
+{
+  "matchId": 1823590,
+  "game": "cs2",
+  "createdAt": "2026-11-20T00:03:48.944Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 139289,
+      "name": "Fever Squad"
+    },
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
