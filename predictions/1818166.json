@@ -1,0 +1,21 @@
+{
+  "matchId": 1818166,
+  "game": "cs2",
+  "createdAt": "2026-11-20T08:12:06.469Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138610,
+      "name": "Walczaki"
+    },
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
