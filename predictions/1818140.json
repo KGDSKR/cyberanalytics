@@ -1,0 +1,21 @@
+{
+  "matchId": 1818140,
+  "game": "cs2",
+  "createdAt": "2026-11-20T08:09:31.595Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139320,
+      "name": "PRIVATE"
+    },
+    {
+      "id": 135227,
+      "name": "ENJOY"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
