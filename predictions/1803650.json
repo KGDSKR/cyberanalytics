@@ -1,0 +1,21 @@
+{
+  "matchId": 1803650,
+  "game": "cs2",
+  "createdAt": "2026-11-21T08:07:33.349Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139529,
+      "name": "Balkan Outlaws"
+    },
+    {
+      "id": 139471,
+      "name": "ex-INOX Division"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
