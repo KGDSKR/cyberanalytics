@@ -1,0 +1,21 @@
+{
+  "matchId": 1809938,
+  "game": "cs2",
+  "createdAt": "2026-11-21T08:06:56.401Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127911,
+      "name": "MASONIC"
+    },
+    {
+      "id": 138685,
+      "name": "Esport Academy Copenhagen"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
