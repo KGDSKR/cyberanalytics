@@ -1,0 +1,21 @@
+{
+  "matchId": 1796515,
+  "game": "cs2",
+  "createdAt": "2026-11-21T08:08:18.875Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135673,
+      "name": "Nuclear TigeRES"
+    },
+    {
+      "id": 139603,
+      "name": "Hype Tech"
+    }
+  ],
+  "probs": [
+    60,
+    40
+  ]
+}
