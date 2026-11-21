@@ -1,0 +1,21 @@
+{
+  "matchId": 1819298,
+  "game": "cs2",
+  "createdAt": "2026-11-21T08:03:17.707Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    },
+    {
+      "id": 139219,
+      "name": "KAMUI"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
