@@ -1,0 +1,21 @@
+{
+  "matchId": 1818173,
+  "game": "cs2",
+  "createdAt": "2026-11-21T08:05:28.838Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    },
+    {
+      "id": 137580,
+      "name": " Phantom Academy"
+    }
+  ],
+  "probs": [
+    34,
+    66
+  ]
+}
