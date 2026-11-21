@@ -1,0 +1,21 @@
+{
+  "matchId": 1789187,
+  "game": "cs2",
+  "createdAt": "2026-11-21T09:17:17.606Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 133269,
+      "name": "Leo Team"
+    },
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
