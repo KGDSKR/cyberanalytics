@@ -1,0 +1,21 @@
+{
+  "matchId": 1818176,
+  "game": "cs2",
+  "createdAt": "2026-11-22T08:05:26.467Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    47,
+    53
+  ]
+}
