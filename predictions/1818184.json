@@ -1,0 +1,21 @@
+{
+  "matchId": 1818184,
+  "game": "cs2",
+  "createdAt": "2026-11-22T08:04:26.222Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138358,
+      "name": "banda chuya"
+    },
+    {
+      "id": 132795,
+      "name": "INFURITY Gaming"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
