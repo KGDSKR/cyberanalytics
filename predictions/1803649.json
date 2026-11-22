@@ -1,0 +1,21 @@
+{
+  "matchId": 1803649,
+  "game": "cs2",
+  "createdAt": "2026-11-22T08:06:14.172Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 135126,
+      "name": "FORZE Reload"
+    },
+    {
+      "id": 138841,
+      "name": "WBT"
+    }
+  ],
+  "probs": [
+    37,
+    63
+  ]
+}
