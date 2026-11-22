@@ -1,0 +1,21 @@
+{
+  "matchId": 1819302,
+  "game": "cs2",
+  "createdAt": "2026-11-22T08:03:40.817Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139097,
+      "name": "Revise"
+    },
+    {
+      "id": 139578,
+      "name": "ASTRON"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
