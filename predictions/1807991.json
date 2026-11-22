@@ -1,0 +1,21 @@
+{
+  "matchId": 1807991,
+  "game": "dota2",
+  "createdAt": "2026-11-22T09:05:34.103Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 137870,
+      "name": "Power Rangers"
+    },
+    {
+      "id": 129222,
+      "name": "potn9ki"
+    }
+  ],
+  "probs": [
+    82,
+    18
+  ]
+}
