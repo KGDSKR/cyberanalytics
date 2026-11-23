@@ -1,0 +1,21 @@
+{
+  "matchId": 1829562,
+  "game": "cs2",
+  "createdAt": "2026-11-23T08:05:03.337Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139343,
+      "name": "Sökerorg"
+    },
+    {
+      "id": 137701,
+      "name": "Bebop"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
