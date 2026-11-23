@@ -1,0 +1,21 @@
+{
+  "matchId": 1830388,
+  "game": "cs2",
+  "createdAt": "2026-11-23T08:04:12.505Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139626,
+      "name": "ex-Copenhagen Wolves"
+    },
+    {
+      "id": 126779,
+      "name": "spray'n'pray"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
