@@ -1,0 +1,21 @@
+{
+  "matchId": 1807987,
+  "game": "dota2",
+  "createdAt": "2026-11-23T09:32:16.105Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139124,
+      "name": "Team Synapse"
+    },
+    {
+      "id": 129891,
+      "name": "InterActive Philippines"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
