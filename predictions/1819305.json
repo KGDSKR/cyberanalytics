@@ -1,0 +1,21 @@
+{
+  "matchId": 1819305,
+  "game": "cs2",
+  "createdAt": "2026-11-23T05:43:21.473Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136786,
+      "name": "LPH Gaming"
+    },
+    {
+      "id": 127837,
+      "name": "los kogutos"
+    }
+  ],
+  "probs": [
+    67,
+    33
+  ]
+}
