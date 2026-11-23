@@ -1,0 +1,21 @@
+{
+  "matchId": 1818167,
+  "game": "cs2",
+  "createdAt": "2026-11-23T08:05:52.761Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138812,
+      "name": "Noir Verse"
+    },
+    {
+      "id": 130733,
+      "name": "KUUSAMO.gg"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
