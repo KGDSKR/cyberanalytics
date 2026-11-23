@@ -1,0 +1,21 @@
+{
+  "matchId": 1796523,
+  "game": "cs2",
+  "createdAt": "2026-11-23T08:06:45.258Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 136560,
+      "name": "Phantom"
+    },
+    {
+      "id": 135381,
+      "name": "Apogee Esports"
+    }
+  ],
+  "probs": [
+    54,
+    46
+  ]
+}
