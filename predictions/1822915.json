@@ -1,0 +1,21 @@
+{
+  "matchId": 1822915,
+  "game": "cs2",
+  "createdAt": "2026-11-24T02:35:03.626Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 129240,
+      "name": "Villainous"
+    },
+    {
+      "id": 134333,
+      "name": "Wanted Goons"
+    }
+  ],
+  "probs": [
+    68,
+    32
+  ]
+}
