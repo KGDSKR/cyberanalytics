@@ -1,0 +1,21 @@
+{
+  "matchId": 1822917,
+  "game": "cs2",
+  "createdAt": "2026-11-24T01:44:46.077Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:0",
+  "teams": [
+    {
+      "id": 139617,
+      "name": "North Forge"
+    },
+    {
+      "id": 139620,
+      "name": "NZ Gaming"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
