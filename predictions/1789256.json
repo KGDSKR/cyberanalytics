@@ -1,0 +1,21 @@
+{
+  "matchId": 1789256,
+  "game": "cs2",
+  "createdAt": "2026-11-24T07:04:15.058Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3212,
+      "name": "FaZe"
+    },
+    {
+      "id": 135273,
+      "name": "Wildcard"
+    }
+  ],
+  "probs": [
+    28,
+    72
+  ]
+}
