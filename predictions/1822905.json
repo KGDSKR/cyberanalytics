@@ -1,0 +1,21 @@
+{
+  "matchId": 1822905,
+  "game": "cs2",
+  "createdAt": "2026-11-24T02:36:06.849Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139158,
+      "name": "Without a Roof"
+    },
+    {
+      "id": 138044,
+      "name": "FarmVille"
+    }
+  ],
+  "probs": [
+    57,
+    43
+  ]
+}
