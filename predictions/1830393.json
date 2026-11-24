@@ -1,0 +1,21 @@
+{
+  "matchId": 1830393,
+  "game": "cs2",
+  "createdAt": "2026-11-24T08:07:31.589Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138302,
+      "name": "INFINITE Talent"
+    },
+    {
+      "id": 139314,
+      "name": "TheChampionGG"
+    }
+  ],
+  "probs": [
+    44,
+    56
+  ]
+}
