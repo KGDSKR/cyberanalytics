@@ -1,0 +1,21 @@
+{
+  "matchId": 1829567,
+  "game": "cs2",
+  "createdAt": "2026-11-24T08:08:26.743Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127911,
+      "name": "MASONIC"
+    },
+    {
+      "id": 138840,
+      "name": "ex-Sashi Academy"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
