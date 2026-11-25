@@ -1,0 +1,21 @@
+{
+  "matchId": 1816918,
+  "game": "cs2",
+  "createdAt": "2026-11-25T08:05:22.926Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126709,
+      "name": "9z"
+    },
+    {
+      "id": 138988,
+      "name": "DENDELE CS"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
