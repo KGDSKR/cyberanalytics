@@ -1,0 +1,21 @@
+{
+  "matchId": 1816917,
+  "game": "cs2",
+  "createdAt": "2026-11-25T08:06:02.834Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126377,
+      "name": "Imperial"
+    },
+    {
+      "id": 134746,
+      "name": "FlyQuest"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
