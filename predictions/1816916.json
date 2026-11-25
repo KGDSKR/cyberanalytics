@@ -1,0 +1,21 @@
+{
+  "matchId": 1816916,
+  "game": "cs2",
+  "createdAt": "2026-11-25T08:04:35.672Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139565,
+      "name": "PVISION"
+    },
+    {
+      "id": 3212,
+      "name": "FaZe"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
