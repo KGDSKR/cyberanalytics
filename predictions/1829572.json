@@ -1,0 +1,21 @@
+{
+  "matchId": 1829572,
+  "game": "cs2",
+  "createdAt": "2026-11-25T08:26:36.636Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138899,
+      "name": "maybe"
+    },
+    {
+      "id": 139332,
+      "name": "GLITCH"
+    }
+  ],
+  "probs": [
+    42,
+    58
+  ]
+}
