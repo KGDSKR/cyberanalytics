@@ -1,0 +1,21 @@
+{
+  "matchId": 1812658,
+  "game": "dota2",
+  "createdAt": "2026-11-26T08:05:47.445Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 128080,
+      "name": "Yangon Galacticos"
+    },
+    {
+      "id": 137428,
+      "name": "Cloud Rising"
+    }
+  ],
+  "probs": [
+    74,
+    26
+  ]
+}
