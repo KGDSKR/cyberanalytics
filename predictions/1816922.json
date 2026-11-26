@@ -1,0 +1,21 @@
+{
+  "matchId": 1816922,
+  "game": "cs2",
+  "createdAt": "2026-11-26T08:04:49.735Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 133435,
+      "name": "M80"
+    },
+    {
+      "id": 129413,
+      "name": "Eternal Fire"
+    }
+  ],
+  "probs": [
+    45,
+    55
+  ]
+}
