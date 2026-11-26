@@ -1,0 +1,21 @@
+{
+  "matchId": 1819320,
+  "game": "cs2",
+  "createdAt": "2026-11-26T08:49:54.875Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139471,
+      "name": "ex-INOX Division"
+    },
+    {
+      "id": 130980,
+      "name": "ILLYRIANS"
+    }
+  ],
+  "probs": [
+    58,
+    42
+  ]
+}
