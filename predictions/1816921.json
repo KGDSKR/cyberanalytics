@@ -1,0 +1,21 @@
+{
+  "matchId": 1816921,
+  "game": "cs2",
+  "createdAt": "2026-11-26T08:04:10.109Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "1:1",
+  "teams": [
+    {
+      "id": 3246,
+      "name": "Heroic"
+    },
+    {
+      "id": 3212,
+      "name": "FaZe"
+    }
+  ],
+  "probs": [
+    53,
+    47
+  ]
+}
