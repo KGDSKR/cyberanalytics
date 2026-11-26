@@ -1,0 +1,21 @@
+{
+  "matchId": 1829577,
+  "game": "cs2",
+  "createdAt": "2026-11-26T08:47:51.974Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139219,
+      "name": "KAMUI"
+    },
+    {
+      "id": 139580,
+      "name": "Tulpar"
+    }
+  ],
+  "probs": [
+    55,
+    45
+  ]
+}
