@@ -1,0 +1,21 @@
+{
+  "matchId": 1832094,
+  "game": "cs2",
+  "createdAt": "2026-11-26T08:28:43.843Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139212,
+      "name": "Quintessence"
+    },
+    {
+      "id": 129405,
+      "name": "SAW Youngsters"
+    }
+  ],
+  "probs": [
+    72,
+    28
+  ]
+}
