@@ -1,0 +1,21 @@
+{
+  "matchId": 1816923,
+  "game": "cs2",
+  "createdAt": "2026-11-26T08:15:20.098Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126439,
+      "name": "Lynn Vision"
+    },
+    {
+      "id": 139565,
+      "name": "PVISION"
+    }
+  ],
+  "probs": [
+    29,
+    71
+  ]
+}
