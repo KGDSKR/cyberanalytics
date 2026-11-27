@@ -1,0 +1,21 @@
+{
+  "matchId": 1834982,
+  "game": "dota2",
+  "createdAt": "2026-11-27T09:43:34.177Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 139489,
+      "name": "Team Allied"
+    },
+    {
+      "id": 139662,
+      "name": "V"
+    }
+  ],
+  "probs": [
+    25,
+    75
+  ]
+}
