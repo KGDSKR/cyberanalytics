@@ -1,0 +1,21 @@
+{
+  "matchId": 1816928,
+  "game": "cs2",
+  "createdAt": "2026-11-27T08:04:44.574Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126377,
+      "name": "Imperial"
+    },
+    {
+      "id": 135273,
+      "name": "Wildcard"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
