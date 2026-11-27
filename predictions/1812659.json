@@ -1,0 +1,21 @@
+{
+  "matchId": 1812659,
+  "game": "dota2",
+  "createdAt": "2026-11-27T06:53:58.371Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138753,
+      "name": "Direborn"
+    },
+    {
+      "id": 137428,
+      "name": "Cloud Rising"
+    }
+  ],
+  "probs": [
+    65,
+    35
+  ]
+}
