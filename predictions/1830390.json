@@ -1,0 +1,21 @@
+{
+  "matchId": 1830390,
+  "game": "cs2",
+  "createdAt": "2026-11-27T08:06:03.568Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 126779,
+      "name": "spray'n'pray"
+    },
+    {
+      "id": 139013,
+      "name": "Teletubisie"
+    }
+  ],
+  "probs": [
+    36,
+    64
+  ]
+}
