@@ -1,0 +1,21 @@
+{
+  "matchId": 1834998,
+  "game": "dota2",
+  "createdAt": "2026-11-28T08:28:02.590Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139600,
+      "name": "Red John"
+    },
+    {
+      "id": 139605,
+      "name": "Ryvex Esports"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
