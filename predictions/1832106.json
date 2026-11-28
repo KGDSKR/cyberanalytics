@@ -1,0 +1,21 @@
+{
+  "matchId": 1832106,
+  "game": "cs2",
+  "createdAt": "2026-11-28T08:29:01.093Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127911,
+      "name": "MASONIC"
+    },
+    {
+      "id": 139174,
+      "name": "Azuolas"
+    }
+  ],
+  "probs": [
+    64,
+    36
+  ]
+}
