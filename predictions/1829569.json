@@ -1,0 +1,21 @@
+{
+  "matchId": 1829569,
+  "game": "cs2",
+  "createdAt": "2026-11-28T09:05:20.996Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 138840,
+      "name": "ex-Sashi Academy"
+    },
+    {
+      "id": 137953,
+      "name": "Fortress"
+    }
+  ],
+  "probs": [
+    32,
+    68
+  ]
+}
