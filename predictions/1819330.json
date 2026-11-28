@@ -1,0 +1,21 @@
+{
+  "matchId": 1819330,
+  "game": "cs2",
+  "createdAt": "2026-11-28T09:05:54.198Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 139219,
+      "name": "KAMUI"
+    },
+    {
+      "id": 130570,
+      "name": "QUAZAR"
+    }
+  ],
+  "probs": [
+    62,
+    38
+  ]
+}
