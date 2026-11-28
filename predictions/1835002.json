@@ -1,0 +1,21 @@
+{
+  "matchId": 1835002,
+  "game": "dota2",
+  "createdAt": "2026-11-28T08:08:22.322Z",
+  "statusAtPrediction": "upcoming",
+  "scoreAtPrediction": null,
+  "teams": [
+    {
+      "id": 127965,
+      "name": "Hokori"
+    },
+    {
+      "id": 139605,
+      "name": "Ryvex Esports"
+    }
+  ],
+  "probs": [
+    33,
+    67
+  ]
+}
