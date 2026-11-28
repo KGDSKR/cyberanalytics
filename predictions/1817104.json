@@ -1,0 +1,21 @@
+{
+  "matchId": 1817104,
+  "game": "cs2",
+  "createdAt": "2026-11-28T08:06:06.769Z",
+  "statusAtPrediction": "live",
+  "scoreAtPrediction": "0:0",
+  "teams": [
+    {
+      "id": 3250,
+      "name": "MIBR"
+    },
+    {
+      "id": 126452,
+      "name": "100 Thieves"
+    }
+  ],
+  "probs": [
+    35,
+    65
+  ]
+}
